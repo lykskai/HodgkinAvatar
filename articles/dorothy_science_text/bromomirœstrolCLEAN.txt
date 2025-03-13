@@ -1,0 +1,404 @@
+[1960] Taylor, Hodgkin, and Rollett.
+The X-Ray Crystallographic Determination of the Structure of Bromomirestrol. 
+By NOEL E. TAYLOR, DOROTHY CROWFOOT HODGKIN, and J. S. ROLLETT. 
+
+The structure of the plant estrogen, mirestrol, in the form of its mono- bromo-derivative, has been investigated by two- and three-dimensional methods of X-ray analysis. These lead to the structure (VI), which corre- 
+sponds to the chemical formula C20H22O6 and incorporates a partly reduced 
+isoflaven nucleus. The bromine atom was first placed by the calculation of 
+a Patterson projection along [OlO] in the monoclinic crystal structure, and 
+the positions of the carbon and oxygen atoms were then found by three suc- 
+cessive calculations of the three-dimensional electron-density distribution. 
+The distinction between carbon and oxygen atoms in the molecule was made 
+from a projection of the difference between the electron density derived with 
+the observed F values and with a set calculated by assuming that all the 
+atoms present (other than bromine) were carbon. 
+The structure found for mircestrol appears to have interesting biogenetic 
+relations and to account both for the chemical properties of the compound 
+and, in general terms, for its biological activity. 
+
+THE study of the structure of the plant Estrogen, mircestrol, described in this paper, has 
+been carried out in close collaboration with Drs. D. G. Bounds and G. S. Pope, who prepared 
+the active compound from the plant Pueraria mirijca found in Thailand. The use of 
+X-ray methods to investigate its structure was initially suggested on account of the very 
+small amount of material they could obtain. The structure now found by the X-ray 
+analysis of monobromomirestrol appears to account very well for the chemical and spectro- 
+scopic properties of mirestrol which they describe in the following paper.l 
+Mircestrol itself was first examined crystallographically by Dr. M. S. Webster in two 
+differently hydrated crystalline modifications. The molecular weight determined from 
+the measured density and unit-cell dimensions agreed with the formula C20H2206, but the 
+accuracy was not sufficient to rule out the alternative analytically permissible formula 
+C20H2406.The complexity of the molecule was clearly too great to permit a detailed 
+X-ray analysis of its structure without the introduction of a heavy atom into the molecule. 
+A bromine derivative was sought, since the average scattering factor for X-rays of the 
+mircestrol molecule as a whole, measured as dzj2, is approximately equivalent to that of 
+a bromine atom; the monobromo-derivative, when prepared, appeared to be a suitable 
+simple substitution product. 
+(1) (11) (111) 
+The molecular structure for monobromomircestrol (111) has been deduced by two- and 
+three-dimensional methods of X-ray analysis. Initially the positions of the bromine 
+atoms in the crystal were determined from Patterson projections. Two following electron- 
+density projections served to place the nine additional atoms of the structural unit (I), 
+and the remaining carbon and oxygen atoms were located in stages (11) and (111), through 
+1 Rounds and Pope, following paper. 
+Cf. Mathieson, Rev. Pure Appl. Clzem., 1955, 5, 113. 
+6c 
+
+Taylor, Hodgkin, and Rollett: The X-Ray Crysfallogyaphic 
+successive calculations of the electron density in three dimensions. The distinction 
+between carbon and oxygen atoms in the molecule was made by the calculation of difference 
+maps. The structure (111) corresponds with the formula C20H2206 for mircestrol itself. 
+EXPERIMENTAL 
+Bromomirestrol was recrystallised from aqueous alcohol in thin, transparent, lath-like 
+crystals, elongated along the b axis, with (001) dominating. All crystals from the first 
+sample studied (type I) proved to have a disordered crystal structure. They gave sharp X-ray 
+reflections of widely varying intensity, interleaved by weak diffuse reflection?. The shay 
+reflections could be referred to a monoclinic unit cell of dimensions a = 7-23 A, b = 5.98 A, 
+c = 20.33 A, p = 92.4" with OK0 reflections absent for k odd and two molecules in the unit cell 
+(calculated density 1.65, g./c.c.). The weak diffuse reflections corresponded with a unit cell 
+having a doubled and four molecules per cell. 
+A later preparation of bromomirwstrol, which crystallised in much larger crystals (type 11) 
+gave X-ray photographs on which all reflections were sharp, cprresponding with an ordered unit 
+cell containing four molecules with a = 14.46 A, b = 5-98 A, c = 20.33 A, p = 92.4", space 
+group P2, and two molecules of bromomirestrol in the asymmetric unit. 
+The relation between the two types of crystal is extremely close. All the X-ray reflections 
+common to the two sets of photographs are indistinguishable by eye in relative intensity. 
+Further (h01) reflections when h is odd, given by type I1 crystals, are represented only by three 
+very weak reflections while type I crystals give no interleaving diffuse (h01) reflections. The 
+effects can be explained by small relative translations parallel to the b axis of alternate molecules 
+following one another along a; these translations must occur in a regular repetitive manner in 
+type I1 crystals, in a random way in those of type I. 
+The structure analysis was almost complete before type I1 crystals were found and is based 
+solely on the sharp reflections of type I crystals. These were treated as if they referred to a 
+crystal of space group P2, with two molecules in the unit cell. 
+(hkl) reflections were recorded for k = 0 to K = 4 by the multiple-film Weissenberg technique 
+with a crystal of dimensions 0.11 x 0-75 x 0.009 mm., set for rotation about its needle axis. 
+Exposure times of the order of 160 hr. were necessary. The intensities were estimated visually 
+for the 1150 reflections recorded in this way and the data from the individual layers put on to 
+the same scale by comparison with an independent set of (OM) data. Corrections for the Lorentz 
+and polarisation factors were made as usual. The intensity of reflection falls off very rapidly 
+with increasing k and, although reflections with k up to 7 fall within the reflection sphere of 
+Cu-Kcr radiation, these higher-order terms must be relatively very small. The rapid fall-off 
+in intensity in this direction is obviously associated with the disorder in the crystals, but it 
+could be treated in the same way as the fall-off resulting from an anisotropic thermal movement 
+of the atoms. The data were put on to an approximately absolute scale by Wilson's meth~d,~ 
+Wilson plots of the individual layers being used to give values of the temperature factors normal 
+and parallel to the b-axis, of B, = 2-53 x cm.2 and B2 = 8.64 x cm.2. At a later 
+stage, plots of log (~F,/F,) against sin2 8, over small ranges of sin2 0, showed the difference to 
+be even greater than this; the final temperature constants were found to be B, = 
+2-55 x 10-1, cm.2 and B, = 11-25 x 10-16 cm.2. 
+STRUCTURE ANALYSIS 
+The relative scattering weight of bromine compared with that of mircestrol is very 
+favourable for a direct application of heavy-atom methods of structure analysis. But, in 
+the space group P2,, the relative positions of the two bromine atoms in the crystal are 
+centro-symmetrical when the structure as a whole is not. Except in the single centro- 
+symmetrical projection of the structure down the b axis, electron-density distributions 
+calculated with phase constants derived from the bromine-atom contributions have false 
+symmetry; they show peaks due to the remaining atoms in the molecule superimposed on 
+those of a centro-symmetrically related mirror-image molecule, as in the analysis of 
+cholesteryl i~dide.~ The main problem in the structure determination of mirestrol there- 
+a Wilson, Nature, 1942, 150, 151. 
+Carlisle and Crowfoot, Proc. Roy. SOC., 1945, A, 184, 64. 
+
+[ 19601 Determination of the Structure of Bromomirmtrol. 3687 
+fore turned on distinguishing in three dimensions the atoms of one molecule from its 
+mirror image. 
+1. The sharpened Patterson function was calculated for the (010) projection by using 
+the derived F2 values and a modifying function exp (8 sin2 0/h2). The x- and x-parameters 
+of the bromine atom were clearly defined by the heaviest peak present; at the end of the 
+analysis it was found that all the main features of the projection were accounted for in a 
+calculated map of bromine-light atom vectors. The bromine atoms were assigned the 
+initial parameters 0.185, $, 0.026; 0-815, Q, 0.974. 
+2. With signs based on the bromine atoms alone electron-density projections were 
+calculated along the b and the a axis. 
+The b-axis projection is itself centro-symmetrical. In its outline it was possible to 
+recognise immediately that the bromine atom was substituted on to a (probably aromatic) The course taken was in outline as follows : 
+FIG. 1. Part of the electron-density pro- 
+jections (a) along [loo], (b) along [OlO], 
+calculated with the bromine phase con- 
+stants, The positions of the jirst nine 
+atoms selected for the hkl structure-factor 
+calculations are shown. The first con- 
+tour is at 2elA2, the contour interval being 
+approximately le/A2. The higher con- 
+tours are omitted over the bromine atom. 
+six-membered ring fused to a second ring. Attached to the first ring was an atom, ortho 
+to the bromine atom, which seemed likely to be the oxygen of a phenolic hydroxyl group. 
+Little attempt was made to interpret the remaining peak pattern at this stage. The 
+complete analysis shows that it includes peaks of over 3e/A2 at every atomic position 
+finally found but, in addition, six peaks of this magnitude or greater which are spurious. 
+The a-axis projection shows the expected false symmetry, a centre of symmetry at the 
+origin which introduces a mirror plane through the bromine-atom positions parallel with 
+the b plane. By comparison with the 
+b-axis projection, x, y, and x parameters were assigned to the nine atoms of the molecule 
+shown in (I) and Fig. la and b, one of the two mirror-image distributions being arbitrarily 
+selected in the a-axis projection. 
+3. The contributions of the bromine atoms and the nine light atoms in (I) to the hkl 
+structure factors were calculated, and the resulting phases used in the computation of the 
+three-dimensional electron-density distribution, pl. The suspected oxygen atom at 
+position 3 was weighted as oxygen, the remaining light atoms as carbon atoms. 
+The inclusion of the nine light-atom contributions in the phase calculation only partly 
+destroyed the false symmetry of the electron-density distribution in pl. High peaks In addition, the peaks are drawn out parallel to b. 
+3688 Taylor, Hodgkin, a.nd Rollett : The X-Ray Crystallogya@hic 
+occurred at each of the chosen atomic positions and there were no corresponding image 
+peaks. For each of the other possible atomic positions, with the exception of those lying 
+on or very near the false mirror planes, two mirror-image peaks occurred with co-ordinates 
+x, y, x, and x, 8 - y, x. The peak-height relations are shown in Table 1, pl. 
+A spoke model was built of the maxima in pl, and their stereochemical relations were 
+examined. In general it was found that the higher of the two image peaks was more 
+favourably placed stereochemically and the sites of twenty light atoms were selected. 
+These are indicated in (11) and Table 1, p2. In fact, in only two of the remaining positions 
+were the image peaks in pl slightly higher than the real peaks selected later. 
+TABLE 1, Peak heights in e/A3 in pl, p2, and p3. 
+Atom no. pl P2 P3 Atomno. pl P2 P3 
+0 14 3-3 (2.9) 7.6 10.4 c 11 2.9 (1.8) 7.1 7.3 
+0 18 4-0 (3.3) 4.5 (3.3) 11-3 C 14 * 4.7 7.0 7.6 c1 8.7 8.5 8-2 C 15 3.2 (2.7) 7.6 7.4 03 8.2 9.3 9.3 c9 7-4 6.7 7.6 
+06 8.4 8.2 9.9 c 10 7.4 6.5 7-3 
+0 15 3.1 (3.3) 4-0 (3.2) 10-4 c 12 * 3.3 5.1 6.4 
+0 17 3.7 (3.4) 5.0 (3-2) 11.0 C 13 * 3.6 5.8 6.9 
+c2 7-9 6.9 7.6 C 16 2.9 (3.1) 3.5 (2.7) 7.9 
+c3 6-3 6.6 6.6 C 17 3.5 (2.8) 4.1 (2.6) 8.1 
+c4 6.2 6.2 6-9 c 18 * 4.4 7.2 7.5 
+c5 6.0 6.5 6.9 c 19 2.9 (2.6) 3.0 (1.8) 7.2 
+c7 3.7 (2.8) 7.6 8.0 c 20 3.1 (1.8) 7.1 6.8 
+C8 3.3 (2.3) 7.4 7-7 c 21 * 2-9 6.2 7.0 
+Numbers in italics indicate peak heights of atoms not placed in the preceding phasing calculations, 
+* Peaks which fall so close to the false mirror plane that real and image peaks are unresolved. the height of the image peaks being given in parentheses. 
+Other than the maxima listed in Table 1 there were only three peaks in pl of height 
+%/A3 or greater; all three were found to be spurious. There were two peaks of height 2.2 
+and 2.3e/A3 falling almost on the z = 8 plane (see Fig. 7a), and a peak of height 3.6e/A3 
+on the y = The last of these and a trough of approximately -&/A3 on the 
+y = 
+4. A set of (hkl) structure factors was calculated from the contributions of the bromine 
+and the twenty light atoms chosen from pl. Here all light atoms were weighted as carbon 
+except 0 3, oxygen. With the resulting phase constants, a second electron-density 
+distribution, p2, was calculated. The peak heights observed are listed in Table 1. None of 
+the atoms included in the structure-factor calculations had image peaks. For the 
+six atoms omitted, there were again two peaks, one of which was now about le/A3 higher 
+than the other. In their interpretation it was clear that in each case the higher peak 
+was the real atom. The skeleton structure (111) was defined. 
+5. Direct evidence as to which were the oxygen atoms in the molecule was obtained 
+from the (010) projection. A set of (h01) structure factors was calculated in which all the 
+light atoms were weighted as carbon atoms. The reliability index R was found to be 0.20 
+(cf. Table 2). The electron-density projection shown in Fig. 2 was calculated, the result- 
+ing signs and the observed F’s being used. Compared with the first calculatioiz there were 
+12 reversals of sign, the most important of which was for the term (102) which is relatively 
+large, and a further 23 small terms could be included in the calculation. The spurious 
+A Fourier series with phases given by the contributions 
+of atoms at (x, y, z) and (a, 7, 2) only can be expected to have a spurious minimum at (3x, 3y, 32). If 
+hx + hy + 2z = 0, then the (hkl) term used is Fo(hkz) ‘OS ’, and the effect of this term at (3x, 3y, 32) 
+is Fo(hkz) ‘OS “OS 30. The phase of the term is most likely to be wrong when I cos B I is small and, 
+when this is so, cos 6 cos 30 is always $0. Similarly cos 0 cos 58 is 20 when I cos 0 I is small, but the 
+range of 6 values for which this is true is smaller (54-126’ instead of 30-150’). It is interesting that 
+the effect persists even when the phases used are based on nine out of twenty-six light atoms as well as 
+the bromine atom. plane. 
+plane are found to occur at Br-Br vector repeat positions.” 
+* This effect can be explained as follows. 
+1 cos e 1 
+I COS e 1 
+
+[ 19601 Deter.zPzinatio fa of the Structure of Bromomirmtrol. 3689 
+FIG. 2. The electron density ii~ 
+bromornirmtrol projected aloizg 
+[OlO]. The first contour is at 
+2e/A2, the contour interval being 
+le/Aa except over the bromine 
+atom where the interval is 5e/k2. 
+, IR , 
+FIG. 3. The [F, (hol) - F, 
+(hol)] synthesis. All light 
+atoms were weighted as car- 
+bon atoms in the calculation 
+of F, (hol). Zero and 
+positive contours full line, 
+negative contours broken line ; contour internal 
+0.5e/Aa except in the region 
+of the bromine atom where 
+it is lelA2. 
+FIG. 4. A representatiovt of the electron- 
+density distribution, p3, over the region of 
+one molecule viewed along [OlO]. The con- 
+tours are taken from the calculated section 
+nearest to each atomic centre. The contour 
+interval is lelA3 with thefirst contour drawn 
+at 14A3. 
+3690 Tayloy, Hodgkin, and Rollett : The X-Ray Crystallogra@hic 
+peaks, which had been present in the first projection, were all eliminated and there was a 
+very marked improvement in resolution. An (F, - Fc) synthesis was carried out on the 
+basis of the same structure-factor calculation; this is shown in Fig. 3. The pattern 
+indicates several appreciable shifts of atomic positions (maximum 0.14 A) and also gives 
+clear indications of the anisotropic thermal vibration of the bromine atom. In addition, 
+it shows regions of the order of 2e/A2 at the positions of six of the atoms; these maxima 
+were taken as indications that these were the oxygen atoms. 
+TABLE 2. Reliability indices for the plane YeJEections. 
+k ................................................... 0 1 2 3 4 
+No. of observed reflections .................. 275 299 274 199 103 
+R ................................................... 0.160 0.163 0-208 0.296 0-386 
+6. A third set of hkl structure factors was calculated, based on the positions of 26 atoms, 
+of which 0 3, 0 6, 0 14, 0 15, 0 17, and 0 18 were weighted as oxygen atoms. This was 
+FIG. 5. A view of the molecule of 
+bromomimstrol, drawn from the 
+atomic positions in p3. 
+OH 
+followed by the evaluation of the three-dimensional electron-density distribution, p3. In 
+p3, all the atoms inserted in the calculation appear as high maxima, with the peak heights 
+recorded in Table 1, rather higher, as expected, over the oxygen than over the carbon 
+atoms. They are shown in Fig. 4 which is a composite drawing of the electron-density 
+levels near the atomic centres, projected on to the b plane. There are no longer any image 
+peaks in the electron-density distribution and there are no spurious peaks of any magnitude; 
+apart from the volume occupied by the atomic maxima, the only region where the electron 
+density rises over 24elk3 in p3 is in the first diffraction ring surrounding the bromine atom. 
+There are still smaller peaks, of the order of le/k3 or less. While many of these are clearly 
+spurious, some do occur at the positions to be expected for hydrogen atoms in the mirestrol 
+molecule; 15 out of the 21 hydrogen atom sites are marked in a noticeable way by peaks 
+or bulges in the electron-density distribution. 
+At this point, the co-ordinates of the atomic positions, defined by the maxima of p3, 
+were derived by Gaussian approximations to the 19 electron-density points nearest each 
+
+[ 19601 Determination of the Strztctuure of Bromomir~strol. 3691 
+maximum. An examination of the interatomic distances defined by these positions 
+showed that these were nearer expected values in the region of the first nine atoms placed 
+than among those selected later. This seemed very reasonable since atomic positions in 
+the first group introduced had been effectively submitted to two refining cycles, in the 
+second group to one, and in the third group to none. A preferred list of co-ordinates shown 
+FIG. 7. The electron-density distribution in the section at x = 25/30a in pl (a), p2 (b), and p3 (c). The 
+contour interval is le/A3, starting with the le/k3 contour, except over the bromine atom where the contours 
+are at 5, 10, and 15e/A3. The false mirror planes at y = & and y = 2 are indicated by broken lines. 
+0- 
+in Table 4 was accordingly drawn up; here the positions of the first nine atoms introduced 
+are those found in p3 while the remaining positions are those of p3 modified by an n shift 
+where n, = nZ = 1.3 and ny = 1.5 for atoms of the second group, n, = n, = 1-6, nny = 2.0 
+for those of the third group. A view of the arrangement of the atoms in the molecule 
+which follows from these positions is shown in Fig. 5; Fig. 6 records the bond lengths 
+involved. The latter are, in general, in good agreement with accepted values but show 
+individual deviations of up to 0.17 A which are indications only of the present state of 
+approximation of the structure analysis. It is noticeable that all the larger bond-length 
+deviations, four of >Ow15 A, involve one atom near the original mirror plane away from 
+which movement is likely to be slowed down by mirror image effects. 
+In this Figure 
+a section in the three-dimensional electron-density distribution at x = 25/30a is shown The course of the analysis as a whole is illustrated by Fig. 7a, b, and c. 
+
+3692 Taylor, Hodgkin, and Rollett : The X-Ray Crystdlogra9hic 
+for pl, p2, and p3. This section passes at or near the centres of ten atoms, and illustrates 
+the way in which the image peaks vanish as the corresponding atoms are included in the 
+phase-angle calculations. Thus in pl, image peaks occur for all the atoms not included in 
+the phasing calculations (C 7, 0 14, 0 15, C 16, and C 11) except C 13 which lies close to 
+the false mirror plane. The peaks A and B are two small spurious peaks (see p. 3688). 
+In p2, the only atoms omitted were 0 15 and C 16, and two image peaks occur of which the 
+real peak is the higher. In p3 there are no image peaks. 
+Fig. 7 shows that in p3 the electron-density peaks are drawn out parallel with the b 
+axis. This is almost certainly a consequence of the disordered character of the crystals 
+studied. The observed peaks represent the superposition of the atoms of two molecules 
+which differ a little in their y parameters. The deviation between the mean structure 
+postulated in the structure-factor calculations preceding p3 and the true structure is 
+TABLE 3. Comparison of observed and calculated structure amplitudes. 
+
+In the structure-factor calculation, temperature-fact01 
+calculations of Berghuis, Haanappel, Potters, Loopstra, 
+the scattering curve given in the International Tables, 
+anomalous dispelsion in the K-shell. ed scattering factors were used for carbon and 
+lavry, and Veenendaal (A& Cryst., 1955, 8, 
+1935, was used, with a further correction of based on the 
+For bromine 
+electrons for , Macgil 
+VOl. 11, 
+
+[ 19601 Determination of the Structure of Bromomirmtyol. 
+reflected in the character of the agreement between the observed and calculated F’s 
+(cf. Table 3). The overall reliability index for the 1150 observed spectra was 19.8%, 
+but the values for the individual layers listed in Table 2 show that R increases markedly 
+with k. At the same time the average intensity of the X-ray reflections falls with increas- 
+ing k, as shown in the section of the structure-factor calculations given in Table 3. The 
+individual y-parameters of the atoms can only be considered to be known with rather low 
+accuracy at present. It is clearly unlikely that they can be known with any great pre- 
+cision unless the ordered crystal is examined. 
+DISCUSSION 
+The positions of the atoms listed in Table 4 define the skeleton structure of mircestrol 
+as consisting of four six-membered rings and one five-membered ring. As described above, 
+these positions have not been further refined and the bond lengths and bond angles they 
+indicate are subject to quite large limits of error, particularly when they have a major 
+component in they direction. However, as they stand, they appear to define the chemical 
+structure of bromomiroestrol as represented by C20H21O6Br, with formula (111). 
+Atom 
+Br 
+
+In outline, the evidence for this structure is as follows. Ring A, to which the bromine 
+is attached, is planar and evidently aromatic. The atom attached at position 3, identified 
+as oxygen, must accordingly be formulated as belonging to a phenolic hydroxyl group, 
+the presence of which is supported by chemical evidence. Ring B too is essentially planar, 
+but atom 6 is identified as oxygen and the ring is therefore heterocyclic. Also, of the 
+substituent atoms, C 14 lies closely in the plane of ring B, C 11 markedly out of it so that 
+the angles 11, 9, 10 and 11, 9, 8 are nearly tetrahedral. These features lead to the 
+deduction that a double bond should be placed between C 7 and C 8, leaving C 9 fully 
+substituted. The atoms 20 and 21 attached at C 11 are both carbon, and the group has 
+the form of a gem-dimethyl group. The identification is supported by the existence of 
+small peaks near the expected sites of hydrogen atoms attached to C 20 and C 21 and 
+arranged in the most probable staggered conformation. Ring c, from its shape and 
+substituents, is fully reduced; ring D is also largely reduced; the planar configuration of 
+atoms 14, 15, and 16 and of the oxygen atom attached at C 15 is consistent with the formul- 
+ation of this atom as ketonic oxygen. The existence of the five-membered ring, ring E, 
+was not suspected until late in the analysis. As atomic positions were selected from the 
+electron-density peaks in this region in $2, it was realised that the peaks representing C 19 
+and C 12 were 1.98 A apart, intermediate between a bonded (1.54 A) and a non-bonded 
+distance (2-5 A or more). In the first case, the structure would be as represented, in the 
+second, atom 19 would presumably be formulated as a methyl group attached to ring D, 
+corresponding with the alternative possible mircestrol formula, C2,H2,06. To test these 
+alternatives, the atoms were placed for the structure-factor calculation, set 3,146 apart 
+
+3694 Taylor, Hodgkin, and Rollett : The X-Ray Crystallographic 
+at positions slightly displaced from the peak maxima of p2. It was expected that, if 
+there were a bond between C 19 and C 12, the peaks representing these atoms would move 
+together and this proved to be the case. Their separation is 1.75 A in p3, and drops to 
+1.70A on applying the n shifts as in Table 4 co-ordinates; though this value is still a 
+little high, there is no doubt that C 12 and C 19 are bonded. It is presumably the existence 
+of ring E which forces a markedly boat-shaped conformation on ring D and the slightly 
+FIG. 8. The arrangement of the molecules in the crystal structure of bromomira?strol projected 
+(a) on OlO), (b) on (100). 
+d 
+boat-shaped conformation on ring c. The substituent atoms at C 14, C 17, and C 18 are all 
+identified as oxygen; from their geometry they belong to hydroxyl groups, three or more 
+of which are indicated by the chemical evidence. 
+The arrangement of the molecules in the crystal provides some confirmation for the 
+character of the different active groups present. A series of short contacts, corresponding 
+in length with hydrogen bonds, can be traced running between the 15-keto-group and the 
+17-hydroxyl group (2.77), then OH 17-OH 18 (2-75 A) and OH 18-OH 14 (perhaps a little 
+long) (3.04 A), as shown in Fig. 8. Small peaks occur in these bonds near the suspected 
+positions of the hydroxyl-hydrogen atoms. At the opposite end of the molecules, how- 
+ever, the distance apart of the phenolic hydroxyl groups of neighbouring molecules, 
+required by the parameters of Table 4, places these groups 344A apart, too far for any 
+
+[ 19601 Determination of the Strmkwe of Bromomimstrol. 3695 
+hydrogen bond to be formed between them. Their distance from neighbouring bromine 
+atoms is rather shorter (3-32 A) and could correspond with weak attraction. But one can 
+see that the two hydroxyl groups might themselves be brought into hydrogen-bonded 
+contact by a bodily translation of alternate molecules, &-$A parallel with b. This 
+would modify the character of the contacts at the opposite ends of each molecule; the 
+distance between OH 17 groups in molecules 2 and 4 of Fig. 8 would decrease and could 
+become the shortest in the structure. It seems possible that it is this situation, that there 
+are alternative ways of making hydrogen-bonded contacts between the molecules, that is 
+responsible for the disorder in crystals of type I and the consequent elongated peaks of p3. 
+Clearly the preferred hydrogen-bonded arrangement could be found by a detailed analysis 
+of the ordered crystals of type 11. 
+Biogenetically, it seems possible to dissect the mircestrol nucleus into an isoprene unit 
+consisting of CH, 20, CH, 21, C 11, C 12, and C 19 and a partly reduced isoflaven nucleus 
+(VI). This dissection relates it, on the one hand, to the many plant products in which 
+isoprene units are found linked in various ways to condensed ring systems (cf. Robinson 6, 
+and, on the other, to isoflavones such as genistein (IV) , and isoflavenes, such as 4-ethyl- 
+7,4’-dimethoxy-2-methylisoflav-3-en (V), which have estrogenic properties. Both 
+in these compounds and in mircestrol (VI) the biological potency is clearly not significant 
+OH 
+of any structural relation of the molecular skeleton present to the steroids. It seems to be 
+a consequence of an accidental geometrical similarity in the positions of the hydroxyl 
+groups, or potential hydroxyl groups, at the two ends of each molecule. In mircestrol, the 
+actual distance given by the co-ordinates in Table 4 between the 3-OH and the 18-OH is 
+10.57 A, closely the distance to be expected from models of the 3-OH to the 17-OH of 
+oestradiol. The disposition of the second terminal hydroxyl group at C 17 of mirestrol 
+(10.91 A from the 3-OH group) is rather more different in its relative position from the 
+second, 16-OH group of cestriol; it is worth observing that mircestrol is the more potent 
+oes trogen. 
+The calculations necessary to establish the structure of mircestrol were carried out partly on 
+punched-card machines supplied by British Tabulating Machines Ltd., and partly on Deuce at 
+the National Physical Laboratory with the help of the staff of the Mathematics Division. The 
+research was assisted by a grant from the National Research and Development Corporation. 
+N. E. T. is indebted to the Commonwealth Scientific and Industrial Research Organisation for 
+the award of an overseas studentship, and J. S. R. thanks the Pressed Steel Company for a 
+research fellowship. 

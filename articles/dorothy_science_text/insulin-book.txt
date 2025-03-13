@@ -1,0 +1,900 @@
+The crystal structure of insulin 
+I. The investigation of air-dried insulin crystals
+By D orothy  Crow foot
+Department of Mineralogy and Crystallography , Oxford  
+{Communicated by R. Robinson, F.R.S.— Received  11 November  1937 )
+[Plate 9]
+The crystal structure of insulin is of interest not only in itself but as 
+part of the wider problem of protein structure considered as a whole. The 
+early X-ray work on protein fibres gave strong support to the original 
+chemical theories of the existence of polypeptide chains as the essential 
+backbone of the protein molecule. The comparatively small spacings of 
+3-4, 4-5 and 10-11 A which are most prominent on a large section of X-ray 
+photographs of the scleroproteins are easily interpretable in terms of a 
+fundamental chain structure (Astbury and Woods 1933; Astbury and 
+Sisson 1935). It is on the other hand difficult to reconcile a chain structure 
+with certain of the physical properties of the globular proteins, par­
+ticularly their crystalline form and their behaviour in the ultracentrifuge 
+as approximately spherical masses of molecular weight some multiple of 
+35,000  (Svedberg 1937 a). Yet there is much evidence, physical as well as 
+chemical, th at the two types of protein structure are closely interrelated. 
+Certain of the natural protein fibres show X-ray reflexions corresponding 
+to very long spacings superimposed on the simple /3 keratin type of fibre 
+pattern. These long spacings—up to 300 A in feather keratin (Astbury and 
+Marwick 1932), tendon and collagen (Wyckolf and Corey 1936)—are more 
+of the order of magnitude of the spacings which define the crystal struc­
+ture, i.e. intermolecular distances, in crystals of the soluble proteins. And 
+further fibre forms can be obtained from the crystalline proteins, par­
+ticularly relevant observations being those on edestin and excelsin (Ast­
+bury, Dickinson and Bailey 1935). Several attem pts have been made on 
+the theoretical side to reconcile these facts, and two views of protein struc­
+ture in particular have been stated in some detail. Astbury has advocated 
+a variety of straight chain structures for the different fibre proteins which 
+may be coiled into spiral forms or folded in layers in the globular proteins 
+(Astbury and others 1935), as also discussed by Pauling and Mirsky (1936),
+[ 580 ]
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+while D. M. Wrinch (1937a) has shown that the occurrence of an internal 
+cyclizing process might lead to the development from polypeptide chains 
+of beautifully symmetrical “ cyclol” networks both open and space en­
+closing. But on the experimental side many more observations are necessary 
+before even these quite different hypotheses can be distinguished, and one 
+possible approach seems to be through a more complete X-ray study of 
+the crystalline globular proteins.
+In recent years it has been possible to obtain X-ray diffraction patterns 
+from a considerable number of protein crystals. In most cases these 
+patterns have been powder photographs only and can give little more than 
+a record that some degree of orderly arrangement of molecules exists in 
+the crystals (Fankuchen 1934; Wyckoff and Corey 1935; Magnus-Levy, 
+Meyer and Lotmer 1936). So far in three examples only, pepsin (Bernal 
+and Crowfoot 1934a), insulin (Crowfoot 1935) andexcelsin (Astbury and 
+others 1935), have actual single crystal X-ray diffraction patterns been 
+obtained, and in these it is possible to carry the deductions from the 
+X-ray analysis a stage further. The first photographs permitted the 
+calculation of the actual crystal unit cell size in each case and hence the 
+order of magnitude of the protein molecular weight. The crystallographic 
+method at this stage cannot fix the exact submultiple of the cell molecular 
+weight which is the true protein molecular weight unless controlled by 
+chemical or other evidence. In these particular three protein crystals 
+the weights found agree very well in order of magnitude with those measured 
+by Svedberg, provided th at in pepsin there are six Svedberg units in the 
+crystal unit cell, in insulin and excelsin only one. It seems at present 
+simplest to refer to the weights found by Svedberg’s method as (approxi­
+mately) the weights of the protein molecules themselves, i.e. to the 
+Svedberg units as the protein molecules, leaving further work to establish 
+possible subdivision.
+The coincidence, th at in the case of insulin and excelsin the unit cell 
+molecular weight is equal to the protein molecular weight given by the 
+ultracentrifuge method, has direct implications for the internal structure 
+of the protein molecules themselves. In the first place the symmetry of the 
+molecule must be that of the crystal at least to the degree of accuracy 
+measured by the available X-ray spectra. This point alone is worth further 
+investigation, since the preliminary data indicated trigonal symmetry for 
+both insulin and excelsin. Secondly, any distribution of scattering matter 
+within the unit cell which can be deduced from the X-ray intensities will 
+be that within the actual Svedberg molecule. It is naturally impossible 
+in the case of exceedingly complex structures such as these to attempt toThe crystal structure of insulin  581
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+582 D. Crowfoot
+apply directly ordinary trial and error methods to the analysis of the 
+intensities of the X-ray reflexions, but the recent introduction of Patterson 
+analysis (Patterson 1934, 1935) does supply at least the possibility of a 
+description of the intensity variations in terms of prominent interatomic 
+distances within the structure. This method could be applied to study any 
+protein crystal from which sufficiently good X-ray reflexions are obtain­
+able, and of the three so far examined insulin seemed the most hopeful for 
+a trial attem pt, since the crystal structure is simpler than that of pepsin 
+and the molecular structure simpler, at least in order of magnitude, than 
+that of excelsin. The preliminary data published in 1935  on X-ray diffrac­
+tion from single crystals of insulin showed both that the variation of the 
+X-ray intensities was perfectly definite and characteristic and also that 
+there was, to the eye, no apparent relation between these and any protein 
+fibre pattern.
+The application of the methods of X-ray crystallography to the problem 
+of the crystal structure of proteins has been much hindered experimentally 
+by two factors. First, most of the beautiful protein crystals described in 
+the literature contain water of crystallization which they lose very readily 
+on exposure to the air. Secondly, as work on simpler organic molecules 
+has shown, the more complicated is the molecular structure, the smaller 
+tends to be the proportion of atoms contributing to any one reflecting plane 
+(Robertson 1934). The absolute reflecting power of protein crystals for 
+X-rays is therefore generally very weak. As far as the first factor is 
+concerned, it has proved possible in the case of insulin to obtain diffraction 
+effects from ordinary air-dried crystals. The percentage of water of 
+crystallization in such crystals is small and this is not lost on exposure to 
+the air. On the contrary, the vacuum-dried crystals prove very hygro­
+scopic and rapidly regain to a considerable degree their former weight. 
+The second factor is probably that mainly responsible for the failure of the 
+earlier attem pts to obtain crystalline diffraction effects from insulin, e.g. 
+those of W. H. George (1928), of K. Freudenberg and his co-workers (1930) 
+and also of H. Sims and D. A. Scott (1930). These authors all examined 
+crystalline powders, from which they could obtain no more than an amor­
+phous ring at about 4-5 A, together with diffuse scattering extending out 
+from the centre of the photograph to a limit of about 10 A.
+This diffuse scattering covers in extent the area of the true crystal 
+diffraction effects obtained in 1935 . It is very difficult to distinguish actual 
+powder lines in this area even on photographs exposed for from 30-40 
+hr. and quite impossible to base any crystal structure determination on 
+the lines that can be perceived. For this reason alone one might hesitate
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+to accept Clarke and Corrigan’s report on the crystal structure of insulin 
+based on the finding of long spacings in 1932 . The structure proposed does 
+not agree with that given in this paper and no later confirmation of the 
+measurements has appeared.* In order to observe discrete and interpret­
+able diffraction effects it does seem most desirable, if not always abso­
+lutely necessary, to work with comparatively large single protein crystals 
+—up to 0-2 mm. in one dimension. The first step in the present crystal 
+analysis of insulin was therefore the preparation of such crystals.The crystal structure of insulin  583
+Th e crystallization  of in su lin
+A sample of crystalline insulin prepared by Messrs Boots Pure Drug 
+Co. Ltd. was given for this work by Professor F. L. Pyman. This consisted 
+of very minute rhombohedral crystals and a number of attempts at 
+recrystallization were made in order to grow larger crystals from these. 
+Various methods described in the literature were tried but only one 
+recrystallization was successful. This followed a slight modification of 
+D. A. Scott’s (1934) later method and the details of the actual experiment 
+are as follows:
+15-8 mg. of insulin were dissolved in 1  c.c. of w'ater + 1  drop NHC 1.  
+Meanwhile 12-5 c.c. of phosphate buffer (Na2 H P 04:KH2 P 04  prepared as 
+described by Scott) were diluted with an equal bulk of distilled water and 
+warmed to 55° C. To this was added the insulin solution and 2 c.c. of 
+acetone and the pH  adjusted to 6-2 by the addition of warm 0-9V NH4 OH. 
+The solution was set to cool slowly in a cavity in a copper tank filled with 
+water at 55° C. At the end of three days the solution was examined and 
+found to contain no crystals. The solution was warmed again, a few drops 
+of 0 5 % zinc chloride solution added and the pH  readjusted to 6‘2. There 
+was a slight cloudy precipitate, which mainly dissolved on warming. The 
+solution was again allowed to cool slowly for three days as before and at 
+the end of this time comparatively large crystals were found to have 
+formed. These were filtered, washed first with the buffer solution, then 
+with distilled water and finally with a little alcohol, and air dried. Thev 
+were very faintly discoloured. The main part of the sample was used foi 
+a test of the biological activity of the preparation, which was found to be 
+24 international units per mg. This shows that these large crystals are 
+biologically active insulin.
+* It is however possible that the lines found by Clarke and Corrigan indicate that  
+the structure now put forward is a pseudo-structure of the real one, or that they  
+were dealing with a polymorphic modification.
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+584 13. Crowfoot
+Morphology  and  optics  of in su l in  : the question  of polymorphism
+The crystals prepared as above are shown in the photograph (PI. 9(a)). 
+They are essentially very flat rhombohedra, the faces developed being 
+probably those of the simple rhombohedron {100}, or giving hexagonal 
+indices {1011}. The larger crystals grow unevenly and present the appear­
+ance of irregular six lobed stars up to 0-2 mm. across and 0-05 mm. thick. 
+The crystals also frequently grow in pairs united at the ends of their 
+trigonal axes. There seems no doubt that the crystalline form here is 
+essentially that found in Abel’s (1926) first preparation of insulin crystals 
+and further very well illustrated by Harington and Scott (1929). When 
+viewed along the trigonal axis in convergent light these crystals showed a 
+positive uniaxial figure.
+Under certain conditions insulin crystallizes in a rather different form, 
+needles or prisms, elongated along the trigonal axis and showing rhombo- 
+hedral end faces combined with steep trapezohedra (Abel, Geiling, Rouiller, 
+Bell and Wintersteiner 1927; cf. Hill and Howitt 1936, p. 51). The m ar­
+kedly different appearance of these crystals has suggested polymorphism 
+to a number of observers, and as a polymorphic modification would be 
+particularly valuable in assisting a structure analysis, a preparation of 
+“ needle” insulin was examined by the X-ray method. Two preparations 
+were available, kindly supplied by Professor F. L. Pyman. The first con­
+sisted of very small crystals, roughly wedge-shaped but partly redissolved 
+at the edges, less than 0-05 mm. long. In appearance and in the frequent 
+occurrence among them of cross-formed twins these crystals seem identical 
+with those described by E. B. Mathews as present in one of the preparations 
+of Abel and his co-workers (1927; cf. Hill and Howitt 1936, p. 51). The 
+second preparation examined consisted of much larger roughly needle- 
+shaped masses up to 0-3 mm. long which extinguished uniformly between 
+crossed nicols and which although showing no identifiable crystal faces 
+were mainly single crystals (PI. 9(6)). The birefringence in both cases was 
+positive. The X-ray examination proved that the same crystal structure 
+was present both in these large needle-shaped crystals and in the original 
+flat rhombohedral crystals (Crowfoot 1937).
+But although these particular different forms of insulin crystals are not 
+polymorphs, this possibility still remains for certain other preparations of 
+which descriptions appear in the literature. Two, particularly, are the 
+crystals having the form of rhombic dodecahedra described by Mathews 
+(Abel and others 1927; cf. Hill and Howitt 1936, p. 51) and the dumb-bell 
+shaped crystals prepared by Scott (1932). In one recrystallization of
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+The crystal structure of insulin 585
+insulin, crystals have however been obtained which simulate both these 
+forms and yet seem most probably to be no more than habit variants of 
+the rhombohedral crystals. This particular preparation was carried out 
+as follows:
+10 mg. of needle insulin were dissolved in 1  c.c. of N j6 acetic acid and 
+treated with 0*4 c.c. brucine acetate and 0-2 c.c. of 13-5% pyridine. The 
+main part of the preparation seemed to be precipitated at this stage and 
+the flocculent precipitate was therefore isolated by centrifuging and 
+removing the supernatant liquid. It was then dissolved in A / 15 di­
+sodium hydrogen phosphate and N/ 6 acetic acid was added to slight tu r­
+bidity, as described by Abel. On standing in a refrigerator overnight a 
+beautiful crop of very small crystals was obtained.
+The crystals consisted mainly of a form showing rhombohedral and 
+trapezohedral faces almost equally developed, which gave them at first 
+sight the appearance of rhombic dodecahedra. They have, however, 
+positive birefringence and trigonal, certainly not cubic, symmetry. Amongst 
+these crystals there was a small number showing no rhombohedral faces. 
+These were bounded by the basal plane and three trapezohedral faces and 
+were partly redissolved, so th at accurate measurement was not possible. 
+Many of them were joined end to end, tapering inwards to the join, and they 
+then looked very similar to the “ dumb-bell” crystals pictured by Scott. 
+These crystals also had positive birefringence and, as in the case of the 
+pseudo-rhombic dodecahedra, from this fact and the trigonal symmetry 
+there seems no reason to presume the presence of a different crystal struc­
+ture. The crystals were unfortunately too small for an X-ray test which 
+would be conclusive. And it is of course in any case still possible that both 
+Mathews’  cubic and Scott’s “ dumb-bell” crystals are different from either 
+of these.
+The variation in habit is itself of great interest and worthy of further 
+investigation. The small number of experiments so far carried out makes it 
+impossible to be certain which of the varying factors, pH, phosphate or 
+acetate buffer, or concentration of the different metallic ions, is responsible 
+for the effects observed. The X-ray diffraction effects as described below 
+appear to correspond to a fairly large-scale structure within the protein 
+molecule and it would seem possible to have a certain variation, e.g. in the 
+metal concentration within the crystals, which might affect the habit 
+without altering the main crystal structure responsible for X-ray diffiac­
+tion.
+The X-ray photographs of the needle crystals do differ in one respect 
+from those of the flat rhombohedral crystals. All show a very much moie
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+586 D. Crowfoot
+marked “ amorphous” ring at 4-5 A; a ring which is hardly visible on the 
+photographs of the rhombohedral crystals. This ring we have come to 
+consider characteristic of amorphous protein and its presence here may 
+well be due to external imperfection in the crystals. But it may also 
+indicate that these crystals contain included amorphous protein, the 
+presence of which has itself affected the crystal habit. Of course the 
+occurrence of “ amorphous” protein would most probably depend on one 
+or other of the factors mentioned above, pH, metal concentration, different 
+salts present and so on.
+Certain other properties of the rhombohedral insulin crystals lend some 
+support to these conclusions. Optically, as mentioned above, the crystals 
+are uniaxial, the sign of the birefringence positive. The refractive indices 
+of the needle crystals were estimated by the oil-immersion method as e 
+slightly < 1-537  and (o slightly > 1-531. An independent direct measure 
+of the birefringence gave values between 0-004  and 0-008, most probably 
+about 0-007, but exact measurement was difficult, owing to the irregular 
+shape of the crystals. On the large rhombohedra, o j appeared much more 
+nearly equal to 1-537, and it seems probable th at this is a real difference 
+and further indication th at the needle crystals are less perfect than the 
+rhombohedra.
+As Abel and others (1927) originally showed, the air-dried rhombohedral 
+crystals contain water of crystallization which they lose when dried over 100° 
+in a vacuum. The vacuum-dried crystals are very hygroscopic and rapidly 
+regain moisture on exposure to the air, increasing nearly but not quite to 
+their original weight. They then show unimpaired birefringence and give 
+sharp X-ray reflexions identical with those of untreated crystals. Check 
+analyses of the water content of different samples of insulin are given in 
+Table I to compare with the crystal densities. As the measurement of the 
+density of protein crystals presents certain problems it will be considered 
+next in some detail.
+The d en sity  of in su l in  crystals
+G. S. Adair and M. E. Adair (1936) have recently shown that in the case 
+of the crystalline proteins edestin, horse serum albumin and sheep and 
+horse haemoglobin, the density of the crystals varies considerably with the 
+medium in which they are suspended. The proteins studied all crystallize 
+with a considerable quantity of water of crystallization and the variation 
+seems most readily explicable as due to specific changes in the salt con­
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+centration or proportion of this water. The crystallographic estimation 
+of the molecular weight of any protein depends upon the crystal density 
+and here it is the density of the crystals in air as employed for X-ray work 
+that is required. But all methods of density determination so far available 
+for use with small crystals do involve their suspension in different liquid 
+media and some care must evidently be exercised to choose media which 
+have little or no specific effect on the crystal density. In the case of insulin 
+it might be hoped that such effects would be at a minimum owing to the 
+very small proportion of water of crystallization present.
+Two values for the density of crystalline insulin have been already 
+recorded. The figure given by Dr Eyer of 1-315  (Freudenberg 1932) 
+(method not named) is significantly higher than th at first found with the 
+large rhombohedral crystals used for the X-ray measurements, namely 
+1-306  + 0-003  (Crowfoot 1935). The latter value was measured by flotation 
+under centrifugal force in aqueous solution containing zinc sulphate and 
+zinc chloride. The discrepancy might be due either to a medium effect or, 
+as was first thought, to crystallographic imperfections such as inclusions 
+in the large crystals which might have given an apparently too low density 
+for these crystals.
+A more comprehensive test was therefore carried out using three different 
+samples of crystalline insulin: the preparations of needle insulin (large 
+crystals) and unrecrystallized “ rhombohedral ’  ’  insulin (very small crystals) 
+described above, and thirdly the large “ rhombohedral” crystals used for 
+the X-ray work.
+Four sets of solutions were prepared, each consisting of one liquid of 
+density greater than that of the crystals and one of less. In outline the 
+method employed has been already described (Bernal and Crowfoot 1934 6) 
+and differs slightly in procedure from th at used by Adair and Adair, since 
+rather small quantities only of insulin were available. The measurements 
+were generally begun by suspending the crystals in a mixture of density 
+about 1-315  in a small glass tube, the suspension then being centrifuged 
+for from 5— 15  minutes. The low-density solution was then added drop by 
+drop and the rise or fall of the crystals under centrifugal force observed 
+after each addition. The density of the liquid was measured at the end of 
+each centrifuge run by a Westphal balance and sinker and the limits at 
+which the crystals just rose or sank in the liquid were recorded. When the 
+lower limit had been reached, the high-density liquid was in turn added 
+drop by drop in order to pass twice over the equilibrium value of the 
+density. With longer centrifuge runs it might have been possible to define 
+more closely the limits, but there seemed to be a certain variation in theThe crystal structure of insulin  587
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+588 D. Crowfoot
+crystal density itself over this range, which made such further precision of 
+doubtful value.
+The liquids used were as follows:  of which 2 and 4 were chosen following 
+their use by Adair and A dair:
+1. Zinc sulphate in water ( p = 1-35) and distilled water.
+2. Sodium dihydrogen phosphate in water = 1-357) and distilled water.
+3. o-dichlorobenzene ( p  —1-309), carbon tetrachloride (p = l- 58) and 
+toluene (p = 0-87).
+4. Half-saturated ammonium sulphate (p = 1-059) and the same solution 
+saturated with sucrose ( p= 1-37).
+The results are recorded in Table I.
+Table  I. Den sity  of in su l in  crystals
+SolutionsSmall Large
+Needles rhombohedra rhombohedra
+ZnS04.H 2 0 , pH  5-0  
+N aH 2 P 0 4. H 2 0 , pH. 4-5 
+o-dichlorobenzene toluene  
+and carbon tetrachloride  
+\ sat. (NH4)2 S 0 4  +sugar  
+Water content %1-293 ±0-003  
+1-298 ±0-003  
+1-292 ±0-004?
+5-361-296 ±0-003  
+1-299 ±0-002  
+1-297 ±0-002?
+4-931-300 ±0-003  
+1-301 ±0-002  
+1-312 ±0-004?
+1-308?
+Of these the sugar solution proved completely unsatisfactory for the 
+present method. Adair and Adair record a general rise of observed crystal 
+density in sugar solutions and this might be considered to be borne out 
+here by the only figures obtained. Actually, under the experimental con­
+ditions, these very concentrated solutions seem to form density columns, 
+the crystals lodging at different heights in the liquid but neither com­
+pletely falling nor rising. Such sugar solutions could probably be employed 
+with advantage with a set of sinkers of standard densities but are other­
+wise useless.
+The mixture of organic liquids was used as some control on the results 
+obtained in aqueous solutions. Observed under the microscope the crystals 
+seemed to remain untouched and birefringent in this immersion medium. 
+Actually, in bulk, both the needle crystals and small rhombohedral crystals 
+appeared as cloudy masses and the limits were very difficult to observe, 
+though the results obtained do agree approximately with the densities 
+measured in other solutions. It is possible that this opacity is caused by 
+the presence in these preparations of small amounts of non-crystalline
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+protein. The large rhombohedral crystals remained clear, and with these 
+definite higher densities were observed than in aqueous solution.
+The two salt solutions were chosen as solutions containing ions commonly 
+present during the crystallization of insulin, though different in the two 
+examples. The phosphate solution in particular appeared to be reliable 
+from the results of Adair and Adair. The densities found in both agree in 
+showing a small general variation among the different samples, the needle 
+crystals having the lowest, and the large rhombohedral crystals the 
+highest, density. This effect is also observed in the organic liquids and 
+bears out the indications from other sources (X-ray work and refractive 
+index) th at the needle crystals are the least perfect of the three preparations. 
+It therefore seems most reasonable to adopt the results on the large rhom­
+bohedral crystals as most reliable, particularly as these were used for the 
+X-ray work.
+The observed densities of the rhombohedral crystals considered alone 
+show definite variations with the immersion medium from 1-312  in the 
+organic liquids to 1-301  in the salt solutions. These differences are con­
+siderably smaller than many of those found with the heavily hydrated 
+protein crystals studied by Adair and Adair and suggest that, though 
+some specific medium effect is present, it is relatively unimportant. This 
+idea receives some support from the absence of correlation between crystal 
+size and density among the different insulin preparations studied. In the 
+circumstances it is obviously impossible to assign a “ tru e” value to the 
+crystal density, but it is very improbable th at any error is introduced by 
+adopting a density of 1-298-1*316  for the purposes of molecular weight 
+determination. Crystallographic practice would prefer the higher density 
+as most likely to be correct.The crystal structure of insulin  589
+Th e X - ray  measurem ents
+The first X-ray photographs of insulin were taken at Oxford using 
+throughout copper radiation from a Philips’  Metallix research X-ray tube. 
+These were given exposure times of 15 hr. for each oscillation of 5°, 
+with a plate to crystal distance of 6 cm. Four different crystals were used, 
+one rotating about the normal to (1010), one about the normal to (1120) 
+and two about the trigonal axis. The rhombohedral character of the 
+symmetry was first tested by single oscillation photographs about these 
+three axes and by oscillation photographs taken at 60° and 120' to each 
+other about the trigonal axis. The required relations were found to hold 
+without exception, namely (using hexagonal indices) hikl is absent if
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+590 D. Crowfoot
+h —  k + l is not divisible by three and the symmetry relation 
+Using this last identity, a record of the intensities of planes of all the 
+different possible types of indices was obtained by a set of 5° oscillation 
+photographs covering 60° of the total rotation about the trigonal axis. 
+This gave in all but a few cases two readings for the intensity of each 
+index type.
+Through the kindness of Dr Muller, a second set of X-ray photographs 
+of insulin were later taken with the very much more powerful 5 kW tube 
+at the Davy-Faraday laboratory. The best photographs were obtained with 
+chromium radiation at a voltage of 28 kV, tube current 150 m A  and tube 
+filament 8 amp. at 12 V. The X-ray tube had a lithium window. A fine slit 
+system nearly 6 cm. long was employed and the very powerful X-ray beam 
+shielded from the plate by a stop designed by Dr Muller consisting of a 
+lead block 1 mm. across at the end of a cylindrical tube 5 mm. long which 
+was suspended 2 cm. from the crystal. Under these conditions it was 
+possible to cut down enormously the exposure times required to obtain 
+diffraction effects. The photographs were taken of a single crystal rotating 
+about the normal to (1010). For more accurate measurement of the cell 
+dimensions, two symmetrical photographs were taken, one with the beam 
+from 10° to parallel to the trigonal axis and one at right angles to this. 
+For these, the plate to crystal distance was 6 cm. To give further readings 
+of the intensities of the X-ray reflexions, a set of 15° oscillation photo­
+graphs at a plate distance of 4 cm. was then made, each having only f  hr. 
+exposure. The photograph reproduced (PI. 9(c)), covering the oscillation 
+with the beam 0-10° from parallel to (1210), was, however, given 2 hr. 
+and records on a single plate all planes of the type hiko which were 
+observed.
+Of the needle crystals of insulin, three X-ray photographs only were 
+taken of two different crystals. In both cases these were 5° oscillations 
+about the normal to (1010) with the beam direction at the start either 
+parallel or perpendicular to (1210). These were taken at Oxford with 
+copper radiation. One photograph was taken of a rhombohedral crystal 
+which had been dried and then allowed to regain water from the air. This 
+was also a 5° oscillation about the normal to ( 1010 ), beam direction 
+perpendicular to (1210).
+Th e u n it  cell  dim ensions  and  molecular  w eight  oe in su lin
+From the more accurate photographs taken at the Davy-Faraday 
+laboratory the unit cell dimensions of insulin were recalculated. For the
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+Crowfoot Proc. Boy. Soc., A , vol. 164, Plate  9
+(a)
+(b)
+(a) Large rhombohedral crystals of insulin,  
+photograph of crystalline insulin taken wi1  
+beam direction parallel to (1210).4  #
+(0)
+(b) Large needle crystals of insulin, (c) X-ray  
+l the rotation axis perpendicular to (lOlO) and
+(Facing p.  590)
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+The crystal structure of insulin 591
+hexagonal dell, a = 74-8 A,c = 30-9 A; for therhombohedralunit,a = 44-4A, 
+o t = 114° 48' correct to about 0-5%. There are no systematic series of 
+absent reflexions, but those required by the rhombohedral symmetry and, 
+as the photograph reproduced illustrates, no planes of symmetry. The 
+space group is thus BS.
+The cell molecular weight calculated from the above figures and a density 
+of T 312 is 39,700. It may be as high as 40,800  or less probably as low as 
+38,700. The actual molecular weight of protein in the cell depends on the 
+water of crystallization present. Abel’s original measurements on drying 
+the crystals at 104° under reduced pressure gave an average value of 
+5-35 %, and this is borne out by estimations on certain of the crystals used 
+(p. 588). This protein molecular weight may therefore be calculated as 
+37,600  (limits 38,900, 36,000).
+It is clear from these measurements that the crystal unit cell of insulin 
+contains one “ molecule” on the Svedberg scale, but it is interesting to 
+compare the figures obtained above more exactly with those found by the 
+ultracentrifuge method. The first determination by Svedberg and Sjogren 
+(Svedberg 1931; Sjogren and Svedberg 1931) gave 35,100  as the molecular 
+weight of insulin, but it is probable th at here, as in most of the earlier 
+experiments with the ultracentrifuge, true sedimentation equilibrium was 
+not obtained. A later re-estimation (unpublished work by A. G. Poison 
+(Svedberg 1937 b) gives a value of 40,900, which is somewhat higher than 
+the calculated weight of protein in the crystal unit cell of insulin, 37,600. 
+It is doubtful whether this difference between the X-ray and ultracentri- 
+fuge results is outside the limits of the experimental error of both series of 
+measurements, and the same may probably be said with reference to the 
+shape of the “ molecule” , which is spherical according to Svedberg’s deter­
+mination, while the unit cell is a markedly oblate spheroid. It may be that 
+this last deviation is due to further hydration of the protein in solution, 
+since it is already partly hydrated in the crystal (cf. the calculation by 
+Adair and Adair on haemoglobin). Such hydration would also alter the 
+density of the moving particle which is introduced in Svedberg s equations, 
+but this should not necessarily affect the deduction of the actual protein 
+molecular weight. The corrections to be applied in such a molecular weight 
+measurement either for a change of density or for the non-spherical nature 
+of the falling particle seem definitely smaller than the present experimental 
+error.
+I t should be pointed out that while the mass of protein in the unit cell 
+is equivalent to that of one Svedberg unit, the X-ray data do not actually 
+supply any evidence that this mass constitutes a single molecule in the
+Vol. CLXIV—A.3 9
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+592 D. Crowfoot
+crystal. The same relation to the Svedberg unit would be obtained by the 
+presence in the crystal unit of 3 nc hemical molecules which subsequently 
+combined in solution to form a single aggregate.
+Th e in t e n s it ie s  of the X - ray  r eflex io n s
+The relative intensities of the X-ray reflexions were estimated by eye 
+and assigned values on an arbitrary numerical scale. The scale intervals 
+were checked by comparisons between the a and / reflexions from different 
+planes and also against a plate on which one X-ray spot had been exposed 
+for different measured lengths of time. These estimated intensities were 
+corrected by the Lorentz and polarization factors and also, when not 
+occurring on the equatorial line, according to the relation found by Cox 
+and Shaw (1930), in order to give a set of numerical readings for each plane, 
+F'2 proportional to F2 . Both the set of photographs—oscillations about 
+perpendicular to (1010)—taken at the Davy-Faraday laboratory and the 
+oscillation photographs about [0001] taken at Oxford were used in pre­
+paration of the values finally adopted. In the first case comparison between 
+different plates was made mainly by assuming equal exposure, generally 
+checked by overlapping spectra. In the second case many of the exposures 
+were obviously of different value and here the comparison was based mainly 
+on the occurrence on every film of some reflexion of the type As all 
+hiko reflexions occurred together on another plate their interrelation was 
+easily found. In all but two cases of weak reflexions (missed in one series 
+or the other through a small degree of missetting) there were at least two 
+occurrences of every index type and generally more. Good agreement was 
+found between the different values of F'2 assigned to the same reflexion 
+occurring on different photographs and also on different layer lines of the 
+same photograph. The last, particularly, is some evidence that the relative 
+scale of intensities is fairly correct. The values finally adopted are listed 
+in Table II.
+Patterson -Ha rk er  analysis  of in su lin
+The set of intensities of X-ray reflexions from insulin recorded above 
+have certain characteristics which must be taken into account in their 
+analysis. In the first place they are a very limited series—only 59 terms 
+in all. No reflexions have been observed from planes with a spacing smaller 
+than 7-05 A, and at this distance the intensity is extremely weak. There 
+seems to be a definite termination of the series in this region. There should
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+The crystal structure of insulin 593
+therefore, for syntheses formed with these terms, be none of the errors 
+ordinarily introduced by arbitrarily cutting short the series. On the other 
+hand it is impossible to expect to obtain information from this set of 
+intensities about the most intimate structure of insulin—actual distances 
+between neighbouring atoms. The X-ray reflexions observed must corre­
+spond to distances between scattering masses of a fairly large-scale 
+structure within the molecule.
+Table  II— R elative  in t e n sit ie s  of X - ray r eflexion s  from  in su lin
+F '2 values (proportional to F 2 )
+Indices F '2 Indices F '2 Indices F '2 Indices F '2
+3050 50 3121 19 1012 3 7542 7
+6060 7 2 l5 l 4 2022 5 4372 4
+1120 10 4151 12 4042 — 8552 > —
+2240 8 3141 4 5052 4 5382 —
+3360 8 6l51 3 7072 —
+4480 9 5161 4 3122 11
+5140 12 7 l6 l 11 2152 9 0003 3
+4150 t - 6 l7 l— 4152 3 3053 3
+7250 11 5251 3 3142 30 3055 1
+5270 12 3251 4 6152 9 2243 4
+8170 22 6231 6 5162 4 5143 3
+7180 6 4261 25 7162 4 5145 2
+9360 3 8261 8 6172 2 4153 —
+6390 t - 6281 3 5252 3 4155 3
+9271— 3252 6
+10I1 36 7291— 6242 —
+2021 3 7541 5 4262 4
+4041 7 4371 6 8262 —
+5051 4 8551 7 6282 —
+7071 10 5381 2 9272 3
+9451 — 7292 —
+5491 3
+To obtain a picture of all the information th at can be derived, without 
+any working hypotheses directly from these X-ray reflexions, a series of 
+Patterson-Fourier syntheses was prepared using the arbitrary F 2  values 
+recorded above as coefficients of the terms. In these two-dimensional 
+diagrams the distances of the various peaks from the origin measure in 
+length and direction prominent interatomic distances in the structure. The 
+first diagram, fig. 1, was formed using only the intensities of the hiko 
+reflexions. This gives a projection of the whole Patterson structure on the 
+(0001) plane. Owing to the presence of the rhombohedral lattice the primary 
+pattern repeats at ^, § and f , 3. The peaks at these positions correspond to 
+distances between atoms at z — ^ and § respectively and have neces-
+39-2
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+594 D. Crowfoot
+sarily the same value as the origin peak, which states th at every atom is 
+at zero distance from itself. The remaining diagrams illustrated are 
+essentially sections cut through the structure along different lines. To form 
+these the F '2 values of all (hikl)  planes were used, as first described by
+Z
+Fig. 1. P(xy)  for insulin derived from Patterson-Fourier  
+analysis. Contours at 5 units apart.
+Fig. 2. P(xyo)  for insulin derived from Patterson-Harker analysis. Contours at 50 
+units apart, those above 250 being omitted (and similarly in figs. 3, 4 and 5).
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+595
+D. Harker (1936). The second diagram, fig. 2, is a section cut parallel to (0001) 
+at the level z = 0 in the Patterson structure and is obtained by the relation 
+P{xyo)  = 27*27* cos (fix + . ( 2 7*  | | 2 ).The crystal structure of insulin
+V i i ' n :
+Fig. 3. P(xy\)  for insulin derived from Patterson-Harker analysis.
+Fig. 4. Patterson-Harker analysis of insulin. Section in fig. 1  at Z 7 .
+°  J  {'■'(;!}
+Fig. 5. Patterson-Harker analysis of insulin. Section in fig. 1  at
+Fig. 3 is cut parallel to (0001) at a height and the remaining two
+diagrams, figs. 4 and 5, are cut perpendicular to the rest along the lines 
+X Y and XZ of projection 1. The summation of the Fourier series involved
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+596 D. Crowfoot
+was carried out by the method of Beevers and Lipson (1936a, 6) using the 
+strips supplied by them. As it was evident from the number of terms in­
+volved th at no very fine structure could be found, the points in the pro­
+jections were calculated at intervals of -^a (c  2*5 A) and y^c (2 A). The 
+contour lines are drawn at intervals of 50 units in projection 1 and 500 
+units in the remaining projections, those in negative regions being dotted. 
+As in most cases the slopes involved are very gradual, the choice of the 
+exact areas bounded by the contour lines is somewhat arbitrary and these 
+should not be given a too rigid interpretation.
+Between them these five diagrams present a fairly complete survey of 
+what maybe called—as above—the Patterson structure of insulin. Owing to 
+the rhombohedral symmetry, the diagrams, figs. 2 and 3, sections cut parallel 
+to (0001) at 0 and |,  actually supply sections of the structure in this direc­
+tion at intervals of z = the distribution at the point f, in fig. 2, being,
+for example, the same as th at at 0 at a height of z |, and so on. Some 
+check on the interreliability of the intensity data can be obtained by 
+addition of the density values derived from points on these two projections 
+2 and 3 at 2 intervals of |  and then comparing the picture formed with 
+projection 1, since projection 1  is derived from only reflexions and the 
+others from all hikl reflexions. The agreement is fairly good, and even 
+better over the lines AB and AC, where density values have been calculated 
+at intervals of z = Tt-
+The peak structure shown by the five projections seems comparatively 
+simple. There are two main series of peaks (A and B), one at a distance of 
+10 A from the origin parallel to (0001) and the other at about 22 A mea­
+sured similarly. These peaks have considerable extension at right angles 
+to (0001), the main intensity maxima appearing some distance above and 
+below the height z = 0. There is further a marked peak at x = 0, = 0,
+z = 0*5 (D), and a considerably weaker series, of which defining co-ordinates 
+may be given as x =  0-29, y = 0-19, z = 0 (C). Owing to the poor resolution 
+and overlapping it is impossible to pretend to any accuracy in assigning 
+positions to the different peaks, and it seems probable that to a large 
+degree their irregular outlines are due to their composite character and 
+should be taken into account in their interpretation. Approximately, 
+however, the co-ordinates of the main peaks may be recorded as in Table 
+III, which gives one selection of peaks which by repetition according to 
+rhombohedral symmetry would produce the whole Patterson structure. 
+It is of course possible that some other selection might be made which 
+would throw more light on the real molecular structure.
+In order to pass from the Patterson structure to the molecular structure
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+it is necessary to reduce the peak system shown in the Patterson diagrams 
+to its simplest terms. Certain interatomic distances which appear must be 
+derived from others in real space. The patterns found are comparable in 
+simplicity with those obtained in molecular structures of quite small 
+dimensions, e.g. those of pentaerythritol (Llewellyn, Cox and Goodwin 
+I937), where the peaks represent distances between single atoms. At first 
+sight they suggest th at here we might be dealing with masses about 10 A, 
+across which simulate the properties of single atoms in simpler structures. 
+But even assuming the presence of such masses it has not so far proved 
+possible to offer a derivation of the Patterson diagrams in terms of an 
+actual molecular arrangement. And the problem may, of course, be much 
+more complicated, each peak being the result of a comparatively small 
+proportion of scattered interatomic distances. Some measure of the 
+absolute value of the intensities of the X-ray reflexions, which will next 
+be undertaken, may offer an easier approach to a solution.
+Table  III— Approxim ate  co-ordinates  of peaks  in Patterson  seriesThe crystal structure of insulin  597
+X y z d in A
+A. 0147 0-027 0-12 10-5
+t t
+0 9-5
+I 1
+0-127 0-113 0-25 12-5
+B. 0-313 0-047 0-17 22-5
+t t
+0 21-7
+0-30 0-047 0-33 24-0
+C. 0-29 0-19 0 19-5
+D. 0 0 0-5 15-0
+Gen eral  conclusions  : th e Patterson  analysis  of 
+in su l in  and  pr o tein  structure
+Even without the derivation of a molecular structure for insulin from the 
+Patterson analysis, certain conclusions relevant to the main problem of 
+protein structure may be drawn. The first question raised at the beginning 
+of this paper was th at of a check on existing theoretical speculations. It 
+must be said that the patterns calculated do not appear to have any 
+direct relation either to the cyclol or to the various chain structures put 
+forward for the globular proteins. From the cyclol .structure (Wrinch 
+1937 6) one would expect many more peaks in the Patterson synthesis than 
+do actually occur. For example, besides peaks at about 10 A parallel to
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+598 D. Crowfoot
+(0001) there should also be peaks at 5 and 15 A. It is less easy to control 
+the folded-chain hypotheses, as for these no exact models have yet been 
+calculated, but in outline the picture does not suggest a chain structure. 
+There is no indication in the diagrams of layers parallel to (0001) as some 
+theories would require, and the idea of a spiral chain which has otherwise 
+some attraction does not, at least in its general form, account for the 
+definite distribution of 10 and 20 A interatomic distances in separate 
+peaks. I t is naturally difficult to rely on these conclusions without still 
+more exact theories involving the actual positions of the different amino- 
+acid residues in the protein molecule. But the general lack of positive 
+agreement remains evident.
+Perhaps the most unexpected information derived from the preliminary 
+data on insulin was, as mentioned above, th at the unit of weight about 
+39,000 had apparently trigonal symmetry. This may be considered to 
+receive some support from the chemical analyses of several proteins by 
+M. Bergmann and C. Niemann (1937), who find th at the amino-acid 
+residues constantly recur in multiples of three. The most natural explanation 
+of trigonal symmetry is th at the Svedberg unit is actually an aggregate of 
+3 n chemical molecules. I t is a priori  less likely th at a molecule of such 
+magnitude should possess real trigonal symmetry, though it should perhaps 
+be pointed out th at this is actually developed by the cyclol theory. It is, 
+however, doubtful whether the facts justify pushing this argument further. 
+The new experimental evidence is still unable to exclude the possibility 
+th at the trigonal symmetry shown by the crystal and the diffraction effects 
+is due to statistical twinning and hence is not a property of the Svedberg 
+“ molecule” itself. And even apart from this reservation, the present 
+examination shows that a somewhat less rigid interpretation of the facts 
+is possible. It still seems necessary to postulate an approximately trigonal 
+distribution of masses within the Svedberg unit, but this distribution need 
+not extend to atomic dimensions. Irregularities of the order of 1  or 2 A 
+would plainly not be indicated by the observed diffraction effects. It was 
+hoped that more powerful X-ray apparatus would reveal a finer structure, 
+but such if present did not appear on the exposures taken with the Davy- 
+Faraday 5 kW tube. And it is at least plausible that the very definite 
+cutting short of the series of reflexions at spacings from 8-7 A is a positive 
+indication that there are irregularities within the structure below this 
+limit (see below).
+The most interesting fact that has emerged from the Patterson analysis 
+is the very definite distribution in space of groups of interatomic distances 
+above this limit of 7 A, particularly those of approximately 10-12 A and
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+22 A. The appearance of these sets of distances immediately relates the 
+internal structure we are examining in insulin with the diffraction effects 
+previously observed in other proteins, both fibrous and crystalline. We 
+may connect these 10-11 A and 22 A distances with the spacings com­
+monly observed in denatured protein crystals such as pepsin and edestin 
+(Astbury 1934) and even proteins such as gelatin (Gerngross, Herrmann 
+and Abitz 1930). The 10-11 A distance then appears identical with Ast- 
+bury’s “ side chain” spacing in keratin or myosin. And this is supported by 
+a striking relationship between these X-ray results for insulin and those 
+on excelsin. According to the preliminary measurements of Astbury, 
+Dickinson and Bailey (1935), excelsin crystallizes in a rhombohedral 
+structure with one molecule in the unit cell, not unlike that of insulin, 
+though the scale is much greater. The crystals of excelsin examined had, 
+however, been kept for some time, which resulted in partial degeneration, 
+and the diffraction patterns obtained showed, besides true crystal X-ray 
+reflexions, an oriented fibre pattern. With the X-ray beam perpendicular 
+to the basal plane this took the form of six blurred sickles with spacings 
+of 1T4 A around the trigonal axis, while at right angles the fibre reflexion 
+had a spacing of roughly 4-5 A. The orientation of the 11-4 A spacing of 
+the excelsin fibre pattern parallel to the crystal basal plane is the same as 
+that of the 10-11 interatomic distances in insulin. Arfd these consequently 
+supply further evidence of the close relationship between the actual inter- 
+molecular structures of the fibre and globular proteins. It is difficult not 
+to connect these spacings also with the intramolecular patterns obtained 
+from the virus proteins. From these Bernal and Fankuchen (1937) have 
+been led to deduce the presence of submolecules 20 x 20 x 22 A, which are 
+again divided into nearly identical units of half these dimensions. But 
+whether these spacings of 10 and 20 A, which occur in all these different 
+types of proteins, are actually due to distances between chains held apart 
+by their side groups, as Astbury advocates, remains still to be proved. 
+The evidence of the ultracentrifuge measurements, which show a reversible 
+dissociation of insulin outside the pH  stability range 4*5-7, may perhaps 
+be quoted as some support for an alternative hypothesis that they are due 
+to definite massive subdivisions within the protein molecule. Whatever 
+their explanation, the Patterson analysis of insulin provides a first exact 
+description of their vectorial distribution in space.
+The identification of these 10 A spacings in insulin raises the problem of 
+the occurrence of the second generally found protein spacing of 4*5 A. The 
+crystal diffraction effects observed in insulin which end at 7 A can give no 
+information as to the origin of the 4*5 A ring found on the powder photo­The crystal structure of insulin  599
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+600 D. Crowfoot
+graphs. Yet this ring must be due to the internal structure of the protein. 
+The intensity of reflexion at any angle depends upon the product of what 
+may be called the atomic and molecular scattering factors at th at angle. 
+And accordingly with a perfectly ordered protein crystal one might expect 
+recurrence of sharp diffraction effects in the region of 4-5 A, which would be 
+of particular importance for a study of the most intimate structure of the 
+protein molecule. Their absence in insulin suggests on this reasoning some 
+actual disorientation of atoms within the molecule, rather than mutual 
+disorientation of the protein molecules. But either effect might be caused 
+by the processes involved in the preparation of the crystals and their 
+present physical condition. And in this case it is reasonable to hope for 
+results on other protein crystals which will carry the X-ray analysis deeper 
+into the problem of their structure.
+Acknow ledgem ents
+My first thanks are due to Professor R. Robinson, without whose interest 
+the present work would not have been begun, and also to Professor 
+F. L. Pyman for the gift of the insulin used in this research. For the tests 
+on the biological activity of the recrystallized insulin I am indebted to 
+Sir Henry Dale and Mr E. C. Marks, and for facilities during the summer 
+of 1936  at the Davy-Faraday laboratory to Sir William Bragg and the 
+Managers of the Royal Institution. I should also like to thank particularly 
+Dr Muller and Mr Smith for invaluable assistance in carrying out the 
+experiments at the Davy-Faraday laboratory, and Mr J. D. Bernal for 
+much help and advice in the preparation of this paper.
+Summary
+X-ray crystallographic measurements show th at insulin crystallizes in the 
+rhombohedral system, space group R3. The dimensions of the unit cell are 
+a = 44-4 A, a = 114° 48' or, referred to hexagonal axes, 74-8, c = 30*9 A 
+correct to about 0-5 %. The densities of three samples of crystalline insulin 
+have been measured in four different immersion media and show small 
+variations between values of 1-292  and 1-316. From these and the cell 
+dimensions the unit cell molecular weight may be calculated as most 
+probably 39*700  (maximum 40,800, minimum 38,700). The crystals contain 
+water which they lose when dried at 104° in a vacuum and this has been 
+estimated at 5-35%. The molecular weight of protein in the unit cell is 
+hence calculated as 37,600  (38,900-36,000), which is of the order of magni­
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+tude though rather less than the molecular weight of insulin found by 
+Svedberg. There is, however, no crystallographic evidence that this weight 
+constitutes a single molecule.
+The intensities of all the X-ray reflexions that could be observed from air- 
+dried single crystals of insulin have been estimated visually and are recorded 
+as terms proportional to F2. From these terms a series of Patterson-Harker 
+Fourier syntheses has been formed which shows the distribution of the 
+main interatomic distances within the insulin molecule. The patterns 
+correspond to a fairly large scale structure and as such cannot give informa­
+tion on the placing of individual atoms or as to whether the trigonal 
+symmetry shown is necessarily carried to atomic dimensions. The most 
+im portant interatomic distances th at appear are at 10 and 22A roughly 
+parallel to the basal plane. I t is suggested that these are related to the 
+characteristic X-ray spacings of many proteins both globular and fibrous, 
+and the virus proteins.The crystal structure of insulin  601
+Refer e n c e s
+Abel, J. J. 1926 Proc. Nat. Acad. Sci.  12, 132.
+Abel, J. J., Geiling, E. M. K ., Rouiller, C. A., Bell, F. K. and Wintersteiner, O. 1927  
+J. Pharmacol.  31, 65.
+Adair, G. S. and Adair, M. E. 1936 Proc. Roy. Soc.  B, 120, 422.
+Astbury, W. T. 1934 Kolloidzschr.  69, 340.
+Astbury, W. T., Dickinson, S. and Bailey, K. 1935 Biochem. J.  29, 2351.
+Astbury, W. T. and Marwick, T. C. 1932 Nature, Bond.,  130, 309.
+Astbury, W. T. and Sisson, W. A. 1935 Proc. Roy. Soc.  A, 150, 533.
+Astbury, W. T. and Woods, H. J. 1933 Phil. Trans.  A, 232, 333.
+Beevers, C. A. and Lipson, H. 1936a Proc. Phys. Soc.  48, 772.
+-------- 19366 Nature, Bond.,  137, 825.
+Bergmann, M. and Niemann, C. 1937 J •  Biol. Chem.  118, 301.  
+Bernal, J. D. and Crowfoot, D. 1934a Nature, Bond.,  133, 794.
+-------- 19346 Nature, Bond.,  134, 809.
+Bernal, J. D. and Fankuchen, I. 1937 Nature, Bond.,  139, 923.
+Clarke, G. L. and Corrigan, K. E. 1932 Phys. Rev.  ii, 40, 639.
+Cox, E. G. and Shaw, W. F. B. 1930 Proc. Roy. Soc.  A, 127, 71.
+Crowfoot, D. 1935 Nature, Bond.,  135, 591.
+— 1937 Nature, Bond.,  140, 149.
+Fankuchen, I. 1934 J. Amer. Chem. Soc.  56, 2398.
+Freudenberg, K. 1932 Hoppe-Seyl. Z.  204, 233.
+Freudenberg, K., Discherl, W. and Eyer, H. 1930 Hoppe-Seyl. Z.  187, 89.
+George, W. H. 1928 Proc. Beeds Phil. Bit. Soc.  1, 412.
+Gerngross, O., Herrmann, K. and Abitz, W. 1930 Biochem. Z.  228, 414.
+Harington, C. R. and Scott, D. A. 1929 Biochem. J.  23, 390.
+Harker, D. 1936 J. Chem. Phys.  4, 381.
+Hill, D. and Howitt, F. 1936 “ Insulin”, p. 51. Hutchinson.
+Llewellyn, F. J., Cox, E. G. and Goodwin, T. H. 1937 J. Chem. Soc.  p. 883.
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+
+602 D. Crowfoot
+Magnus-Levy, A., Meyer, K. H. and Lotmer, W. 1936 Nature, Lond.,  137, 616.  
+Patterson, A. L. 1934 Phys. Rev.  46, 372.
+— 1935 Z.Kristallogr.  90, 517, 543.
+Pauling, L. and Mirsky, A. E. 1936 Proc. Nat. Acad. Sci.  22, 439.
+Robertson, J. M. 1934 Proc. Roy. Soc.  A, 146, 473.
+Scott, D. A. 1932 Trans. Roy. Soc. Can.  [iii], 26, v, 275.
+— 1934 Biochem. J.  28, 1596.
+Sims, H. and Scott, D. A. 1930 Trans. Roy. Soc. Can.  [iii], 24, v, 117.
+Sjogren, B. and Svedberg, T. 1931 J. Amer. Chem. Soc.  53, 2657.
+Svedberg, T. 1931 Nature, Lond.,  127, 438.
+—  1937a Chem. Rev.  20, 81.
+— 19376 Nature, Lond.,  139, 1060.
+Wrinch, D. M. 1937a Proc. Roy. Soc.  A, 160, 59.
+—  19376 Science,  85, 566.
+Wyckoff, R. W. G. and Corey, R. B. 1935 Science,  81, 365.
+-------- 1936 </. Biol. Chem.  114, 407.
+ Downloaded from https://royalsocietypublishing.org/ on 19 February 2025 
+

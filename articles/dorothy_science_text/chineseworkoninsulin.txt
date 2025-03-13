@@ -1,0 +1,165 @@
+© 1975 Nature Publishing GroupNature Vol. 255 May 8 1975 
+news and views 
+Two very beautiful papers on insulin 
+appeared in Scientia Sinica in December 
+1974 (17, 752 and 779). They continue 
+a sequence of scientific publications 
+which began in 1961 and includes the 
+total synthesis of sheep insulin, 
+described in 1965. They are published 
+by groups of research workers in 
+China: in Peking in the University 
+(Departments of Biochemistry and 
+Organic Chemistry) and in the Institute 
+of Physics of the Academia Sinica, in 
+Shanghai in the Institutes of Organic 
+Chemistry, Biochemistry and, most 
+recently, Zoology. They provide im­
+pressive evidence of integrated re­
+searches in different disciplines and 
+laboratories . 
+The first of the present two papers 
+describes the derivation of an electron 
+demity map of insulin in rhombo­
+hedral 2-Zinc insulin crystals at 1.80 A 
+resolution. It gives useful experimental 
+details of the preparation of the crystals 
+and heavy atom derivatlves, of the 
+measurement and interpretation of the 
+X-ray diffraction data and of the stages 
+of solution of the structure . The model 
+and electron density map (clearly of 
+very good quality) are illustrated in 
+colour and the atomic arrangement is 
+described in detail. Ramachandran 
+plots and a plot of the distribution of 
+Cy side chain atoms viewed along 
+Ca-C/3 illustrate some of the stereo­
+chemistry observed. 
+The structure is essentially the same 
+as that found in parallel crystallo­
+graphic studies in Oxford; indeed, in 
+1972, in Peking, we compared in detail 
+our earlier electron density maps, both 
+drawn at a scale of 1 cm to 1 A. There 
+was actually a moment of acute con­
+cern when we put the maps together 
+first and they did not fit-until we 
+realised one was upside down compared 
+with the other. We then saw that there 
+was very good correspondence, if not 
+exact agreement, between them. 
+Correspondingly now, in the insulin Chinese work 
+on insulin 
+from Dorothy Crowfoot Hodgkin 
+dimer, molecule I Peking is molecule II 
+Oxford, and molecule I Oxford is 
+molecule II Peking. 
+One might not wish, in aU cases, to 
+see complete duplication of the X-ray 
+analysis of a protein molecule-so much 
+work is involved. But there are great 
+gains in the present case from having 
+two views of the insulin crystal struc­
+ture. First, insulin is such an odd mole­
+cule and the situation in the crystal is 
+very curious. The two insulin molecules 
+in the 'asymmet,ric uni,t a,re very similar 
+to one another, yet appear to differ in 
+conformation in a number of details; it 
+is comforting to see how closely the 
+molecules described in the Chinese 
+papers agree with Oxford findings. 
+Earlier small differences between us are 
+diminishing; it may well be that the 
+final comparison will give us reliable 
+estimates of the errors we must expect 
+in general in placing atoms from X-ray 
+data on proteins. The present Peking 
+map at 1.80 A resolution is the most 
+accurate map available of the insulin 
+electron density defined by experi­
+mental, isomorphous phase angles­
+and may well remain so. The calcula­
+tions we are carrying out at Oxford, 
+designed to show the electron density 
+at 1.50 A resolution, depend on the 
+extension of the phases from 1.9 to 
+1.5 A by various computing procedures, 
+some very experimental. The total 
+cross checking of our operations by 
+the Peking analysis when we come to 
+compare atomic coordinates should be 
+very valuable. 
+Many of the comments made by the 103 
+Chinese insulin research group on their 
+findings are similar to ones we have 
+made ourselves, but they often add 
+illuminating details and occasionally 
+recognise quite different features-for 
+example, they realised that the dihedral 
+angles of the glycine residues, BS, B20 
+and B23, were all in the region allowed 
+for D residues. This led directly to 
+experiments by the Shanghai chemists 
+and biochemists who showed that B23 
+might be replaced by D-alanine in the 
+insulin sequence with only partial loss 
+of biological activity, whereas activity 
+vanishes when B23 is replaced by 
+L-alanine. 
+The second paper carries a stage 
+further the study of structure-activity 
+relations in the insulin field through 
+direct measurements of the interaction 
+of insulin and insulin analogues with 
+receptor prot.eins in liver and fat cells. 
+It, too, parallels and extends work in 
+other laboratories. 
+Soluble receptor protein preparations 
+were made by the method of 
+Cuatrecasas, of fat cells by a new 
+method avoiding collagenase. It was 
+found that despentapeptide insulin had 
+almost the same binding capacity as 
+insulin, while deshexapeptide insulin 
+and the corresponding molecule with 
+B23 replaced by D-alanine had reduced, 
+but definite, binding capacity. The 
+results strengthen the view that the non­
+polar residues of the B chain surface, 
+B 12, B 16, B24 and B2S, are important 
+in receptor binding and that the loop 
+B2~B23 and pe'rhaps alIso the salt 
+bridge A21-B22 assist in stabilising the 
+conformation jon this'I'egion . There is a 
+nice discussion in the first paper of the 
+part that conformational variability 
+may play in assisting membrane binding 
+in this part of the insulin molecule. 
+It will be splendid if we can some 
+day soon all meet and talk over the 
+very interesting observations that are 
+accumulating, East and West, on the 
+structure and function of insulin. 
+Revising the Cainozoic polarity record 
+from D. H. Tarting 
+Now that the main plate tectonic band 
+wagon has passed, the dust can be 
+brushed off the marine magnetic anom­
+alies that were so effective in getting 
+it rolling. It is now possible to examine 
+in more detail the record they providc 
+of past geomagnetic changes and to refine the time scale of polarity 
+changes. 
+The polarity time scale of Heirtzler 
+et al. (J. geophys. Res., 73, 2119; 1968), 
+based on anomalies recorded on profile 
+V-20 SA in the South Atlantic, has 
+stood up remarkably well. Profile V-20 SA was chosen as the longest available 
+with no marked evidence of changes 
+in the rate or direction of spreading, 
+and the anomalies were dated by 
+assuming that the observed spreading 
+rate at the ridge axis-1.9 cm yr-1-had 
+remained unchanged for the past 

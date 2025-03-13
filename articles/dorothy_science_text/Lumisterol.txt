@@ -1,0 +1,386 @@
+[1952] Hodgkin and Sayve. 4561 
+887. A Crystallographic Examination of the Structure 
+Lumisterol. of 
+By DOROTHY CROWFOOT HODGKIN and D. SAYRE. 
+Most of the stereochemical features of the molecule of lumisterol have 
+been elucidated by an X-ray diffraction study of the crystal structure of 
+lumisteryl 4-iodo-3-nitrobenzoate. The configuration deduced earlier is 
+confirmed for positions 3, 9, 10, 13, 14, and 17, with rings A and c in the chair 
+form and rings c and D trans-fused. As proposed on chemical evidence, the 
+change from the ergosterol structure that has occurred is inversion at C(l,,). 
+But the retention of the chair form of ring A requires also a change of orient- 
+ation of the &-OH bond from a direction nearly parallel with the nucleus 
+to one approximately at right angles to it (K--E in Hassel's notation). 
+THE present study is the third in a series of sterol crystal structure determinations carried 
+out in this laboratory, the previous two compounds examined having been cholesteryl 
+iodide (Carlisle and Crowfoot, Proc. Roy. Soc., 1945, A, 184, 64) and calciferyl 4-iodo-3- 
+nitrobenzoate (Crowfoot and Dunitz, Nature, 1948, 162, 608). Lumisterol (11) was selected 
+for study as one of the group of compounds found during the photochemical transformation 
+of ergosterol (I) into calciferol (111). Chemical evidence (Dimroth, Ber., 1936, 69, 1123 ; 
+Kennedy and Spring, J., 1939, 250) had indicated that, in the case of lumisterol, the trans- 
+formation involved inversion at (&), and this has been confirmed by the present 
+investigation. 
+\/ 
+I \(\/\ 
+The compound chosen for X-ray analysis, lumisteryl 4-iodo-3-nitrobenzoate, was very 
+kindly prepared for us by Dr. J. W. Cornforth. It crystallised in three different forms, of 
+which two appeared to be solvated. The third, which was the one studied in detail, occurs 
+in pale yellow, solvent-free prisms. Preliminary crystallographic data on these crystals 
+may be summarised as follows : 
+Crystal Data.-C,,H,,O,NI ; M = 671. Found : d, 1.34. Calc. : d, 1-35. Pale 
+yellow, monoclinic prisms, (OOl), (101) slightly elongated along the b axis. Optically 
+biaxial, birefringence probably negative, 21' large, with a 11 b and y 48" to (001) in the 
+acute angle. Space 
+group, P2,. Absorption coefficient for Cu-Ka X-rays, 
+p = 86 cm.-l. 
+Structure AnaZysis.-The X-ray analysis was a straightforward application of the heavy- 
+atom technique. From the b axis projection of the Patterson function (Fig. 1) the x and z 
+co-ordinates of the iodine atoms were found directly. On account of the crystal symmetry, 
+the y co-ordinates of one atom can be arbitrarily chosen and the co-ordinates of the iodine 
+atoms in the crystal could be given as : x = + 0.267, y = 
+By using signs based on the contributions of the iodine atoms alone and the observed 
+structure factors, a first electron-density projection was calculated along the b axis. This 
+projection is centrosymmetric, the structure factors are real, and the signs appropriate to 
+the structure factors are very largely those based on the contributions of the iodine atom 
+alone. The first b-axis projection accordingly approximates closely to a correct represent- 
+ation of the electron density (Fig. 2). Unit-cell dimensions : a = 10.55, b = 7.63, c = 20.57 A, p = 93.5". 
+Two molecules per unit cell. 
+Total number of electrons per unit cell = F(000) = 696. 
+0.25, x = 0-0354. 
+13 N 
+Published on 01 January 1952. Downloaded by University of Alberta on 2/19/2025 10:44:16 PM. 
+View Article Online
+ / Journal Homepage
+ / Table of Contents for this issue
+4562 Hodgkin and Sayre : A Crystallographic 
+Although most of the individual atomic positions are unresolved, it proved possible to 
+recognise the molecule in this first projection and to correlate the several concentrations of 
+electron density with definite portions of the lumisterol structure. Study of models showed 
+that of the different possible stereochemical forms of the sterol skeleton only one possessed 
+the general features demanded by this projection. Thus the main line of peaks across the 
+centre of the cell must correspond with the sterol nucleus, viewed edge on, while the nitro- 
+benzoate group projects nearly at right angles to this line with the plane of the benzene ring 
+FIG. 1. Projection of Patterson function, Pxz, calculated for lumisteryl 4-iodo-3-nitrobenzoate. 
+FIG. 2. Projection of electron density along the b axis calculated for lumisteryl 4-iodo-3-nitrobenzoate, 
+based on signs calculated on iodine positions only. 
+a 
+close to the plane of the projection. This generally L-shaped form of the molecule as a 
+whole, and the presence on opposite sides of the nucleus of two peaks which can hardly be 
+other than the 18- and 19-methyl groups, establish the configurations at the asymmetric 
+centres C(,l, C(,,), and The straight-line appearance 
+of the nucleus establishes the configuration at C(,l, the chair form of ring c, and the con- 
+figuration at (&, i.e., the trans-fusion of rings c and D. Finally the general location of the 
+side chain establishes the configuration C(l,). and also the chair form of ring A. 
+Published on 01 January 1952. Downloaded by University of Alberta on 2/19/2025 10:44:16 PM. 
+View Article Online
+[ 19521 Examination of the Structure of Lumisterol. 4563 
+The remaining calculations were carried out mainly as a further check on the atomic 
+arrangement deduced at this stage. The b-axis projection was refined once, but little 
+change occurred. The non-centrosymmetrical a-axis projection was then calculated with 
+signs based, in the first instance, on the iodine positions only. Since the distribution of the 
+iodine atoms is, by itself, centrosymmetrical, these signs correspond to a centrosymmetrical 
+electron-density distribution. The a projection, as first calculated, accordingly possesses a 
+spurious centre of symmetry and corresponds approximately to the correct projection of the 
+two molecules in the unit cell, superimposed on those of two mirror-image molecules (Fig. 3a). 
+Examination showed that it had the appearance expected of overlapping sterol molecules 
+viewed along a line roughly at right angles to the plane of the ring systems. Tbemodel 
+FIG. 3. Projection of electron density along the a axis, calculated for lumisteryl 4-iodo-3-nitrobenzoate, 
+(a} based on signs calculated on iodine positions only, (b) once refined. 
+b 
+C 
+b 
+of the molecule which had been obtained from the b-axis projection was therefore placed 
+over this second projection in the manner which seemed best to account for the observed 
+electron-density maxima. From the tentative atomic positions thus obtained, phases 
+were calculated and the non-centrosymmetrical distribution, Fig. 3b, was derived. This 
+distribution confirms very satisfactorily the proposed structure on which it was based. 
+By the further use of models projected over the latest a and b electron-density projections 
+together, the set of atomic co-ordinates listed in the Table was derived. We lay no claim 
+to accuracy of these co-ordinates in detail. The validity of the molecular structure they 
+define rests principally on its agreement with the general character of the projections 
+observed, particularly the b-axis projection, but it is supported also by structure-factor 
+calculations based on these co-ordinates. The reliability indices found were R = 26% for 
+(hO2) structure factors and R = 21y0 for (Okl) structure factors. 
+The chemical form of the molecule deduced is illustrated by (11) and Fig. 4, which refer 
+to the sterol portion of the structure only. The relations between the different asymmetric 
+Published on 01 January 1952. Downloaded by University of Alberta on 2/19/2025 10:44:16 PM. 
+View Article Online
+Hodgkin and Sayre : A Cryshllogra+hic 
+centres in the nucleus are those derived from chemical arguments as illustrated in (11). 
+In addition rings A and c are in the chair form. The evidence obtained for the arrangement 
+of atoms in the side chain is less strong than that for the nucleus. It confirms the con- 
+figuration at C(,,) found for cholesterol and calciferol but appears to contradict the con- 
+figuration for Cs,,) tentatively proposed for calciferol (Crowfoot and Dunitz, Zoc. cit.). 
+However, the evidence obtained for this configuration, both here and with calciferol, is not 
+conclusive and this detail remains in doubt. 
+There are a number of interesting points about the crystal and molecular structure. 
+As expected, the stereochemical difference between lumisterol and ergosterol is in the 
+change of the 19-methyl group from the p- to the a-position. This change is associated 
+with a rearrangement in the packing of the neighbouring atoms in ring A. The chair form 
+is retained in ring A, through alternate puckering of the carbon atoms of the ring system 
+from that likely in ergosterol. As a result the C,)-OH bond, which in ergosterol presum- 
+ably lies near the general plane of the molecule (K-bond in the notation of Hassel, Tidsskr. 
+Kjemi, 1943, 3, 32) is rotated to a position approximately normal to the molecular plane 
+FIG. 4. Perspective drawing of lumisterol in the 
+stereochemical configuration foumd. Only 
+carbon and oxygen atoms are shown. 
+(E-bond). In this position the arrangement of the hydroxyl group simulates that of the 
+epi-configuration first proposed for lumisterol to account for its similarity to ePicholestero1 
+in the digitonin precipitation reaction. 
+C at 
+position 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 X 
+0.460 
+0.515 
+0.516 
+0.595 
+0.536 
+0.485 
+0-436 
+0.438 
+0-486 
+0-536 
+0.368 
+0.353 
+0-320 
+0.429 
+0.385 
+0.377 
+0.336 
+0-177 
+0.663 
+0.188 
+0.110 
+0.167 Y 
+-0.120 - 0.090 - 0.263 - 0.409 
+-0-448 
+-0.603 
+-0.625 
+-0.487 
+-0.298 - 0.269 
+-0.187 - 0.202 
+-0.389 
+-0.514 
+-0.686 
+-0.625 
+-0.439 - 0.446 
+-0-194 - 0.440 
+-0.286 
+-0.433 z 
+0.226 
+0.156 
+0.116 
+0.155 
+0.222 0.242 
+0.311 
+0.344 
+0.337 
+0.266 
+0-361 
+0.437 
+0.451 
+0.425 
+0.462 
+0.535 
+0.535 
+0.410 
+0.290 
+0.556 
+0.522 
+0.629 C at 
+position 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+1 
+2 
+3 
+4 0 
+N 
+I X 
+0.059 
+0.037 
+0.048 
+0.128 
+-0-100 
+-0.079 
+0.331 
+0.188 
+0.103 
+-0.027 
+-0.069 
+0.017 
+0.145 
+0-374 
+0.393 - 0.085 
+-0.212 
+-0.107 
+-0.267 Firtal co-ordinates. 
+Y 4' 
+Y - 0.45 1 - 0.445 
+-0.250 
+-0.117 
+-0.183 
+-0.551 
+-0.257 
+-0.256 
+-0.261 
+-0.260 
+-0.252 
+-0.247 
+-0.250 
+-0.263 - 0.252 
+-0.155 
+-0.360 
+-0.263 
+- 0.250 z 
+0.654 
+0.727 
+0.755 
+0.71 1 
+0.760 
+0.742 
+0.038 
+0.019 
+0.068 
+0.052 
+-0.011 
+-0.062 - 0.046 
+0-100 
+-0.013 
+0.147 
+0-098 
+0-098 
+-04354 
+Published on 01 January 1952. Downloaded by University of Alberta on 2/19/2025 10:44:16 PM. 
+View Article Online
+[ 19521 Examination of the Structure of Lumisterol. 
+The change of orientation of the hydroxyl group in lumisterol is a consequence of the 
+preferred arrangement of the atoms of ring A in the staggered chair form of the cyclohexane 
+ring. The situation is parallel with that found in cis-decalin (Bastiansen and Hassel, 
+Nature, 1946,157, 765) and probably also in the choleic acids * and, as in these cases, results 
+in the production of a very awkwardly shaped molecule. However, the overall shape of 
+the molecule of lumisteryl4-iodo-3-nitrobenzoate is completely masked in the preliminary 
+crystallographic data through the intricate way in which the large substituent groups are 
+fitted between the ends of the sterol ring systems. The molecular arrangement is deter- 
+mined by the relative packing of the main part of the sterol nuclei and side chains of neigh- 
+bouring molecules in a way exactly similar to that expected for normal steroids and this is 
+reflected in the unit-cell dimensions, which are very similar to those of many normal 
+steroid crystal structures. The crystal refractive indices, on the other hand, are largely 
+controlled by the orientation of the substituent nitrobenzoate group and do not conform 
+tb the normal type of relation to the cell dimensions (Bernal, Crowfoot, and Fankuchen, 
+Phil. Trans. Roy. SOC., 1940, A, 139, 135). 
+These observations emphasise the difficulty of drawing conclusions about certain types 
+of stereochemical configuration from preliminary X-ray data and suggest a resolution of an 
+apparent conflict in the literature between present theory and early crystallographic data on 
+coprostane, which has been discussed by Shoppee (Ann. Reports, 1946,43,200) and by Turner 
+(Fieser and Fieser, " Natural Products related to Phenanthrene," Chap. X, Reinhold 
+Publ. Corpn., N.Y.). That coprostane has unit-cell dimensions belonging to one of the 
+normal steroid types can easily be accounted for by the lath-like character of the major 
+part of the molecule; it does not provide any real evidence of a boat-shaped structure for 
+ring A. As in the lumisterol crystal structure, the unit-cell dimensions almost certainly 
+conceal the presence in this molecule of the chair form of ring A. 
+The mechanism of the trans- 
+formation of ergosterol into lumisterol and its relation to the production of calciferol need 
+further investigation. Stereochemically, it is unlikely that the 19-methyl group migrates 
+directly to the other side of the steroid nucleus; this would involve its passage between 
+carbon atoms initially themselves only 2; A apart. Most probably the initial stage is 
+rupture between C(lo) and one of the carbon atoms of the ring system; either C,9)TC(Jo,, 
+which is certainly broken in calciferol, or C(5)-C(10) t (cf. the production by an irradiation 
+reaction of lumioestrone and lumiandrosterone) are likely points of attack. In either case, 
+lumisterol itself would then be formed by closure of the ring system in the new stereo- 
+chemical configuration. It would not correspond with a definite stage in the transformation 
+of ergosterol into calciferol but would be the product of a side-reaction, and would be capable 
+itself of undergoing transformation into calciferol. These conclusions are in agreement 
+with the early observations of Setz (2. fihysiol. Chem., 1933, 215) that the production of 
+lumisterol and calciferol is favoured by light of different wave-lengths, but in detail the 
+course of the reactions is still obscure. A final point of a rather different kind may be made. 
+EXPERIMENTAL 
+Preparation and Characterisation of the Three Crystalline Forms.-Recrystallisation of Dr. 
+Cornf orth's original material was accomplished by cooling or evaporation of acetone or benzene 
+solutions. Forms A and B, The properties of the three modifications are tabulated below. 
+Source Form U b G B 
+A Original material; also by evaporation of 
+benzene solution at 25" ..................... Prism 10.5 7-6 24.6 102O 
+B Evaporation of acetone solution at 25" ...... Needle 17.8 7.5 27.3 103" 
+C Cooling acetone or benzene solution from 
+65" ................................................ Prism 10-65 7.63 20.57 93.5" 
+if uncoated, deteriorate rapidly and become opaque after a few days, but C remains unchanged 
+for months. For this reason, and because form C has the smallest unit cell and alone can be 
+* This has not been established in detail but is strongly suggested by the electron-density projections 
+calculated by Giacomello and Caglioti, Gazzetta, 1939, 69, 245. t As suggested to us by Dr. Cornforth. 
+Published on 01 January 1952. Downloaded by University of Alberta on 2/19/2025 10:44:16 PM. 
+View Article Online
+4566 Raphael and Scott : 
+obtained from either acetone or benzene, it is presumed to be the only unsolvated form, and all 
+the further work was done on it. 
+Analysis of the original materials by Drs. Weiler and Strauss, Oxford, supported the view 
+that this preparation, which largely consisted of form A, m. p. 136.5-137’, contained benzene 
+of crystallisation (Found : C, 65.2; H, 7.0; loss at lOO”, 9.9. C3,H4,O4NI,C,H, requires 
+C, 65.5; H, 6-95; C,H,, 10.4. Found, on dried material : C, 62.9; H, 7.5; I, 18.75. 
+C35H460,NI requires C, 62.6; H, 6.85; I, 18.9%). 
+The intensities of the 
+(h0Z) and (OM) reflections were estimated visually from multiple-film Weissenberg photographs ; 
+392 out of a possible 564 F(hOZ)’s, and 127 out of a possible 217 F(0KZ)’s were estimated. On 
+the edges of these Weissenberg photographs had been recorded the diffraction pattern of a fine 
+copper wire, and the unit-cell dimensions were determined wit: the aid of this calibrating 
+pattern. 
+It was estimated that the 
+extremes of X-ray transmission for this crystal were 0.32 and 0.39, and it was decided that this 
+variation was not severe enough to make absorption corrections necessary. 
+The absolute scales were obtained by correlation with the final calculated F(h0Z)’s and 
+F(0Kl)’s. 
+Calculations.-The 6-axis Patterson projection (Fig. 1) is a ‘I sharpened ” projection, based 
+on the (h0l) intensities divided through by the square of the f curve of iodine with a temperature 
+factor B = 3.6 x 10-l6. All Fourier sums were performed with Beevers-Lipson strips and a 
+desk adding machine, at intervals of 1/60 along G and 1/30 along a and b. All structure-factor 
+calculations were carried out by a technique which reduces structure-factor calculation to 
+Fourier series summation (Sayre, Acta Cryst., 1951, 4, 362) and which, it is estimated, required 
+only about 1/3 of the usual time. In all the structure-factor calculations CH, was treated as a 
+carbon atom of atomic number 9, 0 and CH, as of 8, N and CH as of 7, and C as one of 6. 
+Viervoll and @rim’s .f curve (Acta Cryst., 1949, 2, 277) was used for carbon, and that of the 
+In the earlier 
+calculations a temperature factor B = 3-5 x 10-ls was applied to all atoms ; in the final calculations 
+an empirical overall correction curve was used instead, chosen to bring about the best agreement 
+between Fobs. and Fcalc. , and approximately equivalent to a temperature correction with X-Ray Measurements.-Cogper-Ka radiation was used throughout. 
+The lattice constant of copper was taken to be 3.6153 A. 
+The dimensions of the crystal used were 0.12 x 0.15 x 0.15 mm. 
+Internationale Tabellen zur Bestimmung von Kristallstructuren ” for iodine. 
+B = 6.5 x lo-’’. 
+We acknowledge gratefully grants from the Rockefeller and Nuffield Foundations and also 
+personal assistance from Mrs. U. K. Ledwith in the calculations. 
+CHEMICAL CRYSTALLOGRAPHY LABORATORY, 
+UNIVERSITY MUSEUM, OXFORD. [Received, May 14th, 1952.1 
+Published on 01 January 1952. Downloaded by University of Alberta on 2/19/2025 10:44:16 PM. 
+View Article Online

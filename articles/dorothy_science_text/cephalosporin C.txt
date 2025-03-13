@@ -1,0 +1,800 @@
+Vol.79 STRUCTURE OFCEPHAT OSPORIN C 393
+Bulow,C.&Seidel,F.(1924).LiebigsAnn.439,48.
+Cavallini, D.,Frontali, N.&Toschi,G.(1949).Nature,
+Lond.,163,568.
+DeRopp,R.S.,VanMeter,J.C.,DeRenzo, E.C.,
+McKerns, K.W.,Pidacks, C.,Bell,P.H.,Ullman, E.F.,
+Safir,S.R.,Fanshawe, W.J.&Davis,S.B.(1958).
+J.Amer.chem.Soc.80,1004.
+Ellington, E.V.,Hassall, C.H.&Plimmer, J.R.(1958).
+Chem.&Ind.p.329.
+Elvidge, J.A.&Whalley, M.(1955).Chem.&Ind.p.589.
+Fleck,F.,Rossi,A.,Hinder, M.&Schinz, H.(1950).
+Helv.chim.acta,33,130.
+Hems,B.A.,Holland, D.C.&Robinson, F.A.(1949).In
+TheChemi8try ofPenicillin, p.461.Princeton University
+Press.
+Herting, D.C.,Ames,S.R.&Harris,P.L.(1958).Arch.
+Biochem. Biophys. 74,92.
+Hirs,C.H.W.(1956).J.biol.Chem.219,611.
+Hodgkin, D.&Maslen, E.N.(1961).Biochem. J.79,393.
+Isherwood, F.A.&Cruickshank, D.H.(1954).Nature,
+Lond.,173,121.
+Jeffery, J.d'A.,Abraham, E.P.&Newton, G.G.F.
+(1960).Biochem. J.75,216.
+Jones,R.N.&Herling, F.(1956).J.Amer.chem.Soc.78,
+1152.
+Kaczka, E.&Folkers, K.(1949). InTheChemistry of
+Penicillin, p.243.Princeton University Press.
+Kuhn,R.&Roth,H.(1932). Ber.dt8ch.chem.Ges.65,
+1285.
+Kuhn,R.&Roth,H.(1933). Ber.dtsch.chem.Ge8.66,
+1274.Loder,B.,Newton, G.G.F.&Abraham, E.P.(1961).
+Biochem. J.79,408.
+Lynn,W.S.,Steele,L.A.&Staple,E.(1956).Analyt.
+Chem.28,132.
+Meister, A.&Abendschein, P.A.(1956).Analyt.Chem.28,
+171.
+Newton, G.G.F.&Abraham, E.P.(1953).Biochem. J.53,
+604.
+Newton, G.G.F.&Abraham, E.P.(1954).Biochem. J.
+58,103.
+Newton, G.G.F.&Abraham, E.P.(1956).Biochem. J.
+62,651.
+Paist,W.D.,Blout,E.R.,Uhle,F.C.&Elderfield, R.C.
+(1941).J.org.Chem.6,273.
+Parrod,J.(1947).Bull.Soc.chim.Fr.p.109.
+Pavlic,A.A.&Adkins, H.(1946).J.Amer.chem.Soc.68,
+1471.
+PoUard, J.K.,Sondheimer, E.&Steward, F.C.(1958).
+Nature,Lond.,182,1356.
+Pollock, M.R.(1957).Biochem. J.66,419.
+Renner, U.,Johl,A.&Stoll,W.G.(1958). Helv.chim.
+acta,41,588.
+Sheehan, J.C.,Henery-Logan, K.R.&Johnson, D.A.
+(1953).J.Amer.chem.Soc.75,3292.
+Wieland, T.&Schopf, A.(1959).Liebig8Ann.626,174.
+Wingerd, W.(1953).Asreported byBlock,R.J.,Durrum,
+E.L.&Zweig,G.AManual ofPaperChromatography
+andPaperElectrophoresis8, 2nded.p.223.NewYork:
+Academic PressInc.
+Woodward, R.B.(1949). InTheChemiatry ofPenicillin,
+p.443.Princeton University Press.
+Biochem. J.(1961)79,393
+TheX-rayAnalysis oftheStructure ofCephalosporin C
+BYDOROTHY CROWFOOT HODGKIN ANDE.N.MASLEN
+Laboratory ofChemical Cry8tallography, Oxford
+(Received 3Augu8t 1960)
+Crystallographic measurements onthesodium
+saltofcephalosporin Cwerefirstmadeinorderto
+determine themolecular weightofthiscompound
+soonafteritwasisolated byNewton &Abraham
+(1955). Thecrystals werethentoosmallfor
+detailed work,butthemeasurements showed that
+thelatticehadoneveryshortunit-cell dimension of
+49A,afeature thatsuggested thatitmightbe
+possible tosolvethecrystalstructure bydirectmethods, without theintroduction ofatoms
+heavier thanthosealready present. Asmore
+material wasobtained andlargercrystals grown,
+additional unsuspected complications inthecrystal
+latticewereobserved andthesehavehindered the
+precisesolution ofthestructure. Thepositions now
+foundfortheatomsinthecrystal givegood
+general agreement withtheobserved X-rayin-
+tensities butarenotdefined withgreataccuracy;
++25 20
+H:N 0D~~~~j L
+CHCH2-CH2-CH2*C NHCH-CH 2H227/24232221191876100-C 6L5 36CH26\-o ~4-CC2O.C-CH3 06o 00\C lo11112143
+28 9 115 +
+(I) -Na
+076017 16
+3D.C.HODGKIN ANDE.N.MASLEN
+theycorrespond withthestructural formula (I)
+described byAbraham &Newton (1961)inthe
+preceding paper.
+Preliminary cry8tallographic examination
+Crystalline samples oftheammonium, bariuim,
+calcium, potassium andsodium saltsofcephalo-
+sporinCwereprepared byAbraham &Newton;
+thoseofthesodium saltweremostpromising, the
+ammonium saltrather lessso,therestmicro-
+crystalline. Experiments ongrowing goodcrystals
+wereonlysuccessful forthesodium salt.The
+method whichgavethebestresults wasasfollows:
+Samplesrangingfrom Ito5mg.ofthesaltweredis-
+solvedinonedropmorethantheminimum ofwater.
+Ethanol wasthenaddedinexcess. Intheinter-
+mediate concentrations crystals grewslowly overa
+periodofsomeweeksandwell-ordered crystals upto
+1-5x0-25xOlmm.swereobtained.Theywereeasily
+removed afterreplacement ofthemother liquor
+withabsolute ethanol oraftersuction filtration.
+Eventhebestcrystals wereoflowreflecting
+poweranddeteriorated noticeably intheX-ray
+beam; noreflexions wereobserved beyond a
+spacing limitof1i04A.Manycrystals, particularly
+thosewhichhadgrownrapidly, showed serious
+distortions; someoftheearlierrecrystallized
+specimens gavereflexions over1cm.longon
+Weissenberg photographs.
+Thecrystals werelathson(001),elongated along
+thebaxis.Thecrystaldataareasfollows:
+a=38-88±0-15A,b=4-99+0-04A,
+c=25-65+0-10Ak, ,=115025+15',
+spacegroup,C2,forwhichZis4.Fromtheearliermeasured density, Dm=1-38,themolecular weight
+oftheasymmetric unitiscalculated tobetwicethe
+figure467±15,whichcorresponds withtheformula
+preferred onanalysis, C16H22O8N3SNa,2H20 (calcu-
+latedmolecular weight 475).
+Intheintensity distribution itwasobserved that
+hOtreflexions wereveryweakandhllreflexions
+ratherweak,forlodd,whereas forhighervalues
+ofktherewasnomarked distinction between 1-odd
+andI-evenreflexions. Theeffectsuggested thatthe
+asymmetric unitconsisted oftwomolecules separ-
+atedbyatranslation ofc/2buthaving rather
+different yparameters.
+Thestructure analysis isbasedon1428X-ray
+reflexions recorded onmultiple filmWeissenberg
+photographs andmeasured byeye.
+Structure analysis
+Boththecourseofthestructure analysis andthe
+accuracy achieved weremuchaffected bythe
+limited character oftheavailable data.Inspiteof
+theshortbcelldimension itproved impossible to
+solvethestructure inprojection aloneandthree-
+dimensional calculations wereundertaken. Fig.1
+showsinoutline thestagesoftheanalysis.
+Three evaluations ofthethree-dimensional
+Patterson distribution weremadewithterms
+modified bydifferent sharpening functions. All
+threeillustrate thecharacter ofthelatticesug-
+gestedbytheintensity distribution; thewhole
+pattern repeats toafirstapproximation inthe
+interval c/2,thepseudo-origin beingmoredrawn
+outinthebdirection thanthetrueorigin.
+Ofthethreedistributions thefirst,I,isvery
+diffuse andwasoflittleuse;themodification
+Three-dimensional dat
+plphased on4atoms
+cross-checked withPSharpened Patterson synthesis
+Implication diagrams on5peaks
+(I)Location ofS-Svectors
+ta Two-dimensional data
+Twoprojections onimplication peaks
+Twoprojections onSphases'atterson 4,
+4, (II)Approximate meanstructure,p2phased on26atoms fourroundsofmeancellrefinement
+p3phasedon48atoms (III)Correction of4incorrect positions,
+fiveroundsofmeancellrefinement
+(IV)Resolution ofpseudosvmmetry oftwomolecules
+p4andAp4phased on60atoms Fiveroundsofcomplete
+4, cellrefinementp5andAp5phased on60atoms
++3watermolecules
+(V)Selection ofbestparameters
+Fig.1.Flowsheet.394 1961
+THEX-RAY ANALYSIS OFCEPHALOSPORIN C
+function herereduced thetermsapproximately to
+thoseexpected fromatomsatrest.Thethird,III,
+andsharpest version, corresponding withpoint
+atomsatrest,wascalculated byDrS.Abrahamson
+afterthemainstructure analysis heredescribed
+wascomplete. Thesecond, II,thedistribution
+actually used,isnearer toIIIincharacter; the
+modification function chosen here,100sin46
+exp(-90sin26),wassimilar tothatusedinthe
+analysis ofserine(Shoemaker, Barieau, Donohue &
+Lu,1953)withsomeadjustment oftheexponential
+function toreduce diffraction ripples. Herethe
+peaksarewellresolved; corresponding peaksinthe
+twohalvesofthePatterson distribution arealter-
+natively highandsharpinonehalf,andlowbut
+extended intheother,thusmaking itpossible to
+determine wheretheco-ordinates ofatomsinthe
+twomolecules differappreciably. Thesection in
+thisfunction aty=0isshowninFig.2.
+Oftheprominent peaksinthesection, y=0,
+thesixhighest (numbered 1-6inFig.2)were
+selected fortrialaspossibly representing S-S
+vectors. Implication diagrams wereplotted to
+showthecoincidence ofthepeakpattern surround-
+ingeachofthesewithpeakssurrounding the
+origin, onlypeaksabove 100onthearbitrary
+Patterson scalebeingincluded. Seventy-three good
+coincidences throughout thedistribution were
+observed for3,55for1(lateridentified asan0-0
+vector), whereas relatively fewwerefoundforthe
+otherpeaks.Further, thepeakpattern surround-
+ing3(Fig.3)clearlymapped asix-membered ring.
+Thiscouldbecorrelated directly withthesug-
+gestion madeinthesameperiodbyE.P.Abraham
+&G.G.F.Newton (personal communication) that
+asix-membered ringwaspresent incephalosporin
+C.Itisperhaps worthobserving thatpeak3is
+actually thehighest peakinthelater,sharper
+Patterson distribution III,whichwouldhave
+identified itdirectly astheS-Svector.
+Itwasclearthatmanyoftheotheratomic
+positions inthecrystal weredefinedbytheS-light
+atomvectors isolated intheimplication diagram
+showninFig.3,buttheirselection asawholewas
+notimmediately obvious inthecomplex situation
+thusrevealed. Also,whereas theimplication dia.
+gramdefined thexandzco-ordinates, itleftthe
+signoftheyco-ordinates ofthecorresponding peaks
+indeterminate. Accordingly, initialtrialcalcula-
+tionswerebasedontheprojection dataonly.
+Thefirstapproximate electron-density pro-
+jection wasbasedonsignsgivenby53ofthemore
+likelyimplication peaksselected aspossible atomic
+sites.Adifference mapsuggested theremoval of
+eightoftheseandtheaddition oftenothers.
+Further structure-factor calculations showed very
+pooragreement forI-oddreflexions andthesewere
+omitted inthenextfewrounds ofcalculation,whichledaccordingly toameanstructure corre-
+sponding withaone-molecule asymmetric unit.
+Parallel withtheseriesbasedonthepeaksinthe
+implication map,anapproximate projection was
+calculated byusingsignscalculated onthepro-
+posedsulphur atompositions only.Inthisseries
+onlythe55largetermswhichwerelikelytohave
+thesamephaseasthesulphur contributions were
+included. Theseweretermsforwhichtheunitary
+structure factorexceeded 0-1,andthesulphur
+contribution exceeded 05ofitsmaximum possible
+value. Onelargereflexion, 2010,hadasulphur
+contribution 04maximum andaseparate map
+wasevaluated including thisterm.
+Together, theelectron-density projections and
+implication mapsconsiderably limited thepossible
+distribution oftheatomsinthecrystal. Itbecame
+clearthatthesix-membered ringcarried substi-
+tuentsonfouroftheatomsandthattwoofthese,
+7and8,couldbeextended toanother possible
+position forming a,B-lactam ring.Beyond thema
+chaincouldbetracedhavingtheformoftheadipic
+acidsidechainknown tobepresent intheanti-
+biotic. Asecondchain,atposition 3,wasmore
+obscure, butoflengthequivalent toacetoxymethyl.
+Onthefourthposition, agroupofpeakssuggested
+acarboxyl groupashortdistance fromaNa+ion.
+Thefirstorientation derived forthisgroupwas
+soonfoundtobeincorrect bythecalculation ofa
+seriesoffurther refinements oftheprojected
+electron-density anddifference maps. Butin
+outlinethestructure derived atthispointhasbeen
+confirmed bysubsequent three-dimensional calcu-
+lationsandtheparallel chemical investigation.
+Therefinement oftheelectron-density projection
+atthisstageisillustrated byFig.4a-c.Fig.4a
+showsadifference mapcalculated forthestructure
+asfirstoutlined, Fig.4b,adifference mapcalcu-
+latedleaving outtheuncertain atomsconnected
+withthecarboxyl group,Fig.4cthesubsequent
+mapderived byusinghOItermswithIevenonly.
+Fig.4aandbgivesomeoftheevidence whichled
+tothereorientation ofthecarboxyl groupand
+movement oftheNa+ionfromasiteessentially
+thatoccupied byoneatomofthecarboxyl group
+tothatfirstthought tobeoccupied byawater
+molecule. Fig.4cdefinesthemolecule asawhole
+toafirstapproximation, together withtheNa+ion
+andpossible sitesforwatermolecules. R,the
+agreement factor, atthisstagewas26-6%on
+observed reflexions only.
+Parallel withthecalculation oftheelectron
+density inprojection, calculations oftheelectron
+density inthreedimensions weremade. Herethe
+complete unit-cell datahadtobeemployed
+throughout. Thefirststagewasindependent ofthe
+projection evidence. Positions werederived from
+theimplication diagram forfouratoms, theVol.79 395
+D.C.HODGKIN ANDE.N.MASLEN
+/~~~~~~~~~~~o
+ 2aC)/,L~~~~~~i~~
+L~~~ 1 /1
+ o1
+5~~~~~~~
+ 10i~~~~~~~
+~2
+§,o' k
+0, 0~~10
+I 5A
+Fig.2.Section aty=0inthethree-dimensional Patterson distribution II.S-Sindicates apeakcorresponding
+tothesulphur-sulphur vector.-396
+THEX-RAY ANALYSIS OFCEPHALOSPORIN C
+cJ
+0~~~~~~~
+IIIIII
+Fig.3.Implication diagram onpeak3ofFig.2.Thenumbering inthisfigurecorresponds
+withthenumbering oftheatomsinTable1.Vol.79 397
+D.C.HODGKIN AiNDE.N.MASLEN
+VJ 0-~x,.Hr0:
+o
+0
+ 0
+Ca.C
+4).-
+-$EP4)
+0o o
+*$.no~~0
+0
+e4.$°50
+"M4 4)o4Oa
+~Ca
+ 0
+r00
+0
+0-4
+0.0
+ 4)
+.-C)
+04)D
+0U,
+SCs398 1961
+THEX-RAY ANALYSIS OFCEPHALOSPORIN C
+sulphur atomsinthetwoindependent molecules,
+aandb,andtwoothersthought thentobesodium
+ions,actually oxygen atomsofcarboxyl groups.
+Phaseangleswerecalculated onthesepositions,
+thetwooxygen atomsbeingweighted assodium
+atoms.
+Fromthefollowing electron-density distribution
+26atomic positions wereselected andusedinthe
+nextphasing calculations andtheserieswas
+continued, asshowninFig.1,bytheprogressive
+selection of48,60and63atomicpositions. The
+selection wasneverautomatic. Inthefirstsyn-
+thesistherewerepeakspresent corresponding to
+everyatominthemolecule, ranging from1to
+31e/18inheight, butthesewereaccompanied by
+asetofpeaksrelated tothembyafalseplaneof
+symmetry through y=0,andbyanalmostequal
+number ofcompletely spurious peaksupto2e/k8in
+height. Theselection ofonly26atomicsitesfrom
+amongthesewasperhaps over-cautious; examina-
+tionoftheseriesshowsthatin38casesthepresent
+chosenposition washigherthanthemirror-image
+peakandinonly18caseswasthefalseimage
+substantially higher. Thecompletely spurious
+peaksdidnot,ingeneral, havefalsesymmetry
+peaksassociated withthem,andadirectcross-
+checkwiththePatterson synthesis enabled mostof
+themtobeeliminated.
+Thelaterrounds ofcalculation proceeded fairly
+smoothly withsmallcomplications. Inthe26
+atomseriesonlytwoofthemirror-image peakswere
+higherthanthetruepeaks;inthe48atomseries,
+onlyonewas,0-6(a),whichhadaccidentally been
+inserted atthewrongmirror-image site.Although
+thenrepresented byalowpeak,itdidnotshowup
+aswellaswasexpected atthecorrect site.The
+mainproblem inthelasttwostagesproved tobe
+theselection ofthewater-molecule positions. Until
+thesewereinserted differently inthetwohalf-cells
+theatomicpositions belonging tothetwocrystal-
+lographically non-identical molecules tended to
+driftinopposite directions, making different bond-
+lengths longandshort.Thistendency wasreduced
+oncedifferent watermoleoule situations werepro-
+posed.Atthe60atomstagealltheatomsinboth
+molecules, thesodiumionsandonewatermolecule
+similarly placedinthetwohalf-cells wereinserted.
+Nearthe(b)molecule thereweretwopeaksinthe
+expected position forthewatermolecules of21and2e/X3.Nearthe(a)molecule therewerethree
+peaksof18,1-7and1-6e/AatX,YandZin
+Fig.5;thesearetooneartobesimultaneously
+occupied. Inthe63atomdistribution positions X
+andYwereweighted asifoccupied byimolecule of
+water. Asmallpeakof1e/k8stillpersisted atZ.
+Similar effectswereobserved inthelaterrefine-
+mentstagesoftheelectron-density projection on
+(010)whichincludes allhOlreflexions, notonly1
+0 5A
+Fig.5.Thearrangement ofthemolecules inthecrystalof
+sodiumcephalosporin Cprojected onthebplane.Sections
+intheelectron-density distribution, p5,areshownpro-
+jectedovertheatomicpositions. X,YandZarepossible
+watermolecule positions. Contour interval, 1e/13.The
+numbers inthisfigurecorrespond withthenumbers of
+atomsinTable1.399 Vol.79
+D.C.HODGKIN ANDE.N.MASLEN
+thosewithIeven.Whilethewatermolecules near
+the(b)molecule ofcephalosporin Cappeared to
+occupy definite positions thosenearthe(a)mole-
+culewererepresented byablurred peakcovering
+bothpositions XandYofthethree-dimensional
+distribution, together withasmallpeakatZ.
+Also,theatomsnearthedoubtful watermolecule
+belonging tothe(a)molecule appeared innegative
+regions indifference syntheses withpositive peaks
+oneitherside,asiftheytoocouldoccupy alter-
+nativepositions.
+Itseemsclearthatthereissomedisorder inthe
+arrangement ofthewatermolecules between the(a)
+typemolecules. Inanyoneasymmetric uniteither
+thesitesZandXorYbutnotallthreemaybe
+occupied bywatermolecules andthenearest atoms
+ofcephalosporin Cseemtobedisplaced alittleto
+correspond. Thisdisorder mayberesponsible for
+theweakly reflecting character ofthecrystals
+whichlimitstheX-raydata.It,intum,ispre-
+sumably duetothepacking problems posedbythe
+awkward molecular shape.
+Theprogress ofthestructure analysis asawholeisillustrated byFig.6whichshowsthegeneral
+improvement ofthereliability index,R,inthe
+different typesofstructure-factor calculation
+carried out.Onthethree-dimensional data,the
+E1~~~ 0 co
+*51p2 p3 p4p5
+50- b O
+h40 2
+30Co30~~~ou~20 U0U
+3456789101112131415161718
+Roundsofprojection refinement
+Fig.6.Reliability indexduringtherefinement ofsodium
+cephalosporin C.0,hOl,Ieven;0,hOl,Icomplete; x,
+hkl.
+Table1.Atomic co-ordinate8
+z/c Atom x/a
+0*1681 17Oi-(a)0-07350*6595 (b)0-0719
+0*2442 18N(a)0-14360*2379 (b)0'1368
+0*2480 19C(a)0-14840*7477 (b)0*1411
+0*2116 200(a)0-14760*7012 (b)0*133801552 21C(a)014690*6422 (b)0*15300*1529 22C(a)0'11270*6323 (b) 0°1188
+0-0882 23C(a)1-10940*5705 (b)0*0959o0-088194 24C(a)0*0731
+05°319 (b)0-06320-0736 25N(a) 0-05780*5719 (b)0*0486
+0*3020 26C(a)0*04030*8092 (b)0-03410*3475 27Oi-(a) 0-03710*8385 (b)0*025504057 28Oi-(a)0-0121040578 (b) 0-0094
+0-4482 29Na+(a)000810-9426 (b) 0-0078
+0-4946 j300(a') 0-024704094 + (a') 0-04250-9188 (b) 0.0375
+0-2127 310(a) 0-02180-7076 (b) 0.0377
+0-2447 J320(a) 0-01830*7449 k320(b)0.0000Atom
+1S(a)
+(b)
+2C(a)
+(b)
+3C(a)
+(b)
+4C(a)
+(b)
+5N(a)(b)
+6C(a)(b)
+7C(a)
+(b)
+8C(a)
+(b)
+90(a)(b)
+10C(a)(b)
+110(a)(b)
+12C(a)(b)
+13Cor0(a)(b)
+140orC(a)(b)
+15C(a)(b)
+16O01(a)
+(b)xla
+0-2055
+0*1990
+0*2100
+0*2056
+0*1788
+0*1744
+0*1438
+0*1403
+0-1290
+0*1276
+0*1582
+0-1525
+0-13370*1226
+0*10630-1048
+0-0840
+0'0805
+0*1818
+0*1891
+0*2182
+0-2029
+0*23030*2281
+0*25470*2523
+0*2122
+0-2179
+0-1055
+0*1083
+0*1155
+0-1103y/b
+0-988
+0*926
+0*942
+0*891
+0-821
+0*760
+0-823
+0*780
+0*952
+0*888
+0-116
+0'084
+0-110
+0-026
+0*885
+0*800
+0*717
+0*582
+0*671
+0*651
+0-875
+0'886
+0-813
+0*884
+0*017
+0*123
+0*602
+0-666
+0*714
+0-538
+0-495
+0-428y/b
+0*817
+0*726
+0*0190*927
+0-216
+0*129
+0-498
+0*340
+0*134
+0-967
+0-087
+0-875
+0*9920-145
+0-995
+0-071
+0*2260304
+0*8830*962
+0*6430-721
+0*0350-150
+0*4180*533
+0*9380.196
+0-188
+0-910
+0-660
+0-3310*044z/c
+0-1863
+0*6812
+0*03940-5266
+0*00300*4932
+0*00960*4999
+0*94970-4486
+0*91000*3945
+0-8500
+0-3591
+0*81300-3016
+0*77700*2678
+0*82120-3151
+0*83030-3193
+0*82140*3171
+0*12530-6376
+0*11330-11370*6125
+0*96340-4589
+0*05000-5000400 1961
+THEX-RAY ANALYSIS OFCEPHALOSPORIN C
+latestvalueofRis26-4%andonthehOlterm,with
+1even,19-7%.Somefurther improvement on
+thesevaluesshould bepossible, evenwiththe
+present limited data,andfurther cyclesofrefine-
+mentareatpresent beingcarried out.Inthe
+meantime, itseemsworthrecording thegeneral
+characteristics ofthemolecular andcrystal
+structure found.Theseareillustrated byFig.5,
+whichshowstheelectron-density peakscorrespond-
+ingwiththetwocephalosporin Cmolecules asthey
+appear inthe63-atom electron-density distribu-
+tion.Theatomic co-ordinates derived fromthis
+distribution arelistedinTable1.Theydefine
+bondlengths whichdeviate byamaximum of
+0-17A(inonecase)andbyanaverage of0-07A
+fromacceptable valuesforformula I.Suchdevia-
+tionsareonlytobeexpected atthepresent stageof
+structure refinement; itseemsbesttodeferafull
+recordofthebondlengths andbondanglesinthe
+molecule untilrefinement hasbeencarriedasfaras
+possible.
+Crystalandmolecular structure of
+sodiumcephalosporin C
+Inoutline thecrystal andmolecular structure
+foundforthesodium saltofcephalosporin Cis
+verydifferent fromthosefoundforsodium benzyl-
+penicillin. Cephalosporin C,inFig.5,isshownin
+thecorrect absolute configuration, unlikebenzyl-
+penicillin inthefirstpublication ofthestructure
+(Crowfoot, Bunn, Rogers-Low &Turner-Jones,
+1949).Onlythesmallregionofthetwomolecules,
+including theP-lactam ringandthedirectly
+attached atoms,iscloselysimilar. Theamidechain
+inthecephalosporin Ccrystal isturned aboutthe
+bondC-7-N-10, compared withthatofbenzyl-
+penicillin, toaposition withtheamidecarbonyl
+groupnearlynormal totheP-lactam ring.Andthe
+wholeofthesubstituted adipicacidsidechainis
+swungabouttheC-19-C-21 bondintoadirection
+exactly opposite tothatofthebenzyl groupin
+benzylpenicillin relative tothesulphur-containing
+ring.These changes. inconformation may,of
+course, represent onlytemporary molecular situa-
+tionswhicharestabilized incrystallization. They
+makepossible atypeofpacking insodium cephalo-
+sporin Creminiscent ofmanypeptide crystals
+where ashort-cell dimension of4-8-4-9A corre-
+spondswiththehydrogen-bonded distance between
+parallel peptide chains. Herethehydrogen bondis
+0
+11
+between theamide\N/groups ofsuccessive
+H
+molecules inthedirection oftheshortbaxis.
+26Thesix-membered sulphur-containing ringis
+ratherflat.AlloftheatomsC-2,C-3,C-4,N-5,
+C-10andC-15lieinaplanewithinthelimitsof
+experimental error,withthesulphur atomabout
+0-61abovetheplaneandC-60-61belowit.Thisis
+inagreement withtheformulation ofC-3-C-4 as
+adoublebond,whichisalsosupported byitsob-
+servedbondlengthof1-31A.Thechanges inthis
+partofthemolecule makeitpossible forthe
+attached carboxyl groupheretoliemuchmore
+nearly intheplaneoftheringthanitdoesin
+benzylpenicillin, where thecarboxyl group is
+turned ataboutrightanglestothefive-membered
+ring.
+ThesidechainatC-3hasthegeneral formofan
+acetoxy groupbutisnotverywelldefined. Thefour
+terminating atomsofthechainhaveanapproxi-
+mately planarconfiguration, butthelasttwoare
+indistinguishable inelectron density. Thissuggests
+thatthetwopositions areoccupied atrandom by
+oxygen andmethyl groups corresponding to
+alternative positions reached byrotation about
+/0C0/\ .Thereappear tobenostronginter-
+\CH3molecular forces inthisregion whichmight
+favour onepacking arrangement rather than
+another.
+Theterminating atomsoftheadipicacidside
+chainare,ontheotherhand,welldefined. The
+twocarboxyl oxygen atoms,bycontacting succeed-
+ingNa+ionsalongthebaxis,linkthemolecules
+together through ionicbonds. Theaminogroup,
+bycontrast withmanyaminoacidstructures, lies
+0
+about 1-27AfromtheplaneoftheCH-C7
+system inaposition atwhichitcanformahydro-
+genbondwiththeringcarboxyl groupofaneigh-
+bouring molecule, 0-16.Theco-ordination sphere
+ofthesodium ioniscompleted bycontact withthe
+second oxygen atoms,0-17ofthisgroupandby
+twowatermolecules.
+Thedifferences thatappear intheelectron-
+density mapssuggest thatthetwomolecules, (a)
+and(b),lieatslightly different angles tothe
+crystallographic bplane.Thisdifference isprobably
+tobecorrelated withthegeometrical relation ofthe
+hydrogen bondbetween theaminogroupinone
+molecule andcarboxyl groupinanother andthe
+requirements ofthesodium co-ordination sphere.
+Somemodification ofthedetailed appearance of
+theatomicpositions indicated inFig.5mustbe
+expected onfurther refinement. Butitseems
+unlikely thatthiscouldbesufficient tochange our
+interpretation ofthechemical structure ofthe
+molecule.
+Bioch.1961,79Vol.79 401
+402 D.C.HODGKIN ANDE.N.MASLEN 1961
+EXPERIMENTAL
+X-rayphotography
+Thebunit-cell dimension ofcephalosporin Cwas
+measured onanoscillation photograph whiledloo,dooland,
+weredetermined onaWeissenberg photograph showing the
+hOLreflexions together withlinesfromacopperspecimen.
+Themainseriesofreflexions wererecorded onmultiple
+filmWeissenberg photographs takenwiththebaxisas
+rotation axisandcopperK.radiation. Threedifferent
+crystals wereused,ofsize0-6x0-25x0-1mm.3forthezero
+andfirstlayers,1V5x030x0-12mm..forthesecondand
+thirdlayers,18x030x015mm.3forthefourthlayer.
+Theintensities werefirstestimated visually byMissG.
+Hurdman withsomehelpfromMissB.Prestwood and
+entirely cross-checked byE.N.M.Theywerecorrected for
+Lorentz, polarization andinclination factorsbyusinga
+programme designed byC.K.Prout.Correlation between
+thelayerlineswasmainlyeffected byusingazero-layer
+Weissenberg photograph ofacrystalrotating aboutthe
+caxis.Theintensities ofreflexions inthisfilmwere
+measured bothvisually andbymeansofadouble-beam
+microdensitometer. Correlation factorsobtained fromthis
+filmforthehOl,hll,h2landh3lreflexions wereingood
+agreement withapproximate valuesobtained fromWilson
+plotsoneachlayer.h41reflexions didnotappearonthe
+caxisphotograph; theseweregivensimilar scaleand
+temperature factors totheotherphotographs. Thewhole
+ofthedata,placedonacommon scale,werethensetonan
+approximately absolute scalebymeansofathree-dimen-
+sionalWilsonplot;Bfromthisplotwas3-5.
+Calculations
+Themainpartofthecalculations werecarriedoutonthe
+Ferranti Mercury automatic electronic computer atOxford
+withavarietyofprogrammes.
+Forthestructure factorcalculations thefcurvescalcu-
+latedforSbyViervoll &Ogrim(1949)wereemployed,
+forNa+byFreeman (1959)andfor0,NandCbyBerghuis
+etal.(1955).Thesignsandphaseanglescalculated werenot
+automatically carried overtothenextelectron-density
+calculation. Intheearlystagesofprojection analysis, a
+selection oftermswherethecalculated Scontribution was
+above05wasmade.Inthefirstthree-dimensional series,
+P1,hklterms wereonlyintroduced whereFowasabove
+0-04andthecalculated contribution ofthefouratoms
+above0-25oftheirpossible maximum.
+Inaddition, thehOltermsweregiventhesignsdeter-
+minedfromthepartlyrefinedprojection. Atp4-60atoms,
+anattempt wasmadetoderivetheatomic positions
+precisely byanineteen pointroutineanalysis ofthepeaks
+inbothp4andAp4followed byannshiftwhere nwas
+1-75.Examination oftheresultsofthiscalculation sug-
+gestedthatthepeakpositions atthisstageweretoopoorly
+resolved forreallysatisfactory operation oftheroutine,
+particularly overtheshortbondC-3-C-4.
+Interatomic distances werecalculated, withprogrammes
+devised byDrR.A.Sparks, atvarious stagesofthe
+analysis.
+Thefullrecordoftheintensity-data andstructure-
+factorcalculations preceding theevaluation ofp5isgiven
+byMaslen(1960).SUMMARY
+1.Crystals ofthesodium saltofcephalosporin
+Cweregrownslowlyfromwaterandethanol and
+foundtohaveamorecomplex monoclinic lattice
+thanthatearlierrecorded, with
+a=38-88+0-15A, b=4*99+0-04A,
+c=25-65+0-1O0A, =115°25±15',
+spacegroupC2.Theasymmetric unitcontains two
+molecules ofcephalosporin C,C16H2208N3SNa +4-5
+molecules ofwaterofcrystallization.
+2.Thecrystals werepoorlyreflecting. Thein-
+tensities ofallX-rayreflexions weremeasured
+visuallyout tothespacinglimitobserved aboutl*04'A.
+3.Fromsharpened three-dimensional Patterson
+distributions, thepositions ofthesulphur atomsand
+ofanumber ofotherpossible atomsinthecrystal
+unitwerefound.Theseotheratomsincluded fivecon-
+nectedinasix-membered ringtothesulphur atom.
+4.Further calculations, including electron-
+density distribution intwoandthreedimensions,
+enabled positions tobeassigned toalltheatomsin
+theunitcell.Thesepositions cannotbegivenwith
+greataccuracy owingtothelimiteddataavailable;
+theycorrespond closelywiththerequirements of
+formula (I)(p.393).
+5.Bothinconformation andinmolecular
+packing inthecrystalline statesodium cephalo-
+sporin Cismarkedly different fromsodium
+benzylpenicillin.
+OurthanksareduetotheRhodesTrustees forascholar-
+shipandtotheNational Research andDevelopment
+Corporation foragranttooneofus(E.N.M.). Wearealso
+grateful fortheassistance ofthestaffoftheOxford
+Computing laboratory inthecalculations carried outand
+particularly toDrJ.S.Rollett, DrR.A.Sparksand
+DrC.K.Prout(Oxford) andDr0.S.Mills(Manchester)
+fortheuseoftheircomputer programmes. Themainpart
+oftheintensity measurements weremadebyMissG.
+Hurdman andtechnical assistance overthecalculations
+wasgivenbyMrsM.Innes.
+REFERENCES
+Abraham, E.P.&Newton, G.G.F.(1961).Biochem. J.
+79,393.
+Berghuis, J.,Haanappel, I.M.,Potters, M.,Loopstra,
+B.O.,Maegillavry, C.H.&Veenendaal, A.L.(1955).
+Actacry8t.,Camb.,8,478.
+Crowfoot, D.,Bunn,C.W.,Rogers-Low, B.W.&Turner-
+Jones,A.(1949). InTheChemistry ofPenicillin, p.310.
+Princeton University Press.
+Freeman, A.J.(1959). Actacry8t.,Camb.,12,262.
+Maslen, E.N.(1960).D.Phil,Thesis:OxfordUniversity.
+Newton, G.G.F.&Abraham, E.P.(1955).Nature,Lond.,
+175,548.
+Shoemaker, D.P.,Barieau, R.E.,Donohue, J.&Lu,C.S.
+(1953).Actacry8t.,Camb.,6,241.
+Viervoll, H.&Ogrim,0.(1949).Actacry8t.,Camb.,2,277.

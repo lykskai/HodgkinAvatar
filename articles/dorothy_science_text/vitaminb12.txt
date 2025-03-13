@@ -1,0 +1,187 @@
+© 1956 Nature Publishing Group64 NATURE July 14, 1956 VOL. 176 
+is that the National Milk Testing Service with its 
+350 staff should be disbanded and its work handed 
+over to the Milk Marketing Board and the Veterinary 
+Inspectorate. It was always difficult to see any real 
+justification for the existence of the National Milk 
+Testing Service. 
+In conclusion, one feature of the reorganization 
+planned by the Wilson Committee may be pointed 
+out which will please those who, like the writer, 
+continue to maintain that the advisory and educa­
+tional services should never have been divorced and should be 'remarried' as soon as possible. The County 
+Agricultural Committees will remain based, in general, 
+on existing counties and will have, as their chief 
+concern, technical development and advisory work. 
+It would be a small and comparatively easy step to 
+add to these duties the responsibility for agricultural 
+education in the counties. A great accession of 
+strength would accrue to both services and further 
+large economies in man-power and expenditure could 
+be achieved together with greatly increased efficiency. 
+H. w. GARDNER 
+STRUCTURE OF VITAMIN 812 
+By DR. DOROTHY CROWFOOT HODGKIN, F.R.S., JENNIFER KAMPER, MAUREEN MACKAY 
+and JENNY PICKWORTH 
+Oxford 
+KENNETH N. TRUEBLOOD JOHN G. WHITE 
+Los Angeles AND Princeton 
+SINCE our communication in August I 955 1, we 
+have carried our refinement of the structure of 
+vitamin B12 a critical stage further. Four more 
+calculations of the electron density distribution have 
+been made, one for the wet B 12 crystals, two for air­
+dried B12 crystals and one for the hexacarboxylic 
+acid. 
+In Fig. I are shown the electron density peaks 
+over all the atoms of the B12 molecule as it appears 
+from our present calculations in the wet crystals. 
+(a) These peaks are rather lower than those observed 
+for the hexacarboxylic acid owing to the smaller 
+number of X-ray reflexions given by' the larger 
+molecule in proportion to its size. But they serve to 
+show the relative positions of all the atoms in space 
+of this very complex molecule within probably as 
+little as O ·3 A. Similar evidence has been obtained 
+for air-dried B 12 ; for both crystals the reliability 
+indices in the latest · structure factor calculations, 
+36·1 and 30·6 per cent, respectively, are now low 
+(b) 
+Fig. 1. .Electron density-levels from the three-dimensional electron density distribution for wet B12 crystals, calculated with terms 
+phased on 93 atoms 
+Here, and in Fig. 4, the contours are drawn in the sections of the calculated distribution parallel with the a plane, passing at or near the 
+atomic positions. Owing to the complexity of the molecule, complete contours for every atom are not given and the figure is divided 
+into two parts. (a) shows the cobalt-containing nucleus and cyanide group; (b) the benziminazole, sugar, phosphate and propanol­
+amine groups, the side chains being divided between the two. The acetamide chain on ring Bis inset. The contour interval is 1 e/A.' 
+© 1956 Nature Publishing GroupNo. 4524 July 14, 1956 NATURE 65 
+aL 
+C cobalt atom as illustrated by III. 
+Some evidence in support of this 
+has been obtained by theoretical 
+calculations2, by spectroscopic 
+measurements• and from further 
+chemical studies•. Our own evi­
+dence for this formulation is the 
+geometrical form of the nucleus, 
+which is illustrated by Fig. 3, 
+and which is closely similar in 
+all three crystals studied. The 
+interatomic distances shown in this 
+figure are derived from the latest 
+calculations on the hexacarboxylic 
+acid and are not individually very 
+precise ; in other parts of the 
+molecule distances differing by 
+as much as O • 16 A. from accepted 
+bond-lengths have been found. 
+But it is notable that in the 
+region N6-N 18 all the bond-lengths 
+are shorter than normal single 
+bond distances ; their average value, 
+1·36A., is similar to that found 
+in the phthalocyanines&. The 
+positions of 029 and 030, one or 
+other of which would be expected 
+to be out of the plane of the 
+central ring system if only five 
+double bonds were present, are 
+Fig. 2. The atomic positions found in the molecule of vitamin B,.. These are shown as 
+derived in the wet crystals, projected on the b plane. To distinguish different parts of 
+the molecule, bonds within the cobalt containing nucleus, benzimlnazole and cyanide 
+groups are shown in black, together with the cobalt and phosphorus atoms and the 
+nitrogen atoms of the nucleus, benziminazole, propanolamine and cyanide groups even more significant. In the 
+hexacarboxylic acid they appeared 
+at all stages of the refinement 
+to be within 0·2 A. of this plane, 
+but in the B12 crystals themselves 
+their positions were at first more 
+enough to indicate that the solution we have reached 
+is likely to be essentially correct. 
+The molecule that appears is very beautifully 
+composed, not far from spherical in form, with all 
+the more chemically reactive groups on its surface. 
+It is drawn in projection in Fig. 2. It is built around 
+the two planes of the benziminazole nucleus and the 
+central cobalt-containing nucleus, which are nearly at 
+right angles to each other. The ribose ring turns in 
+a position nearly normal to the benziminazole group, 
+which permits its easy linking through the phosphate, 
+propanolamine, and propionic acid residues to ring D 
+of the planar group. The benziminazole nucleus is 
+packed in on either side l?y the propionamide side­
+chains in the extended, staggered configuration, 
+attached to rings A and B ; the side-chain on ring 
+0, in the gauche configuration, lies above the ribose 
+ring. All the acetamide residues project from the 
+opposite side of the nucleus to the propionamide 
+residues, towards the cyanide group. It is an inter­
+esting point that one of them-that on ring B­
+swings round the carbon-carbon single bond from a 
+position directed away from, to one in contact with, 
+the cyanide group, when the crystals are removed 
+from their mother liquor ; this permits the rather 
+closer packing of the molecules found in the air-dried 
+crystals. Throughout the molecule, as shown by 
+Figs. I and 2, the atomic positions found conform in 
+a most convincing way with the stereochemical rules 
+established by the study of simpler molecules. 
+It now seems reasonably certain that we should 
+formulate vitamin B12, C.8H88014N 14PCo, as in I, and 
+the hexacarboxylic acid as in II, with six double 
+bonds in the inner ring of the central nucleus ; these 
+can form a resonating system by intervention of the confused, particularly 020• As a critical test, 
+accordingly, this atom was omitted from the 
+phasing calculations used for the latest electron 
+distribution calculated for air-dried B12• It has 
+now appeared, as Fig. 4 shows, as a small but 
+clearly defined peak at a site which is closely 
+equivalent to that found in the hexacarboxylic 
+(I) 
+© 1956 Nature Publishing Group66 NATURE July 14, 1956 VOL. 178 
+acid along the line Co to Cs. There is still some 
+departure from planar character in this region of the 
+inner nucleus in both wet and air-dried crystals, but 
+this seems to affect N 10, C9 and C8 as much as C29• 
+If real, it may be a consequence of a small amount 
+of compression from the benziminazole nucleus, 
+which is in contact with these atoms. It is, in any 
+event, not of the geometrical form that would be 
+expected if Cs were reduced. 
+The crystal structures of the different B12 com­
+pounds are still not completely solved ; many of the 
+water molecules which occupy space between the 
+vitamin molecules have been plac,ed, but not all. 
+Still further small adjustments are to be expected 
+on continued refinement of the atomic positions 
+(III) Fig. 3. Interatomic distances found in the inner nucleus of the 
+hexacarboxylic acid, derived from nine refinements of the cal­
+culated electron density distribution 
+Fig. 4. Electron density peaks over the nucleus in air-dried 
+vitamin B.,, derived from the three-dimensional electron density 
+distribution calculated with terms phased on 95 atoms (Princeton 
+data) 
+observed. We hope that future calculations will add 
+still greater precision and certainty to our knowledge 
+of the structure of the molecule. 
+The latest series of calculations on wet B12 were 
+carried out on the University of Manchester electronic 
+computer through the generous co-operation of Dr. 
+D. W. J. Cruickshank, Miss Diana Pilling and 
+Mr. J. F. P. Donavan, of the University of Leeds. 
+Those on air-dried B12 and on the hexacarboxylic 
+acid were made on the National Bureau of Standards 
+automatic computer in Los Angeles, supported by 
+the United States Office of Naval Research. 
+Again we acknowledge the very generous support 
+given this research by the ;Nuffield Foundation, and 
+materials and help given us by Dr. E. Lester Smith, 
+Glaxo Laboratories, Ltd., and Dr. K. Folkers, Merck 
+Laboratories. Two of us (J. P. and J. K.) received 
+grants from the Department of Scientific and Indus­
+trial Research. 
+1 Nature, 176, 325 (1955). 
+' Orgel, L. E. (private communication). 
+• Beaven, G. H., and Johnson, E. A., Nature, 176, 1264 (1955). 
+• Todd, A. R. (private communication). 
+• Robertson, J. M., J. Chem. Soc., 1195 (1936). Robertson, J.M., and 
+Woodward, I., ibid., 219 (1937). 

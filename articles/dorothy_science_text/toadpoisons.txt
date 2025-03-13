@@ -1,0 +1,167 @@
+2018 Dorothy Crowfoot andH.Jensen Vol. 58
+4.Some preliminary work ontheoxidation of
+ ,ß-ethylenic nitriles isdescribed.
+5.Whereas the condensation ofethylene,
+propylene and -butylene dichlorides with phenyl-acetonitrile gives cyclopropanecarbonitriles, the
+useofisobutylene dichloride under the same condi-
+tions leads totheformation ofanethylenic nitrile.
+Troy, New York Received July 28,1936
+[Contribution from theDepartment ofMineralogy, Oxford University, and theLaboratory forEndocrine
+Research, theJohns Hopkins University]
+TheMolecular Weight ofCinobufagin
+ByDorothy Crowfoot and H.Jensen
+Ithas been suggested1 that cinobufagin (C2s-
+H320e) canbeconsidered astheacetyl derivative
+ofanunsaturated hydroxylactone, C23H30O6, and
+apparently isclosely related chemically tocertain
+plant aglucones which are also C23derivatives.1
+The x-ray crystallographic examination ofthis
+principle byCrowfoot2 hasgiven values, however,
+which donot agree with theproposed formula
+C25H32Oe andwhich indicate that thecompound
+probably contains twenty-six carbon atoms.
+Inorder tocheck these results, x-ray measure-
+ments have now been made ontwoderivatives of
+cinobufagin, namely, acetylcinobufagin and cino-
+bufagone. The measurements obtained onthese
+compounds provide two independent determina-
+tions ofthemolecular weight ofcinobufagin and
+both more nearly agree with theformulas derived
+from C26. Thus themolecular weight ofacetyl-
+cinobufaginwasfound tobe487=*=10,thecalcu-
+lated values fortheacetyl derivatives ofC26H34O6
+and C25H320b being, respectively, 484 and 470.
+Cinobufagone has amolecular weight of443=*=10
+which isinagreement with theformula C26H32O6,
+440, and not C^HsoOe, 426. Details ofthecrys-
+tallographic measurements aregiven below.
+The analytical values previously reported for
+cinobufagin and certain ofitsderivatives3 agree
+with theformula C26H340e. This new formula
+would bring cinobufagin into very close relation-
+ship tobufotalin (present inthesecretion ofBufo
+vulgaris) towhich Wieland and co-workers4
+assigned theformula C26H360e and which they
+showed canbeconsidered asanacetyl derivative
+of anunsaturated hydroxylactone (C24H34O5).
+Itmight bementioned, inconnection with this,
+that theresults ofthepharmacological studies by
+(1)Jensen, Science, 75, 53(1932).
+(2)Crowfoot, Chemistry Industry, 54,568 (1935).
+(3)Jensen and Evans, Jr.,J.Biol. Chem., 104, 307 (1934).
+(4)Wieland and Hesse, Ann., 517, 22(1935).Chen and Chen6 ontheaction ofthevarious
+animal cardiac principles indicate that their
+physiological properties show more resemblance
+tothephysiological action ofscillaridin than of
+other plant aglucones. Chemical researches by
+Stoll and co-workers6 have shown that scillaridin
+isaC24derivative, while most other plant aglu-
+cones have been found tobe C23derivatives.
+The investigation ofWieland and co-workers4 on
+bufotalin indicates that thelactone ring inthe
+animal cardiac principles isasix-membered ring
+probably similar tothat found byStoll and co-
+workers6 forscillaridin. Inview ofourfindings
+onthemolecular weight ofcinobufagin, itappears
+that arenobufagin and regularobufaginare also
+probably C24rather than C23derivatives asorigi-
+nally suggested byJensen.7 Further research on
+the exact chemical composition ofthese two
+principles hasbeen undertaken inorder toanswer
+thisquestion.
+Itshould beadded that thecrystallographic
+examination ofcinobufagone and acetylcino-
+bufagin alone would notexclude molecular weights
+oftwice themagnitude deduced since theasym-
+metric unit ineach case contains two C2emole-
+cules. This possibility, however, isexcluded by
+theoriginal measurements oncinobufagin itself
+inwhich thesingle molecule istheasymmetric
+unit.
+The actual crystal structures indicated bythe
+measurements forcinobufagin, acetylcinobufagin
+andcinobufagone donot seem tobear very simple
+relation tooneanother ortothose ofanyofthe
+compounds inthecardiac aglucone series sofar
+examined. This isnotsurprising since theintro-
+duction ofmany hydroxyl groups isknown to
+produce considerable variation inthecrystallo-
+(5)Chen and Chen, J.Pharmacol., 49,561(1933).
+(6)Stoll, Hofmann and Peyer, Helv. Chim. Acta, 18,1247 (1935).
+(7)Jensen, This Journal, 67,1765 (1935).
+Downloaded via UNIV OF CALGARY on February 20, 2025 at 00:10:15 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+Oct., 1936 Cyclic Azo Compounds from 2,2'-Diaminodiphenyls 2019
+Crystallographic Data
+Compound Space group a b cNo.
+in
+cellNo.
+asymmetricunit Density Mol. wt.
+Cinobufagin P2i2i2i 7.61 a 15.79 7 19.45 ß 4 1 1.261 447 ±10
+Acetylcinobufagin C222i 28.74  8.14 ß 44.76 a 16 2 1.229 487 ±10
+Cinobufagone P2i2i2i 21.79 ß 8.62 7 24.22 a 8 2 1.280 443±10
+Acetylcinobufagin: fineorthorhombic needles elongated along (010), (001) dominating. Birefringence low.
+Cinobufagone: small orthorhombic needles elongated along (010) andgrowing least on(001). The crystals appear
+partly redissolved and show curved surfaces instead ofthe cface. Birefringence low.
+The densities ofboth compounds were determined byflotation inzinc sulfate solutions, thecentrifuge being used to
+hasten equilibrium. These arecorrect to±0.4%. Theprobable error onthex-ray dimensions isnot more than ±0.5%.
+graphic arrangement ofthemolecules asisfound,
+forexample, inthestudy ofthe sugars. Both
+thepresence ofthehydroxyl groups andtheortho-
+rhombic symmetry shown bythecrystals ofthese
+cinobufagin compounds render itimpossible to
+make deductions inregard tothe molecular
+arrangement andmolecular dimensions from the
+combination oftheoptical with thecrystallo-
+graphic data. One canonly state that thedata
+arenotincompatible with formulas ofthecardiac
+aglucone type andforcomparison reference may
+bemade tothe complex crystal structures as-sumed bystrophanthidin and certain ofits
+derivatives.
+Summary
+The determinations ofmolecular weights of
+cinobufagin and two ofitsderivatives, acetyl-
+cinobufagin andcinobufagone, indicate that cino-
+bufagin has the composition CseHgiOg. The
+analytical data previously reported forcinobufa-
+ginandcertain ofitsderivatives agree with this
+new formula.
+Oxford, England
+Baltimore, Maryland Received July 27,1936
+[Contribution from theDepartment ofChemistry oftheUniversity ofAlberta]
+The Formation ofCyclic Azo Compounds from 2,2'-Diaminodiphenyls
+ByR.B.Sandin and T.L.Cairns
+The compound 4,4'-diarsonodiphenyl1,2has
+been prepared from benzidine, according tothe
+method ofBart. Inanattempt toprepare the
+isomeric 2,2'-diarsonodiphenyl byananalogous
+procedure, theauthors ofthis paper have found
+that when tetrazotized 2,2'-diaminodiphenyl is
+treated with arsenious oxide insodium carbonate
+solution, aconsiderable part ofthetetrazotized
+compound isconverted into o,o'-azodiphenyl.3
+Theauthors believe ittobeageneral reaction. It
+isalso believed that thearsenite functions asa
+reducing agent instead ofproceeding according to
+thetypical Bart reaction.
+The proposed equation forthisreaction is
+(1)Bauer andAdams, This Journal, 46,1925 (1924).
+(2)Hill, ibid., 46,1855 (1924),
+(3)This compound isalso called phenazone andodiphenylene-
+azone [T&uber, Ber.t 24, 3081 (1891)). Bigelow [Chent. Rev., 9,
+117 (1931)] has suggested the name cyclic o,o-azoxydiphenyl, in
+place ofdiphenazonoxyd. For that reason itmight, perhaps, be
+better tocall phenazone oro-diphenyleneazone, cyclic o,o-azodi-
+phenyl.MCI
+-]-Na.-iAsO:, -J-Na,COs
+,N,C1
+/+N,+CO,+2NaCl +Na3AsO,
+Experimental
+Cyclic o,o'-Azodiphenyl.—In amixture of250 cc.of2N
+hydrochloric acid and 150 cc.ofwater, 18.4 g.of2,2'-
+diaminodiphenyl was dissolved. The solution was cooled
+to0°,and toitwasadded gradually 100 cc.of2Nsodium
+nitrite and anexcess ofnitrite wasmaintained forthirty
+minutes. Theclear solution ofthetetrazotized compound
+

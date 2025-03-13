@@ -1,0 +1,546 @@
+484 T.C.S. Perkin I 
+Crystal and Molecular Structure of a Synthetic Compound Related to the 
+Penicillins and Cephalosporins, 3- Benzyl7-t- Butyl2,2- Dimethyl -8-oxo-4- 
+thia-I -aza-GaH- bicyclo[4.2.0]octane-3~,7a-dicarboxylate 
+By Kalyani Vijayan,*t B. F. Anderson, and D. C. Hodgkin, Laboratory of Molecular Biophysics, Department 
+of Zoology, South Parks Road, Oxford OX1 3PS 
+An intermediate obtained by Lowe and Ramsay in the synthesis of a homopenicillin has been shown by X-ray 
+analysis to have a structure including a p-lactam ring fused to a thiomorpholine ring carrying 2.2-dimethyl and 
+3-benzyloxycarbonyl substituents. The compound crystallises in the space group P2,lc. with Z = 4 in the unit 
+cell of dimensions a = 19-1 60, b = 6.369, c = 19.052 A, p = 11 1.59". The crystal structure was solved from 
+diffractometer data by the symbolic addition method and refined to an R value of 5.16% for 2697 independent 
+reflections by iterative block-diagonal least-squares procedures. The central six-membered ring exists in a 
+distorted chair form and is oriented at 140.8" to the fused p-lactam ring. 
+ALTHOUGH X-ray crystallographic measurements were 
+used early to find the chemical structures of both 
+penicillins and cephalosporins, rather few accurate X-ray 
+analyses have been made since in either ~eries.l-~ The 
+present study began as an aid to the synthetic experi- 
+ments of Lowe and Ramsay to define the structure and 
+stereochemistry of the homopenicillins they had ob- 
+tained. The particular stereoisomer investigated was 
+found not to have the gross structure (I), as at first 
+hoped for, but to correspond with structure (11), with 
+P2, BJO~CCH-CH s 
+11 I 4c-N CHCO2CHZPh 
+0 \C' 
+Me' 'Me 
+(IT) 
+the benzyloxycarbonyl side-chain and dimethyl group 
+transposed. As would be expected on a number of 
+grounds, the compound is biologically inactive. It is 
+all the same interesting to compare details of the 
+t Present address: Department of Physics, Indian Institute of 
+* D. C. Hodgkin and E. N. Maslen, Biochem. J., 1961,79, 393. 
+R. D. Diamond, D. Phil. Thesis, University of Oxford, 1963. 
+R. M. Sweet and L. F. Dahl, J. Amer. Chew. SOL, 1970, Science, Bangalore 12, India. 
+92, 6489. molecular geometry it presents with that observed in 
+both biologically active and inactive B-lactams. 
+EXPERIMENTAL 
+Thin transparent needle-like crystals were supplied by 
+Lowe and Ramsay and were recrystallised as larger, acicular 
+plates by solution in ether and precipitation with light 
+petroleum. The unit-cell dimensions were determined from 
+preliminary measurements on oscillation and Weissenberg 
+photographs and refined on a Hilger Watts four circle 
+diff ractometer. 
+Crystal Data.-C,,H,,NO,S, M = 405.5. Monoclinic, 
+a = 19.160 f 0.003, G = 19-052 & 
+(by flotation), 2 = 4, D, = 1.243, F(000) = 216. Space 
+group P2,/c. Cu-K, radiation, A = 1.5418 A. 
+Intensity data were collected from a crystal 1 mm long 
+and ca. 0.40 mm wide on a computer-controlled Hilger and 
+Watts four-circle diffractometer fitted with a scintillation 
+counter, by use of nickel-filtered copper K, radiation. The 
+crystal was mounted with the b* axis parallel to the 9 axis. 
+The X-ray intensities were measured using the 0-20 scan, 
+in accordance with the ordinate analysis procedure described 
+by Watson et aZ.6 A total of 3353 independent reflections 
+were measured within the range 28 < 130°, of which 2697 
+reflections had integrated intensities > ~(1). The data 
+were corrected for Lorentz and polarisation factors and also 
+for the crystal-shape factor.6 
+Structure Determination.-The structure was solved by 
+the symbolic addition procedure.' Normalised structure 
+factors, E~,N, defined as b = 6.369 f 0-002, 
+0.003 A, p = 111.59 f O*lOo, U = 2161.9 Hi3, D, = 1.221 
+[ma = 16&12/€ cp 
+j=1 
+* G. Lowe and M. V. J. Ramsay, preceding paper. 
+ti H. C. Watson, D. M. Shotton, J. M. Cox, and H. Muirhead, 
+A. C. T. North, D. C. Phillips, and F. S. Matthews, Acta 
+I. L. Karle and J. Karle, Acta Cryst., 1966, 21, 849. Nature, 1970, 225, 806. 
+Cryst., 1968, A, 24, 351. 
+Published on 01 January 1973. Downloaded by University of Alberta on 2/19/2025 10:33:51 PM. 
+View Article Online
+ / Journal Homepage
+ / Table of Contents for this issue
+1973 
+where E = 2 for the hOE and the OkO data and E = 1 other- 
+wise, were calculated using the temperature factor and the 
+absolute scale-factor derived from Wilson statistics.8 The 
+distribution of the E values and the other relevant statistics 
+presented in Table 1 agree well with the corresponding 
+theoretical values for centrosymmetric structures. 
+TABLE 1 
+E Statistics 
+Calc. Obs. 
+0.798 0.826 p- lI> 0-968 0-949 
+<E > 1.0 1.010 
+% Data with 
+E >1 32.0 30-82 
+E >2 5.0 5.06 ll E >3 0.3 0.27 
+A 2% listing of interactions was computed Q using all 
+reflections with lEhl 2 1.7. The phases of three reflections 
+with large lEhl values and large numbers of interactions were 
+fixed to specify the origin. In addition, five more symbolic 
+phases were assigned as follows : 
+it1 k 
+4n2 
+7 11 3 
+7 84 
+8@6 
+61_06 
+7 19 2 
+4 11 1 
+4 86 lEhl 
+4.195 
+3-802 
+3.315 
+3.361 
+3.163 3.382 
+2.950 
+2.599 Sign + + + 
+A 
+B 
+C 
+D 
+E .Origin 
+' Symbols 
+The criterion used for accepting any new sign from the 
+relation : SEh - S EkEbk was that the probability: z 
+Phases of 267 out of 291 reflections with lEhl 1-7 could 
+thus be determined from the starting set. In the course 
+of the sign determination, relationships of the type 
+C = AB, E = --A, D = --A, A = + and E = +, were 
+indicated very strongly. Hence, a three-dimensional 
+Fourier map was computed for the sign combination, 
+A = +, B = +, C = +, D = -, and E = - using the 
+267 E values as coefficients. The position of the sulphur 
+atom was clearly indicated in the E map. Identification of 
+other atomic sites was, however, not unambiguous, as 
+there were nearly 65 peaks which appeared as high as might 
+be expected for the lighter atoms in the molecule.* It was 
+then decided to repeat the symbolic addition procedure 
+using reflections with lEhl 2 1.4 and a lower acceptance 
+limit of 99.55% for the probability of any interaction. 
+With these modifications, the signs of 472 reflections were 
+determined by use of a computer pr~grarnme.~ It was 
+noticed that the signs of the 267 reflections used for the 
+earlier E map remained exactly the same. In the E map 
+computed with 472 reflections, the sulphur atom came up 
+at essentially the same position as in the first map and the 
+positions of all the non-hydrogen atoms other than those in 
+the t-butyl group could clearly be identified. There were 
+* It was realised later that, of these 66 peaks, 43 were spurious 
+and had heights > the lowest peak height for a non-methyl 
+atomic site in the molecule. t Final observed and calculated structure factors and thermal 
+parameters are listed in Supplementary Publication No. SUP 
+20648 (19 pp., 1 microfiche). For details see Notice to Authors 
+No. 7 in J. Chem. SOC. (A), 1970, Issue No. 20. four spurious peaks in the map, the heights of which were 
+of the order of that of the lowest peak for a real non-methyl 
+atomic site. 
+A structure-factor calculation with the 25 atoms located 
+from the E map gave R 30.34%. An overall temperature 
+factor of 4 Hi2 was used. Two rounds of block-diagonal 
+least-squares refinement with individual isotropic tem- 
+perature factors reduced R to 23.96%. The carbon atoms 
+in the t-butyl group could also be located from an electron- 
+density map computed at this stage. The structure was 
+further refined to R 16.31% in five more structure-factor 
+least-squares cycles. Reflections measuring less than three 
+times the respective estimated standard deviations were 
+omitted from subsequent calculations and anisotropic 
+temperature factors were introduced. Three further SFLS 
+cycles brought R to 10.07y0. A difference-Fourier map was 
+then synthesised and all the hydrogen atoms except those 
+belonging to the t-butyl group (18 out of 27) could be 
+located, One more refinement cycle including these 18 
+hydrogen atoms reduced R to 5.67%. The remaining 9 
+hydrogen atoms could also be located from a new difference- 
+Fourier map. Five more cycles of SFLS calculations were 
+carried out and the final R was 5.16%. In the foregoing 
+calculations, hydrogen atoms were refined isotropically, and 
+atomic scattering factors were taken from ref. 10. In the 
+final least-squares cycle, the indicated shifts for all but six 
+parameters were less than the corresponding standard 
+deviations. Six hydrogen atom parameters, however, had 
+least-squares shifts lying between o and 20. 
+A residual electron-density map was synthesised at the 
+end of the refinement and the largest density in both the 
+positive and the negative regions was (0.1 e.7 
+RESULTS AND DISCUSSION 
+The final positional parameters of the atoms are given 
+in Table 2. Stereoscopic views of the molecule are 
+shown in Figure 1, and the bond lengths and bond 
+angles of the non-hydrogen atoms in Figures 2(a) and 
+2(b). Those involving the hydrogen atoms are recorded 
+in Table 3. The standard deviations of the bond 
+lengths and angles were calculated ignoring the off- 
+diagonal terms of the inverse matrix and should probably 
+be increased by a factor of ca. 1.5. The stereochemical 
+form of the molecule is such that the hydrogen atom at 
+C(7) is trans to the hydrogen atom at C(6), as had been 
+established by n.m.r. spectroscopy,4 and also to that at 
+C(3). The configuration of the carbon chains attached 
+to the p-lactam ring in this particular isomer is therefore 
+unlike that found in the biologically active natural 
+compounds. 
+Dimensions throughout most of the molecule are much 
+as would be expected.ll There is a tendency for bond 
+lengths in the t-butyl group and benzene rings to be 
+smaller than normal, perhaps due to inaccuracies in 
+atom placing associated with the high thermal para- 
+meters of end groups in the molecule. Table 4(c) shows 
+the planarity of the benzene ring. 
+* A. J. C. Wilson, Nature, 1942, 150, 152. 0. J. R. Hodder, C. K. Prout, and J. S. Rollett, 1968, un- 
+International Tables for X-Ray Crystallography,' vol. 111, pub1i;hed results. 
+Kynoch Press, Birmingham, 1962. 10 
+l1 Clzem. SOC. Specia2 Publ., No. 11, 1958. 
+Published on 01 January 1973. Downloaded by University of Alberta on 2/19/2025 10:33:51 PM. 
+View Article Online
+486 J.C.S. Perkin I 
+The six-membered thiomorpholine ring has a non- 
+planar conformation approximating to the chair form of 
+cyclohexane [cf. Table 4(a)]. Its geometry is illustrated These may be compared with the angles found in cyclo- 
+hexane derivatives which vary between 56 and 58°.12p13 
+The bond lengths are normal except for C(5)-C(S), which kk 
+C (15) FIGURE 1 Stereoscopic view of the molecule a5 seen along the [loo] direction 
+c i24)\.385, c (2 5) \ 1.365 
+C (26) C (161 C (1 5)a \,," 131 
+O(121 C(13)- 147L 
+1.512 
+c (2) C(141 
+1.530 
+C(17) (a) 
+in Figure 3 which combines two two-dimensional pro- 
+jections of the ring and also records the dihedral angles. 
+53.0 
+V(5) -54.5 
+S(4) 
+FIGURE 3 A combined view of two projections of the six- 
+membered ring containing atoms N(l), C(2), C(3), S(4), C(6), 
+and C(6) is a little short (1-51 A) compared with the value accepted 
+for C(sP3)-C(s$3) bonds (1.54 A). 
+The p-lactam ring is the one part of the molecule 
+common to all the cephalosporins and penicillins. Here 
+it is closely planar as shown in Table 4(b) and inclined to 
+the mean plane of the thiomorpholine ring at an angle 
+of 140.8". The bond C(7)-C(8) appears a little 
+lengthened to 1.54 A, a distance similar to those observed 
+in cyclobutane and its derivatives14Je and in several 
+other P-lactam~.~,~~~~ The relatively short N(l)-C(8) 
+bond (1.35 A) is consistent with normal amide reson- 
+12 W. Klyne and V. Prelog, Experientia, 1960, 16, 621. 
+13 H. J. Geise, C. Altona, and C. Romers, Tetrahedron, 1967, 
+l4 J. D. Dunitz, Acta Cryst., 1949, 2, 1. 
+l5 R. Parthasarathy, Acta Cryst., 1970, B, 26, 1283. 
+16 J. D. Dunitz and V. J. Schomaker, J. Chem. Phys., 1952, 23, 439. 
+20, 1703. 
+Published on 01 January 1973. Downloaded by University of Alberta on 2/19/2025 10:33:51 PM. 
+View Article Online
+1973 487 
+TABLE 2 TABLE 3 (Continued) (b) Angles 
+Final positional co-ordinates of atoms in fractional units, s(4)+(3)-H(3) 103*3(2) H(162)-C( 16)-H(163) 118.3(4) 
+with estimated standard deviations in parentheses C(19)-C(3)-H(3) 108.1 (2) C(3)-C(17)-H(171) 109*2(2) 
+X 
+0*2263( 1) 
+0.2332(1) 
+0*3145(1) 
+0.3468(0) 
+0-32 96 (2) 
+0-2499(2) 
+0.23 7 7 (2) 
+0-2168(2) 0.1 962 (2) 
+0.1797 (2) 
+0-1824( 1) 
+0.1 242 (1) 
+0*0612(2) 
+0.01 83(3) 
+0.01 62 (2) 
+0.09 12 (3) 
+0.1 7 93 (2) 
+0.2 148(2) 
+0*3737( 1) 
+0*3784( 1) 
+0.4235( 1) 
+0.4910 (2) 0-5500(1) 
+0*6088(2) 
+0*6677( 2) 
+0.6674(2) 
+0- 6084( 2) 
+0*5600(2) 
+0*3170(15) 
+0.3631 (19) 
+0-3388 (1 7) 
+0.2 145 (15) 
+0*2853(18) 
+0*0486(28) 
+-0*0092(31) - 0.03 13(29) 0.0009(28) 
+- 0.0296(26) 
+0-0476 (22) 
+0.0502 (26) 
+0.1 186 (2 9) 
+0.1232 (29) 
+0*1850(19) 
+0.1301 (21) 
+0.1 86 1 ( 18) 
+0-2479(20) 
+0.221 7( 18) 
+0-1 617(20) 
+0-5074(26) 
+0.4796(20) 
+0-6043 (20) 
+0.71 12( 19) 
+0-7076( 19) 
+0.6058(19) 
+0.6 102 (2 1) Y 
+0.3468(3) 
+0-3213(4) 
+0.3767(4) 
+0*6327( 1) 
+0.59 7 7 (5) 
+0.5 3 1 9 (5) 
+0.3939(5) 0.21 
+85(6) 
+0.0390 (4) 
+0.4447 (5) 
+0.3 8 15 (4) 
+0*5580(4) 
+0.6361 (6) 
+0-7629( 9) 
+0.4539(9) 
+0.7743(9) 0.4722 (6) 
+0.0948 
+(5) 
+0.2210(4) 
+0*1371(3) 
+0.1953(3) 
+0*0778(6) 
+0.136 1 (5) 
+0-0003( 6) 
+0.0526(6) 0.24 10 (6) 
+0-3786 (6) 
+0*3256(5) 0*3907(42) 
+0.4905(57) 0*7351(55) 
+0.6503 (45) 
+0*3638(49) 
+0.8628 (78) 
+0.6486 
+(88) 
+0-8224(78) 
+0.3661 (79) 
+0*5058(72) 
+0.3 6 1 6 (62) 
+0.8435 (76) 
+0.67 84 (82) 
+0- 8740( 81) 
+0.4557 (5 7) 
+0-4334(57) 
+0- 6257 (57) - 0*0069(59) 
+0*0794(53) 
+0.0506 (58) 
+0.1 116(69) - 0.0695(63) - 0.1344(61) - 0*0507(56) 
+0.2 738 (56) 
+0*5206(60) 
+0.4226 (60) z 
+0.3931 (1) 
+0-47 1 6 (1) 
+0.5228( 1) 
+0*6033( 0) 
+0.4042(2) 
+0.3601 (2) 
+0-2 8 95 (2) 
+0-3334(2) 
+0.3 192 (1) 
+0.2 146 (2) 
+0*1559(1) 
+0*2214( 1) 
+0.1 553(2) 
+0*1932(3) 
+0.1 0 80 (3) 
+0*4887(2) 
+0*4853(2) 
+0.5222(1) 
+0.4675 (1) 
+0-5925( 1) 
+0.601 2( 2) 
+0.6759( 1) 
+0.7082 (2) 
+0.7 742 (2) 
+0.8083(2) 
+0*7770(2) 
+0-7110(2) 
+0.57 6 1 (1 5) 
+0-3954(19) 
+0.3 8 7 9 ( 1 8) 
+0.351 5( 15) 
+0*2827(17) 
+0.2 3 1 8 (2 9) 
+0*2166(30) 
+0.153 7 (2 8) 
+0.1 42 2 (2 7) 
+0*0663(26) 
+0.0903(22) 
+0*0707(27) 
+0.07 8 8 (2 8) 
+0.1468(28) 
+0.5436 (2 1) 
+0-4574(20) 
+0.4793(18) 
+0-4749( 19) 
+0.5393 (20) 
+0- 4489 (20) 
+0.6541(26) 
+0*5946(20) 
+0*6808(20) 
+0.7969( 19) 
+0.8563(20) 
+0- 7983 ( 1 9) 
+0.6840(21) 0.1 11 l(2) S(4)42(6):H (51 j 
+S(4)-C(S)-H(52) 
+C( 6)-C (6)-H( 52) 
+C( 6)-C (5)-H (51) 
+H( 6 1)-C(5)-H (52) 
+C(6)-C(6)-H(6) 
+C( 7)-C (6)-H( 6) 
+C(6)-C(7)-H( 7) 
+C( 1 O)-C( 7)-H( 7) 
+C( 13)-C(14)-H( 141) 
+C( 13)-C( 14)-H( 142) 
+C( 13)-C( 14)-H( 143) 
+H (1 4 1 )-C (1 4)-H( 142) 
+H( 141)-C( 14)-H( 143) 
+H(142)-C(14)-H(143) 
+C( 13)-C(16)-H( 151) 
+C( 13)-C( 15)-H( 152) 
+C( 13)-C( 15)-H (1 63) 
+H( 15 1 )-C( 16)-H( 162) 
+H( 15 1)-C( 15)-H (1 53) 
+H( 152)-C( 15)-H( 153) 
+C( 13)-C( 16)-H( 16 1) 
+C( 13)-C( 16)-H( 162) 
+C( 13)-C (1 6)-H( 163) 
+H( 161)-C( 16)-H( 162) 
+H( 16 1 )-C( 16)-H( 163) i12.6(2j 
+104*0( 2) 
+1 0 9.9 (2) 
+107.6 (2) 
+1 1 1.2 (3) 
+111*8(2) 
+114*5( 2) 
+11 1-9(2) 
+108-4( 2) 
+115.3(3) 
+105*6(2) 
+1 1 1 - 6 (4) 
+1 15.7 (3) 
+95.1(3) 
+111-0(3) 
+110-8(3) 
+11 1-4(2) 
+110*4(4) 
+105.1 (4) 
+107*9(4) 
+108 l(3) 
+109.8(3) 
+100*9(3) 
+107.6 (3) 
+111.7(4) 111*2(2) c (3j-c (1 7 j-H (1 72 j 107.2 (3j 
+C(3)-C(17)-H(173) 116.4(2) 
+H (1 7 1 )-C ( 1 7)-H( 1 72) 109- 1 (3) 
+H( 171)-C( 17)-H( 173) 108*0(3) 
+H(172)-C( 17)-H( 173) 107*7(3) 
+C(3)-C(18)-H(181) 112*6(2) 
+C (3)-C( 18)-H ( 182) 108.6(2) 
+C(3)-C( 18)-H( 183) 1 1 1.9(2) 
+H (1 8 1)-C( 18)-H( 182) 107.2 (3) 
+H ( 181)-C ( 18)-H( 183) 103*5(3) 
+H( 182)-C( 18)-H( 183) 112.9(3) 
+0(21)-C(22)-H(221) 108*9(3) 
+0(21)-C(22)-H(222) 109*8(2) 
+C(23)-C(22)-H(221) 113*1(3) 
+C(23)-C(22)-H(222) 114*9(2) 
+C(23)-C(24)-H(24) 114.2(3) 
+C (25)-C (24)-H (24) 124.7 (3) 
+C( 2 4)-C (25)-H (26) 1 1 8.9 [ 3) 
+C (2 6)-C( 26)-H (25) 1 2 1 -2 (2) 
+C (26)-C (2 6)-H(26) 1 19.9 (2) 
+C( 27)-C( 26)-H( 26) 120-0 (3) 
+C (26)-C(27)-H (27) 1 23.6 (3) 
+C (28)-C( 2 7)-H (2 7) 1 1 6.5 (3) 
+C(27)-C(28)-H(28) 122.9(2) 
+C (2 3)-C (28)-H (2 8) 1 16.1 (3) 
+TABLE 4 
+Displacements (A) from their mean planes of the atoms 
+belonging to : 
+(a) The thiamorpholine ring 
+S(4) 0.316, N(l) -0.118, C(2) 0.195, C(3) -0.298, C(5) -0.286, 
+C(6) 0.190 
+(b) The p-lactam system 
+(G) The benzene ring N(4) -0.005, C(6) 0.004, C(7) -0.004, C(8) 0.003, 0(9) 0.001 
+C(23) 0.005, C(24) -0.004, C(25) 0.000, C(26) 0.003, C(27) - 0.002, C(28) - 0.002 
+TABLE 3 
+Bond lengths (A) and bond angles (deg.) involving hydrogen 
+atoms, with estimated standard deviations in paren- 
+theses 
+(a) Distances 
+1-OO(0-03) C( 17)-H ( 17 1) 1.02 (0.04) 
+C(3)-H(3) 0.99 (0.04) C(17)-H(172) 0.95(0.04) C(6)-H(5 1) 
+C( 17)-H( 172) 1-01(0*04) C(5)-H(62) 0*97( 0.04) 
+C( 18)-H( 181) 0*98(0*04) 0.99 (0-03) 
+0.99 (0.03) C( 18)-H(182) 0*99(0*04) 
+C(18)-H(183) 1-04(0.04) C 14)-H(141) 0*98(0-06) 
+C[14)-H( 142) 1-09(0-00) C(22f-H(221) 1.08(0.05) 
+C(14)-H(143) 1*04(0*06) C(22)-H(222) 0*96(0*04) 
+C(15)-H(161) 0-94(0.06) C (24)-H( 24) 0.99 (0- 04) 
+C(16)-H( 162) 1-03(0.06) C(25)-H(25) 1*02(0*04) 
+C( 1 S)-H( 1 53) 1 * 02 (0.04) C(26)-H(26) 0.99(0.04) 
+C(26)-H( 161) 0*96(0.05) C (2 7)-H (2 7) 1 -00 (0.04) 
+C(16)-H( 162) 1*08(0*06) C(28)-H(28) 0.97(0.04) FIGURE 4 Arrangement of the molecules in the unit cell as 
+C( 16)-H( 163) 0*99(0*06) seen along the [OlO] direction 05 
+oc .o 
+.N wwW 
+C(7)-H(7) 
+o%A 
+Published on 01 January 1973. Downloaded by University of Alberta on 2/19/2025 10:33:51 PM. 
+View Article Online
+488 J.C.S. Perkin I 
+ance.17 Sweet and Dahl have recently suggested that 
+there is a correlation between biological activity and the 
+hybridisation state of the ring nitrogen atoms N(1). In 
+the five biologically active compounds so far studied at 
+all accurately, N(1) is the apex of a pyramid raised 
+0-24.4 above the atoms attached to it. In our 
+compound, N(l) is in a more nearly planar environment, 
+only 0.067 A above the attached atoms, very similar to 
+the distance, 0.065 A, found by Sweet and Dahl in the 
+inactive A2 cephalosporin derivative they studied. 
+However the number of structures so far measured in 
+the active and inactive groups is too small for any firm 
+statistically significant deduction to be made. 
+Figure 4 shows the arrangement of the molecules in the crystal as seen along the [OlO] direction. The 
+molecule is essentially linear and lies nearly parallel to 
+one of the diagonals of the ac plane, thus accounting for 
+the short b axis dimension. Calculation of the inter- 
+molecular contact distances showed that none of them is 
+significantly shorter than the sum of the van der Waal’s 
+radii of the corresponding atoms. 
+We thank 0. J. R. Hodder for help in carrying out com- 
+putations and for many useful discussions, and Mrs. S. 
+Cutfield for help with the diagrams. 
+[2/1058 Received, 10th May, 19721 
+l7 J. Donohue, L. R. Lavine, and J. S. Rollett, Acta Cryst., 
+1966, 9, 655. 
+Published on 01 January 1973. Downloaded by University of Alberta on 2/19/2025 10:33:51 PM. 
+View Article Online

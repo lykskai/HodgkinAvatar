@@ -1,0 +1,266 @@
+©          Nature Publishing Group1970NATURE VOL 225 JANUARY 17 1970 233 
+The Structure of Thiostrepton 
+by 
+BRYAN ANDERSON 
+DOROTHY CROWFOOT HODGKIN 
+M. A. VISWAMITRA* 
+Chemical Crystallography Laboratory, 
+University of Oxford Much of the chemical structure of thiostrepton, a sulphur con­
+taining metabolic product of the microorganism Streptomyces azureus, 
+has been determined by X-ray crystallographic techniques. 
+THIOSTREPTON, which has been shown to be identical with 
+bryamycin and thiactin ', was first isolated from Strepto­
+myces a.zureus in 1954 (refs. 2-4); it was quickly found to 
+possess marked antibiotic properties with a spectrum of 
+activity against Gram-positive bacteria comparable 
+with that of penicillin•. Unfortunately, because of its 
+very low solubility in aqueous systems, the antibiotic 
+induces resistance to itself in the bacteria before its 
+concentration becomes therapeutically sufficient and it 
+has not so far been developed for medical purposes. 
+Chemically, however, tho compound has proved to be of 
+considerable interest. Degradation studies proved it to 
+have the characteristics of a much modified peptide" 
+containing a large proportion of sulphur held in thiazole 
+rings6• Experiments carried out chiefly by Bodanszky6 
+and Kenner' showed that the products of acid hydrolysis 
+included a number of derivativ es of thiazole-4-carboxylic 
+acid as well as 4-(IX-hydrox yethyl)-8-hydroxyquinaldic 
+acid, pyruvic acid and several amino-acids (Table 1). 
+The molecular weight, estimated by therrnoelectric means•, 
+was l, 627 and combustion analysis suggested empirical 
+formulae ranging between C69H91N18022S5 (ref. 9) and 
+C72H83N,00,,S5 (ref. 6). The large size of the molecule 
+and the variety of its hydrolysis products made the full 
+determination of its chemical structur e by degradation 
+very difficult and X-ray crystallographic analysis has 
+therefore been attempted. 
+Thiostrepton, as it was first obtained, crystallized from 
+dimethyl sulphoxide or dimethylformamide-80 per cent 
+acetone solution in tetragonal prisms. Attempts to 
+introduce heavy atoms into the crystals by chemical 
+or other means failed but led to the discovery of a second 
+modification, a monoclinic form, which crystallized from 
+dimethylformamide-dry acetone solutions and presented 
+a somewhat simpler problem for structure solutions. 
+For these crystals the SRace group is C2; a= 21·757 A, b= 
+22·846 A, C=23·523 .A; [3= 103·93°; Z=4; dm= 1·41 
+gfcm3; weight per asymmetric unit= 2,420. The intensi­
+ties of reflexions out to spacings of 1 A were measured 
+with an automatic four circle diffractometer and copper 
+KIX X-radiation; these intensities, after processing, yielded 
+a set of 5,600 independent data of which 4,520 intensiti es 
+were greater than 2·5 sigma. These significant data were 
+used to calculate a sharpened, three-dimensional Patterson 
+synthesis, from which it was possible by the use of multiple 
+superpositions to identify tho positions of four of the 
+sulphur atoms. A Fourier synthesis, phased from these 
+coordinates and weighted by the method of Sim, indicated 
+the positions of twenty light atoms in chemically reasonable 
+locations. Repeated cycles of structure factors and 
+Fourier summations then led to the gradual development 
+of a structure containing five sulphur and one hundred 
+lighter atoms. 
+• P1·esent address: Department of Physics, Indian Institute of Science, 
+Bangalore. This structure was initially refined by calculations of 
+structure factor least squares using block diagonal 
+approximations and assuming that all the non-sulphur 
+atoms were carbons. Examination of the apparent 
+temperature factors then enabled most of the atoms to be 
+sorted into carbons, nitrogens and oxygens. V\1here the 
+results seemed equivocal the apparent bonding around the 
+atom concerned usually enabled its chemical character 
+to be assigned. Further cycles of refinement led to the 
+placing of five more atoms belonging to the molecule and 
+thirty-four-probably solvent-atoms with low occupation 
+numbers and high temperature factors. The refinement 
+now seems to have converged to a reliability factor of 
+0·152 for the 4,520 significant refiexions. Almost all bond 
+lengths and angles are within three sigma of their expected 
+values and the whole structur e forms a chemically reason­
+able molecule. Difference maps now reveal no peaks 
+above 0·5 e cm-3 although the weight of the placed atoms 
+is considerably less than that measured for the asymmetric 
+unit. The lack of recognizabl e structure beyond the limits 
+of the molecule forces us to conclude that about 30 per 
+cent of the crystal is composed of disordered solvent. 
+c 
+Fig. 1. a 
+The alanyl-a aminoacrylalanyl moiety from the F-obsernd 
+Fourier map of thiostrepton. Contours at 1 e A-'. 
+©          Nature Publishing Group1970234 
+Table 1. THE PRINCIPAL FMGliENTS OBTAINED ON HYDROLYSIS OF 
+THIOSTREPTON 
+(-)-Alanine 
+(-)-Threonine 
+( -)-Isoleucine (2 moles) 
+(1 mole) 
+(1 mole) 
+(+)-Cysteine ( < 1 mole) 
+Pyruvic acid (2 moles) 
+Ammonia (4-5 moles) 
+OH 
+4-(a-Hydmxyethyl)-8-hydroxyqulnaldlc 
+acid. 
+Thiostreptoic acid. 
+2-Propionylthiazole-4-carboxylic acid. 
+2-(1-Amino-2-carboxycthyl)thiawle-
+4-carboxylic acid. 
+Fig. 1 is a composite of sections 
+taken from part of one of the final 
+Fourier syntheses showing a portion 
+of peptide chain. 
+These calculations led to the 
+arrangement of atoms shown in 
+Fig. 2 with the empirical formula 
+CaDHs,Nt80lsS6 and a molecular 
+weight of 1,616. The structure pre­
+sented regions which could be cone­
+lated with all the previously known 
+degradation products listed in Table 
+1 and have been marked accord­
+ingly in Fig. 2. Most of these were 
+immediately obvious to us; other 
+identifications such as those of the 
+residues of 01:-aminoacrylic acid at 
+A, of dehydrobut,yrine at B and 
+the ester linkage at a followed from 
+discussions with Dr Sheppard and Threonine 
+(+)-Cysteine NATURE VOL. 225 JANUARY 17 1970 
+Dr Bodanszky and reference to later chemical work10• 
+There is one region of the structure which has presented 
+some difficulty. Thiostreptoic acid, which is obtained in 7 6 
+per cent yield on treatment of thiostrepton with concen­
+trated acids•, must be derived from the region of the mole­
+cule marked in Fig. 2. If, however, peracid oxidation pre­
+cedes the hydrolysis, this compound is not produced, but 
+instead a new diacid, 2-(1-arnino-2-carboxyethyl)thiazole-
+4-carboxylic acid, can be isolated". Neither of these com­
+pounds is an obvious hydrolysis product of the thiostropton 
+molecule and their isolation suggests that the double 
+bond must shift to allow the reduced pyridine ring to be 
+degraded in two different ways. To exclude the possibility 
+that another oxygenated function occurred in this region 
+but had been missed in the first calculations, a difference 
+map was calculated. Tho nineteen light atoms in the 
+nitrogen containing six membered ring and the adjacent 
+thiazoles were removed from the phasing calculation; all 
+reappeared in the resulting difference electron density 
+(Fig. 3), unaccompanied by an additional atom. This 
+map has also confirmed the position of the double bond 
+in the six membered ring. We therefore propose for 
+the major part of thiostrepton the chemical formulation 
+shown in Fig. 2 which is in agreement with the intra­
+atomic distances in the refined structure. 
+Some doubt remains about the nature of the five 
+terminal atoms of the long side chain. Intramolecular 
+forces stabilize the main part of the molecule, but the 
+linear part extends into a pool of disordered solvent which 
+provides little to constrain the atoms of tho chain. The 
+increase in temperature factor with distance from the 
+bridgehead indicates the presence of considerable disorder. 
+In this region, therefore, bond lengths and angles and 
+indeed atom type cannot be determined at all precisely 
+and the final five atom fragment has been characterized 
+from the chemistry as much as from the crystallography. 
+Hydrolysis experiments yield two moles of pyruvic Mid", 
+Thio~treptine • 0 
+0 
+Fig. 2. The chemical structure of thiostrepion. Nitrogen 
+Oxygen 
+Sulphur 
+©          Nature Publishing Group1970NATURE VOL. 225 JANUARY 17 1970 
+one originating from the cx-aminoacrylyl moiety in the 
+cyclic part of the molecule and the other presumably from 
+the side chain part of the structure. Fourier syntheses of 
+this region of the crystal reveal only five atom peaks with 
+the central two surrounded by approximately planar 
+configurations, and because thiostrepton contains no free 
+carboxyl groups• this terminal residue has been tentatively 
+assigned as an ct-aminoacrylamide group. Recent work by 
+Dr Bodanszky and co-workers (personal communication} 
+suggests, however, that thiostrepton may contain another 
+one or two alanine precursors. These, if they occur, must 
+be an extension of the long side chain and are completely 
+disordered within the solvent pool between the molecules. 
+We therefore feel we cannot yet claim that Fig. 2 repre­
+sents the whole of the thiostrepton molecule but hope that 
+an examination of the structure of the tetragonal crystal 
+form will provide a final answer. 
+The pair of stereographic drawings in Fig. 4 show the 
+three dimensional nature of the structure. It can be 
+derived from a single polypeptide chain which has been 
+combined with a substituted quinaldic acid and then 
+cyclized to form two large rings with a linear "tail" 
+extending from the junction point. The peptide units 
+have been variously modified; cysteine residues appear 
+cyclized to thiazoline and thiazole rings, hydroxylation 
+has produced a dihydroxyisoleucine while dehydrogena­
+tions have given rise to an cx-aminodehydrobutyryl residue 
+and two cx-aminoacrylyl groups. The stereoscopic view 
+shows clearly that the thiazoline ring asymmetric carbon 
+atom is opposite in hand from those of the remaining 
+amino-acid residues; this is in agreement with the fact 
+that the alanine, threonine and isoleucine residues are all 
+observed to be (-), while one (+)-cysteine, which is 
+produced by hydrolysis of the 
+thiazoline ring, has been ob-235 
+c 
+Fig. 3. Composite drawing of part of the difference map of thiostrepton 
+showing: the reappearance of the nineteen atoms omitted from the 
+phasing. Contours at 0·5• ,A ..a. 
+tained. As a whole the mole­
+cule appears roughly globular, 
+with the two large rings folded 
+over one another and the long 
+side chain protruding from 
+their junction. The conforma­
+tion is maintained by a 
+number of intramolecular 
+hydrogen bonds which bind 
+the whole into a very compact 
+structure. The "lynch pin" 
+of the conformation is an 
+oxygen atom (presumably a 
+water molecule) which, al­
+though not chemically bonded 
+to the structure, is placed 
+within hydrogen bonding dis­
+tance of a ring nitrogen 
+(2·95 A), a peptide nitrogen Fig. 4. Pair of stereographic drawings showing the thiostrepton molecule as viewed down the a axle. 
+(3·34 A) and a hydroxyl oxygen (2·72 A}. It is thus 
+primarily responsible for holding the "wings" of the 
+structure together, and with a fourth hydrogen bond it 
+links to a carbonyl oxygen on an adjacent molecule. 
+Such a structure seems at first to be a possibly isolated 
+curiosity of nature. Several of its features have, however, 
+been found in other peptide antibiotics. Even the con­
+troversial region from which thiostreptoic acid is derived 
+can be compared with the very similar atomic arrange­
+ment found in micrococcinic acid11, a major degradation 
+product of micrococcin P, and can be derived frmn a 
+precursor closely allied to those of penicillin N and 
+cephalosporin C (ref. 12). 
+This problem was suggested to us by Dr Bodanszky; 
+we should like to thank both him and Dr Sheppard for 
+their interest and advice and Mr John Hodder for help in 
+the computations. We are grateful for research grants 
+from the Science Research Council and from tbe Squibb 
+Institute for Medical Research, which in addition gave us 
+the thiostrepton. We also thank Messrs Hilger and Watts 
+for allowing us to carry out all the measurements we made on the four-circle diffractometer in their works 
+laboratory. 
+Received December 5. 1969. 
+1 Bodanszky, M., Dutcher, J. D., and Williams, N. J., J. Antibiotics. 16, 76 (1963). 
+'Pagano, J. F .• Weinstein, ]If. J., Stout, M.A., and Donovick, R., Antibiotics Ann., 554 (1956). 
+'Vandeputte, J., and Dutcher, J.D., Antibiotics Ann., 560 (1956). 
+'Steinberg, B. A., Jambar, W.P., and Suydam, L.'O., Antibiotics Ann., 562 (1956). . 
+'Kutscher, A. H., Seguin. L., Rankow, R. llf., and lPiro, J.' D., 'Antibiot. Ohemother., 8, 576 (1958). · 
+• Bodanszky. M., Fried, J., Sheehan J. T., Williams, N. J., Alicino. J. 
+Cohen, P. I., Keeler, B. T., and Birkhimer, C. A., J. A.mel'. Ohem. soc.' 86, 2478 (1964). • 
+' Gross. D. F. W., Kenner, G. W., Sheppard, R. C., and Stehr, C. E., J. Ohem. Soc., 2143 (1963). · 
+'McKenna, M.A. thesis (Liverpool, 1964). 
+' Stehr, C. E., thesis (Liverpool, 1961). 
+10 Bodanszky, M., Scozzie, J. A., and Murumatsu, I., J. A.mer. Ohem. Soc., 91, 4934 (1969). 
+"James, M. N. G., and Watson, K. J., J. Chem. Soc. (c), 1361 (1966). 
+"Abraham, E. P., and Newton, G. G. F., .Antibiotics (edit. by Gottlieb, D .• and Shaw, P. D.), 2 (Springer-Verlag, New York, 1967). 

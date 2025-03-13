@@ -1,0 +1,819 @@
+744 L.V.EGGLESTON I957
+arsonoacetic acids.Guanylic, uridylic andcytidylic
+acidswereamongmanycompounds foundtohave
+littleornoeffect.
+7.PlanttissueL-glutamic aciddecarboxylases
+(Cucurbita, Daucu8 carota) werefoundtobehave
+likethebacterial enzymes withregard totheir
+stimulation byphosphate, arsenatepnucleotides and
+pyridoxal phosphate.
+8.Under similar conditions theactivity of
+animaltissuedecarboxylases (L-glutamic, cysteine,
+3:4-dihydroxy-L-phenylalanine) werenotincreased
+byadenine nucleotides, otherphosphates orarsen-
+ates.
+ThisworkwasaidedbyagrantfromtheRockefeller
+Foundation tothisDepartment.
+REFERENCES
+Baddiley, J.&Gale,E.F.(1945).Nature,Lond.,155,727.
+Bartley, W.(1953).Biochem. J.54,677.
+Berenblum, I.&Chain,E.(1938).Biochem. J.32,295.
+Bergeret, B.,Chatagner, F.&Fromageot, C.(1955).
+Biochim. biophys. Acta,17,128.
+Carter,C.E.(1950).J.Amer.chem.Soc.72,1466.
+Eggleston, L.V.(1954).Biochem. J.58,503.
+Fildes,P.(1940).Brit.J.exp.Path.21,67.
+Gale,E.F.(1940).Biochem. J.84,392.
+Gale,E.F.(1945).Biochem. J.39,46.
+Gale,E.F.(1946).Advanc.Enzymol. 6,1.
+Gale,E.F.&Epps,H.M.R.(1944).Biochem. J.38,232.
+Gomori, G.(1955).InMethods inEnzymology, vol.1,p.143.
+NewYork:Academic PressInc.
+Hartman, W.J.,Akawie, R.I.&Clark,W.G.(1955).
+J.biol.Chem.216,507.
+Hughes, D.E.(1949).Biochem. J.45,325.Hughes, D.E.(1950).Biochem. J.46,231.
+Hughes, D.E.(1951).Brit.J.exp.Path.32,97.
+Johnson, M.J.(1951).InManometric Technique andTissue
+Metabolism, 2nded.,p.19.Ed.byUmbreit, W.W.,
+Burris,R.H.&Stauffer, J.F.Minneapolis, Minn.:
+Burgess Publ.Co.
+Jones,M.E.,Spector, L.&Lipmann, F.(1955).J.Amer.
+chem.Soc.77,819.
+Knivett, V.A.(1954).Biochem. J.58,480.
+Kornberg, A.(1955). InMethods inEnzymology, vol.1,
+p.707.NewYork:Academic PressInc.
+Krebs,H.A.(1948).Biochem. J.43,51.
+Krebs,H.A.,Eggleston, L.V.&Knivett, V.A.(1955).
+Biochem. J.59,185.
+Krebs,H.A.&Hems,R.(1953).Biochim. biophys. Acta,12,
+172.
+Lascelles, J.&Still,J.L.(1946).Aust.J.exp.Biol.med.
+Sci.24,37.
+LePage, G.A.(1949).Biochem. Prep.1,5.
+Long,C.(1955).Biochem. J.59,322.
+Madsen, N.B.&Cori,C.F.(1955). Fed.Proc.14,
+248.
+Michaelis, L.(1931).Biochem. Z.234,139.
+Mickle,H.(1948).J.R.micr.Soc.68,10.
+Ramakrishnan, C.V.&Martin,S.M.(1955).Arch.Biochem.
+Biophys. 55,403.
+Schales, 0.(1951).TheEnzymes, vol.2,p.216.NewYork:
+Academic PressInc.
+Schales, O.,Mims,V.&Schales, S.S.(1946). Arch.
+Biochem. 10,455.
+Sutherland, E.W.(1955).InMethods inEnzymology, vol.1,
+p.215.NewYork:Academic PressInc.
+Tager,J.M.&Rautanen, N.(1955). Biochim. biophys.
+Acta,18,111.
+Umbreit, W.W.&Gunsalus, I.C.(1945).J.biol.Chem.159,
+333.
+Woods,D.D.(1940).Brit.J.exp.Path.21,74.
+ACrystallographic StudyofsomeDerivatives ofGramicidin S
+BYG.M.J.SCHMIDT, DOROTHY CROWFOOT HODGKIN ANDBERYL M.OUGHTON
+Chemical Crystallography Laboratory, Univer8ity Muenum, Univer8ity ofOxford
+(Received 2July1956)
+Wefirstbegantheinvestigation ofgramicidin Sin
+1944atthesuggestion ofDrR.L.M.Synge,to
+whomweareindebted forallthematerial usedin
+theresearch. Itappeared toustobeparticularly
+interesting asanaturally occurring peptide of
+relatively lowmolecular weight, thestudyofwhich
+mightthrowlightonthearrangement ofaminoacid
+residues inproteins. Further, itcrystallized with
+surprising easeincrystals largeenough forX-ray
+single-crystal analysis anditcontains afunctional
+group,the8-amino groupofornithine, whichmade
+itpossible toprepare anumber ofderivatives ofthe
+peptide, somecontaining heavyatoms.Thepresent
+papergivesasurvey ofX-raymeasurements onseveral ofthesegramicidin Sderivatives, under-
+takenasapreliminary toanattempt atadetailed
+X-rayanalysis.
+G(ramicidin Swasoriginally isolated intheform
+ofahydrochloride byGause&Brazhnikova (1944).
+IthasbeenshownbySyngeandothers(Consden,
+Gordon, Martin &Synge,1947;Synge,1948)tobe
+acyclicpeptide builtupfromfivedifferent amino
+acidresidues occurring inunimolecular proportions.
+Theseresidues areL-valine, L-ornithine, L-leucine,
+D-phenylalanine andL-proline, written inthe
+sequence inwhichtheyarecombined inthemolecule
+asindicated bytheexamination ofptrtialhydro-
+lysates.
+CRYSTALLOGRAPHIC STUDY OFGRAMICIDIN S
+Whenthepeptide wasfirstexamined crystallo-
+graphically, neitheritscomposition noritsmole-
+cularweightwasknown, andourfirstaimwasto
+derivefromtheX-raymeasurements themolecular
+complexity ofthepeptide. Thisproved unex-
+pectedly difficult. Thepeptidederivatives examined
+crystallize fromethanol oracetone whichispresent
+assolvent ofcrystallization incrystals immersed in
+theirmotherliquor,andavariable amount ofthis
+solvent islostonexposure totheair.Forthis
+reasonthemassofmaterial present inthecrystal
+asymmetric unitisneveranexactmultiple ofthe
+minimum pentapeptide unit+solvent. Fromthe
+formal relations between thedifferent crystal
+structures studied itisclearthatthemolecule itself
+canbeeitherapentapeptide oradecapeptide. The
+latteralternative appears tobeestablished bythe
+synthesis reported bySchwyzer &Sieber(1956);
+itisalsosupported bydiffusion andcryoscopic
+measurements (Pedersen &Synge,1948;Belozer-
+sky&Paskhina, 1945),bythecountercurrent
+distribution ofits2:4-dinitrophenyl derivatives
+(Battersby &Craig,1951),andbytheapparent
+closerelation between gramicidin Sandtyrocidine
+A,whichhasbeenshownbyBattersby &Craig
+(1952)tohavethesame5aminoacidsequence as
+gramicidin S,together withfiveotheraminoacids.Thefactthatgramicidin Scrystallizes from
+volatile solvents present insmallbulkmadeit
+difficult insome casestopreparespecimens for
+X-rayphotography intheusualwaybydrawing
+crystals intheirmotherliquorintocapillary tubes,
+sincethesolventevaporated toorapidly. Suitable
+crystals weretherefore generally grownbyslow
+cooling fromwarmsaturated solutions sealedin
+fine-walled Hysilglasscapillaries andphotographedin8itU,surrounded bytheirmotherliquor.Large
+singlecrystals, severalmillimetres long,wereoften
+obtained bythistechnique.
+RESULTS ANDDISCUSSION
+Table1summarizes thepreliminary X-raydata
+collected ontwenty different crystalline forms
+shownbyninedifferent derivatives ofgramicidin S.
+Thesesubstances are(a)thehydrochloride, sulphate,
+hydriodide, flavianate, rufianate, andchloroaurate;
+and(b)theN-acetyl, N-chloroacetyl, N-iodoacetyl
+derivatives, amolecular compound oftheN-iodo-
+acetylderivative withiodine, andtheN-(2:4-
+dinitrophenyl) derivative, prepared bySanger
+(1946).
+Anappendix byDrR.L.M.Syngeprovides
+chemical data onthedifferent preparations
+Table1.Dataobtained byX-rayphotography of8inglecry8talsofgramicidin Sderivatives
+Derivative ...
+Hydrochloride (I)'
+(2)
+Sulphate
+Hydriodide (1)
+(2)
+(3)
+Flavianate
+Rufianate
+N-Acetyl
+N-Chloroacetyl
+N-Jodoacetyl
+N-Iodoacetyl +I2
+Chloroaurate
+N-2:4-DinitrophenylDry
+DryWet
+Dry
+WetDry
+WetDry
+Wet
+Drv
+Dry
+Dry
+Wet
+Wet
+Dry
+WetDry
+WetDry
+Drya
+24-4
+24-9
+26-1
+24-1
+25-8
+24-4
+28-0
+22-3
+28-0
+23-2
+23-0
+48-5
+43
+28-3
+27-3
+28-1
+27-5
+28-2
+27-7
+24-4b
+34-8
+34-2
+35.334-6
+34-1
+33-5
+41-1
+41-8
+41-0
+41-2
+72-8
+36-6
+33
+40-5c
+18-9
+37-7
+37-9
+18-9
+37-8
+18-9
+39-2
+39-6
+39-0
+38-8
+19-8
+18-8
+57
+54-9
+55-2
+54-8
+54-8
+55-2
+54-7
+38-59Spacegroup
+C2221
+- C2221- C2221C222
+C2221C222
+1222orI212,211222or12,212,
+I222orI212,21P212121
+- P212L21
+1040
+Dry 21-1 38-5 40-5
+Dry 21-1 38-5 40-5
+31 34 19B2212
+C2
+P6122
+P6122
+P6122
+P6122
+P6122P6122
+1222orI212121
+P22121222orI232121n*Pt
+82
+84
+84
+82
+84
+82
+84
+84
+84
+48
+48
+8
+4
+12 3
+12 3
+12 3
+12 3
+12 3
+12 3
+84
+48
+84
+*n,number ofasymmetric unitsintheunitcell.
+tp,number ofpentapeptide unitsinthecrystallographic asymmetric unit.a,bandcareinLVol.65 745
+G.M.J.SCHMIDT, D.C.HODGKIN ANDB.M.OUGHTON
+examined. Theydatedfromthreedifferent periods
+1943,1945-47 and1952.Whiletheearliestmaterials
+showed smalldifferences inunitcelldimensions
+fromthosehererecorded, probably owingtothe
+presence ofpeptide mixtures, asampleoftheiodo-
+acetylderivative prepared fromhighlypurified
+gramicidin S,specimen IV,examined in1952,gave
+X-rayphotographs identical withthoseobtained in
+1945-47, showing thatthesmallproportion ofother
+peptide materials stillpresent inthepreparations
+atthisdatehavenoobservable effectontheX-ray
+data.
+Characterstics ofwetanddrycrystalsof
+gramicidin Sderivatives
+Crystals ofallthederivatives ofgramicidin Sthat
+wehaveexamined appear markedly birefringent
+andtransparent andfrequently showsharp,well-
+definedfaceswhencovered withtheirmotherliquor.
+Onremoval fromthisliquortheymaybecome
+opaque andcracked, butslowdryingoftenleaves
+themwithbothshapeandtransparency verylittle
+changed. X-rayphotographs showthatinallcases
+therearechanges intheunitcelldimensions and
+intherelative intensities ofcertainoftheX-ray
+reflexions. Thereflecting powerofthecrystals
+diminishes ondryingtoadegreewhichdepends on
+therateofdrying.Veryslowlydriedcrystals show
+almost asmanyX-rayreflexions aswetcrystals;
+theseusually extend tospacings ofapproximately
+1-51.
+Threetypesofchangeareobserved duringcrystal
+drying,whichareratherdifferent fromthechanges
+observed withprotein crystals. Themostmarked
+alterations occurwiththehydrochloride and
+sulphate, where achange incrystal symmetry
+resultsinthehalving ofoneunitcelldimension. All
+reflexions with1oddonthewetcrystalphotographs
+disappear, leaving theremaining reflexions com-
+paratively littlealteredinposition andintensity.
+Thelossofsolvent appears therefore tobeaccom-
+paniedbyanadjustment ofthepositions ofthe
+molecules atzandz+jinthewetcrystalwhich
+rendersthemeffectively identical inthedrycrystal.
+Verylittlecrystalshrinkage occursbutthechanges
+inthemolecular positions arenotregular. Certain
+ofthelayerlinesaremarkedly 'smeared' and
+diffuse reflexions appear, particularly fromthe
+hydrochloride. Thesephenomena areillustrated in
+P1.2aandb.
+Inthesecondtypeofchange, thatofthehydr-
+iodides, theunitcellsofwetandair-drycrystals
+remainofthesameorderofmagnitude, butthereis
+amarked shrinking inonedirection, thatofthea
+axis,ofapproximately 51.Thischangesuggests the
+existence ofasinglelayerofsolventmolecules which
+isremoved ondrying; itissimilar tochanges that
+occurondryingprotein crystals, butisaccom-paniedagain,inoneofthegramicidin Shydriodide
+crystals, byachangeofcrystalsymmetry.
+Inthethirdtypeofchange, thatoftheacetyl
+derivatives, thereisverylittlealteration intheunit
+celldimensions. Thereare,however, smallchanges
+intheintensities ofsomeoftheX-rayreflexions
+whichindicate thatherethesolvent molecules are
+zeolitic, abletopassoutofthelattice, leaving the
+position andorientation ofthepeptide units
+practically unchanged. Theorderofmagnitude of
+thesolvent lossondryingisillustrated bymeasure-
+mentsbyDrSynge:heobserved thatapreparation
+ofwetcrystals ofacetylgramicidin Sfromwhichall
+visibledropsofwaterhadbeenremoved weighed
+55mg.Afterbeingdriedinavacuum desiccator at
+roomtemperature, itweighed 40-5mg.;thisweight
+increased to43-3mg.onexposure totheair.
+Molecular weightofgramicidin S
+Thestoicheiometric unit.Thedetermination ofthe
+minimum stoicheiometric molecular weightfromthe
+X-raydatadepends ontheaccuracy withwhichthe
+celldimensions, density andsolvent content ofthe
+crystals canbemeasured. Sofarnoattempt has
+beenmadetomeasure thesolvent content ofthewet
+crystals, andtheestimations aretherefore derived
+fromtheair-drycrystals.
+Thereareexperimental difficulties inmeasuring
+boththecelldimensions andthedensity withhigh
+accuracy. Thenumber ofobserved reflexions is
+smallerforsomeoftheair-drycrystals thanforthe
+wetcrystals, andtheseareoftennotsharp,owingto
+thedisordered character ofthedrycrystals. The
+density measured byflotation inaqueous salt
+solutions isfoundtovarywiththetimeofimmersion
+ofthecrystals, presumably owing tosolution
+entering thecrystal lattice. Foreachcrystal
+studied, thevalueforthedensity recorded in
+Table2isthatobserved forfreshlywettedcrystals
+andshouldcertainly beregarded asamaximum;
+somesolvent molecules mayenterthecrystals
+directly theyareimmersed. Butitisprobable that
+themaindifficulty inobtaining ameasure ofthe
+peptide molecular weightfromX-raydataliesin
+theaccurate determination ofthesolvent content of
+theair-dried crystals. Thishasusuallydepended on
+ameasurement ofsolventlossondryinginvacuoat
+1000,followed byanalysis ofthedriedcrystals.
+Withgramicidin Scrystals weobserved aserious
+discrepancy atthebeginning ofourresearch with
+thehydrochloride, whichisrecorded inTable2.The
+figurefortheweightofthecrystalunitlesssolvent
+lostondryingat1000isverymuchhigherthanthe
+chemically determined weight ofapentapeptide
+unit,evenifthisisassociated withonemolecule of
+waterofcrystallization assuggested bytheana-
+lyticaldataonthevacuum-dried crystal(Table2).
+Itseemsclearthattheair-dried crystals contain746 I957
+BIOCHEMICAL JOURNAL, VOL.65,NO.4 PLATE2
+a
+t
+a.
+S ael
+t; _0&
+tIr0. **5.S U
+* SSI
+4 0515t
+}*S.*I
+.1
+45:t
+ !
+:a .
+f
+0-
+C
+(a)Oscillation photograph aboutthec-axisofwetgramicidin Ssulphate. (b)Oscillation photograph aboutthec-axisof
+drygramicidin Ssulphate. (c)Precession photograph ofdryN-chloroacetylgramicidin S,showing (Okl)reflexions.
+(d)Precession photograph ofdryN-acetylgramicidin S,showing (Okl)reflexions.
+G.M.J.SCHMIDT, DOROTHY CROWFOOT HODGKIN ANDBERYL M.OUGHTON-
+ACRYSTALLOGRAPHIC STUDY OFSOME DERIVATIVES OFGRAMICIDIN S
+Facing p.746b
+dI
+.:
+, 
+I
+II
+f4
+tI
+ I
+: I
+11
+i
+t
+ .
+, ".....-f
+...s
+sf
+
+Vol.65 CRYSTALLOGRAPHIC STUDY OFGRAMICIDIN S
+Table2a.Molecular-weight dataongramicidin Shydrochloride
+Lossofwt.Mol.wt.ofMinimumSuggested formula of ondrying suggested immersionvacuum-dried crystals at1000 formula density
+CgH46O5N,6,HC1,H2O 6-1% 624 1-217747
+X-raymol.wt.
+687x2
+Table2b.Molecular-weight dataonN-acetylgramicidin Sanditssubstitution products
+Mol.wt. ofMinimum
+Suggested formula of suggested immersion X-rayDerivative air-dried crystals formula density mol.wt.
+N-Acetylgramicidin SC32H4806N6,C2H5. OH,1-5H20 685 1-165 687x3
+N-Chloroacetyl- C32H4706N6C0,C2H5. OH,1I5H20 719-5 1-238 742x3
+gramicidin S
+N-Iodoacetyl- C32H4706N6Cl(0-2) I(08),C2H5. OH,15H20 793 1-345 816x3
+gramicidin S
+moresolvent thantheanalytical datasuggest.
+Someattempt wasmadetocheckthisideaby
+having thechemical analyses forchloroacetyl- and
+iodoacetyl-gramicidin Scarriedoutontheair-dried
+instead ofonvacuum-dried crystals. Theanalytical
+figures suggest thatbothethanol andwaterare
+present inamounts whichgivemuchbetteragree-
+mentwiththeconclusions fromX-raydata.Within
+thelimitsoferrorofbothtypesofmeasurement it
+seemslikelythattheformula unitintheacetyl
+seriesofcrystals approximate to1molecule of
+pentapeptide: 1molecule ofethanol: 1-5molecules
+ofwater,andthisisshowninTable2.Butitshould
+berealized thatincrystals whicharedisordered to
+someextentthesolvent molecules maywellbe
+present infractional amounts assuggested inthe
+analytical description inAppendix 1,anduntila
+detailed X-rayanalysis ofthecrystals canbe
+carried outourknowledge ofthecontents ofthe
+crystals willremainratherimprecise.
+Ourattitude toourobservations isnaturally
+affected byourknowledge ofthechemical constitu-
+tionofgramicidin S.Ourexperience indicates that
+whenX-raymethods areusedtodetermine un-
+knownmolecular weights ofthisorderofmagnitude
+theerrorsmostlikelytooccurmayincrease the
+estimated molecular weightbyasmuchas10%.
+Theabsolute molecular weight. Thesmallest
+molecular-weight unitthatappears astheasym-
+metricunit(thesimplest repeating unit)inanyof
+thecrystal structures examined istheunitcorre-
+sponding toadecapeptide, whichisobserved inthe
+air-dryformsofgramicidin Ssulphate andhydro-
+chloride. However, inthehexagonal acetylgrami-
+cidinSseries,theasymmetric unitcontains three
+pentapeptide units.Thefirst,mostnatural, de-
+duction fromthesetwoobservations isthatthe
+molecule itselfmaybeapentapeptide, whichowing
+tocomplexities ofpacking sometimes occursintwo
+positions notrelatedbythespace-group symmetry
+ofthecrystal, andsometimes inthree.Butthereisanalternative formal possibility, whichismost
+likely.Inthehexagonal spacegroupP6122thetwo-
+foldaxesofsymmetry present canbesymmetry
+elements ofthemolecules themselves. Inthiscase,
+thecrystal asymmetric unitmaybeessentially
+threehalfdecapeptide molecules, or11molecules,
+provided thatthedecapeptide molecule itselfhasa
+twofold axisofsymmetry. Formally, therefore, the
+crystallographic evidence requires themolecule to
+beeitherapentapeptide oradecapeptide having
+atwofold axisofsymmetry. Thedecapeptide
+structure aloneisinaccord withitschemical
+synthesis andwiththemeasurements carriedoutby
+Pedersen &Synge(1948)andbyBattersby &
+Craig(1951).
+Sizeandshapeofthemolecules
+Whileitisnotpossible tomakeprecisedeductions
+aboutthesizeandshapeofamolecule ofthecom-
+plexityofgramicidin Sfromourpresent data,there
+arecertain features ofthesedatawhicharesug-
+gestiveandworthfurther comment.
+Throughout theseriesofcrystal structures one
+unitcelldimension (usually c)is18S8-19-8 A,orsome
+multiple ofthisfigure. Inthisdirection avery
+strongreflexion, (004)inthehydrochloride, and
+(000,12) intheacetylseries,showsthatmanyatoms
+areconcentrated inlayersabout 4-8Aapart.
+P1.2c,dillustrates theoverwhelming strength ofthe
+(000,12) reflexion inN-chloroacetyl- andN-acetyl-
+gramicidin S.Theformalconsequences ofthisare
+illustrated inFig.1abythesection atx=0inthe
+three-dimensional Patterson seriesforN-acetyl-
+gramicidin S.Thestrongpeak(A)showsthatthere
+aremanyvectorsparallel tocbetween atoms4-8k
+apart.Themarked streaking alonglinesparallel to
+asuggests thattheseatomsareinlayers.
+Theremaining twounit-cell dimensions, aandb,
+varyintheirratiotooneanother inthedifferent
+crystalstructures, butacloserelationship canagain
+betracedbetween theorthorhombic andhexagonal
+G.M.J.SCHMIDT, D.C.HODGKIN ANDB.M.OUGHTON
+structures; theconditions limiting themolecular
+sizecanbestbeseenfromthelattertypeofstruc-
+tures.InFig.lbisshownthesection oftheN-
+acetylgramicidin SPatterson seriescalculated at
+z=0.Thisindicates thatthewholecrystalstructure
+repeats approximately atthepositions ia,Ia2and
+ia,,*a2.Thecharacter ofthevectordistribution is
+bestunderstood ifthemolecules arerathercompact.
+Theyneednotbecylindrical butcouldhavean
+elliptical oranapproximately rectangular cross-
+section; ifso,extreme valuesforthetwosidesofthe
+rectangle mightbesetatabout11and19A.A
+decapeptide molecule having thesedimensions
+wouldextendabout9-5A,orc/6,inthecdirection.
+Thus,withinthemolecule wouldbetwolayersof
+atomsapproximately 4-81apart.
+Detailed X-rayanaly8i8 ofgramicidin S
+Ofthedifferent crystalstructures sofarexamined
+thoseofN-acetyl-, N-chloroacetyl- andN-iodo-
+cIL
+(a)
+A-t -I-:--Xof
+3;~~~~0
+r___0o '-N
+(0)>
+i\Lats>xX~~~~~~~~~b
+Fig.1.$ections fromthe3-dimensional Patterson synthesis
+forN-acetylgramicidin Sat(a)x,2x,z;(b)z=0.acetyl-gramicidin Sappear mostsuitable forusein
+attempting adetailed X-rayanalysis. Thecom-
+pounds areverynearlyisomorphous and,asP1.2c
+anddshows, someoftheX-rayreflexions from
+corresponding crystal planes showconsiderable
+changes inintensity, fromwhichthepositions ofthe
+heavyatomsmaybefoundandthephasesofthe
+reflexions subsequently inferred. Themolecular
+arrangement isverycomplicated, butnevertheless
+presents afarsimplerX-rayanalytical problem than
+dothesimpler proteins. Weareaccordingly col-
+lecting three-dimensional X-raydatafromthese
+crystals andattempting tofindadetailed solution of
+theirstructure.
+CONCLUSION
+Moredefinite crystallographic knowledge ofthe
+character ofthegramicidin Smolecule mustawait
+theoutcome ofthisdetailed study.Butalready in
+thispreliminary surveyofevidence concerning the
+molecular weight, sizeandshapewehavemade
+certain observations whichbearontheinvestiga-
+tionofproteins. Ourexperiences inthemolecular-
+weight determination ofgramicidin Scan,for
+example, beparalleled bymeasurements on
+insulin. Itisnoticeable thatthebestcrystallo-
+graphic valueforthemolecular weight ofzinc
+insulin, 11900,isnumerically largerthanthecom-
+parable figure,11554,derived bycalculation from
+theaminoacidcomposition; andthisfigure,11554,
+againistwicetheactual minimum chemical
+stoicheiometric figureof5777(Sanger &Tuppy,
+1951;Sanger&Thompson, 1953).Thissuggests that
+ininsulincrystals, asingramicidin Scrystals, mole-
+culesmaybefittedtogether inthecrystal asym-
+metricunitinwayswhicharenotgoverned bythe
+symmnetry operations ofthecrystal. Lastly our
+present evidence onthesize,shapeandsymmetry of
+thegramicidin Smolecule limitsconsiderably the
+wayinwhichtheaminoacidresidues canbe
+arranged within themolecule andhasledus
+naturally tobuildanumber ofpossible model
+structures. Thesestructures appear toustohave
+interesting andconflicting relations withpresent
+theories ofpeptide-chain configurations inproteins.
+Sinceitmaystillbeyearsbeforewecansolvethe
+detailed structure ofgramicidin Swehavedescribed
+inAppendix 2themodels wehavesofarconstructed
+andtheirrelation toideasofprotein structure.
+EXPERIMENTAL
+Themainpractical problem inthisworkwasthephoto-
+graphyofcrystals inthewetstate.Themethod usually
+employed withcrystalline proteins ofdrawing upthe
+crystalintoacapillary tubefromitsaqueous motherliquor
+provedimpracticable, particularly sowiththehydro-
+chloride. Hereslowevaporation ofaconcentrated solution
+in75%(v/v)aqueous ethanolresulted inamushofsmall748 I957
+CRYSTALLOGRAPHIC STUDY OFGRAMICIDIN S 7
+crystals; thesolventevaporated beforeasinglecrystal
+couldbesortedoutorintroduced intothecapillary. This
+difficulty wasovercome bygrowing singlecrystals inthin-
+walledcapillaries sothattheycouldbephotographed in8itu.
+Inthiswaylargecrystals wereproduced from50mm.3of
+solution orless,i.e.recrystallization couldbecarriedouton
+amicroscale.
+Thecapillaries wereblownfromHysilglasswithan
+averagediameter of1mm.andanaveragewallthickness of
+20P.Hysilwaschoseninpreference toLindemann glass
+because ofthelowpHofthesolution. Hysilcontains no
+Fe,anditsconstituents areofrelatively lowatomicweight.
+Asuitable quantity ofliquid(usually acolumnabout5mm.
+long)withasmallamount ofsolidwasdrawnupintothe
+capillary whichwasthensealedatbothendsinthemicro-
+flame.Thecapillaries wereimmersed inalarge,wellinsu-
+latedtankcontaining waterwhosetemperature wascon-
+trolledbyanelectricheatingelement withvariable energy
+input.Noprecautions weretakentoensureaperfectly
+uniform temperature drop,butrecrystallization was
+usually successful oncoolingfromabout750toroom
+temp.atanoverallrateof1°in4hr.,andinfavourable cases
+gavecrystals upto5mm.long.Themethod hassofarnot
+beensuccessful withtheflavianate andthe2:4-dinitro-
+phenylderivative.
+Tocompare wetwithdrycrystals ourmethod atthis
+stagewassimplytobreakthecapillary, draintheliquidby
+inserting asmallercapillary, andallowthecrystal todry
+slowly.
+Copperradiation (A=1-542A)wasusedforalltheX-ray
+photography. Mostphotographs weretakenonflatfilms
+withacrystal-to-plate distance of40cm.;withapinhole
+slitsystem(second aperture 04mm.)verycleanphoto-
+graphswereobtained afterexposures upto48hr.without
+specialprecautions. Celldimensions werecalculated either
+fromlayerlinemeasurements oncylindrical filmsof3cm.
+radius,orfromsymmetrical photographs recording several
+ordersof,say,(hOO)and(hOO),takenforthemostparton
+X-rayplatestoavoidshrinkage errors.Wecannotclaim
+accuracy incelldimensions greaterthan2%.Afewrecent
+photographs weretakenonaprecession camera.
+Gramicidin Shydrochloride
+Gramicidin SHCIcrystallizes veryreadily insmall
+needlesfromaqueousethanol; largercrystals weregrownby
+slowcoolingfrom70%(v/v)aqueous ethanol. Thecrystals
+areelongated along[001],showing{110}and{001}.
+olla,fllc,,yflb.
+ThedatagiveninTable1refertotwodifferent batches, of
+whichthefirstwaslesspurethanthesecond. Thisfirst
+batchcontained drycrystals oftwokindswhichgave
+different X-rayphotographs, andarelistedas(1)and(2).
+Itisnoticeable thatthec-axisdimension of(2)issimilarto
+thatofthewetcrystalsoflaterpreparations; probably they
+contained impurities whichsloweddownthenormally
+rapidtransformation ofwettodrycrystalstructures.
+Thestabledryformsofthetwobatches areverysimilarin
+celldimensions, intensities ofX-rayreflexions andthetypes
+ofdiffusereflexions showninX-rayphotographs, i.e.
+particularly marked smearlinesrunningthroughreflexions
+ofindex(hk4).Onecrystalphotographed fromthesecond
+batchshowedunusual diffusereflexions whichindexed ona
+body-centred latticewithadoubled caxis.Gramicidin S8ulphate
+Thesulphate resembles thehydrochloride extremely
+closely. Thecrystals areneedles, elongated along[001],
+showing {110}and{001},alsothinplateson{010},showing
+{100}and{001}. ala,p11c,yb.
+Ondrying,thecrystalsshowdisorder phenomena aswith
+thehydrochloride. Marked smearlinesappearonphoto-
+graphsthrough reflexions ofindex(hk4);onsomephoto-
+graphsdiffusereflexions occurrequiring adoubled and
+trebled aaxis.
+G9ramicidin Shydriodide
+Threeformswereobserved, ofwhichonewasprepared by
+Synge.Theothertwooccurred inapreparation madeat
+Oxford, whichwasslightly discoloured, suggesting the
+presence ofsomefreeiodine.Unfortunately noanalytical
+datawereobtainable.
+Bothmodifications (1)and(2)werewell-developed
+needleselongated along[001]andshowing {110}anda
+varietyofunidentified domalfaces.Optically, bothforms
+showed mlla,IIc,yIIb
+whenwet;dryingproduced marked lossofbirefringence,
+accompanied perhaps byachangeinopticalorientation.
+Crystalsofthethirdformaresmall,clearplateson{010},
+foundinonebatchofOxfordcrystals. Theygaveunusually
+goodX-rayphotographs, showing nosignofcrystaldis-
+order.
+Gramicidin Sfiavianate
+Theflavianate hasnotbeenphotographed inthewet
+state,sinceallattempts atrecrystallization intubespro-
+ducedbunches ofneedles. Thecrystals areelongated along
+[001]andshow{100}and{010};
+a11c,B11a,y11b.
+Thenatural interpretation oftheX-raydataonthis
+crystalisthattheunitcellcontains sixteendecapeptide
+molecules andsixteenflavianic acidmolecules. However,
+mostpreparations haveshown,onanalysis, highercontents
+offlavianic acidthanthis.Possibly someflavianic acid
+replaces gramicidin Satrandom inthelattice.
+Gramicidin Srufianate
+Therufianate wasprepared atOxfordbymixingsolutions
+of2mg.ofgramicidin SHCIand2mg.ofrufianic acidin
+absolute ethanol. Thedark-red crystalline precipitate
+formed wasfilteredoff,washedwith70%ethanol andre-
+crystallized oncefromabsolute ethanol. Largecrystals,
+whichwereredneedles,elongated along[010],weregrown
+byslowcoolingfrom90%(v/v)aqueous ethanol.
+Ondrying,thecrystalslosetheirbirefringence andbecome
+opaque; X-rayphotography showsnearlycomplete break-
+downofthecrystallattice.
+N-Acetyl-, N-chloroacetyl- and
+N-iodoacetyl-gramicidin S
+Thesethreeacylderivatives arenearlyisomorphous.
+Theyoccurinbeautifully-formed hexagonal needlesshowing
+{1010}and{1011};occasionally alsobipyramids withonly
+{10I1}areobserved. Theyareoptically negative. Veryslow
+dryingyieldscrystals withclearfaceswhichgivegood
+measurable reflexions intheopticalgoniometer. IngeneralVol.65 749
+750 G.M.J.SCHMIDT, D.C.HODGKIN ANDB.M.OUGHTON I957
+thepatternoftheintensities oftheX-rayrefilexions isvery
+similarinthethreecrystals, butsomechangesareobservable
+bothondryingandonhalogensubstitution. Analysis shows
+(seeAppendix 1)thatthereisincomplete substitution ofthe
+ClbyIintheN-iodoacetyl derivative.
+Jodoacetylgramicidin Scrystallized inthe
+presence ofexcessofiodine
+-Anorthorhombic formofiodoacetylgramicidin Swas
+obtained bySyngein1952,bycrystallizing itfromaqueous
+ethanolinthepresence ofexcessofiodine.Beautiful little
+brownish-red needle-shaped crystalswere formed,elongated
+along[010]withwell-developed {100}andotherunidentified
+domalfaces.Theseshowedmarkedpleochroism, fromwhich
+itcouldbededuced thattheiodinemolecules layper-
+pendicular totheneedleaxis.Unlikemostofthederivatives
+examined, theneedleaxisisnottheonewhichisamultiple of
+(18-8-19 8A),buttheopticsseemtobearthesamerelation-
+shiptothecelldimensions asinothercrystals. y11b,and
+probably a11aandfi11c.
+Gramicidin Schloroaurate
+Thechloroaurate wasprepared bySyngein1952,and
+growsintheformofcolourless, flatneedles,elongated along
+[001],withwelldeveloped {100}or{010}.
+Ofseveralcrystals selected, onewasfoundtohave
+crystallized inadifferent spacegroupfromtheothers.All
+ofthemhadthesameunitcelldimensions, andmostseemto
+bebody-centred, probablyhaving thespacegroupI222;the
+oneexception hadthespacegroupP2212.
+Thecrystals wereweaklybirefringent, witha11a,,B1c
+andy11b.
+SUMMARY
+1.Singlecrystals ofaseriesofderivatives of
+gramicidin Shavebeenprepared andexamined by
+X-raymethods. Theirmorphology, unitcellsand
+spacegroups havebeendetermined, andacom-
+parison between crystals inthewetanddrystates
+hasbeenmade.2.Theweights ofthecrystalasymmetric unitsof
+thehydrochloride andN-acetyl, N-chloroacetyl and
+N-iodoacetyl derivatives havebeendetermined
+byX-raymethods andtheresults compared
+withthemolecular weights determined bychemical
+analysis.
+3.Itisconcluded thatthegramicidin Smolecule
+ismostprobably adecapeptide inwhichtwohalves
+ofthemolecule arerelated byatwofold axisof
+symmetry. Someconclusions aboutthesizeand
+shapeofthemolecules aredrawn.
+4.Appendix 1describes themethods ofprepara-
+tionandchemical analyses ofthecrystals examined.
+5.InAppendix 2possible molecular modelsfor
+gramicidin Sarediscussed inrelation tocurrent
+theories ofprotein structure.
+Wegratefully acknowledge generous support ofthis
+research bytheRockefeller Foundation.
+REFERENCES
+Battersby, A.R.&Craig,L.C.(1951).J.Amer.chem.Soc.
+73,1887.
+Battersby, A.R.&Craig,L.C.(1952).J.Amer.chem.Soc.
+74,4023.
+Belozersky, A.M.&Paskhina, T.S.(1945).Biokhimiya, 10,
+344.
+Consden, R.J.,Gordon, A.H,Martin,A.J.P.&Synge,
+R.L.M.(1947).Biochem. J.41,596.
+Gause,G.F.&Brazhnikova, M.G.(1944).Nature,Lond.,
+154,703.
+Pedersen, K.0.&Synge,R.L.M.(1948).Actachem.8canld.
+2,408.
+Sanger,F.(1946).Biochem. J.40,261.
+Sanger, F.&Thompson, E.0.H.(1953).Biochem. J.53,
+353.
+Sanger,F.&Tuppy,H.(1951).Biochem. J.49,463.
+Schwyzer, R.&Sieber,P.(1956).Angew.Chem.68,518.
+Synge,R.L.M.(1948).Biochem. J.42,99.
+APPENDIX 1
+Preparation ofsomeDerivatives ofGramicidin S
+BYR.L.M.SYNGE
+TheLi8terIn8titute ofPreventive Medicine, Chel8eaBridgeRoad,London S.W.1,
+andTheRowettRe8earch In8titute, Buck8burn, Aberdeen8hire*
+(Received 2July1956)
+N(Kjeldahl) determinations weredonebytheincineration
+procedure ofCampbell &Hanna(1937).Otherelementary
+analyses, unlessotherwise stated,werebyWeilerand
+Strauss, Oxford. Evaporations, unlessotherwise stated,
+weredoneinvacuobelow400.Startingmaterial: gramicidin Shydrochloride. Specimens
+IandIII(Synge,1945;Consden, Gordon, Martin&Synge,
+1947)werefirstsentforcrystallographic studyandusedfor
+preparing derivatives. Laterpreparations haveallbeen
+crystallized fromthesamebatchofcrudematerial as
+specimen III.Onesuchpreparation wasstudiedbycounter-
+currentdistribution byDrLymanC.Craigandcolleagues *Presentaddress.

@@ -1,0 +1,779 @@
+PERSPECTIVES
+her fascination with the patterns and symme-
+try of the mosaics of an ancient floor in
+Jerash, Palestine, which were being catalogued
+carefully before they could be removed and
+taken to safety.
+The start of protein crystallography
+Dorothy entered the rarefied world of sci-
+ence in 1928, when she went to Somerville
+College, Oxford Univ ersity, UK, to readchem istry (for her first chemistry paper,
+see REF. 2 ). She was captivated by the beauty
+of crystals and was delighted to be moving
+to Cambridge University, UK, in 1932 to
+work for her doctorate with J. D. Bernal
+(universally known as ‘Sage’) — a young,
+politically controversial, new appointee in
+structural crystallography. It was in
+Bernal’s lab that Dorothy studied biologi-
+cal molecules for the first time using X-ray
+techniques (for example, see REF. 3 ), and it
+was, in her own words, “a time rich with
+new discoveries” .
+In 1934, they received crystals of the
+enzyme pepsin ,which had been grown by
+John Philpott in the laboratory of Theodor
+Svedberg (Uppsala University, Sweden). It
+was while using them that Bernal discovered
+the importance of not allowing protein crys-
+tals to become dry, but to maintain them with
+their mother liquor in order to obtain sharpThe components of cells are molecules —
+non-living structures that are built up of
+atoms. It was Dorothy Hodgkin’s life’s work
+to determine the three-dimensional
+structures of many biologically important
+molecules using the relatively new technique
+of X-ray diffraction. For this pioneering work,
+she was awarded the Nobel Prize for
+Chemistry in 1964.
+It would be impossible to write anything
+about Britain’s only female, science Nobel
+Laureate — Dorothy Hodgkin (FIG. 1) —
+without some reference to her early life (see
+TIMELINE ). Dorothy was born in Cairo, Egypt,
+in 1910 when her father — John Crowfoot —
+was working in the Egyptian Education
+Service, and Dorothy spent much of her
+young childhood travelling with her parents
+in the Middle East1.Her mother, Molly,
+returned to the United Kingdom with
+Dorothy and her two sisters at the outbreak of
+war in 1914, but Molly soon returned to
+Egypt to join her husband, leaving the girls
+with their nurse and older relatives. The war
+separated many families, and Dorothy often
+attributed her independent spirit to this
+period in her childhood; she did not regard it
+as neglect by her parents, but simply a conse-
+quence of war. There are many happy stories
+of the expeditions and excursions that
+Dorothy and her sisters had with their parents
+in Egypt and the Sudan. In particular, the
+story of Dorothy’s ‘discovery’ of the mineral
+ilmenite (a mixed oxide of iron and tita-
+nium) when trying to pan for gold in a
+muddy stream near their house, and also of
+NAT URE REVIEWS |MOLECULAR CELL BIOLOGY VOLUME 4 |NOVEMBER 2003 | 891Dorothy Hodgkin and her
+contributions to biochemistry
+Judith A. K. HowardTIMELINE
+Figure 1 | Dorothy and Thomas Hodgkin at the Nobel Prize celebration, Stockholm, Sweden,
+1964. This photograph was kindly provided by the Hodgkin family.
+© 2003        Nature  Publishing Group
+892| NOVEMBER 2003 |VOLUME 4  www.nature.com/reviews/molcellbioPERSPECTIVES
+activity present after irradiation of the crys-
+tals. This was to convince some chemists
+that this was not a degradation product or a
+rearrangement of the alternative, chemically
+closely related, thiazolidine-oxazolone
+structure, which had simply resulted from
+exposure of the penicillin crystals to X-rays
+(for further information, see REFS 8,9 ).
+The vitamin-B12 story
+Dorothy’s next challenge was vitamin B12 —
+the anti-pernicious-anaemia factor that was
+discovered in 1926. It was not isolated and
+purified, however, until 1948, which is when
+Dorothy obtained crystals from Lester Smith
+(Glaxo Laboratories, UK), who was then
+interested primarily in their optical proper-
+ties. Dorothy immediately photographed the
+beautiful red crystals (FIG. 2a) and was able to
+determine the molecular mass from these
+X-ray results10.She was also able to deduce,
+from the optical characteristics of the crystals,
+that the molecules contained highly absorb-
+ing planar groups, which were similar, but not
+identical, to the porphyrin-ring system. It was
+Dorothy’s crystallographic work11that even-
+tually determined the chemical composition
+of this planar group, which was subsequently
+termed the ‘corrin’ ring (FIG. 2b) .
+There was very little known about the vita-
+min-B12 structure or even its chemical com-
+position when the crystals were first prepared,
+but Dorothy was delighted to discover that
+the molecule contained a cobalt atom (FIG. 2b) .
+She then knew — from her earlier work on
+cholesteryl iodide12,and also the heavy-atom
+derivatives of penicillin9that she’d used so
+successfully for phasing the reflection data —The X-ray structure of penicillin
+Dorothy was a great pioneer in this new
+field of crystallography and she suggested
+that structure determination for complex
+molecules might be carried out by X-ray
+crystallography rather than by traditional
+chemical means5.At this time, there were
+vigorous and constant debates between
+chemists about the structures of natural
+products, and it was into this background
+that Dorothy was moving with ideas that
+would change the face of modern textbooks
+and structural chemistry; for example, with
+her extensive studies of the many sterol
+structures6.Imagine the excitement as it
+became clear that, not only had the struc-
+ture of penicillin been solved in Dorothy’s
+laboratory at Oxford University in the mid-
+1940s (in conjunction with data from the
+laboratory of Charles Bunn at the ICI labo-
+ratories), but also that this had been
+achieved both in the absence of a known
+chemical formula and in some contradic-
+tion to suggested chemical evidence7.
+Penicillin was not expected by some to have
+the β-lactam structure. The two proposed
+structures were the thiazolidine-oxazolone
+and the thiazolidine- β-lactam, and the lat-
+ter,correct structure comprises one five-
+membered, sulphur-containing ring fused
+to a f our-membered β-lactam ring. The
+small ring introduces a certain amount of
+strain into the structure and was not
+thought to be possible by some chemists at
+the time, but it became clear from X-ray
+studies, and later from other evidence, that
+this was indeed the case. However, it was nec-
+essary to show that there was still antibioticdiffraction spots on X-ray photographs.
+Dorothy worked hard to characterize the new
+crystals. From her photographs, they deduced
+that the enzyme comprises,“oblate spheroidal
+molecules with diameters of 35 and 25 Å,
+arranged in hexagonal nets” , as well as a sig-
+nificant number of water molecules that had
+co-crystallized in the lattice. Most signifi-
+cantly, from the intensity of the diffraction
+spots, they were able to conclude that the
+“arrangement of the atoms is also of a per-
+fectly definite kind” . The summary of the
+short paper4that was published on this work
+states that,“now that a crystalline protein has
+been made to give X-ray photographs, it is
+clear that we have the means of checking
+them and by examining the structure of all
+crystalline proteins, arriving at far more
+detailed conclusions about protein structure
+than previous physical or chemical methods
+have been able to give” . This 1934 paper4
+marked the beginning of protein crystallogra-
+phy and it starts with the amazing phrase,
+“Four weeks ago, Dr Glen Millikan brought
+us some crystals of pepsin…” . It would be
+hard to find such an opening to any publica-
+tion in today’s highly pressured reviewing cli-
+mate. Millikan was a young American who
+was visiting Svedberg’s lab. He knew Bernal
+well and his father was the Nobel laureate
+Robert Millikan. When he saw the crystals, he
+knew Bernal would love to have them, so car-
+ried them to Cambridge. Dorothy and Bernal
+also showed experimentally that the notable
+loss of diffraction intensity during exposure
+to the X-ray beam did not result from a loss of
+biological activity, but was due to changes in
+the crystalline lattice.Dorothy is born in
+Cairo, Egypt (the
+eldest of four sisters).She moves to
+Cambridge University,
+UK, to work with 
+J. D. Bernal.
+Dorothy enters Somerville
+College, Oxford University,
+UK, to read chemistry (for
+her first chemistry paper,
+see REF. 2).Dorothy publishes a
+paper on the enzyme
+pepsin with Bernal4.
+She returns to
+Oxford University to
+a Fellowship at
+Somerville College.Dorothy takes the first
+X-ray photographs of
+insulin crystals22.Dorothy marries
+Thomas Hodgkin.Dorothy and J. D.
+Bernal publish many
+significant sterol
+structures (for
+example, see REF. 6).Dorothy begins to work
+on naturally occurring
+antibiotics (for further
+information, see REF. 5).
+Her first child
+Luke is born.Dorothy gains a
+Ph.D. for her
+thesis on sterol
+structures.Her second child
+Elizabeth is born.Dorothy publishes the first
+three-dimensional structure of
+a biochemically important
+molecule (cholesteryl iodide)12.1910 1928 1932 1934 1935 1936 1937 1938 1939 1941 1944 1945Timeli ne | Some important dates in the life of Dorothy Hodgkin
+Dorothy solves the structure
+of penicillin, but the work is
+not announced because of
+the war.
+© 2003        Nature  Publishing Group
+PERSPECTIVES
+that the structure of vitamin B12 could be
+solved. So, she immediately began to work on
+this with member s of her research group at
+Oxford University, including Jenny Pickworth
+(now Glusker) and John Robertson. Dorothy
+also realized, however, that unlike some of her
+earlier, smaller structures, this one was far too
+complicated to be solved from a series of two-
+dimensional projections and that she must
+calculate her F ourier maps for vitamin B12
+in three dimensions. With the cobalt atom
+present, she knew it was possible, in princi-
+ple, to solve this structure, but it was
+nonetheless an enormous challenge at that
+time. She also decided, rather characteristi-
+cally and diplomatically, that the “problem
+was large enough for two groups to work
+on” and that “these two should keep in
+touch” . So, this was done with the group of
+John White, who worked at Princeton
+University, USA, on crystals that were pro-
+vided by Merck Company, USA (for further
+information, see REF. 13 ).
+Dorothy suggested that it might be possi-
+ble to prepare other variants of vitamin B12
+— first, by feeding microorganisms with the
+appropriate mutant imidazoles and, second,
+by making the sulphocyanide and the seleno-
+cyanide derivatives (for further information,
+see REF. 14 ) — in the hope of creating an iso-
+morphous series to assist in the structure
+solution. By doing this, she laid the founda-
+tion of the selenomethionine-substitution
+method that has been extremely successful in
+protein crystallography in recent years, and
+also showed that heavy atoms can be intro-
+duced into proteins using microbiological
+techniques. In addition to these derivatives,
+NAT URE REVIEWS |MOLECULAR CELL BIOLOGY VOLUME 4 |NOVEMBER 2003 | 893Her third child
+Toby is born.
+Lester Smith
+gives vitamin-
+B12 crystals to
+Dorothy.Dorothy publishes
+the definitive paper
+on the penicillins9.A partial structure of
+vitamin B12 is reported by
+Dorothy and colleagues
+(for the relevant
+publication, see REF. 14).Dorothy visits Moscow,
+Russia, for the first time.
+The complete structure of
+vitamin B12 is published15.A 5.5-Å-resolution structure
+of haemoglobin is published
+by Max Perutz and
+colleagues (REF. 34).The structure of insulin
+is solved by Dorothy
+and colleagues26.
+Dorothy publishes
+early vitamin-B12
+results10.Dorothy presents the
+advanced stages of the
+structure of vitamin B12 at
+the International Union of
+Crystallography Congress
+in Paris, France.John Kendrew and
+colleagues publish a 
+6.0-Å-resolution structure of
+myoglobin (see REF. 33 and
+earlier references therein).Dorothy wins the Nobel
+Prize for Chemistry29.In July, Dorothy dies
+at home in Illmington,
+Warw ickshire, UK1946 1948 1949 1950 1953 1954 1955 1958 1960 1964 1969 1994
+ab
+Figure 2 | Vitamin B12 . a| Vitamin-B12 crystals, natural and synthetic (see REF. 13 and references
+therein). These photographs are from Dorothy Hodgkin’s collection and were kindly provided by the
+Hodgkin family. b| The structure of vitamin B12 (for more information, see volume II of REF. 5 ). The
+corrin ring can be seen at the centre of this strucuture. This figure was reproduced with permission
+from REF. 15 © (1955) Macmillan Magazines.
+© 2003        Nature  Publishing Group
+894| NOVEMBER 2003 |VOLUME 4  www.nature.com/reviews/molcellbioPERSPECTIVES
+for many medical applications, such as the
+treatment of megaloblastic anaemia. The
+knowledge of the structure also led to the elu-
+cidation of the biosynthesis of the vitamin
+and its co-enzymes.
+The insulin story
+Late in 1934, soon after moving back to
+Oxford University, Dorothy’s studies on the
+structure of insulin started when she
+obtained a small sample of the protein from
+Robert Robinson, who knew of her work on
+pepsin in Bernal’s lab. The task was formi-
+dable, because the evidence from Svedburg
+was that the molecular weight was ~36,000
+and that this could dissociate into species
+with a molecular weight of 12,000 (determi-
+nation of the amino-acid sequence by Fred
+Sanger in the 1950s demonstrated that the
+molecular weight was, in fact, 6,000; see
+below). Not deterred, Dorothy started to
+work on the main study of her life’s research.
+She succeeded in producing good-quality
+crystals (FIG. 3) and, when she developed the
+very first X-ray photographs of these tiny
+insulin crystals, she said that it was,“proba-
+bly the most exciting [moment] in my life” .
+Dorothy described how elated she was at first
+and then how exceedingly worried sheprograms, which were expected to be able to
+perform crystallographic calculations in
+hours instead of weeks. Dorothy was working
+on the structure of vitamin B12 at the time
+and, although extremely enthusiastic, she was
+cautious and tested the UCLA system using an
+earlier dataset from calciferol for which she
+knew the structure17,18.This worked brilliantly,
+so they started work on the vitamin-B12
+structure by sending the data and the subse-
+quent results across the Atlantic using sur-
+face mail. However, it all became far too
+exciting for such slow communications and
+Dorothy then insisted on airmail parcels19.
+After almost two years of hard computa-
+tional work, mostly during the night when
+there was less demand for the computer, they
+were able to announce their incredible
+progress on the structure of vitamin B12 at
+the International Union of Crystallography
+(IUCr) Congress in Paris in 1954. In our age
+of rapid electronic communications, such
+patience is hard to conceive, but crystallogra-
+phers still continue to work night shifts —
+for example, on computers and various
+instruments in neutron and synchrotron
+facilities — all over the world.
+The solution of the vitamin-B12 structure
+(FIG. 2b) was truly a ‘tour de force’ and was rec-
+ognized as such by many, but not by all.
+Dorothy is reputed to have felt moved to
+defend openly the fact that the derivation of
+the chemical formula and the three-dimen-
+sional (3D) structure was indeed hers and a
+totally crystallographic one and not a chemi-
+cal one, as others implied by omission. She
+wrote to Ken Trueblood late in 1954, after
+more than a year of computing across the
+Atlantic and with the previously unknown
+ring structure almost complete, that “it seems
+to us that a very remarkable situation here is
+developing — the whole structure of a large
+molecule, chemically unknown is coming out
+by X-ray analysis…” . Perhaps it is not surpris-
+ing, with hindsight, that X-ray crystallography
+found the solution for molecular structure
+ahead of any chemical degradative methods.
+The structure was very large and complex
+(~100 non-hydrogen atoms) and the many
+steps involved in chemical degradation were
+exceedingly difficult to achieve at that time
+(for further information, see REF. 5 ).
+However,the determination of the struc-
+ture of vitamin B12 enabled its complete
+chemical synthesis, including its nine chiral
+centres, in a mammoth effort by more than
+100 chemists working with Albert
+Eschenmoser20at the ETH (Eigenössische
+Technische Hochschule), Zurich, Switzerland,
+and with Robert B. Woodward at Harvard
+University, USA. This was immensely importantshe worked with Jenny Pickworth and John
+Robertson on the hexacarboxylic-acid
+crystals13,15,which came from a degradation
+product that contained only the ring system
+and the cobalt atom. From the structure that
+was determined using these crystals16,they
+proved conclusively the precise nature of the
+corrin nucleus (FIG. 2b) .
+Dorothy always espoused, most enthusi-
+astically, the latest advances in X-ray crystal-
+lography, knowing that each one would bring
+her, and others, closer to the point where
+macromolecular structure determination
+would become ‘routine’ . She was delighted,
+therefore, to meet Ken Trueblood from the
+University of California Los Angeles (UCLA),
+USA, in the early 1950s, because he had
+access to one of the most powerful comput-
+ers in the world (National Bureau of
+Standards Western Automatic Computer).
+He was looking for significantly large X-ray
+datasets from complex structures to test hisFigure 3 | Insulin crystals. a | Some of the
+original insulin crystals. This figure was
+reproduced with permission from  REF. 31 © (1958)
+Munksgaard. b| Later insulin crystals. This figure
+was kindly provided by G. G. Dodson, University
+of York, UK.
+a
+b
+Figure 4 | The molecular structure of insulin.
+The figure shows the molecular structure of
+insulin, including the partitioning from hexamer to
+dimer to monomer that, in turn, comprises
+subunits A and B. This figure was reproduced with
+permission from REF. 32 © (1974) The Royal
+Society.
+Hexamer
+Dimer
+Monomers
+Subunits
+A and B
+© 2003        Nature  Publishing Group
+PERSPECTIVES
+resulting data sets. These studies all provided
+important lessons, because, in them, Dorothy
+had described the first direct evidence that
+insulin and lactoglobulin, and presumably
+other globular proteins, conserve their 3D
+structure independently of their crystalline or
+solution state. These detailed observations
+and her inspired interpretation were crucial
+for understanding the structures and proper-
+ties of proteins, and they laid important foun-
+dations for future work.
+The solution of the full insulin structure
+was indeed beyond the techniques and instru-
+mentation available at the time and was not
+seriously revisited by Dorothy until the mid-
+1950s. By then, the chemical sequence of
+insulin had been determined by Fred Sanger
+and colleagues, and heavy-atom derivatives of
+myoglobin and haemoglobin were being pre-
+pared and studied by John Kendrew and Max
+Peru tz, respectively, at Cambridge University.
+There were problems in getting heavy-atom
+derivatives for insulin, and it was not without
+some difficulties — the crystals often shat-
+tered in the attempts — that these heavy-
+metal substitutions were achieved25.
+Early experiments to produce cadmium
+insulin gave only poor crystals, but heavy-
+atom derivatives for insulin were re-visited by
+Margaret Adams and Guy Dodson (Oxford
+University) in the 1960s. New data helped to
+extend the phases of the 2Zn insulin by
+exploiting the anomalous scattering in the
+diffraction data. During the late 1950s and
+1960s, a great deal of work was done in devel-
+oping new methods and in writing programs
+that would allow the exploitation of anom-
+alous-scattering effects, and Patterson rota-
+tion and translation functions, and, despite
+relatively slow progress, Dorothy did not once
+lose her belief that the insulin structure would
+be solved one day.became in case the diffraction that she had
+seen the night before hadn’t originated from
+a protein. She therefore rushed into the labo-
+ratory early the next morning to perform
+further tests, and was relieved to find that
+she was right — she had indeed taken the
+first X-ray photograph of crystals of the pro-
+tein insulin21.
+The lessons learnt in the pepsin work —
+namely to keep crystals ‘wet’ with mother
+liquor — were used again with insulin,
+although the dry rhombohedral crystals
+proved stable enough to obtain data to 6-Å
+resolution. In addition, data were collected
+with different metal atoms incorporated into
+the crystal structures, the first of which was
+zinc. J. Schlichtkrull found that a minimum
+of two zinc (2Zn) atoms per hexamer were
+necessary for crystallization in the rhombo-
+hedral form22.Once Dorothy had collected
+data from air-dried and wet insulin
+crystals23,she set about the formidable task
+of calculating the Patterson functions for
+both sets of 3D data. Patterson functions are
+mathematical functions that use the experi-
+mental data directly and that, in theory, pro-
+vide solutions for the crystallographic phase
+problem, but this was certainly not possible
+for biological molecules at this time.
+Nonetheless, Dorothy decided that some
+useful information could be gleaned and set
+about proving this was the case. The small
+differences that Dorothy had observed in the
+original diffraction patterns and then subse-
+quently in the 3D Patterson maps, which shehad painstakingly calculated over several
+years, might so easily have been overlooked by
+other researchers. However, she was able to
+interpret the subtle changes in the orientation
+of the intramolecular vectors between the ‘wet’
+and ‘dry’ maps as being due to changes in the
+water structure, the loss of water on drying
+and consequently the degraded crystallinity, and
+not due to any significant changes in the struc-
+ture of the protein itself. At about the same
+time, together with Dennis Riley — an under-
+grad uate student at Oxford University, who
+then became Dorothy’s first D.Phil. student —
+Dorothy had obtained data from ‘wet’ and
+‘dry’lactoglobulin crystals24,and they per-
+formed 3D Patterson calculations on the
+NAT URE REVIEWS |MOLECULAR CELL BIOLOGY VOLUME 4 |NOVEMBER 2003 | 895Box 1 | International relationships
+Dorothy visited China in 1959 at a time when it was not easy for scientists from the West to do so
+(see BOX 2 ), and had set up a very positive collaboration on insulin with the group of Dong-Cai
+Liang in Beijing. Liang had worked at Oxford University, UK, in 1966, seeking heavy-atom
+derivatives of insulin, and Dorothy revisited China and this group several more times to discuss
+and compare their independent progress30.Her final visit was in 1993 for the sixteenth Congress
+of the International Union of Crystallography almost a year before she died. The Chinese
+crystallographic community has never forgotten Dorothy’s interest and interaction with them.
+The same can be said of India and other countries — she encouraged these scientists at a time
+when they were being essentially neglected by the West.
+Dorothy had an international group of co-workers and a great sense of human rights, freedom
+of information and world peace. In 1953, she was refused entry to the United States to attend an
+early protein meeting in Pasadena that was organized by Linus Pauling, because it was decided
+that she had ‘leanings to the left’ , as judged by the company she kept in Cambridge and the
+societies to which she belonged. Dorothy had naively written all her various societies and
+connections on her visa application form and, together with her associations through J. D. Bernal
+(universally known as ‘Sage’) and her husband Thomas Hodgkin (who were known to be
+sympathetic to the communist viewpoint), Dorothy was rendered ‘statutorily inadmissible’ . (In
+fact, from late 1957 onwards, there remained difficulties for Dorothy to enter the United States
+and she had to apply independently for each trip asking that her ‘statutorily inadmissible’ status
+be waived.) As a result of this refusal, she made her first, and very memorable, trip to Russia with
+Bernal in 1953. This was a difficult time for East–West relationships and, despite Dorothy’s best
+attempts to cross the political and scientific boundaries, she came up against the obstacles of
+bureaucracy and prejudice.
+Box 2 | Pugwash and the International Union of Crystallography
+From 1975–1988, Dorothy was the President of Pugwash — a collection of scientists from almost
+every country in the world who, after the Second World War, set up conferences on ‘Science and
+World Affairs’ in the hope of avoiding such disasters and human suffering on this enormous scale
+again. Dorothy, like many scientists at the time, knew people who had died or suffered as a result
+of the atomic bomb being dropped on Japan. She was deeply committed to world peace, hoping
+that this could be achieved through debate rather than wars, and she believed that scientists
+should have a serious role in this endeavour.
+She was President of the International Union of Crystallography (IUCr) from 1972–1975 and,
+in this capacity, she campaigned for important scientific countries — which had been excluded
+by politics — to be included in this Union. She regarded the triennial IUCr congresses as
+important for fostering international relationships, as well as for creating and supporting a
+buoyant and successful, albeit relatively young, scientific community. The IUCr was founded in
+1946, and mainland China was admitted to the Union only after Mao Zedong died (Mao Zedong
+was the founder and leader of the People’s Republic of China until his death in 1976, and the next
+IUCr meeting after this was in Warsaw, Poland, in 1978). However, Dorothy maintained her
+interaction with Chinese crystallographers throughout the ‘cold’ period (see BOX 1 ) and also
+facilitated their return to the Pugwash conferences in the 1980s.
+© 2003        Nature  Publishing Group
+896| NOVEMBER 2003 |VOLUME 4  www.nature.com/reviews/molcellbioPERSPECTIVES
+6. Crowfoot, D. X-ray crystallography and sterol structure.
+Vitam. Horm. 2, 409–461 (1944).
+7. Hodgkin, D. C. The X-ray analysis of the structure of
+pencillin. Adv. Sci. 6, 85–89 (1949).
+8. Abrahamsson, S., Hodgkin, D. C. & Maslen, E. N. The
+crystal structure of phenoxymethyl penicillin. Biochem. J.
+86, 514–535 (1963).
+9. Crowfoot, D., Bunn, C. W., Roger-Low, B. M. & 
+Turner-Jones, A. in The Chemistry of Pencillins 310–367
+(Princeton Univ. Press, Princeton, 1949).
+10. Hodgkin, D., Porter, M. W. & Spiller, R. C.
+Crystallographic measurement on the anti-pernicious
+anaemia factor. Proc. R. Soc. Lond. B126 , 609–613
+(1950).
+11. Hodgkin, D. C. The structure of the corrin nucleus from
+X-ray analysis. Proc. R. Soc. Lond. A288 , 294–305
+(1965).
+12. Carlisle, C. H. & Crowfoot, D. The crystal structure of
+cholesteryl iodide. Proc. R. Soc. Lond. A184 , 64–83
+(1945).
+13. Hodgkin, D. C. et al. The structure of vitamin B12: (I) an
+outline of the crystallographic investigation of vitamin B12.
+Proc. R. Soc. Lond. A242 , 228–263 (1957).
+14. Brink, C. et al. X-ray crystallographic evidence of the
+structure of vitamin B12. Nature 174, 1169–1171 (1954).
+15. Hodgkin, D. C. et al. The crystal structure of the
+hexacarboxylic acid derived from vitamin B12and the
+molecular structure of the vitamin. Nature 176, 325–328
+(1955).
+16. Hodgkin, D. C. et al. The structure of vitamin B12: (II) the
+crystal structure of hexacarboxylic acid obtained by the
+degradation of vitamin B12. Proc. R. Soc. Lond. A251 ,
+306–352 (1959).
+17. Crowfoot, D. & Dunitz, J. D. The structure of calciferol.
+Nature 162, 608–609 (1948).
+18. Hodgkin, D. C., Rimmer, B. M., Dunitz, J. D. & 
+Trueblood, K. N. The crystal structure of a calciferol
+derivative. J. Chem. Soc. 4945–4956 (1963). 
+19. Trueblood, K. N. in Structural Studies on Molecules of
+Biological Interest (eds Dodson, G. G., Glusker, J. &
+Sayre, D.) 87–105 (Oxford Univ. Press, Oxford, 1981).
+20. Eschenmoser, A. J. Studies on the synthesis of corrins.
+Pure Appl. Chem. 7, 297–315 (1963).
+21. Crowfoot, D. X-ray single crystal photographs of insulin.
+Nature 135, 591–592 (1935).
+22. Schlichtkrull, J. Insulin crystals I: the minimum mole-
+fraction of metal in insulin crystals prepared with Zn2+;
+Cd2+; Co2+; Ni2+; Cu2+; Mn2+; Fe2+. Acta. Chem. Scand.
+10, 1455 (1956). 
+23. Crowfoot, D. & Riley, D. X-ray measurements on wet
+insulin crystals. Nature 144, 1011–1012 (1939).
+24. Crowfoot, D. & Riley, D. An X-ray study of Palmer’s
+lactoglobulin. Nature 141, 521–522 (1938).
+25. Dodson, E., Harding, M. M., Hodgkin, D. C. & Rossman,
+M. G. The crystal structure of insulin III. Evidence for a 
+2-fold axis in rhombohedral zinc insulin. J. Mol. Biol. 16,
+227–241 (1966).
+26. Adams, M. J. et. al. Structure of rhombohedral 2 zinc
+insulin crystals. Nature 224, 491–495 (1969).
+27. Dodson, G. Dorothy Mary Crowfoot Hodgkin, OM
+1910–1994. Biog. Mem. Fell . R. Soc. 48, 179–219 (2002).
+28. Baker, E. N. et al. The structure of 2Zn pig insulin crystals
+of 1.5Å resolution. Phil. Trans. R. Soc. Lond. B B319 ,
+369–456 (1988).
+29. Hodgkin, D. C. The X-ray analysis of complicated
+molecules: Nobel lecture. Les Prix Nobel 157–178 (1965). 
+30. Hodgkin, D. C. Chinese work on insulin. 
+Nature 255, 103 (1975).
+31. Schlichtkrull, J. Insulin Crystals (Munksgaard,
+Copenhagen, 1958).
+32. Hodgkin, D. C. Insulin, its chemistry and biochemistry.
+Proc. R. Soc. Lond. B A338 , 251–275 (1974).
+33. Kendrew, J. C. Myoglobin and the structure of proteins.
+Science 139, 1259–1266 (1963).
+34. Perutz, M. F. et al. Structure of haemoglobin: a three
+dimensional Fourier synthesis at 5.5 Å resolution,
+obtained by X-ray analysis. Nature 185, 416–422 (1960).
+Online links
+DATABASES
+The following terms in this article are linked online to:
+Swiss-Prot: http://us.expasy.org/sprot/
+myoglobin | pepsin
+FURTHER INFORMATION
+Dorothy Crowfoot Hodgkin – Nobel Lecture: http://www.nobel.
+se/chemistry/laureates/1964/hodgkin-lecture.html
+Access to this interactive links box is free online.intractable and that remained with her for
+many years (such as the vitamin-B12 and
+insulin challenges). But, with her incredible
+skill and imagination, she would piece together
+the chemical jigsaw, despite the fact that others
+might see virtually nothing interpretable in the
+same Fourier maps. Dorothy believed firmly in
+the significance of the strangest and smallest
+‘bumps’ of electron density in these maps and
+her encyclopaedic knowledge of chemistry was
+an enormous strength behind her innate flair
+for their interpretation.
+Dorothy belongs to a small group of
+women who have changed the face of science
+(for further information about her interna-
+tional relationships and her time as President
+of both Pugwash and the IUCr, see BOXES 1,2 ).
+In a time when there were no computers and
+modern diffractometers, her selected goals in
+structural chemistry (cholesterol, penicillin,
+vitamin B12 and insulin) must have seemed
+impossible to attain. However, once she had
+solved these structures using X-ray crystallog-
+raphy, they revealed the complexities of
+nature in a beautiful and complete way and
+this effectively freed chemists from the bur-
+den of structure determination. This liberated
+them to follow new synthetic strategies and
+not to have to design, among other things,
+methods for the stepwise proof of chemical
+structure. It is therefore entirely appropriate
+that Dorothy was awarded the Nobel Prize for
+Chemistry in 1964 (FIG. 1) for her pioneering
+and inspired work on the structures of bio-
+logically significant molecules using X-ray
+diffraction techniques29.
+Throughout the years, Dorothy’s personal
+life also flourished. Dorothy Crowfoot mar-
+ried Thomas Hodgkin in December 1937
+and, amazingly, was required to resign her
+Somerville College fellowship to do so
+(although she was re-instated automatically
+afterwards; for further information, see REF. 1 ).
+They had three children (Luke, Elizabeth and
+Toby), many grandchildren and even some
+great grandchildren before she died in the
+summer of 1994.
+Chemistry Department, University of Durham,
+Durham DH1 3LE, UK.
+e-mail: j.a.k.howard@durham.ac.uk
+doi:10.1038/nrm1243
+1. Ferry, G. Dorothy Hodgkin: A Life (Granta Books,
+London, 1998).
+2. Powell, H. M. & Crowfoot, D. M. Layer-chain structures of
+thallium di-alkyl halides. Nature 130, 131–132 (1932).
+3. Crowfoot, D. & Bernal, J. D. X-ray crystallographic
+measurements on some derivatives of cardiac
+aglucones. Chem. Ind. 953–956 (1934).
+4. Bernal, J. D. & Crowfoot, D. X-ray photographs of
+crystalline pepsin. Nature 133, 794–795 (1934).
+5. Dodson, G. G., Glusker, J. P ., Ramaseshan, S. &
+Venkatesan, K. (eds) The Collected Works of Dorothy
+Crowfoot Hodgkin Vols 1–3 (Indian Academy of
+Sciences, Bangalore, 1994).The work Dorothy began in 1934 was to
+last 35 years and the structure of insulin26was
+finally announced at the IUCr in Stony
+Brook, USA, in 1969. It was truly a mammoth
+task and a remarkable achievement by
+Dorothy and the many researchers who had
+worked with her over the intervening years
+(for example, Marjorie Harding, Margaret
+Adams, Neil Isaacs, T ed Baker, Guy Dodson,
+Tom Blundell, Eleanor Dodson, M. Vijayan
+and many others mentioned in REF. 5 ). Each
+one put one or more pieces into the huge jig-
+saw puzzle that was finally the full 3D struc-
+ture of insulin. The 1969 paper that described
+the crystal structure was the tenth publication
+on insulin, but in the following 14 years, there
+were 38 further publications that described its
+biochemistry and biological behaviour, as
+well as more structural details (for further
+information, see REF. 27 ).
+As predicted from the very early studies,
+insulin was found to be a trimer of three well-
+defined dimers, each held together in an
+arrangement of β-pleated sheets by hydrogen
+bonds (FIG. 4) .And, in 1998, Dorothy and col-
+leagues determined for the first time the
+structural differences in the two chemically
+identical monomers that comprise the
+dimer28.The crystal structure of insulin was,
+of course, just the beginning for understand-
+ing how the beautiful and complex structure
+of this hormone relates to its cellular func-
+tions. Nonetheless, it led to an understanding
+of the behaviour of the hormone in solution,
+the basis of its chemical reactions, a rational-
+ization of its folding properties and the
+dependence of these properties on disul-
+phide-bond formation (the existence of
+which had been suggested earlier by Sanger).
+An understanding of the self-assembly of the
+monomers to dimers and then to hexamers
+also evolved from a full knowledge of the
+structure (FIG. 4) .The surfaces that were
+involved in the  biosynthesis of the hormone
+could be identified, and a framework was cre-
+ated for studying receptor binding. The
+knowledge of the 3D structure was also cru-
+cial for developing a reliable way to synthesize
+insulin for medical use in the treatment of
+diabetes, and the preparation of genetically
+modified, monomeric insulin has since
+improved diabetes therapy considerably.
+A true pioneer
+Dorothy Hodgkin had an ability to sense the
+most significant problems in structural chem-
+istry, and these were always the most difficult
+ones that seemed virtually impossible to solve
+at the time. She had tremendous tenacity, per-
+severance and optimism, even when she was
+working with problems that seemed
+© 2003        Nature  Publishing Group

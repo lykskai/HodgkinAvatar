@@ -1,0 +1,301 @@
+19631 Hodgkin, Rimmer, Dunitx, and Trueblood. 4945 
+947. The Crystal Structure of a Calciferol Derivative. 
+By DOROTHY CROWFOOT HODGKIN, BERYL M. RIMMER, J. D. DUNITZ, 
+and K. N. TRUEBLOOD. 
+The crystal structure of calciferyl4-iodo-5-nitrobenzoate has been solved 
+by the heavy-atom method and refined by a least-squares analysis of the 
+three-dimensional diffraction data. The unit cell dimensions are a = 31.2, 
+b = 6.98, G = 15.3 A, 2 = 4, space group P2,2,2,. The iodine atoms lie 
+near special positions and the analysis involves the sorting of forty light- 
+atom sites from electron-density distributions which include object and 
+mirror-image peaks. Although it has not been possible to fix the atomic 
+parameters with high precision (the estimated standard deviation of an 
+average bond length is about 0.06 A), the molecular structure and stereo- 
+chemistry of calciferol is clearly established. 
+THE X-ray investigation of the crystal structure of calciferyl 4-iodo-5-nitrobenzoate  (I), 
+referred to in interim reports,l2 has now been completed by least-squares analysis of the 
+three-dimensional diffraction data. The general course of this investigation has to be 
+ This compound is more correctly named as the 4-iodo-3-nitrobenzoate. However, to avoid con- 
+fusion the use of the incorrect name, on which the interim reports 1,s were based, is continued here. 
+
+Hodgkin, Rimmer, Dunitz, and Trueblood: 
+considered within the context of the development of crystal-structure analysis, particularly 
+of the steadily increasing power and availability of high-speed electronic computing 
+methods, during the past 16 years. When we began our work in 1947, computing 
+techniques were in their infancy, and derivation of the structure from a study of the b-axis 
+projection alone involved desk-calculations of formidable dimensions. Three-dimensional 
+calculations, which now would be done rapidly in initial stages of the analysis, were taken 
+up very slowly, at long intervals of time, as computing techniques improved. Several 
+of these calculations were pilot experiments, on the results of which other analyses have 
+been based. In retrospect it is clear that the most important conclusions of the investig- 
+ation were those reached comparatively early. Some features of the stereochemical form 
+of the molecule were settled by the initial two-dimensional work, others by the three- 
+dimensional electron-density calculations which followed. The refinement of the crystal 
+structure still presents problems which have not been completely resolved. The difficulties 
+are due to the large number of atoms involved, to the fact that many of them lie near 
+special positions in the unit cell, and to imperfections in the intensity data collected in 
+1947. If improved intensity measurements can be made in the future it may be worth 
+while to continue this analysis and to derive more exact bond lengths and bond angles 
+in the calciferol molecule than we can calculate at present. 
+The crystals of calciferyl4-iodo-5-nitrobenzoate were prepared by Mrs. Rita Cornforth 
+after a search for suitable crystalline heavy-atom derivatives. Experiments by Dr. J. W. 
+Cornforth in 1956 checked that no isomerisation of the molecule had occurred during 
+esterification. The chemical preparation and characterisation of the crystals are decribed 
+in an Appendix to this paper. 
+STRUCTURE ANALYSIS 
+Crystals of calciferyl 4-iodo-5-nitrobenzoate, C,,H,,INO, (M, 67 1.6), are deep yellow 
+orthorhombic prisms, a = 31-2, b = 6.98, c = 15.3 A, 2 = 4, space group P212,21, density 
+calc. = 1.36. Our experimental data consisted of the relative F values for 299 h01, 369 hll, 
+365 h21, 319 h31, 198 h41, 150 h51, and 77 h61 reflexions (1777 in all). These were derived mostly 
+from visual intensity estimates of the corresponding equi-inclination Weissenberg photographs 
+made with Cu-K, radiation; the h61 reflexions were estimated from a supplementary set of 
+oscillation photographs. Data for individual layers were brought to a common scale by correl- 
+ation with an OM Weissenberg photograph; the scale factors derived in this way were later 
+adjusted somewhat on the basis of a comparison with calculated F values. 
+The x and z parameters of the iodine atoms were obtained from the (010) Patterson projection; 
+XI = 0.010; z1 = 0.626. Electron-density projections on (010) then led to the gradual 
+recognition of x and z parameters for the remaining carbon, oxygen, and nitrogen atoms and 
+eventually to the molecular model described and discussed in our 1948 publication. 
+The y parameter of the iodine atom was estimated from the (100) Patterson projection 
+(along a 31 A periodicity!) to be about 0-23-0-25. This value was checked by calculating 
+the Harker section (4, y, z) which led to yI = 0.24. With x N 0 and y N 0.25, the heavy atoms 
+are approximately related by the symmetry operations of the space group Imnza; a first 
+electron-density distribution phased on their contributions alone might be expected to show 
+the high symmetry of this space group. In the actual first three-dimensional distribution 
+pl, calculated at the National Physical Laboratory, this false symmetry was reduced to that 
+
+19631 The Crystal Structure of a Calciferol Derivative.  
+of Pcm2,. The reduction was mainly due to the greater effectiveness of the small x para- 
+meter in relation to the long a axis in breaking down false symmetry compared with y and 
+small b. This effect was enhanced by using the signs calculated for the h0Z terms from the 
+refinement of the (010) projection in the evaluation of the three-dimensional series, together 
+with phase angles for the iodine contribution alone for the remaining hkl terms. The distribu- 
+tion accordingly showed false mirror planes only at y = 4 and at A = 2. Fig. la illustrates 
+its character. The atoms each appeared accompanied by its mirror image at peak heights 
+varying from 2.5 to 5 e/A3, together with a few spurious peaks of the same magnitude marked, 
+probably significantly, by having no mirror image. Generally the two mirror-image peaks 
+were almost identical in height; there was a slight bias in the direction chosen; 7 peaks of 
+the selected configuration were definitely the stronger as against 3 of the alternative. Eight 
+atoms lay very close either to y = 4 or y = 8, and were represented by single, often elongated, 
+peaks. In two cases, where bonds crossed the mirror planes nearly at right angles, the object 
+pez,k of one atom overlapped the mirror image of its neighbour. In this state of confusion, it 
+was fortunate that approximate x and z parameters for most of the atoms were known from 
+the projection work. This limited the interpretation of the three-dimensional series to the 
+0.25 
+0 
+b 
+C 
+FIG. 1. (a) Part of the section at x = 0 from pl. (b) The corresponding portion 
+of p2. 
+Contour interval equals 1 electronlA3, except over the iodine atom where it is 
+arbitrary. Negative contours broken. 
+choice between two, or occasionally four, alternatives of a y parameter consistent with stereo- 
+chemical considerations. In the majority of cases there was no ambiguity; even in the most 
+difficult region where the atoms linking ring A to rings c and D lie close to the spurious mirror 
+plane, there was definite bias in favour of one stereochemically consistent model. Only for 
+the last four atoms were we unable to identify convincing atomic peaks near their expected 
+positions (this was partly due to our wrong interpretation of the projection in this region which 
+was included in the signs of the h0Z terms). These missing atoms were omitted from the next 
+phasing calculations. 
+At this stage (1954) it became possible, for the first time, to make use of the high-speed 
+computing facilities offered by the SWAC computer in Los Angeles.3 The second three- 
+dimensional electron-density distribution, p2, was phased on the assumed positions of all atoms 
+in the molecule except the last four of the side-chain. It contained not only the 37 peaks 
+corresponding to the atoms included in the structure factor calculation but also 4 additional 
+peaks of only 1-2 e/AS corresponding to the atoms that had been omitted. Fig. 1 illustrates 
+how the spurious symmetry in pl had virtually disappeared in p2. The new positions found 
+for the 4 terminal atoms of the side-chain differed from those inferred from the two-dimensional 
+work and corresponded to the opposite stereochemical configuration at C(24) to that suggested 
+in the preliminary pub1ication.l The occurrence of 4 peaks in reasonable positions for the 4 
+missing atoms and the absence of mirror image peaks for the other atoms was taken as evidence 
+that the molecular model that had been selected out of the various possibilities from the 
+iodine-phased distributions was the correct one. Accordingly our subsequent work was 
+limited to the refinement of this model alone. 
+A second set of structure factor calculations 
+led us to change the scaling of the various layers of observed F values (October 1957). A 
+revised three-dimensional electron-density distribution, p3, was then calculated with the 
+re-scaled data (Fig. 2), together with one based on the calculated F values (May 1958). 
+Althqugh the peak shapes in both distributions were often distorted their centres were deter- 
+mined, as far as possible, by nineteen-point routine calculations and shifts applied from the 
+relations between the two series. The atomic positions derived were then used as the starting 
+point for a series of least-squares calculations which were carried out on an IBM 7090 computer 
+at Los Angeles, but only after an interval of several years (to March 1962) during which the 
+problem lay dormant. 
+Two separate series of least-squares refinements have been carried out, the first assigning 
+anisotropic thermal parameters to the atoms and the second isotropic thermal parameters. 
+Although R is rather lower for the first series, 11-9 as against 15.4 for the second, we prefer to The refinement followed a fairly normal course. 
+FIG. 2. Electron-density contours over the peak centres from p3. 
+Iodine atom shaded. Contour interval le/A3. 
+record the atomic positions reached by the second procedure. With a structure as complex 
+as the present, and imperfect data, the anisotropic refinement seems merely to add degrees 
+of freedom which have no physical meaning. 
+In the preferred analysis, the 1777 experimental F values were fitted to the 3 positional 
+parameters and an individual isotropic temperature factor, B, for each atom, together with an 
+overall scale factor. Three cycles were done with partial shifts (0.6 for positions, 0-4 for 
+B’s) and then two with full shifts. All the final shifts were smaller than one-third of the 
+corresponding estimated standard deviations, except for B of C(21) which shifted by an amount 
+equal to 1.4 times its estimated standard deviation. 
+Although further improvement in R could certainly now be obtained by re-introducing 
+anisotropic thermal parameters it seems unlikely that these would lead to significant improve- 
+ment in our knowledge of the structure, apart perhaps from a better description of the iodine 
+atom. A difierence map, calculated from the final parameters shows seventeen regions in 
+which the electron density deviates from zero by more than &1.0 e/A3. Thirteen of these 
+regions are in the neighbourhood of the iodine atom and the remaining four are small negative 
+troughs 1 A or more from any atom. None of them can indicate any significant changes in 
+the atomic positions. 
+In the latest structure- 
+factor calculations, the f curve used for iodine was that of Thomas and Umeda,4 and for oxygen, 
+nitrogen, and carbon (trigonal and tetrahedral) those of M~Weeny.~ The observed and calculated F values are recorded in Table 1. 
+Thomas and Umeda, J. Phys. Chem., 1957, 26, 293. 
+McWeeny, Acta Cryst., 1951, 4, 513. 
+
+The set of atomic parameters obtained from the last least-squares cycle is given in 
+Table 2. The estimated standard deviations in the positions of the carbon, nitrogen, and 
+oxygen atoms lie mostly in the range 0.034-05 A. Apart from C-I, 1.96 A (e.s.d. 0-03 A), 
+the estimated standard deviation (e.s.d.) of an average bond is thus about 0.06 A with a 
+corresponding limit of error (95% significance level) of about 0-12 A, In these circum- 
+stances, the numerical values that have been derived for the individual bond distances 
+from the parameters of Table 2 are of little interest and we do not reproduce or discuss 
+TABLE 2. 
+
+
+[ 19631 The Crystal Structure of a Calciferol Derivative. 4953 
+them here. It would hardly be possible on the basis of these bond distances alone even 
+to distinguish double from single bonds with confidence. Nevertheless, the average 
+distances for different types of bonds, based on formula (I) are reasonable, although 
+associated with large average deviations in keeping with the above accuracy estimates. 
+These average values are given in Table 3. 
+TABLE 3. 
+Average interatomic distances (A) for different types of bond. 
+Number Range Mean devn. Type Number 
+-C-N- 1 
+18 1.40-1.66 1.54 0.06 -c=o 1 -c-0- 1 Average 
+7 1.41-1.60 1.45 0.04 II 
+2 1.45-1'46 1.46 0.01 3c-0- 1 
+>c-I 1 
+6 1.26-1.58 1.42 0.09 
+4 1'27-1.44 1.35 0.06 
+2 1.07-1.31 1.19 0-12 Average 
+Distance 
+1.55 1.22 
+1.33 
+1-51 
+1.96 
+The B values listed in Table 3 are associated with estimated standard deviations of up 
+to 1 A2 and hence most of the variations in the thermal parameters among the different 
+atoms have little physical meaning; the very high value of B for O(l1') probably only 
+reflects the greater uncertainty attached to the placing of this atom which is confused 
+by diffraction effects around the iodine atom. 
+In spite of the unreliability of individual bond distances and angles, the overall stereo- 
+chemical relation of the atoms in the molecule are clear. In Fig. 3 the molecule is shown 
+in projection down the b- and c-axes in the correct absolute configuration as defined by 
+recent experiments; 697 the stereochemical configurations about the two asymmetric atoms, 
+C(20) and C(24), can be described as R and S, respectively, where the secondary carbon 
+atom substituents are given priority over the double bond.8 This stereochemical arrange- 
+ment about C(24) is the opposite to that proposed in our preliminary work but it was 
+already described correctly in our second note and is in agreement with other recent 
+stereochemical ~tudies.~ The conformation adopted by the side-chain in the crystal is 
+interesting in that the main chain is not in the planar zigzag form, as can be seen from 
+Fig. 3. This conformation appears, from consideration of models at least, to be rather 
+favourable as far as non-bonded repulsive interactions are concerned. C(26) and C(27) 
+are, respectively, antiperiplanar and synclinal with respect to C(28). 
+Ring D adopts the conformation with 
+the two atoms at the ring junctions on opposite sides of the plane of the other three 
+[C(13), + 0-47 A; C(14), - 0-24 A]; ring c is in the chair form and so is ring A. The 
+tvans-conjugated diene system, including the atoms C(lO), C(4), C(5), C(6), C(7), C(8), 
+C(9), and C(14), is planar to within 0.13 A; however, if one takes the two halves of this 
+system separately, the angle between the two planes, about the central C(6)-C(7) bond, 
+is 9". The cis-diene system is definitely non-planar; it seems best described in terms of 
+two planes, one defined by atoms C(1), C(lO), C(5), and C(19), the other by C(5), C(4), 
+C(6), and C(lO), which are at 54" to one another. The angle between the first of these 
+planes and the trans-diene system is 52". With this type of arrangement, too close contact 
+between hydrogen atoms attached to C(7) and C(19) is avoided. In spite of the irregular 
+interatomic distances present, all the atoms of the benzene ring lie within 0-02 A of a single Rings c and D, as expected, are trans-fused. 
+Viscontini and Miglioretto, Helv. Chim. Acta, 1955, 38, 930. 
+Brenneisen, Tamm, and Reichstein, Helv. Chim. Acta, 1956, 39, 1233. 
+Cahn, Ingold, and Prelog, Experientia, 1956, 12, 81. 
+Maio and Romeo, Gazzetta, 1959, 89, 1626. 
+
+4954 Hodgkin, Rimmer, Dunitz, and Trueblood: 
+plane; to this plane, the mean plane of the nitro-group is inclined at 60°, and the mean 
+plane of the ester group at 12”. 
+The molecular packing is of an exceptionally intricate nature, as is evident from Fig. 4, 
+and is one to which the unit-cell dimensions give no clue. The shortest intermolecular 
+distances involve the esterified carboxyl group and the iodine atom and nitro-group and 
+0 
+FIG. 3. Two views of the molecule projected down the b- and a-crystal axes, 
+respectively, to show its stereochemical form. 
+Atoms not marked with an element symbol are carbon. 
+probably arise as a result of dipole interactions; they vary between 3.26 and 3-45 A and 
+are listed in Table 4. The 
+iodine atom environment is particularly noteworthy. The atom lies almost midway All other contacts involve distances greater than 3.5 A. 
+TABLE 4. 
+Short intermolecular contact distances (A). 
+O(9’) . . . O(8’) 3.28 O(9’) . . . C(2’) 3.38 Cf. O(1l’) . . . I 3.29 intramol. O(9’) . . . C(7’) 3.26 O(9’) . . . C(1’) 3.28 O(l1’) . . . I 3.45 
+
+[ 19631 The Crystal Structure of a Calciferol Derivative. 4955 
+between two nitro-groups, one in the same molecule and one in the succeeding molecule 
+along the b axis so that the distance O(l1')-I, intra, 3.29 A is very little shorter than 
+FIG. 4. The packing of molecules in the crystal, viewed down b. The a-axis 
+points upwards, the c-axis to the right; the outlined portion is a/2 by c. 
+O(l1')-I, inter, 3.45 A. This seems significant in view of the usefulness of the iodonitro- 
+benzoate group in promoting the crystallisation of a molecule as irregular in shape as 
+calcif erol. 
+We are grateful to Mrs. M. Webster for her help during some of the intermediate stages of 
+this investigation. Further, we gratefully acknowledge the gift of the calciferol used in this 
+investigation by Dr. E. H. Cam (British Drug Houses Ltd.) and the co-operation, in carrying 
+out the necessary computations, of the Mathematical Division of the National Physical 
+Laboratory, England, the Numerical Analysis Research Department and later Computing 
+Faculty of the University of California, Los Angeles, and of the Oxford University Computing 
+Laboratory. We received technical assistance from Miss Ruth Cox and Mrs. U. Ledwith. 
+CHEMICAL CRYSTALLOGRAPHY LABORATORY, OXFORD. 
+ORGANIC CHEMISTRY LABORATORY, SWISS FEDERAL INSTITUTE OF TECHNOLOGY, ZURICH. 
+DEPARTMENT OF CHEMISTRY, UNIVERSITY OF CALIFORNIA, 
+Los ANGELES. [Received, March 191h, 1963.1 
+APPENDIX 
+Calciferyl 4-iodo-5-nitrobenzoate 
+By R. H. CORNFORTH and J. W. CORNFORTH. 
+Since the 4-iodo-5-nitrobenzoyl group has now been used as a heavy-atom marker in several 
+investigations the preparative chemistry employed is reported here. Light petroleum used 
+was the fraction of b. p. 60-80". 
+4-Iodo-5-nitrobenzoyl chloride. p-Iodobenzoic acid (3.6 g.) was added to a mixture of 
+concentrated sulphuric acid (13 ml.), fuming sulphuric acid (4 ml.; 20% SO,), and fuming 
+nitric acid (6 ml.; d 1.5). The mixture was warmed on a steam-bath until the solid dissolved 
+
+4956 The Crystal Structure of a Calciferol Derivative. 
+and for & hr. thereafter. To the cooled solution water was added dropwise without further 
+cooling. The crystalline 4-iodo-5-nitrobenzoic acid was collected and recrystallised from 
+aqueous methanol, forming yellow prisms (3.6 g.), m. p. 210". This acid (3.6 g.) was warmed 
+with phosphorus pentachloride (2.8 g.) and benzene (10 ml.) for 4 hr. on a steam-bath. The 
+residue after evaporation at low pressure was recrystallised from dried light petroleum, to give 
+4-iodo-5-nitrobenzoyl chloride (3.4 g.) as pale yellow prisms, m. p. 40-41.5" (Found: C, 27.3; 
+H, 1.2; N, 4.75. C,H,ClINO, requires C, 27.0; H, 1.0; N, 4.5%). When first prepared, this 
+substance formed long yellow prismatic needles, m. p. 49-51", from cyclohexane; this form 
+was not again encountered. 
+Calciferol (326 mg.) and 4-iodo-5-nitrobenzoyl chloride 
+(406 mg.) in pyridine (3.2 ml.) were heated at 95" for A few drops of water were added 
+and, after a few minutes, ether and more water. The ether was washed with aqueous sodium 
+carbonate before and after being washed with dilute sulphuric acid. The residue after evapor- 
+ation was freed from ether and water by two evaporations at low pressure of its solution in 
+benzene; it was redissolved in benzene-light petroleum (1 : 2) and put on a column of alumina 
+(15 g. ; previously washed with methyl formate). Elution with the same solvent mixture gave a 
+yellow resin (467 mg.) which crystallised on dissolution in a little acetone and seeding with the 
+original specimen (obtained by the same procedure except that chromatography was omitted, the 
+product being precipitated from acetone by methanol and recrystallised from acetone). The 
+yellow crystals (265 mg.; m. p. 115-117') were recrystallised from acetone with slow cooling, 
+to give deep yellow prisms (185 mg.) of calciferyl 4-iodo-5-nitrobenzoate, m. p. 117.5-1 18.5", 
+[0(ID2O +79" (c 0-73 in benzene) (Found: C, 62-7; H, 6.8; N, 2.2; I, 18.5. C3,H,,1NO4 requires 
+C, 62.6; H, 6.9; N, 2.1; I, 18.9%). The crystallographic identity of this material with the 
+original specimen was verified at Oxford. 
+The above iodonitrobenzoate (100 mg.) in benzene (2 ml.) was left at 0" for 19 hr. with a 3% 
+solution of potassium hydroxide in methanol (8 ml.). Water and ether were added; the ether 
+was washed with water, dried (MgSO,), and evaporated at low pressure. The residue on 
+recrystallisation from acetone gave calciferol (15 mg.), m. p. 113-115" alone or mixed with 
+authentic material. The infrared spectra (in compressed KC1) of the product and of authentic 
+calciferol were superimposable. Additional material (24 mg.) of the same m. p. and mixed 
+m. p. was obtained from the mother-liquor by crystallisation from 90% methanol. Since the 
+conditions of hydrolysis were too mild to effect appreciable thermal isomerisation of pre- 
+calciferol lo it follows that the iodonitrobenzoate was indeed a derivative of calciferol. A 
+specimen of precalciferol was kindly supplied by Glaxo Laboratories Ltd. When treated with 
+iodonitrobenzoyl chloride according to the original procedure it gave only traces of the ester, 
+m. p. 117-118". Calciferyl 4-iodo-5-nitrobenzoate. 

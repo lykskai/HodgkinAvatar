@@ -1,0 +1,205 @@
+© 1945 Nature Publishing Group504 NATURE APRIL 28, 1945, VoL. 155 
+X-RAY CRYSTALLOGRAPHIC 
+MEASUREMENTS ON A SINGLE 
+CRYSTAL OF A TOBACCO 
+NECROSIS VIRUS DERIVATIVE 
+By DOROTHY CROWFOOT 
+AND 
+G. M. J. SCHMIDT 
+Laboratory of Chemical Crystallography, Oxford 
+IN August I944, N. W. Pirie, of Rothamsted, sent 
+us a few large crystals of a tobacco necrosis virus 
+derivative (Rothamsted strain)1 on which we have 
+been able to make some X-ray measurements. 
+Before we could complete the investigation the pre­
+paration unfortunately deteriorated, but the crystals 
+are in themselves so rema.rkable that it seems worth 
+while to give a preliminary account of their charac­
+teristics, They are described as of a crystalline 
+derivative rather than as crystals of the virus itself, 
+since by the time the preparation had crystallized it 
+had lost its infectivity. It shows, however, the same 
+serological and ultracentrifugal behaviour as the 
+active material and so probably does not differ 
+greatly from this2• The molecular weight indicated 
+by the sedimentation is at least 1,850,000, 
+and this order of magnitude is confirmed by our 
+present measurements. 
+The crystals were of quite unusual size, 1-5 mm. 
+across, and appeared to be of two forms, thick tri­
+clinic prisms and thin hexagonal or pseudo-hexagonal 
+plates. They had been grown for more than a year 
+from aqueous solution, and when received were 
+adhering to the walls of the tube covered with a film 
+of moisture. The thickest crystal of all, which was 
+of the first kind and measured approximately 
+2 mm. x 1 mm. x 0·5 mm., was washed into a drop 
+of 1/10 saturated ammonium sulphate solution and 
+drawn into a thin-walled Lindemann glass capillary 
+which was then sealed off. In this tube it could be 
+examined still covered with a film of liquid. 
+In form the crystal was a thick prism tending to 
+be elongated along [111] and bounded by well-defined 
+faces, probably {011}, {flO} and {ioi}. In polarized 
+Fig. 1. TOBACCO NECROSIS VIRUS DERIVATIVE. 
+21• oscillation photograph, crystal rotating about normal to 
+(001), x-ray beam parallel to (100). 90 hours exposure. light it showed low birefringence with oblique extinc­
+tion when viewed parallel to ( 100), and approximately 
+straight extinction along [Ill] when viewed per­
+pendicular to (100), which suggested monoclinic or 
+pseudo-monoclinic symmetry. These measurements 
+could not be made very accurately owing to the 
+position of the crystal in the tube. But in essentials 
+they are confirmed by the X-ray data, which show 
+that the crystal is triclinic, with a = 179 A., 
+b = 219 A., C = 243 A., ot = 87!0
+, (' = 97f0
+, y = 97t0 
+(reduced cell), space group Pl; and that there is a 
+marked approach to monoclinic symmetry, which is 
+better illustrated by adopting the larger unit cell 
+a' = 179 A., b' = 303 A., c' = 346 A., oc' = 96°, (" = 
+10 I o, y' = 90°, space group A 1. In the account 
+which follows, the indices given "refer to the pseudo­
+monoclinic cell. 
+In order to measure these very large ceil dimen­
+sions, using copper KrT. radiation, five 2!0 oscillation 
+(a) (b) 
+Fig. 2. TOBACCO NECROSIS VIRUS IJERIVATIVE . 
+(a) Crystal 'still'. X-ray beam nearly perpendicular to (h*OO). 
+Rellexions from (h*OO). 12 hours eXposure. 
+(b) Crystal 'still' . X-ray beam 60° from (h*OO). Rellexlons 
+from (h*OO), (4h*k*O), (3h*k*O). 10 hours exposure. 
+photographs were taken of the crystal rotated about 
+the normal to (001), with a plate-to-crystal distance 
+of 10·1 em. (Fig. 1). The X-ray beam was defined by 
+a lead glass capillary of bore 0 ·025 em. kindly lent 
+to us by Dr. W. T. Astbury. With this slit system 
+there is some blurring of neighbouring hkl reflexions 
+for which the index k varies only by 1, since the 
+interval, b = 303 A., is outside the theoretical limit 
+of resolution ; but since there are sharp reflexions 
+with indices Okl differing by various multiples of k, 
+the lattice is defined unambiguously. Apart from 
+this difficulty, the patterns of the X-ray reflexions 
+on the oscillation photographs are exactly com­
+parable with those found on simpler crystals, the 
+only difference being one scale. 
+This difference of scale makes it possible, however, 
+for us to estimate the unit cell dimensions in quite a 
+different way on a new variety of X-ray photograph. 
+The unit cell dimensions are so large that , even when 
+the crystal is kept stationary, innumerable crystal 
+planes are geometrically in a position to reflect 
+monochromatic X-rays. Photographs obtained with 
+the crystal 'still' accordingly show numbers of X-ray 
+reflexions, and these, though individually unresolved, 
+are characteristically arranged on. the plate in series 
+of concentric circles, or ellipses (Fig. 2). Their 
+arrangement is most easily understood by referring 
+the process of reflexion in the usual way to the inter­
+action of the crystal reciprocal lattice with the sphere 
+of reflexion8·'· In reciprocal space the lattice points 
+Sl"e crowded together so that many will be in contact 
+with the sphere of reflexion in any position of the 
+© 1945 Nature Publishing GroupNo. 3939, APRIL 28, 1945 NATURE 505 
+crystal relative to the X-ray beam. The points are, 
+however, grouped into reciprocal lattice planes, and 
+these intersect the sphere of reflexion in circles, 
+where the interval between two concentric circles 
+depends on the spacing of the series of parallel 
+reciprocal lattice planes and hence inversely on the 
+crystal cell dimensions. The diagrams in Fig. 3 
+illustrate the process. 
+JlSinceJonly reciprocal lattice planes with large 
+spacings and in a position not far from normal to the 
+' I ' ,---- .... 
+I 
+I 
+I 
+I 
+I 
+\ ' ' ......... __ , 
+(a} Beam 
+direction Beam direction 
+p p 
+(b) 
+Fig. 3. INTERACTION OF RECIPROCAL LATTICE PLANES WITH THE SPHERE OF REFLEXION (a) IN PERSPECTIVE, (b) IN PROJECTIO!{. 
+AA', IJB', 00', reciprocal lattice planes; 0, centre of sphere of reflexion; PP', photographic plate. 
+beam direction can give well-defined circles or 
+ellipses when projected on to the photographic plate, 
+three or four 'still' photographs at intervals of 30° or 
+so serve to define the lattice normal to any particular 
+rotation axis. In the present case we first deduced 
+two of the three reciprocal cell dimensions from a 
+series of 'still' photographs which showed reflexions 
+from the reciprocal lattice planes (h*OO), (Ok*O), 
+(h*k*O), (h*k*O), (2h*k*O), (3h*k*O), ( 4h*k*O), (h*2k*O) 
+and (3h*2k*O), and afterwards took the oscillation 
+photographs when we knew the degree of resolution 
+we should need. With our apparatus a good 'still' 
+photograph at a plate-to-crystal distance of 4 em. 
+could be obtained in twelve hours, while the best 
+oscillation photograph took ninety hours. As these 
+exposure times with our X-ray tubes were so long, 
+we transferred the crystal, at the kind invitation of 
+Sir Henry Dale, to the Davy Faraday Laboratory, at 
+the Royal Institution, London, for photography with 
+a more powerful tube. One trial photograph was 
+taken in four hours, but at this stage an accident to 
+the crystal prevented further work. In all, the crystal 
+was exposed for approximately five hundred hours to 
+X-radiation without apparent deterioration. 
+While the 'still' photographs provide good evidence 
+on the cell dimensions, we have to turn to our very 
+limited series of oscillation photographs for further 
+details of the crystal structure. One striking feature 
+of the X-ray photograph reproduced (Fig. 1) is the 
+absence of a number of reflexions, hOl, where h is 
+odd, which suggests that there is a pseudo-glide 
+plane of symmetry present and that the arrange­
+ment of the molecules in the crystal approximates to 
+that required by the space group Aa. In this event 
+there must be four units in the face-centred unit cell 
+Qr two in the primitive cell measured above. In the 
+absence of measurements of crystal density and of 
+water content, we can only give a rough estimate for 
+this unit molecular weight based on measurements of these quantities on other virus crystals. If we take 
+the figures for the crystalline bushy stunt virus5, water 
+content 55 per cent, density 1·286, the molecular 
+weight of the tobacco necrosis virus derivative can 
+be calculated as 1;600,000. But since the nucleic acid 
+content of tobacco necrosis virus is higher than that 
+of bushy stunt virus, it is probable that the density 
+is greater, and this figure may therefore be regarded 
+as a lower limit for its molecular weight. As such it 
+nompares well with the ultracentrifuge figure given 
+above, 1,850,000, which is also a lower limit calcu­
+lated8 for a spherical molecule with the observed 
+sedimentation constant, 50 X I0-13,1 Actually the 
+crystal structure suggests that the molecules do not 
+differ in shape very markedly from spheres. On this 
+view the estimated molecular dimensions vary from 
+about 80 A. as a minimum radius to a possible 
+maximum of 100 A. radius in one direction. 
+The presence of even a pseudo-glide plane of sym­
+metry in the crystal structure of a molecule certainly 
+containing asymmetric centres may appear at first 
+sight odd. But this effect again must be due to the 
+enormous size of the molecule. It has only been 
+observed so far for reflexions with spacings greater 
+than 25 A., and the intensities of these can be 
+sensitive to little more than the general shape and 
+position of the molecules in the unit cell. With fresh 
+material we hope to be able to extend our survey of 
+the X-ray reflexions and to obtain a better idea of 
+the actual dimensions of the virus molecule. That 
+the required X-ray data can be got is proved by the 
+'still' photographs, which show X-ray reflexions from 
+planes with spacings as small as 2 ·8 A. 
+1 Bawden, F. C., and Pirie, N. W., Brit. J. Exp. Path., 23, 314 (194o2). 
+• Bawden, F. C., and Pirie, N. W., to be published shortly. 
+'Ewald, P. P., Z. Krist., 56, 129 (1921). 
+'Bernal, J. D., Proc. Roy. Soc., .A, 113, 117 (1926). 
+• Bernal, J. D., and Fankuchen, I., J. Gen. Physiol., 25, 111 (194ol). 
+., Ogston, .A. G., private communication. 

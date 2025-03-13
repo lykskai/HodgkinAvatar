@@ -1,0 +1,399 @@
+The Metabolism of 3,4-Benzpyrene in Mice and Rats 
+II. The Identification of the Isolated Products as 8-Hydroxy- 3,4-Benzpyrene and 3,4-Benzpyrene-5,8-Quinone * 
+I. Berenblum, M.D., M.Sc., D. Crowfoot, M.A., Ph.D, 
+E. R. Holiday, M.A., B.M., B.Ch.,** and R. Schoental, Ph D.*** 
+(From the Ox/ord University Research Centre o/ the British Empire Cancer Campaign, Sir William Dunn 
+School ot Pathology, and the Department ol Crystallography, the University o/ Ox/ord, 
+and the Research Laboratories o/ the London Hospital, England) 
+(Received for publication August 22, I942) 
+The present work deals with the identification of 
+the hydroxy and quinone derivatives of 3,4-benzpyrene, 
+extracted from mouse and rat feces, as described in the 
+preceding paper (I). In view of the labile nature of 
+the hydroxy compound, BPX, and for other technical 
+reasons, direct comparisons between these products and 
+synthetic compounds were not actively pursued. In- 
+stead, the products from the feces and some synthetic 
+derivatives of benzpyrene were converted into methoxy 
+and other derivatives, and comparisons were made of 
+their crystallographic character and their fluorescence 
+and absorption spectra. 
+SYNTHETIC CONVERSION OF THE ISOLATED PRODUCTS 
+INTO OTHER DERIVATIVES 
+Hydroxy derivatives.--Attempts were made to con- 
+vert the red quinone derivative isolated from the 
+feces (I) into a hydroxy derivative, by reduction with 
+Zn and H2SO4. A greenish yellow fluorescent product 
+was obtained, which was strongly adsorbed on alumina. 
+This could not be isolated, however, owing to its great 
+instability in air, especially in the alkaline state, when 
+it was almost instantaneously reconverted into the red 
+compound. The same occurred on reduction of the 
+mixture of synthetic 5,8- and 5,Io-quinones, prepared 
+from benzpyrene by the method of Vollmann and 
+his collaborators (6). Catalytic hydrogenation (with 
+Adams' catalyst and H2 at atmospheric pressure) 
+yielded similar unstable fluorescent products. 
+These results were compatible with the view that, 
+on reduction, both the red product from the feces 
+and the synthetic quinones were converted into di- 
+hydroxy derivatives of benzpyrene. 
+dcetoxy derivatives.--Reduction of the red product 
+from the feces and of the synthetic quinones in the 
+* Because of the difficulties of international communication 
+the proof sent to the authors did not come back. 
+** E. R. H. wishes to thank Professor R. A. Peters for labora- 
+tory facilities at the Department of Biochemistry at the Uni- 
+versity of Oxford. 
+*** R. S. is indebted to the Nuffield Trust for a personal grant. presence of acetic anhydride and pyridine, yielded 
+the more stable acetoxy compounds, but these also 
+were not sufficiently stable to provide good yields of 
+pure crystalline products with the small amounts of 
+material available. Sufficient amounts of the crude 
+products were obtained, however, for spectrographic 
+analysis of their fluorescence. 
+Methoxy derivatives.--The production of methoxy 
+derivatives of benzpyrene by methylation of the meta- 
+bolic hydroxy compound (BPX), and by reductive 
+methylation of the red product from the feces and 
+the synthetic quinones, proved to be the most satis- 
+factory approach in the elucidation of the structures ~ 
+of the substances concerned, the derivatives being 
+fairly stable and yielding readily crystalline products. 
+For the methylation of BPX, the crude fluorescent 
+fraction from the feces, at the stage after evaporation 
+in vacuo of the methanolic extract (i), was dissolved 
+in excess of dimethyl sulfate, and heated with con- 
+centrated aqueous NaOH for a short time; then it was 
+well cooled and treated with methanol to facilitate 
+the destruction of the excess of dimethyl sulfate by 
+the alkali present. After further heating to complete 
+the reaction, the mixture was diluted with water and 
+the product transferred to benzene. The benzene ex- 
+tract was washed repeatedly with water, dried with 
+anhydrous Na.,SO~, and passed through a column of 
+alumina. The methoxy compound passed through into 
+the eluate, while unchanged BPX and other impuri- 
+ties remained adsorbed. 
+The benzene eluate exhibited an intense blue fluores- 
+cence similar to that of BPX but, unlike the latter, 
+the fluorescence remained unchanged on addition of 
+alkali. 
+The solution was evaporated to dryness and sub- 
+limed in high vacuum. The main fraction distilled at 
+about i io ~ C., and this was recrystallized from amyl 
+acetate. A second fraction, coming over at about 
+i5 o~ C., was present in too small an amount for 
+crystallization. 
+For reductive methylation of the red product from 
+151 
+
+r52 Cancer Research 
+the feces, the substance was dissolved in dimethyl 
+sulfate and boiled with concentrated aqueous NaOH 
+and powdered zinc, until the mixture changed to 
+a greenish yellow color, care being taken that sufficient 
+NaOH was alway s present to maintain an alkaline 
+reaction. The subsequent procedure was the same as 
+in the case of the methylation of BPX, and on sub- 
+limation in high vacuum the greater part came over 
+at about i5 o~ C. (From subsequent comparisons it 
+became clear that the second fraction of the methy- 
+fated BPX, mentioned previously, was identical with 
+the present product, its presence being due to a slow 
+transformation of BPX into the quinone during the 
+process of purification.) 
+The mixture of 5,8- and 5,io-quinones, obtained 
+synthetically by the oxidation of benzpyrene with 
+chromic acid (6), was treated in the same way as 
+the red product from the feces, and on sublimation 
+in high vacuum of the resulting methoxy compounds, 
+two fractions were obtained--one at about ioo ~ C. and 
+the other at about i5 ~ C. Both were further purified 
+by repeated crystallization. Subsequently small samples 
+of the individual quinones (5,8- and 5,io- respectively) 
+became available, 1 and these were separately converted 
+into the corresponding methoxy compounds. By this 
+means it became possible, to establish that the fraction 
+of the mixture coming over at about I5 o~ C. was 
+mainly the 5,8- derivative, and the one at about 1oo ~ C. 
+the 5,Io- derivative. 
+ANALYSTS 
+Samples of the methoxy compounds derived from 
+the methylation of BPX and reductive methylation of 
+the mixture of synthetic quinones, were submitted for 
+quantitative analysis in order to determine the num- 
+ber of methoxy groups present. 
+Analysis (Strauss and Weiler).-- 
+Methoxybenzpyrene from BPX (major fraction 
+coming over at about i io ~ C.) 
+Sample I--9.88 per cent methoxy 
+Sample :2 ='8.o2 ...... 
+(Monomethoxybenzpyrene requires I r.o per cent 
+methoxy.) 
+Methoxybenzpyrene from the mixed synthetic 
+qui nones 
+Sample I = I7.i per cent methoxy 
+Sample 2= I8. 5 ...... 
+(Dimethoxybenzpyrene requires x9. 9 per cent 
+methoxy.) 
+1 The separate samples of 5,8- and 5,Io-quinones were kindly 
+supplied to us by Dr. F. L. Warren, of the Chester Beatty Re- 
+search Institute of the Royal Cancer Hospital. They were pre- 
+pared by oxidation of benzpyrene with chromic acid, and 
+separated through their acetyl derivatives, according to the 
+method of Vollmann and his collaborators (6). FLUORESCENCE SPECTRA 
+The distinctive fluorescence spectra of benzpyrene 
+and of many of its derivatives can be of considerable 
+help in distinguishing the various compounds, even in 
+the presence of many impurities. 
+In the present work a semi-quantitative method of 
+determining relative fluorescence intensity distribution 
+in the wave length region 3,8oo-5,4oo A afforded a 
+rapid and sensitive means of characterizing benzpyrene 
+and its derivatives. A series of photographs of the 
+fluorescence spectrum of the test substance in solution 
+of graded concentration enabled curves of approximate 
+intensity distribution to be drawn. The method pro- 
+vides a much better representation than can be got 
+from a single exposure. Examples of such curves are 
+given in Fig. I. 
+The results obtained from a study of the fluorescence 
+spectra of the different products and derivatives in ben- 
+zene may be summarized as follows: 
+t. BPX (Fig. I, a) gave three major bands, the 
+strongest being preceded by some fluorescence around 
+4,i5o-4,25o A.. In addition, two bands of variable 
+intensity were observed, one at about 3,9oo A and 
+the other in the region of 5,4oo A. The former may 
+possibly have been due to impurities; the latter (prob- 
+ably extending further towards the long wave length 
+when photographed on plates more sensitive to red) 
+was weak when the BPX was dissolved in a neutral 
+solvent (benzene) and very intense when in the 
+presence of alkali (e.g. in benzene-methanol-ammonia 
+mixture). This would account for the change in 
+naked eye fluorescence from blue to green on addi- 
+tion of alkali. 
+2. The fluorescence bands of methylated BPX were 
+practically identical with those of BPX itself in ben- 
+zene, except that the band at the long wave length 
+did not increase in intensity on addition of alkali. 
+3- In the case of the dimethoxybenzpyrenes, obtained 
+by reductive methylation of the synthetic quinones, 
+the bands for the 5,8- were different from those of the 
+5,io- (Fig. I, b and c), while those of the mixture 
+appeared as a composite picture of the two (Fig. I, d). 
+4. The bands of the methoxy compound obtained 
+by reductive methylation of the red product from the 
+feces (Fig. I, e) were indistinguishable from those of 
+the synthetic 5,8- compound (Fig. I, b). 
+5- The methoxy compound obtained by oxidizing 
+BPX to the quinone followed by reductive methyla- 
+tion, exhibited bands which were similar to (b) and 
+(e) rather than to (d) of Fig. I. It is clear from 
+this that the oxidation product was a single quinone 
+(5,8-) and not a mixture. 
+
+
+I54 Cancer Research 
+ABSORPTION SPECTRA 
+Preliminary investigations were made with the 
+method previously described by one of the authors 
+(5)- This method was found useful for rapidly com- 
+paring absorption band systems of a crude mixture 
+with those of purified reference substances. When 
+purified products were ultimately obtained from the 
+crude mixtures, final checking was made by compar- 
+ing plots of absorption curves obtained with the benzpyrene (BPX) in both ethanol and hexane. In 
+Fig. 2, the effect of methylation of the metabolic hy- 
+droxybenzpyrene on the absorption spectrum is shown. 
+From Figs. 2 and 3 it can be seen that definition of 
+absorption band systems increases from the hydroxy 
+in ethanol, to hydroxy in hexane, to methoxy in 
+hexane. This is an added reason for using the methoxy 
+derivative in hexane as a standard reference. The low 
+solubility of these compounds in hexane has been given 
+as a reason for not using this solvent (4)- If, however, 
+
+I. Methoxy derivative of BPX in hexane. 
+2. BPX in hexane. 
+Spekker photometer. The spectrograph was a Hilger 
+A 316 with flat focal plane adaptation. The cells used 
+were 5 cm. long. 
+Identity of absorption of the methoxy compound 
+derived from the red product from the feces, with that 
+of synthetic 5,8-methoxy-3,4-benzpyrene, is shown in 
+Fig. 4. By contrast, the nonidentity with 5,io-di- 
+methoxy-3,4-benzpyrene is shown in the same figure. 
+In Fig. 3 is reproduced the curve of 5-hydroxy-3,4- 
+benzpyrene in ethanol, transformed from the paper 
+of Fieser and Hershberg (4)- This obviously is 
+signally different from that of the metabolic hydroxy- a long cell is used (5 to io cm.) very low dilutions, 
+of the order of i  io -G molar, may be accurately mea- 
+sured in the case of unsaturated polycyclic hydro- 
+carbons. 
+CRYSTALLOGRAPHIC MEASUREMENTS 
+Crystallographic measurements were made on several 
+preparations of different degrees of purity of crystal- 
+line methylated BPX and also of the methoxy deriva- 
+tives obtained by reductive methyladon of both the 
+synthetic quinones and the red product from the 
+feces. In these, three crystallographic species only 
+
+Berenblum et al.--Metabolism of 3,4-Benzpyrene. II 155 
+could be distinguished: methylated BPX, 5,8-di- 
+methoxy-3,4-benzpyrene, and 5,io-dimethoxy-3,4-benz- 
+pyrene (Table I and Fig. 5). 
+MORPHOLOGICAL AND OPTICAL EXAMINATION 
+The crystals of 5,zo-dimethoxy-3,4-benzpyrene are 
+lath-shaped plates with straight extinction, distinct in 
+form from the crystals of 5,8-dimethoxy-3,4-benzpyrene the reductive methylation derivative of the red product 
+from the feces were indistinguishable from those of 
+5,8-dimeth~ 
+X-RAY CRYSTALLOGRAPHIC MEASUREMENTS 
+X-ray measurements were made on: (a) a sample 
+of small good crystals of methylated BPX, and (b) 
+crystals of 5,8-dimethoxy-3,4-benzpyrene isolated from 
+
+FIo. 3.---Absorption spectra. 
+i. 5-Hydroxybenzpyrene in ethanol (Fieser). 
+2. BPX in hexane. 
+3. BPX in ethanol. 
+and methylated BPX. A small proportion of crystals 
+similar to these, and probably to be identified with 
+them, occurred in the preparation of the 5,8- fraction 
+from the synthetic mixture obtained by fractional 
+sublimation. 
+Methylated BPX and 5,8-dimethoxybenzpyrene crys- 
+tallize in fine needles, which can be distinguished by 
+morphological and optical examination, as indicated 
+in Table I and Fig. 5- They are, however, so similar 
+that some doubt was felt about their nonidentity until 
+x-ray measurements were carried out. The crystals of the mixed methylated quinone preparation. Photo- 
+graphs were later obtained from the dimethoxybenzpy- 
+rene prepared from the red product of the feces, and 
+these proved to be identical with those of the synthetic 
+5,8- compound. 
+The crystal structures of methylated BPX and 5,8- 
+dimethoxybenzpyrene are similar and are of an in- 
+teresting and complex triclinic variety. The simplest 
+unit cell contains four molecules, but for ease of 
+measurement the structure has been referred to a 
+larger unit, in which the angles between crystal axes 
+
+x56 Cancer Research 
+approximate to right angles and the a and c axes are 
+practically indistinguishable in length. The near iden- 
+tity in the two cell dimensions extends to the in- 
+tensities of corresponding x-ray reflections, and sug- 
+gests that the arrangement of the molecules in the b 
+plane has symmetry which is destroyed in the crystal 
+structure as a whole by staggering of the planes. 
+The unit cell dimensions may be given as shown in 
+Table II. The cell dimensions are probably correct to widen the permitted limits for the measured molecu- 
+lar weight. But the good agreement between Moalc. 
+and Mth .... proves clearly that methylated BPX is a 
+monomethoxybenzpyrene, while it confirms the di- 
+methoxy character of the quinone derivative. 
+The fact that the crystal structures of methylated 
+BPX and 5,8-dimethoxybenzpyrene are so similar 
+is presumably correlated with the presence of the 
+methoxy group in methylated BPX at the same posi- 
+
+FIG. 4.--Absorption spectra. 
+x. Methoxy derivative of red substance from the feces. 
+2. 5,8-Dirnethoxy-3,4-benzpyrene. 
+3. 5, z o'Dimethoxy-3,4"benzpyrene- 
+z to 2 per cent. Since in the case of methylated BPX 
+only small quantities of material were available, the 
+crystal densities were determined by flotation in drops 
+of solutions of known densities under the microscope, 
+as in the case of BPX itself (3)' Three solutions, of 
+densities T.332 , 1.36T , and 1.396, were prepared and 
+the behavior of the crystals in these liquids is indi- 
+cated in Table II. Meale. in these figui-es is derived 
+from the best values of the unit cell dimensions and 
+the outside limits for the density. Possible experi- 
+mental errors in the x-ray measurements certainly tion as one of those in the dimethoxy compound. That 
+this should be the 8- rather than the 5- position is in 
+good agreement with the observations made on BPX 
+itself (3). 
+DISCUSSION 
+The evidence of the foregoing results leads to the 
+following conclusions: (a) the nonidentity of methyl- 
+ated BPX with the methoxy compounds derived from 
+benzpyrene-quinones; (b) the identity of the methoxy 
+compound derived from the red product from the 
+
+Berenblum et al.--Metabolism o[ 3,4-Benzpyrene. 11 I57 
+feces with that from the synthetic 5,8-quinone of 
+benzpyrene; and (c) the allocation of the hydroxy 
+group in BPX to the 8- position. crystal structure are all different, while both the 
+analytical data for methoxy groups and the x-ray 
+measurements agree in establishing that the former 
+I. 5, lo-Dimethoxybenzpyrene 
+2. 5,8-Dimethoxybenzpyrene 
+3. Methylated BPX TABLE I 
+Morphology 
+
+
+FIG. 5.--Diagram to illustrate the optic and morphological character of crystals of: 
+1. 5,I o-Dimethoxy-3,4-benzpyrene. 
+2. 5,8-Dimethoxy-3,4-benzpyrene. 
+3. Methylated BPX. 
+The "slow" extinction direction in each case is shown by the arrows: (a) normal view in microscope, (b) needle cross-section. 
+TABLE II: UNIT CELL DIMENSIONS (X-RAY MEASUREMENTS) 
+
+(a) Methylated BPX clearly differs from any of the 
+methoxy compounds derived from the synthetic quin- 
+ones, since its fluorescence and absorption spectra and is a mono- and the latter are dimethoxy derivatives of 
+benzpyrene. From this it is evident that BPX itself 
+is a monohydroxybenzpyrene, in confirmation of the 
+findings of Chalmers and Crowfoot (3)" 
+(b) The identity of the red product from the feces 
+with 3,4-benzpyrene-5,8-quinone, already suggested by 
+its general properties (~), is established by the identity 
+of the fluorescence aL;d absorption spectra and the 
+crystal structures of their methylated derivatives, and 
+by the demonstration that the methylated derivative 
+of the 5,xo-quinone possesses entirely different spectra 
+and crystalline form. 
+(c) Since on oxidation BPX yielded a red substance 
+which, on reductive methylation, produced a methoxy 
+compound indistinguishable from the 5,8-methoxy- 
+benzpyrene, it may be concluded that BPX itself is 
+either 5-hydroxy- or 8-hydroxybenzpyrene, and that 
+
+~5 8 Cancer Research 
+an intermediate 5,8-dihydroxybenzpyrene stage is prob- 
+ably involved in the conversion. (The difficulty of 
+isolating this intermediate product is understandable, 
+in view of the observed instability in air of the reduc- 
+tion products of benzpyrene-quinones.) However, 5- 
+hydroxybenzpyrene is excluded by the pronounced 
+difference between the absorption spectrum of syn- 
+thetic 5-hydroxybenzpyrene (4) and that of BPX. 
+Further, 5-hydroxybenzpyrene would be expected to 
+yield on oxidation a mixture of 5,8- and 5,~o-quinones 
+but, as shown above, oxidation of BPX yields entirely 
+5,8-quinone. The hydroxy group in BPX is therefore 
+allocated to the 8- position. Thus the prediction of 
+Cason and Fieser (2), that the hydroxy group in the 
+metabolic derivative of benzpyrene is not likely to 
+be in the 5- position, is substantiated. 
+SUMMARY 
+A study has been made of the crystallography and 
+the fluorescence and absorption spectra of certain 
+derivatives of the two products of 3,4-benzpyrene iso- 
+oH 
+8-hydroxy-3,4-benzpyrene O 
+3,4-benzpyrene-5,8-quinone 
+lated from mouse and rat feces, and these data have 
+been compared with similar data from comparable 
+derivatives of synthetic compounds. By these means it was possible to identify the red 
+product with 3,4-benzpyrene-5,8-quinone, and to arrive 
+at the conclusion that the fluorescent product BPX is 
+8-hydroxy-3,4-benzpyrene. 
+We wish to thank Mr. W. Weinstein and Mr. H. W. Wheal 
+for valuable technical assistance.

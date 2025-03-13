@@ -1,0 +1,467 @@
+© 1938 Nature Publishing GroupNo. 3568, MARCH 19, 1938 NATURE 521 
+John Hunter as a Pioneer of Veterinary Science 
+THE annual oration of the Royal College of 
+Surgeons commemorating the life and work of 
+John Hunter, was delivered at the Mansion House 
+on February 28, by Sir Frederick Hobday, emeritus 
+professor of surgery, and formerly principal and 
+dean at the Royal Veterinary College. This made a 
+departure from the usual tradition that a member of 
+the medical profession delivers the address. 
+Sir Frederick Hobday in his introduction remarked 
+that he felt it appropriate that a member of the 
+veterinary profession should be honoured by the 
+invitation to deliver the oration, for John Hunter 
+was one of the founders of the Royal Veterinary 
+College in 1791. He is described as being "the life 
+and soul of the undertaking", and with him were 
+associated Sir John Banks, Sir George Baker, the 
+Duke of Northumberland and certain members of 
+the Odiham Agricultural Society, who collected the 
+necessary funds, and they were instrumental in 
+bringing to England Prof. Charles Vial St. Bel, of 
+the Veterinary School at Lyons, to be the first 
+principal of the London Veterinary College. The 
+early and unexpected death of St. Bel caused much 
+anxiety regarding the future of the College, and 
+Hunter helped to tide over the emergency. 
+Sir Frederick Hobday then proceeded to review 
+John Hunter's contributions to veterinary science. 
+One of the first operations performed by St. Bel in 
+Great Britain was the removal of accessory feet 
+that grew from the fetlocks of the two fore-legs of a 
+horse, and it is stated that Hunter personally assisted 
+(he was surgeon at St. George's Hospital) and gave 
+St. Bel "some useful and friendly hints". John 
+Hunter was a genuine lover of horses, and has left 
+some excellent advice upon their management and 
+on the proper way to shoe colts in order to correct 
+defects in the manner in which they may use their 
+fore-legs. His observations on what is termed 
+'roaring' are of particular interest, and although he 
+did not correctly recognize its cause (paralysis of the 
+left laryngeal nerve), he clearly distinguished this 
+condition from 'broken wind'. Hunter wrote, too, 
+"upon the effects that medicines have upon horses", 
+and was untiring in his studies of the anatomy and physiology of animals-from the mouse to the 
+elephant-birds, reptiles, insects and fishes. The 
+illustrations in his book entitled "Certain Parts of 
+the Animal Economy" cannot be surpassed for clear­
+ness and accuracy even with the aids that are now 
+available. His chapter on the glands between tlie 
+rectum and bladder, the vesiculae seminales, describes 
+minutely the comparative anatomy and uses of these 
+glands both in man and in numerous animals, and the 
+alterations that ensue after an animal has been unsexed. 
+The body temperature of animals was another 
+subject to which John Hunter devoted considerable 
+attention. He performed an experiment in which 
+he froze the edge of the comb of a cockerel and re­
+marks that "when I cut off a little bit it did not 
+bleed nor did the animal show any signs of pain"­
+pioneer work in the use of a freezing mixture as an 
+anaesthetic. 
+Hunter's writings on digestion bear witness to his 
+keen powers of observation, for he concluded that 
+something secreted in the coat of the stomach acts 
+upon the food and assimilates this to the nature of 
+the blood. He had learnt that it is not possible to 
+make a horse vomit, and recognized the different 
+actions that medicinal agents have upon different 
+species of animals. In regard to the last-named, Sir 
+Frederick remarked that this could have been only 
+through direct observation. Thus, morphine is a 
+narcotic for man and the dog tribe, but produces 
+disastrous delirium in the horse and cat ; strychnine 
+and mercurials are much more toxic for the cow and 
+dog than for the horse. 
+In the realm of surgery, John Hunter's classical 
+experiment of grafting a cook's spur into its comb is 
+well known-definite pioneer work of the various 
+grafting operations that are performed to-day. He 
+also made a series of observations on the reunion of 
+divided tendons. 
+In conclusion, Sir Frederick Hobday alluded to 
+the importance to a country of its agriculture, its 
+animals and arable products, and of comparative 
+medicine in the fight against disease, for it is here 
+that the m:3dical man and the veterinary surgeon 
+meet on common ground. 
+·Crystal Structures of the Proteins 
+AN X-RAY STUDY OF PALMER'S LACTOGLOBULIN 
+By Dr. Dorothy Crowfoot and Dennis Riley, Department 
+of Mineralogy, Oxford 
+THE crystallization of a lactoglobulin from the 
+albumin fraction of cow's milk by Palmer in 19341 
+was notable both for the size and stability of the 
+protein crystals and for their occurrence in two 
+different crystallographic modifications. The stable 
+tabular· form occurs alone when salt solutions of the 
+protein are dialysed at an initial pH of 5·8 followed 
+by adjustment to a pH of 5·2 with dilute HOI, whilst 
+direct dialysis at a pH of 5·2 against distilled water 
+produces needles which may later recrystallize in 
+the tabular form. We have been able to study the inter-relationship of these two varieties through the 
+kindness of Dr. R. A. Kekwiok of the Lister 
+Institute, who gave us preparations of them both. 
+The X-ray measurements show that the two types 
+of lactoglobulin crystals differ not only in crystal 
+structure hut also probably in their water content. 
+The tabular crystals are evidently, even on super­
+ficial examination, heavily nydrated. They occur 
+commonly either as plates {001} up to 0·3 mm. 
+across and bounded by pyramid faces or as prisms 
+elongated along [010] and showing (100) dominating. 
+They prove to be orthorhombic but are very markedly 
+pseudo-tetragonal, and appear isotropic when viewed 
+along the c axis. The birefringence is negative, about 
+0·004. When these crystals are removed from their 
+© 1938 Nature Publishing Group522 NATURE MARCH 19, 1938, VoL. 141 
+mother liquor they shrink visibly in the direction of 
+the c axis, and the birefringence falls to less than 
+0·001. This shrinkage is accurately determined by 
+the X-ray measurements which were carried out both 
+on the air-dried crystals and on crystals mounted in 
+their mother liquor. For the wet crystals a = b = 
+63·5 A., c = 145 A.; for the dry crystals a = b = 
+59 A., c = 105 A. The space group in the case of the 
+wet crystals is P212121, showing, in X-ray intensities 
+as in dimensions, a close approach to the tettagonal 
+space group P4221, whence there are probably 8 
+molecules in the unit cell. There were too few X-ray 
+reflections from the dry crystals to indicate the space 
+group, but it seems most probable that this unit cell 
+also contains eight molecules, but without water of 
+crystallization. viously measured, pepsin and insulin, and with 
+hmmoglobin and chymotrypsin (recorded below). 
+The similarity in cell dimensions extends also to the 
+types of photographs obtained from wet and dry 
+crystals of lactoglobulin. The wet tabular crystals 
+give very beautiful X-ray pictures with reflections 
+covering the whole field and extending ont to spacings 
+of less than 2 ·4 A. Those from the needle crystals 
+are less good owing to their much smaller size. But 
+with the dry crystals the photographs are very poor 
+indeed, and this is evidently due to the poor orienta­
+tion of the protein molecules in the collapsed structure. 
+There are no X-ray reflections with spacings less 
+than 20 A. The sharpness of the limit is reminiscent 
+of that already observed on the much better X-ray 
+photographs obtained from air-dried insulin', and 
+Pepsin Hremoglobin Chymotrypsin Lactoglobulin Lactoglobulin Insulin Tobacco seed 
+tabular needle globulin ---a 116 109 ! x99 63·5 63·5 
+Wet b 67 63·2 67·8 63·5 63·5 
+Layer-spacing 9 X 51·2 50·2 65 2 X 72·5 2 X 62·5 
+Molecular volume (A.') 67,000 174,000 55,000 73,000 63,000 ---a 102 45 59 54 130 2 x61 
+b 56 62·5 59 54 74·7 2 x61 Dry Layer-spacing 35 5:1·5 2 X 52·5 2 X 62·5 30·6 2x61 
+Molecular volume (A.1) 101,000 38,000 46,000 46,000 50,000 455,000 
+Shrinkage per cent 42 31 
+The wet needle crystals occupy a place intermediate 
+between the wet and dry tabular crystals. They 
+appear to be exactly tetragonal, elongated along c. 
+The cell dimensions are a= b = 63·5 A., c = 125 A., 
+space group P4121• The fact that the needles show 
+positive birefringence suggests that they differ from 
+the tabular form in the orientation of the molecules 
+as well as in water content, and this is confirmed by 
+the drying phenomena. There is little apparent change 
+in shape or birefringence on exposure of the needles 
+to air, but the very weak X-ray diffraction effects 
+obtained from the dried crystals indicate a new unit 
+cell with approximately a = b =54 A., and c = 125A. 
+The unit cell dimensions of the different lacto­
+globulin crystals suggest that in each case there are 
+eight protein molecules in the cell, associated with 
+different quantities of water of crystallization. Some 
+difficulty was experienced, however, in making 
+measurements of the crystal density to check this, 
+owing to the great solubility of the protein crystals 
+in salt solutions. ·A value of 1·257 was obtained in 
+sugar solutions for the density of the wet tabular 
+crystals, and this may be regarded as an upper limit 
+for the density (cj. Adair and Adair•). It is in agree­
+ment with the presence of a considerable proportion 
+of water in the crystals. It has so far proved 
+impossible to measure the density of the needle 
+crystals in any solvent, since even in sugar solutions 
+the crystals rapidly imbibe liquid, with resultant 
+swelling and loss of shape. The density of the dty 
+tabular crystals in o-dichlorbenzene and toluene was 
+found to be 1·27, which is lower than might be 
+expected, probably owing to the occlusion of air in 
+the irregular structure formed in the drying process. 
+The molecular weight of the protein if calculated from 
+this value and the cell dimensions given above is 
+35,30(', or assuming the more probable density of 
+1·31 (that of dried insulin) 36,500. These values are 
+in agreement with that obtained by ultracentrifuge 
+measurements-about 39,00()3, within the limits of 
+experimental accuracy. 
+It is of most interest to compare the crystal 
+structure of these protein crystals with those pre-37 27 
+suggests that in the insulin crystals also a certain 
+degree of molecular disorientation prevails. As might 
+be expected the crystal structure of dry insulin is 
+of a very compact type, while in the wet lactoglobulin 
+crystals, as in pepsin, the molecular arrangement 
+must be loose and extended. 
+MoLECULAR WEIGHT oF A ToBAcco SEED GLOBULIN 
+By Dr. Dorothy Crowfoot, Dept. of Mineralogy, Oxford, 
+and Dr. I. Fankuchen, Crystallographic Laboratory, 
+Cambridge 
+In order to determine the structure of protein 
+crystals from X-ray diffraction effects it is usually 
+necessary to measure fairly large single crystals. An 
+exception to this rule is the case of crystals belonging 
+to the cubic system, for which powder photographs 
+should provide sufficient data. A preparation of a 
+cubic tobacco seed globulin isolated by H. S. Vickery 
+of the Rockefeller Institute, New York, was given to 
+us by Dr. D. M. Wrinch, and this we have examined 
+by the X-ray method in the form of the dry powder.* 
+The crystals were very small but well-formed isotropic 
+octahedra. 
+Three powder lines were recorded on the X-ray 
+photographs which correspond in spacing to the first 
+three reflections from a cubic face centred lattice of 
+dimensions a = 123 A. This value permits us to 
+calculate the maximum molecular weight of the 
+asymmetric unit as 363,000, accepting the presence of 
+only the four molecules in the unit cell required by 
+the symmetry, and the density of 1'·287 ± 0·001, 
+measured in a sodium phosphate buffer at pH 5 ·0. 
+Since the crystals lose 10·4 per cent of their weight 
+when dried in a vacuum at 100° due to loss of what 
+may be considered water of crystallization, the 
+maximum molecular weight of the dried protein may 
+be calculated as 325,000. This molecular weight is 
+in agreement in order of magnitude with the sedi­
+mentation constant of 12·7 x lo-13 found for the 
+same protein by J. Philpot in the Department of 
+•w. T. Astbury' has previously measured the large angle scattering. 
+© 1938 Nature Publishing GroupNo. 3568, MARCH 19, 1938 NATURE 523 
+Biochemistry, Oxford, and is similar to those of other 
+seed globulins, excelsin and edestin given by Svedberg 
+as about 300,0008• The X-ray measurements provide 
+some additional evidence to show that the units 
+present in these proteins are of very considerable 
+size, although at this stage we cannot exclude the 
+possibility that the true chemical molecular weight 
+of the tobacco seed globulin is a sub-multiple of 
+325,000. 
+AN X-RAY STUDY OF CHYMOTRYPSIN AND 
+H.IEMOGLOBIN 
+By Prof • .J. D. Bernal, F.R.S., Dr. I. Fankuchen and 
+Max Perutz, Crystallographic Laboratory, Cambridge 
+We have recently been fortunate in obtaining 
+well-developed crystals of two proteins--chymo­
+trypsin and hremoglobin. The former were prepared 
+for us by Dr. Northrop of Princeton and the latter 
+-methremoglobin of horse-by Dr. Adair at the 
+Physiological Laboratories, Cambridge. In both 
+cases the crystals were well formed and large (! mm.) 
+and well suited for X-ray analysis. 
+Chymotrypsin crystallizes in thick diamond-shaped 
+plates at first thought to be orthorhombic but after­
+wards discovered to be monoclinic twins. It was 
+examined both in the native state in its mother liquor• 
+and dried. The cell dimensions are a = 49·6 A, 
+b = 67·8 A., c = 66·5 A., [3 = 102° for the wet 
+crystals, and a= 45 A., b = 62·5 A., c = 57·5 A., [3 = 
+112° for the dry. The space group in both cases is 
+probably P2 1• The cell volumes are 219,000 and 
+151,000 A.• respectively. It is evident that very 
+considerable shrinkage takes place on drying, nearly 
+all of which is in the direction of the c axis. The 
+density of the wet crystals could be measured by the 
+methods of Adair and was found to be 1· 277. If we 
+assumed four molecules per cell this would give a 
+molecular weight including water of crystallization 
+of 42,300. In the case of the dry crystals it was 
+unfortunately impossible to measure the density on 
+account of the difficulty of removing crystallized 
+salts. Assuming the density of the dried protein to 
+be the same as that of dry insulin, namely, 1·31, tb.e 
+molecular weight is 32,000. This value for the 
+molecular weight of a protein seems rather lower 
+than is usually obtained by the centrifuge method, 
+which, however, has not as yet been applied to 
+chymotrypsin. It is difficult without a deeper 
+analysis to say much about the inner structure of 
+the crystals, but the extreme strength of (001) 
+indicates a layer structure, while the weakness of 
+(hol) when h is odd points to a pseudo-glide plane 
+parallel to (010). 
+The hremoglobin crystals were found to be mono­
+clinic and usually twinned, corresponding very closely 
+to the description given by Reichert and Brown•. 
+The dimensions are a = 109 A., b = 63·2 A., c = 
+54·2 A., [3 = 112° for the wet crystals and a = 102 A., 
+b = 56 A., c = 49 A., [3 = 134° for the dry. The space 
+group in both cases is 02 with a face-centred pseudo­
+hexagonal cell. The cell volumes are 348,000 and 
+202,000 respectively. Here the shrinkage takes place 
+apparently more by the increase of the [3 angle 
+rather than by the shortening of cell edges. The 
+density of the wet crystals is 1·242, which gives a 
+molecular weight of protein and water on the assump­
+tion of two molecules per cell of 131,000. The molecular 
+weight of the dry crystals has not been determined 
+on account of the salt content, but taking the value Fia. l. 
+WET HlEMOGLOBIN CRYSTAL; 5° OSCILLATION ABOOT 
+b-AXIS SHOWING (hko)-ZONE AT CENTRE OF PHOTOGRAPH. 
+NOTE THE PSEUDO-HEXAGONAL CHARACTER OF THE 
+PATTERN AND THE INTENSITY OF THE REFLECTIONS AT 
+HIGH ANGLES. 
+of 1·26 based on that measured by Chick and Martin• 
+for the closely similar serum albumin, the molecular 
+weight is 77,000. The air-dried crystals still contain 
+water. Taking the amount estimated byHaurowitz10 
+as 9·6 per cent, the molecular weight of the dry 
+protein becomes 69,000, which agrees excellently 
+with the 67,000 found by chemical methods. 
+The molecular arrangement appears to be based 
+on a layer lattice with a puckered pseudo-hexagonal 
+network. In the dry crystals it is possible to arrive 
+at a structure which accounts qualitatively for the 
+Q.• •A• I• f 
+ :2. 
+COMPARISON PHOTOGRAPH OF CHYMOTRYPSIN: WET 
+BELOW AND DRY ABOVE ; 5° OSCILLATION ABOUT b-AXIS 
+SHOWING AT CENTRE OF PHOTOGRAPH THE (okl)·ZONE. 
+NOTE LARGE DIFFERENCE OF SPACING OF (00l)·REFLEC· 
+TIONS ( t 1) AND COMPARATIVELY SMALL DIFFERENCE OF 
+LAYER-LINE SEPARATION. THE WET CRYSTAL WAS A 
+TWIN; THE (lkl)·REFLECTIONS SHOW DOUBLING OF SPOTS 
+( t 2). THE RAPID FALLING OFF OF INTENSITY IN THE DRY 
+CRYSTAL PHOTOGRAPHS SHOULD BE NOTED. THERE IS 
+ALSO THE APPEARANCE OF WEAK SPOTS AT A LARGER 
+ANGLE, CORRESPONDING TO A SPACING OF 5 A. ( t 
+© 1938 Nature Publishing Group524 NATURE MARCH 19, 1938, VoL. 141 
+intensities of all the observed planes. In this structure 
+the asymmetric unit is a half molecule of approximate 
+diameter 35 A., linked with three others. The molecule 
+observed in solution may be formed of two of these. 
+The optical properties of the wet crystal point to 
+the approximate parallelism of the hrematin groups 
+which lie approximately parallel to the (100) planes. 
+As yet their position cannot be inferred, but owing 
+to the two-fold axis of symmetry which the double 
+molecule possesses, only two different kinds ofhrematin 
+globin arrangements are possible. In the meantime, 
+it is possible to draw some useful conclusions from 
+the character of the photographs. In both cases the 
+wet crystals showed perfectly definite reflections at 
+spacings "'· as low as 2 A. This proves the complete 
+internal regularity of the protein molecules down to 
+atomic dimensions. The dry crystals, on the other 
+hand, show in the case of hremoglobin no reflections 
+of spacing less than 20 A, and for chymotrypsin, 
+except for one or two weak reflections at 5 A., none 
+below 8 A. Dr. Crowfoot had already noticed this 
+phenomenon for insulin and more recently for 
+lactoglobulin. The explanation is probably some­
+what as follows. The intensity of a reflection from a 
+protein crystal may be considered a function of three 
+factors : the structure factor due to the position of 
+the molecules, that due to the positions of the atoms 
+inside the molecule, and a third factor depending on 
+the regularity of arrangement. It is apparent that 
+there is a general enhancement of spots in the regions 
+of 9 A. and 4·5 A. corresponding to the two main 
+reflections maxima of denatured proteins. In the 
+dry protein, however, the irregularity is such that 
+only the first of these is retained, the spots corre­
+sponding to the outer rim being generally too weak 
+to register. If this analysis is correct, it follows that 
+the change involved on denaturation does not require 
+any considerable movement of atoms or amino-acid residues, but only relatively minor rearrangement 
+together with almost complete loss of regularity, the 
+dry protein representing an intermediate stage. 
+As can be seen from Fig. 2 the dried crystals of 
+chymotrypsin show not only alterations of spacing 
+but also of relative intensities of reflection. If we 
+assume that drying takes place by the removal of 
+water from between protein molecules, studies of 
+these changes provide an opportunity of separating 
+the effects of inter- and intra-molecular scattering. 
+This may make possible the direct Fourier analysis 
+of the molecular structure once complete sets of 
+reflections are available in different states ofhydration. 
+Already sufficient protein crystals have been 
+examined by X-rays to be able to point to significant 
+regularities. The table of lattice dimensions referred 
+to three axes at right angles shows that the proteins 
+fall into two groups: pseudo-hexagonal and pseudo­
+cubic, in both cases with a side of 60-75 A. This is 
+of the order of twice the diameter of a protein 
+molecule. 
+The work already done shows the wealth of new 
+data that can be obtained by X-ray methods 
+from reasonably well-crystallized proteins. The full 
+advantage of the possibilities can, however, only be 
+realized by work on a far larger number of protein 
+types under different physical conditions, together 
+with a mol-e detailed application of crystal analysis. 
+1 J. Bioi. Chem., 104, 359 (1934). 
+'Proc. Roy. Soc., B, 120, 422 (1936). 
+' Pedersen, K. 0., Biochem. J., 30, 961 (1936). 
+• Proe. Rotf. Soc., A., 164, 580 (1938). 
+• J. Chem. Soc., 849 (1935). 
+• Chem. Rev., 20, 81 (1937). 
+7 Bernal, J.D., and Crowfoot, D., NATURE, 133, 794-(1934). 
+'Reichert and Brown, "The Crystallography of Hemoglobin". Carnegie Inst. of Washington (1909). 
+• Chick and Martin, Biochem. J., 7, 92 (1913). 
+10 Haurowitz, F., Z. Physiol. Chem., 136, 147. 
+Asymmetric-Sideband Broadcasting 
+AT a meeting of the Wireless Section of the In­
+stitution of Electrical Engineers on March 2, Mr. 
+P. P. Eckersley read a paper entitled•"A Quantitative 
+Study of Asymmetric-Sideband Broadcasting". This 
+paper directed attention to the fact that the progress 
+of radio broadcasting is being hampered by the lack 
+of a sufficient number of channels in which to contain 
+the increasing number of transmissions. In the 
+present state of the art, few, except local, stations 
+can be received without interference from other 
+broadcasting stations on adjacent frequency channels, 
+unless the upper modulation frequencies of the 
+wanted programme are severely attenuated. This 
+inter-station interference can be reduced if all or 
+part of one sideband of the transmitted spectrum is 
+cut away ; and it is the object of the asymmetric­
+sideband system of transmission to cut away part of 
+one sideband without loss of the higher modulation 
+frequencies and without introducing audible harmonic 
+distortion. 
+Mr. Eckersley then gave a quantitative analysis of 
+the phase and amplitudes of the sideband components 
+and the effect of these factors in producing distortion. 
+Curves have been derived, which show the required 
+attenuation-constant of filters which cut away part 
+of one sideband but produce no more than a constant, small distortion. A description was also given of 
+practical tests in which the quality of reproduction 
+obtainable from an asymmetric transmitter was 
+compared with that given by orthodox modulation. 
+It is claimed that while a highly trained ear may 
+occasionally be able to detect some slight differences 
+between the two types of reproduction when they 
+are directly compared, no difference is detectable 
+with modern broadcast receiving apparatus. 
+The last part of the paper showed that the 
+asymmetric system has three possible applications to 
+broadcasting as it is practised to-day. First, it could 
+be used to allow carrier frequency differences of II 
+or I2 kc.fsec. without introducing any sideband 
+overlap interference. Secondly, it could be applied 
+to existing conditions in which the carrier frequencies 
+differ by about 9 kc.fsec., and it would then reduce 
+inter-station interference to about one tenth of its 
+present value. Thirdly, if the existing interferences 
+are considered to be tolerable, then the differences 
+between the carrier-frequencies of stations can be 
+reduced to 6 kc.fsec., without increasing the inter­
+ference ; this implies that one and a half times the 
+number of stations working in Europe to-day on 
+exclusive wave-length channels could be accom­
+modated "in the existing wave-band. 

@@ -1,0 +1,195 @@
+Dietrich and Hodgkin : 
+716. The Crystal Structure of the trans-Dimer of Nitrosoiso- 
+butane. 
+By HANS DIETRICH AND DOROTHY CROWFOOT HODGKIN. 
+The crystal structure of the trans-dimer of nitrosoisobutane has been 
+determined by the calculation of the electron density in three projections. 
+The molecule is centrosymmetric, the N,O, group is planar, with N-N, 
+1.27 f 0-02 A, and N-O, 1-30 f 0.02 A. 
+THE molecular structure of dimeric nitroso-compounds is of considerable theoretical 
+interest, particularly in relation to the nature of the N-N bond connecting the two mono- 
+mers. The discovery that the dimers of certain aliphatic nitroso-compounds can be 
+obtained in cis- and trans-forms1 shows that there is no free rotation around the N-N 
+H3C 
+H3C 3\2 I 
+4/ CH-CH2 0 8 
+OR ' CH2-CH 'NrrrN ,CHI 
+\ 
+CH3 
+bond and suggests this bond has considerable double-bond character. Evidence bearing 
+on this view has been discussed recently by Gowenlock and Liittke; to this we now add 
+X-ray data on the molecular structure of one of the aliphatic nitroso-compounds prepared 
+by Gowenlock and Tr~tman,~ the trans-dimer of nitrosoisobutane. 
+EXPERIMENTAL 
+The crystals of the trans-dimer of nitrosoisobutane are fragile, colourless, transparent mono- 
+clinic plates up to 1 mm. in length. The measured unit-cell dimensions are a = 8.84, b = 9-93, 
+c = 6.14 A, and p = 96-17", the space group P2,/c; p (calc.) = 0.927, for M = 348; Fooo = 192. 
+These figures correspond with the presence of two molecules of the dimer in the unit cell and 
+imply that the dimer molecule itself is centrosymmetrical. 
+1 Chilton, Gowenlock, and Trotman, Chem. aizd Ind., 1955, 538; Gowenlock and Trotman, J., 1955 
+4190. 
+3 Gowenlock and Trotman, J., 1956, 1670. Gowenlock and Luttke, Quart. Rev., 1958, 12, 321. 
+Published on 01 January 1961. Downloaded by University of Alberta on 2/19/2025 10:42:24 PM. 
+View Article Online
+ / Journal Homepage
+ / Table of Contents for this issue
+[ 19611 Crystal Structure of the trans-Dimer of Nitrosoisobutane. 3687 
+All the crystals examined were twinned, (100) being the twinning plane. The intensities 
+of the X-ray reflections were recorded on Weissenberg photographs and measured by eye 
+estimation, the multiple-film technique being used. Some overlapping of reflections from the 
+twin components occurred for reflections other than the hkO series. This overlapping confused 
+the intensity measurements of general reflections; it was allowed for in the zones studied by 
+the examination of a few crystals where the twin components were noticeably unequal in 
+weight; it led to the decision not to study this crystal structure by three-dimensional methods. 
+The measured intensities were corrected for the Lorentz and polarisation effects but not for 
+absorption or extinction; they were placed on an approximately absolute scale by Wilson's 
+method and re-scaled later by comparison with the calculated values. The F values so derived 
+for the different zones studied are recorded in Table 1. They are subject to rather different 
+errors owing to the irregular shapes of the crystals used. The F2 values were sharpened to 
+correspond approximately with those to be expected from atoms at rest before the calculation 
+of the Patterson series. 
+TABLE 1. Observed and calculated structure factors for trans-dimev of nitrosoisobutane 
+(unobserved rejections omitted). 
+Iiiilices Fobs. Fc&. Indices Fobs. Fc&. Indices Fobs. Fcaic. Indices Fobe. Fcaic. Indices Fob. FC&. Indices Fobs. Fcdc. 
+[OOl] zone [OOl] zone [ 0011 zonc [OlO] zone [loll zone [loll zone 
+020 60.8 69.8 3100 3.6 1.6 760 3.3 3.8 z02 17.7 15.8 040 12.1 -11.9 343 1.5 -2.2 
+040 13.3 -13.0 400 4.9 -2.6 800 9.1 8-8 ,>02 14.9 16.6 060 5.8 -5.9 553 8.2 4.7 
+060 6.2 -6.9 410 8.8 -8.0 820 4.7 4.5 GO2 20.4 20.4 080 3.8 5.2 363 1.0 -1.5 
+080 4.2 4.8 420 9.2 10.6 830 3.7 4.2 SO2 7.9 -7.2 0100 4.0 5.5 373 2.5 2.0 
+0100 4.2 4.8 430 10.1 -11.4 004 6.9 10.3 Ol-20 2.1 2.7 383 1.6 1.6 
+100 36.7 45.0 440 17.5 17.7 [OlOl zone 104 3.9 -2.5 111 17.0 15.8 393 1.0 0.4 
+110 12-9 -14.9 450 4.8 -6-1 100 36.8 45.1 204 5.7 -8.2 I21 9.1 -9.1 3103 1.6 1.5 
+120 31.4 36.1 460 16.1 13.9 zoo 5.7 -2.9 404 8.9 -8.0 I31 18.7 -17.2 Zo4 10.5 -9.6 
+130 24.6 -24.2 480 7.9 5.8 300 27.2 26.8 504 7.4 -8.2 i4i 2.9 -3.1 214 1.9 1.8 
+140 11.6 10.2 500 13.0 -11.9 400 5-8 -2.8 704 2.8 -3.0 is1 7.3 -7.7 324 7.1 -5.8 
+150 17.0 -14.5 510 6.8 7.0 500 14.0 -12.6 204 3.2 -3.0 I61 1.1 1.8 244 1.2 -0.8 
+200 4.6 -3.0 520 6-4 -5.6 600 9.0 -14.0 304 14.2 -11.2 I71 0.9 0.9 254 1.5 -1.6 
+210 11.0 -9.1 530 4.8 5-1 700 5.0 5.0 304 12.9 -10.9 IT01 0.7 -1.0 g64 0.9 0.5 
+220 11.6 10.4 540 6.9 7.3 800 9.9 10.9 204 8.2 -7.8 1111 1.4 -1.6 474 0.7 0.7 
+230 22.7 -21.4 550 2.2 -4.3 YO0 1.8 2.2 604 13.2 -12.1 202 4.2 4.7 294 2.0 2.4 
+240 10.0 10.5 560 9-9 9.3 1000 2.8 4.0 '204 4.8 -3.5 212 13.2 12.6 ZiOl 0.8 -1.3 
+250 11.9 -10.7 580 5-1 4-3 1100 2.7 4-8 106 5.9 -4.6 222 8.2 8.4 515 8.0 7.1 
+290 5.8 6.1 600 8.3 -8.4 002 49.3 -66.2 206 4.6 2.5 332 24.1 24.4 525 3.8 2.8 
+300 25.9 26.0 640 7.1 7.0 102 6.6 -5.4 306 3.3 -2.4 242 10.5 11.8 535 2.8 2.9 
+310 30.2 -30.8 650 5.7 8.5 202 13-1 15.5 TO6 2.8 -2.3 251 10.2 10.5 345 1.8 1.0 
+320 15.0 16.2 660 6.0 6.2 302 6.0 -4.6 206 5.6 -5.4 262 6.7 6.8 606 0.8 0.5 
+330 31.8 -32.6 700 4.3 4.3 402 14.0 13.4 306 1.3 0.9 272 1.0 -0.3 836 0.5 0.4 
+340 7.5 9.5 710 3-5 3.7 503 15.2 16.4 306 0-6 1.1 282 2.8 S.2 ti46 1.9 -2.0 
+360 9.2 10.2 720 6.8 5.4 602 5.2 7.6 506 1.5 -1.2 292 3.6 -2.6 656 0.4 -0.1 370 9.1 10.2 730 7.3 6.4 102 12.4 -9.6 :;13 5.4 6.1 G66 1.6 -1.8 
+380 7.7 7.0 740 6.9 5.5 202 4.7 5.6 [loll zone 323 1.6 -1.6 
+390 4-7 5.3 750 4.5 3.5 302 13.8 9.7 020 68.2 70.1 253 7.6 7.6 
+The atomic scattering factors used were those of Berghuis, Haanappel, Potters, hpstra, Macgillavry, and Veenendal, Acfa Cryst., 
+1955, 8, 478. 
+Structure Analysis.-The x and y co-ordinates of the atomic positions were derived to a 
+first approximation from a study of the sharpened Patterson projection along [OOl]. They 
+were improved by the calculation of the corresponding electron-density projection and a differ- 
+ence map. The agreement factor between calculated and observed structure amplitudes was 
+then H = ll.Syo and did not decrease substantially after two further rounds of calculation 
+and difference maps; the latest value is 11.1%. The z parameters of the atoms were next 
+estimated with the help of stereochemical and packing considerations and refined by the cal- 
+culation of the sharpened Patterson projection along [OlO], two Fourier projections, three 
+difference maps, and one round of least-squares refinement. The intensity estimations of 
+the hOE reflections, on which these calculations were based, were subject to much larger experi- 
+mental errors than the hkO reflections owing to the twinning and unfavourable shapes of the 
+crystals. 
+The arrangement of the atoms in the crystal found through these calculations is shown by 
+the projections along [OOl] and [OlO] in Figs. 1 and 2. In both of these projections the oxygen 
+atom overlaps C,; as a consequeiice the N-0 and C-N distances could not be precisely measured. 
+It was observed, however, that no serious overlapping of atoms should occur in an electron- 
+density projection along [ 1011 and measurements were accordingly made of the intensities 
+of hkl reflections. After one Fourier projection and one difference map the agreement between 
+observed and calculated structure amplitudes for these reflections was R = 8.5% ; it did not 
+improve after one more difference map had been calculated. At this stage, R was quite large, 26.5%. 
+Published on 01 January 1961. Downloaded by University of Alberta on 2/19/2025 10:42:24 PM. 
+View Article Online
+3688 Dietrich and Hodgkin : 
+FIG. 1. Electron density projection along [OOl] Here, and in Figs. 2 and 3, the contours are drawn at 
+intervals of 1 e/A2. 
+Published on 01 January 1961. Downloaded by University of Alberta on 2/19/2025 10:42:24 PM. 
+View Article Online
+[ 19611 Crystal Structure of the trans-Dimer of Nitrosoisobutane. 3689 
+From the refined projections along [OOl] and [loll good values for the x and y parameters 
+and much improved values for the z parameters of the atoms could be derived. R for the 
+h0Z reflections was reduced to 22.3% and, after a further difference map, to 19.8%. For each 
+of the three zones studied, final Fourier projections were calculated, which are shown in Figs. 
+1-3. The latest calculated structure amplitudes are recorded with the observed values in 
+FIG. 3. EZectvon density pvojection along [loll. 
+Table 1 while Table 2 gives the co-ordinates of the atoms and the individual isotropic thermal 
+parameters on which these calculated values are based. As might be expected the individual 
+atomic thermal parameters vary in the three projections studied; in all, C, and C, show much 
+greater temperature vibrations than the other atoms, and their positions are correspondingly 
+less well defined. 
+TABLE 2. 
+B 
+7 Atom x 2, Z [OOl] [OlO] [loll Atom x 3’ 0 -0-095 -0.078 0.275 H, 0.067 0.093 0.122 6-48 4.25 6-28 N 0 -0.003 0.397 H, 0.320 0.012 0.487 5.48 4.25 4.19 
+C:, 0.113 0.083 0.295 Ha 0.195 -0.183 0.295 5.48 4-82 4.46 
+C:, 0.273 0.023 0.333 H, 0.220 -0.107 0.048 5.48 4.25 6.33 
+C:, 0.267 -0.117 0.220 He 0.382 -0.160 0.237 6.67 6.38 7.74 
+C, 0.373 0.117 0.208 H, 0.378 0-217 0.330 6.67 5.60 7-30 
+HI 0.118 0.182 0.365 H, 0.327 0.127 0.035 6.67 6.38 7.74 
+H, 0.488 0.075 0.230 
+The parameters of the hydrogen atoms given in Table 2 were derived from stereochemical 
+considerations, and their contributions were included in the latest structure-factor calculations. 
+The first difference maps calculated during the analysis were based on structure factors derived 
+for the heavier a.toms only; in these, peaks occurred in the region of the hydrogen atoms but 
+were not well enough defined to be used to place these atoms precisely. 
+DISCUSSION 
+The interatomic distances and bond angles defined by the parameters of Table 1 for 
+the trans-dimer of nitrosoisobutane are shown in Table 3 and Fig. 4. The positions of the 
+atoms within the molecule appear to be closely determined by the usual conformational 
+rules of preferred bond orientation. The central N,O, group, including the attached 
+carbon atonis C, and C1’, is exactly planar, as can be seen clearly in Fig. 1. 
+Published on 01 January 1961. Downloaded by University of Alberta on 2/19/2025 10:42:24 PM. 
+View Article Online
+3690 Crystal Structure of the trans-Dimer of Nitrosoisobutane. 
+TABLE 3. 
+Standard 
+Bond lengths (A) deviation 
+N-N 1-27 0-02 
+N-0 1.30 0.02 
+N-C, 1.5 1 0-02 
+C1-Cz 1.53 0-02 
+C,-C3 1.51 0.04 
+c2-c4 1.50 0.04 Bond angles 
+O-N-N 122.4" 
+N-N-C, 117.1 
+N-C,-C, 112.8 
+C,-Cz-C, 109.2 
+C,-Cz-C4 107.2 
+C3-Cz-C, 113.2 
+0-N-C, 120-5 
+Both the N-N and N-0 distances have values intermediate between those expected 
+for single and double bonds. The N-N bond length lies within the range 1-25-1.28 fi pre- 
+dicted by Gowenlock et aZ.4 for the N-N bond in the brans-dimer of nitrosomethane by plot- 
+ting the observed N-N bond lengths against the N-N bond order of 1.72-1.93, given by 
+FIG. 4. 
+C 0 
+J. W. Smith.5 Correspondingly, if we use our bond length to estimate the bond order 
+for the N-N bond observed in the trans-dimer of nitrosoisobutane we get the value 1.83. 
+It would clearly be possible to account for this observation either in terms of resonance 
+between structures (I) and (11) in the approximate proportions (I) 83%, (11) (two forms) 
+17%, or, as Gowenlock and Luttke prefer, in terms of (I) only with an allowance for 
+bond stretching on account of the adjacent formal positive charges on the nitrogen atoms. 
+The C-N bond is, as might be expected, a little longer than the value 1-47 A found for 
+C-N (neutral) 6 bonds. It is close to the -C-N+H3 distances of 1-50 A and 1.49 A found 
+in alanine 7 and threonine.8 
+R 0' R 0 
+\+ +/ "-6H /\ -0 R (11) (11 -0 /N=N\R 
+The distances also compare well with those recorded by Van Meersche and Germain 
+for the brans-dimer of nitrosomethane itself, N-N 1-22, N-C 1.25, N-C 1.57.9 This crystal 
+structure, which we have also investigated, is disordered and the standard deviations of 
+the bond lengths are so high that the differences between these distances and those found 
+in the dimer of nitrosoisobutane are not significant. 
+For the crystals used in this study and valuable discussion we are indebted to Dr. B. G. 
+One of us (H. D.) thanks the Rockefeller Foundation for a stipend Gowenlock, Birmingham. 
+and support of this work. 
+CHEMICAL CRYSTALLOGRAPHY LABORATORY, 
+OXFORD UNIVERSITY. [Received, December 14th, 1960.1 
+4 Gowenlock, Trotman, and Bati, Chem. SOC. Special Publ., No. 10, 1957, p. 78. 
+5 Smith, J., 1957, 1124. 
+6 Sutton, " Interatomic Distances," Chem. SOC. Special Publ., No. 11, 1958, p. S16. 
+7 Donohue, J. Amer. Chem. SOC., 1950, 72, 949. 
+8 Shoemaker, Donohue, Schomaker, and Corey, J. Amer. Chem. SOC., 1950, 72, 2328. 
+9 Van Meersche and Germain, Bull. SOC. chim. belges, 1959, 68, 244. 
+Published on 01 January 1961. Downloaded by University of Alberta on 2/19/2025 10:42:24 PM. 
+View Article Online

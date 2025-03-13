@@ -1,0 +1,1854 @@
+ 
+ 
+X-Ray Crystallography and the Chemistry of the Steroids. Part I 
+Author(s): J. D. Bernal, Dorothy Crowfoot and  I. Fankuchen 
+Source: Philosophical Transactions of the Royal Society of London. Series A, Mathematical 
+and Physical Sciences,  Vol. 239, No. 802 (Dec. 31, 1940), pp. 135-182 
+Published by: Royal Society 
+Stable URL: https://www.jstor.org/stable/91460 
+Accessed: 19-02-2025 21:26 UTC 
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide 
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and 
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org. 
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at 
+https://about.jstor.org/terms 
+Royal Society  is collaborating with JSTOR to digitize, preserve and extend access to 
+Philosophical Transactions of the Royal Society of London. Series A, Mathematical and 
+Physical Sciences 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+[ 135 ] 
+X-RAY CRYSTALLOGRAPHY AND THE CHEMISTRY 
+OF THE STEROIDS. PART I 
+By J. D. BERNAL, F.R.S., DOROTHY CROWFOOT 
+AND I. FANKUCHEN 
+(Received 5 July 1939-Revised 17 April 1940) 
+A survey has been made of the X-ray crystallography of some eighty sterol derivatives 
+belonging mainly to the cholesterol and ergosterol series but including also calciferol and 
+other photoderivatives of ergosterol and some higher plant and animal sterols. The measure- 
+ments are recorded in four tables and include determinations of unit cell size, space group and 
+some data on the crystal morphology and optics. In three cases, cholesteryl chloride, bromide 
+and cholesteryl chloride hydrochloride, Patterson projections have also been derived from the 
+intensities of the X-ray reflexions of the hOl planes. These confirm earlier deductions on the 
+shape and size of the sterol molecules, proving that these are roughly lath-shaped, 20 x 7 x 4 A, 
+and the details of the patterns can also to some degree be correlated with the actual arrange- 
+ment of the carbon atoms in the sterol ring system and with the positions of the chlorine and 
+bromine atoms. The arrangement of the molecules in the crystal units is closely that given 
+by the preliminary examination from the optic orientation, and this has therefore been 
+employed to suggest in each of the remaining sterol crystal structures the probable molecular 
+arrangement. 
+Among the eighty compounds studied a number of different types of crystal structure 
+appear. An attempt is made to group these in a general geometric classification depending 
+upon the relative orientation of the molecular axes, thickness, width, and length to the 
+crystallographic axes a, b, and c. In monoclinic crystals three main groups are distinguished 
+in which the monoclinic b axis is the direction of the molecular thickness, width or length, 
+and the orthorhombic and triclinic crystals are classified by comparison with the monoclinic 
+varieties. Inside each group divisions are based first on the multiplicities, the numbers of 
+molecules present, and secondly on the space groups. Altogether 105 different sterol structures 
+are included in the classification, and of these seventy-seven fall into the second of the three 
+main groups described above, which includes cholesteryl chloride and bromide and has been 
+called the normal type of sterol structure. 
+The crystallographic measurements as a whole are discussed in their bearing on specific 
+chemical problems under the following headings: 
+(a) Characterization and identification 
+The X-ray data have been applied particularly among the higher plant and animal sterols 
+both to identify individual constituents (e.g. stigmasterol in phytosterol mixtures), to dis- 
+tinguish additional crystal forms (e.g. two types of cerevisterol) and to characterize new sterols 
+and relate these to previously known compounds (e.g. a sterol from rubber). 
+(b) Molecular weight determinations 
+Molecular weight measurements have been carried out on cholestenone, ergotetraene, 
+y-spinastenol acetate, ergosterol H20, stigmasterol H20, y-sitosterol H20 and , sitosterol from 
+rubber. In the case of crystals of cholestanol, 8-ergostadienetriol and Z-4-cholestene-7-ol, 
+the measurements are used to estimate water of crystallization. 
+VOL. 239. A. (Price vs. 6d.) I7 [Published 3' December 1940 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+136 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+(c) The stereochemistry of the carbon skeleton 
+The X-ray measurements indicate that the general configuration of the sterol ring system 
+must be flat, but so far it has been impossible to correlate stereochemical changes at particular 
+ring junctions with crystallographic changes, e.g. between rings C and D (c-ergostenol, 
+,f-ergostenol), B and C (lumisterol), and A and B (coprostane, cholestane). 
+(d) The effect of substituents on the crystallography of the sterols 
+(i) The position of the hydroxyl group. A hydroxyl group at C 3 of the sterol skeleton generally, 
+but not invariably, leads to double-layer formation in the crystal structure and vice versa, 
+a double-layer crystal structure usually indicates the presence of a terminal hydroxyl group. 
+Exceptions are cholestane 6-ol which shows a double layer, and pyrocalciferol which does 
+not. Brassicasterol, cerevisterol, and the spinasterols all probably have hydroxyl groups 
+at C 3. The position of i-cholesterol (which shows no double layer) is obscure. 
+(ii) The stereochemistry of the hydroxyl group at C 3. It is not possible to distinguish at this stage 
+between the two possible configurations of the hydroxyl group at C 3. In cholesteryl chloride 
+and bromide, the chlorine and bromine atoms must lie closely in the plane of the ring system. 
+ac-Chlor-cholestane is correlated crystallographically with cholesteryl chloride. 
+(iii) The position of the double bonds. The introduction of either hydroxyl groups or halogens 
+at the double-bond system usually produces radical changes in the crystallography which 
+makes simple comparison difficult. The Patterson analysis of cholesteryl chloride hydro- 
+chloride provides, however, definite evidence that the extra chlorine atom is at C 5. The 
+crystallography of both the hydroxyl and maleic anhydride derivatives of ergosterol is in 
+agreement with their present chemical formulae but provides no certain proof of the 
+correctness of these. 
+(e) A comparison of the crystallography of different sterols-monohydroxy compounds 
+There is a group of sterols, including ergosterol and many of the higher plant and animal 
+sterols, which show particularly close resemblances in crystal structure to one another. While 
+inclusion in this group must indicate close similarity both in sterol skeleton and molecular 
+arrangement, deviations do not necessarily seem to have a chemical significance. 
+(f) The structure of calciferol 
+Calciferol, while showing certain differences from the characteristic sterol group mentioned 
+above, also shows similarities, particularly in c-plane intensities. It seems unlikely therefore 
+that the actual distribution of the atoms in the molecule differs considerably from that in 
+ergosterol. 
+Conclusion 
+Many of the outstanding problems of the chemical structure of the sterols can only be 
+settled by exact analysis. The present survey has indicated a number of compounds that 
+are suitable for such treatment. 
+The use of X-ray crystallography for the solution of problems of the structure of 
+chemical molecules is ortly beginning, but it has already shown itself as a promising 
+method of attack. X-ray analysis of any crystalline material can yield, according to 
+the degree to which it is pushed, a succession of data bearing in greater and greater 
+detail on the structure of the material. Briefly, the successive stages of analysis can 
+yield information on: I, Identification and comparison of substances from different 
+sources; II, Molecular weight to any desired degree of accuracy; III, Symmetry of 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY OF STEROIDS 137 
+molecules; IV, General size and shape of molecules; V, Position of substituent groups; 
+VI, Position of all the atoms in the molecules (Crowfoot and Bernal I937; Robertson 
+I937). The first three stages are straightforward and unequivocal, the next two are 
+less direct and usually require a degree of collaboration between crystallographic and 
+chemical methods. The last stage is the most exact and can, though as yet only under 
+certain conditions, give information absolutely independent of chemical considera- 
+tions. It is, however, extremely laborious and limited as yet to fairly simple compounds. 
+The investigations recorded in this paper have not been carried to this last stage. 
+Their aim has been to use the methods of crystallography as an auxiliary in deter- 
+mining the structural formula of an important group of naturally occurring chemical 
+substances, the steroids. In this field up to a few years ago chemical methods had not 
+seemed to yield unequivocal results. Here an early application of crystallographic 
+methods by one of us (Bernal 1932) gave the clue to a fundamental revision of the 
+structural formula of the carbon skeleton of cholesterol, I (Windaus I928; Wieland 
+I928) and led to the proposal of that associated with the names of Rosenheim and King 
+(I932) and Wieland and Dane (I932), II, and now generally accepted. The crystal 
+structures studied at that time also suggested that in cholesterol and ergosterol the 
+hydroxyl group was in a terminal position, and that in the sex hormone, oestrone, the 
+active groups were at opposite ends of the molecule. 
+26
+2527
+21 23 21 
+(18) 2
+} ~~~~~~~~~~~~~014 Div 0 ~~~13 1192A 10 8 
+I II
+Both these deductions have been supported by later chemical work, but in view of 
+the simplicity of the crystallographic methods employed in reaching them, more 
+confirmation would be desirable. Naturally no complete test will be possible without 
+either a chemical synthesis on the one hand or an exact crystallographic analysis on 
+the other-both of which are now within the bounds of possibility. In the meantime, 
+it has been possible to add to the weight of evidence by extending the method of 
+preliminary crystallographic examination and comparison to a larger number of sterols 
+and their derivatives. We feel it is useful to present now the results so far obtained, 
+to discuss the conclusions of different degrees of probability that may be drawn from 
+them, and to suggest the lines of further attack on the most outstanding problems in 
+this field. 
+17-2
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+138 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+The present investigation arose directly out of the original examination of chole- 
+sterol, ergosterol and calciferol in 1932, and has been carried on parallel with much 
+of the chemical work of the last eight years. The material to be considered is concerned 
+with some eighty compounds belonging to the main sterol series and including 
+cholesterol, ergosterol and some of the higher plant and animal sterols, but the actual 
+derivatives studied are chemically a somewhat haphazard collection. For purposes of 
+reference the crystallographic data are listed in four tables: 1, The cholesterol series; 
+2, The ergosterol series; 3, The photoderivatives of ergosterol; 4, Higher plant 
+and animal steroids; and each group is further subdivided according to the chemical 
+character of the available compounds, hydrocarbons, hydroxyl and halogen derivatives 
+and so on. 
+The information given in tables 1-4 covers the first stages only of the crystallographic 
+investigation, determination of cell size, space group and some data on the crystal 
+optics and morphology. The details of most of the actual measurements carried out, 
+together with estimated intensities of some of the X-ray reflexions, are recorded in a 
+thesis by one of us (Crowfoot 1936). It is possible to make direct use of these data for 
+the identification of individual sterol derivatives, and though in most cases the cell 
+constants are not given correct to more than 1 or 2 %, in a few examples (see table 6) 
+they were measured with sufficient precision to be employed for molecular weight 
+determination. Apart from the recognition of molecular symmetry, which is not 
+important here since all sterol molecules are asymmetric, the further use of the data 
+depends upon how much correlation can be effected between crystallographic character 
+and chemical structure. Some of the crystal structures listed, such as those of anhydrous 
+ergosterol, of cholesterol and of coprostanol, are obviously very complicated and can 
+hardly be expected to yield much chemical information. Others are comparatively 
+simple and would probably repay an attempt at intensive analysis. Short of this it is 
+possible, as shown in the first sterol investigation, to derive the most probable arrange- 
+ment of the molecules and their approximate dimensions from a combination of the 
+optic with the X-ray data; and this is the method that has been followed with all the 
+sterol crystals now examined. In order to facilitate comparison between different 
+compounds the nomenclature of the crystallographic axes in tables 1-4 is arranged 
+as far as possible to coincide with that of the optic axes, a, o; b, f; c, y; most of the 
+crystals examined are plates showing one dominating face, the c plane. Deviations in 
+crystal character which make such a nomenclature impossible or undesirable then 
+provide one type of distinction that will be important in further crystallographic 
+classification. But in view of the assumption as to the character of the molecules which 
+underlies such a process it is worth while first to review shortly some direct evidence 
+which has been obtained in the course of the investigations in support of the original 
+deductions of the size and shape of sterol molecules. 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY OF STEROIDS 139 
+1. THE DIMENSIONS AND ORIENTATION OF STEROL MOLECULES IN CRYSTALS 
+It is worth considering first how far the data now collected add to the certainty with 
+which the dimensions of the sterol molecule are known. The smallest unit-cell dimen- 
+sion actually measured on any of the crystals so far examined is 5-85 A in cis-J-5-6- 
+cholestene-3-4-diol (b), and this proves definitely that in one direction the molecule 
+is at least as small as 5X85 A. This can be combined with the evidence of the crystal 
+cell of ,8-ergostadienetriol (leaflet) to prove that in another direction the molecule 
+must not be shorter than 15 A, while the long unit-cell dimensions measured in 
+dibromocholesteryl chloride and in i-cholesteryl ethyl ether suggest that the sterol 
+molecule can assume a configuration in which it is at least 21 A long. 
+The unit-cell dimensions alone do not take the determination very far. But a 
+further direct test is possible through a more detailed examination of cholesteryl 
+chloride and bromide, including an application of Patterson analysis. A preliminary 
+account of the crystallography of these two compounds has already appeared (Bernal 
+and Crowfoot I933). They both crystallize in a simple monoclinic arrangement with 
+only two molecules in the unit cell related to one another by a twofold screw axis. 
+Intensity data on the (hol) planes were derived from Weissenberg photographs taken 
+with the crystals rotating about the b axes, and from the F2 values calculated Patterson 
+series were formed. The diagrams obtained (figure 1 B, C) show two irregular series of 
+maxima running along the lines x 0 and x= - and corresponding to two main sets 
+of interatomic distances. One of these is between atoms in the same molecule, which, 
+if they lie almost directly along the c axis would, with varying distances between atoms 
+in the c direction, have a common a interatomic distance of about zero. The second 
+corresponds to distances between the two molecules, where again with varying distances 
+towards c the a difference is approximately 1. The break-up of the field into these two 
+ridges at x=0 and x= 1 can only be explained by the presence of long molecules 
+relatively thin in the a direction, molecules which agree well both in character and 
+dimensions with the requirements of the present sterol formula. This is illustrated by 
+figure 1 A, which shows a projection of two cholesteryl bromide molecules placed in 
+the unit cell as required by the Patterson projection. The drawings are made assuming 
+a puckered arrangement of the carbon atoms in the sterol ring system, with ring 
+junctions trans throughout, and some even of the more intimate features of this structure 
+can be correlated with the X-ray data. The main ridge in the Patterson diagram at 
+x= 0 is composed of a series of peaks at approximately 2 2, 4'4 and 6 6 A from the 
+origin, and these distances correspond closely with those between carbon atoms 
+concentrated around the junctions between the rings of the sterol skeleton. And the 
+peak heights are probably further enhanced by their coincidence with the main 
+carbon-halogen distances (cf. Robertson I939a). It is not possible to fix the stero- 
+chemistry of the side chain at this stage, but it is obvious that it must continue the 
+main line of the ring system, and the same is true of the bromine and chlorine atoms. 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+TABLE 1. THE CHOLESTEROL SERIES 
+Space Structure v 
+Compound Source group n a b c / Morphology Optics type ? (a) Hydrocarbons: 
+Cholestane H. P21 4 11-2 11i0 19 8 104? Plates, [100], {001}, {101}, {011}, +, b== oc, y 80' from ab (22)1 
+{111} (001), 2 V=700 
+Coprostane H. P22121 4 1085 762 303 900 Needles, [010], {102}, {101}, +,a=cx, b=/3', c=y a212 ' {110}, {001}(1) 
+Cholestene H. P21 4 13 2 19 45 111 940 Irregular pyramids, frequently b =y c221 twinned 
+Coprostene H. P21 2 11F05 7 67 2041 1330 Laths, [010], {001}, {101}, {111} ?, b=/3, y450 from a211 t 
+(001)
+Cholesterylene H.G. P212121 4 15 85 7 66 19 25 900 Needles, [010], {101},12 {120} (2) +, a = c) b =/J,8c 4y, a4 
+2 V=c. 800 (b) Monoketones: 
+Cholestenone H. P21 2 10'61 7-86 19-98 1350 Needles, [010], {101}, {001}, +, b=fl, y 300 from a 211 0 {011}, and very small {100}, (001), 2 V=600 (3) {I10 1}, {I102} (3) (c) Monohydroxy compounds: 0 
+Cholestanol 2H20 H. P1 4 9 79 7-76 36 8 ac 830 Laths, [010], {001}, {101}, {011}, ?, /8 very approx. a 212 ,8 1060 {111}, frequently twinned 100 from [010], y 8810 y 640 from (001) 
+Epicholestanol H. P1 4 9 93 7-5 33 2 ac 950 Needles, fibrous, [010], {001}, +, b approx. =,/, a 212 Z ,8 98'50 frequently twinned y 720 from (001), y c. 900 2E small 
+Coprostanol H. P21 16 77 35-0 31L4 1000 Stout needles, [100], {011}, {100} -, b=c, y 300 to a, 
+2 V c. 400 
+Cholesterol H. P1 8 14 0 10 46 37 8 ac 940(4) Laths, [010], {001}, {102}, {011}, +, b=cx, y 600 to b 222 (anhydrous) /3 117w frequently twinned (001), 2E small 7 900
+Cholesterol H20 B. C 1 32 15 8 1941 74 0 ac c. 900(4) Rhomb-shaped plates, {001}, +, b approx. =,/, y ab (8)4 2 d201 /3 11210 {111}, {011}, frequently twinned inclined to (001) 
+68*4 y920 Z 
+Cholesterol MeoH M. P1 4 12'3 6-23 42-3 ac c. 900(4) Laths, [010], {001}, {100}, {102}, +, oc' 160 from [010] ab (21)2 0 dool /8 1240 {104} in(001),y'61?from . 34-9 y c. 900 (001) in (010) 
+Cholestane-6-ol- H. C2 16 15-4 19-7 32-7 1060 Rhomb-shaped plates, {001}, +, b =fl, y inclined ab (8)2 EtOH {11l} to (001) 
+J-4-Cholestene-7-ol H. P21 2 13-96 6d15 17-75 1231? Needles, [010], {001}, {101}, +, b =oc, y 75-800 ab (21)1 < H20 (i-cholesterol) sometimes {100} from (001), 2 V 
+=490
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+(d) Polyhydroxy and keto compounds: 
+cis-J-5-6-Cholestene- H. C2 8 308 5-85 306 1200 Needles, [010], {001}, {401}, +,b=,y490from ab (41)2 
+3-4-diol {10T}, {201} (001), 2 V c. 40? 
+trans-d-5-6-Chole- H. P212121 4 10-3 7.7 30.2 900 Needles, [010], habits (a) {101} -, a=ca, c=f, b b==y, a 212 stene-3-4-diol only, (b) {Ol} with {101}, {11l} 2 V=54? C 
+c-Cholestanetriol H. P21 4 11.0 7.5 43.8 1310 Laths, [010], {001} +, b=/J, y inclined a 212 I (from solution) to (001) 
+o-Cholestanetriol H. P212121 16 26*05 7-43 71.0 900 Laths, [010], {001} a=a, b=,f, c=y, 2E a 414 II (from melt) large 0 
+Cholestane-5-ol- H. P21 2 8*32 7-7 20-1 910 Laths, [010], {lO} or leaf- +, b=fl, y nearly I a 211 5 
+3-6-dione shaped twins on {001} to (001), 2 V=880 
+(e) Ethers: 
+Dicholesteryl ether M. A 2 4 11-3 6-23 76-3 1100 Hair-like needles, [010], {001}, +, b = c, y 500 from ab (21)2 F< 
+{101} (001) 
+Cholesteryl methyl M. P21 2 11-65 7'58 22-2 1380 Laths, [010], {001}, {10I}, {102} b =fl, y 440 from a 211 Z ether (001), 2 V c. 900 
+i-Cholesteryl methyl M. P21 2 10 9 7'67 22-2 1360(5) Laths, [010], {001}, {101} (?), +, b =,f, y 50? from a 211 H 
+ether {102} (001), 2 V=730 
+Cholesteryl ethyl M. P 21 2 12-9 9 33 24-7 1520 Laths, [010], {001}, {100}, {407}, +, b = a, y 360 from b 211 
+ether {20-} (001), 2 V=72?0 
+i-Cholesteryl ethyl M. P2 2 21 4 8-23 7-58 43-3 900 Laths, [010], {001} +,a=cb=/, c=y, a 212 
+ether 2V=70? 
+(f) Monohalogen derivatives: 
+a-Chlorcholestane H. P21 2 10-4 7.7 19.9 128? Laths, [010], {001}, {101}, {111} b=/I, y inclined to a 211 H 
+(001), 2 V=900 
+fi-Chlorcholestane H. P21 2 11-4 7-8 20-2 1340 Laths, [010], {101}, frequently b =,/, y inclined to a 211 
+twinned on {100} (001) 0 
+Cholesteryl chloride H.M. P21 2 10-6 7'55 21P7 1320(6) Laths, [010], {001}, {101}, {102}, +, b =,B, y53? from a 211 
+{111} (001),2V=860 H 
+Cholesterylbromide H.M. P21 2 11 0 7-55 21F6 1340 Laths, [010], {001}, {102}, {111} +, b-=f,y470 from a211 t 
+(001), 2 V=87? 
+Cholesteryl iodide M. P21 2 11'0 10'42 21-8 1490 Laths, [010], {001}, {100}, {102} +, b=ac,y370from b 211 0 
+(001)
+Cholestene hydro- H. P212121 4 14-6 8-9 19-2 900 Prisms, [010], {101}, {011}, {11}, +, a=cx, b=/3, c=y, b 221 u 
+chloride {210}, rarely {111}, {110}(7) 2E=c. 50? 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+TABLE 1 (continued) 
+Space Structur- 
+Compound Source group n a b a /3 Morphology Optics type 
+(g) Polyhalogen derivatives: 
+Cholesteryl chloride H. P21 2 10-3 7-57 21F01 1280 Laths, [010], {001} ?,3 b =/,8 y much in- a 21 1 hydrochloride dlined to (001), 2 V 
+Dichiorcholestane- G. P 2 2 11F24 7460 18-75 1280 Plates, {001} ,bfy50fo 1 
+3-6. ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~(001),52 V =270 
+ca-Cholestene H. P212121 4 11F27 10-6 20-8 900 Prisms or plates, [010], {001}, a=cx , b -fl, c =y, ab (22)9 dibromide {101}, {102}, {011}(8) 2E =450H 
+,C-Cholestene H. P 1 2 10-5 7-7 20-4 1.27120 Laths, [010], {001}, {1111}5 {011}, caabout40from (010), a 211 dibromide { 10. Twins y nearly I to (001) 
+Coprostene H. P212121 4 11L6 6-5 35-5 900 Prisms, [010],{ 001},{1101},{1102}, ?,a-x~b=/,8c-y, a212 _ dibromide {104}, {112}? 2E medium 
+Dibromocholesteryl H. P 2121 21 4 8-07 7-7 42-8 900 Prisms, [010], {001}, {102}, also +, b =c: , a ==/, c =y, a 212 chloride {I1212 2E smallz 
+Dibromocholesteryl H.M. P21 21 2 4 12-0 12-3 18-25 900 Stout prisms, [010], {101} a=ac, b=/J, c-=y ab (22)5 bromide- 
+Dibromocholesterol. H. P221 21 4 10-32 7-52 33-5 900 Laths, [010], {001}, {010}, {100} ? , a ==/, b =ca, c =y, a 212 
+2E large 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+TABLE 2. THE ERGOSTEROL SERIES 
+Space Structure 
+Compound Source group n a b c Morphology Optics type 
+,, (a) Hydrocarbons: 
+c&Ergostene H. P2 2121 4 10.97 6-44 35 2 900 Laths, [010], {001}, {100}, {010} +,a=, b=,8,c=y, a 212 < 
+;> 2E medium H 
+Ergotetraene H. P21 2 7-73 9 67 16'13 970 Laths, [010], {001}, {100} +, b=ca, y 740 to b 211'. 
+(001), 2E small 
+(b) Monohydroxy compounds: 
+c-Ergostenol H. P21 4 12.1 6 1 35-6 930 Needles, [010], {001}, {101}, +, b=xa, y nearly i ab (21)2 0 
+{101}, {111} to (001), 2E small 
+/f-Ergostenol H. P21 4 10*3 7.35 38.0 910 Plates, [001], {011}, {111} +, b=,85 ynearly L a 212 D 
+to (001) 
+Ergosterol (an- H. C2 32 52*7 12*56 32-8 1010 Sheets from melt, {001} +, b=,/, y inclined ab (82)2 
+hydrous) to (001), 2E small 
+Ergosterol H20 H. P21 4 9-92 7.57 38.5 115? Laths, [010], {001}, {100}, {102}, +, b =_/, y 62' from a 212 
+{104} (001) 
+Dehydroergosterol H. A 2 8 9.5 7.5 75-2 960 Laths, [010], {001} b =,J, y ? inclined to a 214 H 
+H20 (001) 
+Neoergosterol G.C. P212121 12 15-2 7.45 67.5 900 Laths, [010], {001}, {010}, {100} +, a -x, b=/, c=,y, a 314 
+2E medium 
+(c) Polyhydroxy and keto derivatives, etc.: 
+Ergosterol peroxide H. P21 4 14-8 6-15 36-7 127-10 Silky needles, [010], {001}, {201}, +, nearly uniaxial, ab (21)2 t 
+{111} b=/3, y 500 from 
+(001)
+sx-Ergostadienetriol H. C 2 4 15-4 7-35 35 0 1370 Plates {001}, {111}, {101}, also +, b =,8, y 44? from a 212 L 
+laths [010], {001} (001) 
+,6-Ergostadienetriol H. P21 2 6'74 7-16 33 0 1190 Plates, [010], {001}, {111}, {101} +, b=,/, y 70' from a 12L 
+I 2H20 (leaflet) (001), 2 V=720 0 
+,8-Ergostadienetriol H. C2 8 23-7 6-3 36-3 910 Laths, [010], {001} +, nearly uniaxial, a 412 . 
+II (needle) b=/i, y I to (001) 
+(d) Maleic anhydride adducts: 
+Ergosterol acetate G.H. A 2 4 10-5 9 5 33 2 1120(9) Prisms, [010], or plates {001}, +, b=,/, y 66? from a 212 5 
+maleic anhydride rich in faces, including {100}, (001) 0 
+adduct I {101}, {102} 
+Ergosterol acetate, H. P21 2 10-75 7.5 38-2 1490 Laths, [010], {102}, {001} +, b =,=/, y 25? from a 112 ' 
+co maleic anhydride, (001) 
+adduct dibromide 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+TABLE 3. PHOTODERIVATIVES OF ERGOSTEROL 
+Space Structure i 
+Compound Source group n a b c Morphology Optics type (a) Lumisterol group: 
+Lumisterol G., H., M. P21 4 20 3 7-25 38-4 152W? Needles,[010],{OO01},{101},{102} +?,b==fl,y31?from a 212 t 
+(001), 2E small 
+Lumisterol acetate M. P21 4 21 40 7-33 17-44 990 18' Needles, [010], {001}, {100}, also +, b =,/, y 66' from a 411 
+{1O1},{201} 4 (001),2V=720 
+Dihydrolumisterol M. P212121 4 8-93 7-51 412 900 Laths, [010], {001}, {101}, {111} a=cc, b=/?, c=y, a 212 X acetate 2 V c. 900 
+Tetrahydrolumi- M. C2 4 11 3 7-58 37-4 1190 Rhomb-shaped plates, {001}, b=,/, y 61? from a 212 sterol acetate {111} (001), 2 V c. 900 
+Hexahydrolumi- M. P21 2 15-0 6 81 24-7 1460 Needles, [010],{001},{10T},{102} +, b=/?, y 430 to a 211 sterol acetate I (001),2V=270 0 
+Hexahydrolumi- M. P21 2 14-2 758 24'1 1470 Needles or laths, [010], {001}, +, b=,/, y 400 to a 211 
+sterol acetate II {102} (001), 2 V=50? 0 
+(b) Calciferol group: 0 
+Calciferol H. P21 8 205 7-2 35-6 1020 Laths, [010], {001}, {011}, {101} +, b=/?, ynearly I a 412 
+to (001) 
+Pyrocalciferol- H. C2 8 20-2 7-35 35-4 100? Laths, [010], {001} +, b =,'3, 'nearly a 412 calciferol to (001) 
+Pyrocalciferol H. P21 4 18 2 7-15 20-5 920 Laths, [010], {001}, {011}, {101}, b=cc, a=/?, c=y a 411 frequently twinned 
+Dihydrocalciferol H. P21 4 11-5 7-26 36-4 1170 Laths, [010], {001} +, b=fl, y 64-600 a 212 
+from (001) 
+Perhydroepidi- G. P1 4 11-4 7-2 37-6 ,8 930 Plates, [010], {001}, {101}, {011} +,/?c.80from[010], a 212 t hydro pyrocalciferol y 730 y inclined to (001) 
+Calciferol m-dinitro H. P21 2 13 75 10-25 12 55 1120 Yellow plates, [010], {001} -, b =,/?,y nearlyl -I benzoate to (001) 
+Pyrocalciferol m- H. P21 2 110 11-25 26-2 150? Orange plates, [010], {001} +, b=,B, y 310 from 
+dinitro benzoate (001) 
+(c) Suprasterol group: 
+Suprasterol I G. C2 8 25-0 7-5 34-8 1290 Laths, [010], {001} ? normal a 412 
+Suprasterol II G. P22121 8 13-4 10-4 35-4 900 Prisms, [010], {001} +, a=ca, b=/3, c=y, b 222 4 
+2E small 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+TABLE 4. HIGHER PLANT AND ANIMAL STEROIDS 
+Space Structure t 
+Compound Source group n a b c f Morphology Optics type 
+(a) Monohydroxy compounds: H 
+y-Sitostanol (and A. P1 4 9 94 7.74 37T4 ca 930 Plates, [010], {001}, {101}, {111} +, b =,f, y 81? from a 212 
+cafl-sitostanol?) 2H20 /8 970 (001) Y c. 900 0 
+y-Sitosterol H20 A. A 2 16 20-44 7-58 82-5 1200 Laths, [010], {001}, {100}, +, b =,f, y 65? from a 414 0 
+{120} (10) (001), 2E large 
+,8-Sitosterol H20 R. P21 4 10-33 7755 41F3 1220 Rhomb-shaped plates, {001}, +, b =,/, y inclined a 212 > 
+(from rubber) {11l} to (001) 
+Stigmasterol H20 H. P21 4 9.51 7-59 37-2 100? Rhomb-shaped plates, {001}, +, b =fl, y780 from a 212 
+{111}, {201} (001) 
+Actiniasterol VI M. A 2 8 10-12 7-58 82-0 1210 Plates, {001}, {111}, or {101}, {111} +, b=/?, y inclined a 214 Z 
+(lugworm sterol) to (001) 
+Cerevisterol 1 S. A 2 16 9.8 7-6 148-0 930 Laths, [010], {001},l{10l}, {11l} +, b =,8 y nearly I a 218 H 
+to (001) 
+Cerevisterol II S. P21 4 10-6 7-45 39-0 1200 Laths, [010], {001}, {10l}, {111} +, b =fl, y 58 from a 212 
+(001)
+Ostreasterol S. A2 8 10.1 7-65 78-6 1170 Irregular plates, {001} b=fl, y inclined to a 214 
+(001)
+Brassicasterol S. - 9-6 7-7 37 (dool) - Very thin irregular plates giving b =fl, y inclined to a 212. 
+very few X-ray reflexions (001) H 
+,f-Dihydrofucosterol M. P21 16 38-5 7-62 36-0 940 Laths, [010], {001}, {10}, {411} b=fl, y c. 800 from a 812 5 
+(001)
+Spinastanol 2H20 (?) L. P1 4 10-00 7.74 37.5 a c. 900 Laths, [010], {001}, twins, p= /1' 70 from [010], y a 212 Q 
+fi 970 1-031 inclined to (001) 
+y 88?
+c-Spinastenol 2H20 (?) L. P1 4 10-4 7.35 37.4 a 960 Plates, {001}, {211}, {101}, {011}, +, b =,l, y nearly a 212 3 
+f930 p=LO1-32 normal to (001), y 830 2V=700 o 
+/3-Spinastenol H20 L. P 21221 8 10*30 7*28 74.3 900 Prisms, [010], {001}, {101}, {1l}, -, aa, b=,l, c=y, a 214 I' 
+p = 1O030 2 V=70' co
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+Space ~~~TABLE 4 (continued) 
+Compound Source group n a b c f Morphology Opistypet ([) Acetates: 
+fl-Sitosterol acetate R. P21 4 10-43 7-63 4241 1200 Laths, [010], {001}, {101}, {11l}, ?,5 b=/3f, y inclined a 212 
+p = 1049 to (001) 
+Actineasterol acetate M. P21 4 16-55 9-56 17-8 1060 Laths, [010], {001} b =c,y751 0 from (001) b 221 
+Spinastanol acetate L. A 2 8 10-20 7-72 80-25 1100 Laths, [010], {001}, {l0l}, {111}, +, b =/?, 'Y740 from a 214 
+twins badly, p =lI 37 (00].) 2 V = 6000 
+x-Spinasterol acetate L. C 2 4 10-75 7-69 40-2 1190 Plates, {001}5 {111},5 {01l}, +?5 b =/,8 yinclined a 212 
+p=F 1057 to (001)z 
+y~-Spinasterol acetate L. P212121 4 13-28 6-95 31-0 900 Needles, [010], {201}5 p=:1064 ? , a =cz, b =/,8,c =y, a 212 
+2 V =720 (c) Other esters:_ 
+/3-Spinastenolp-nitro- L. P 212121 8 12-2 7-38 76-8 900 Laths, [010], {001}, {l0l}, {111l}, ?, b = a, a =/8, cy benzoate p=:1d14 
+,y-Spinasterol gluco- L. P 2121 21 4 1341 6412 55-9 900 Needles [0101 ?, a=a, b=/?, c-11, - side tetra-acetate 2 V=48 0 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY OF STEROIDS 147 
+NOTES TO TABLES 1-4 
+(1) Source. The sterol preparations used came to us from a number of different research workers and 
+research laboratories. These are indicated as follows: 
+H. Dr 0. Rosenheim, Dr H. King, Dr R. K. Callow, National Institute for Medical Research, 
+Hampstead, London. 
+G. Professor A. Windaus, University Laboratory, Gdttingen. 
+13. Dr T. V. Barker, Department of Mineralogy, Oxford (cholesterol from brain). 
+M. Professor I. Heilbron and Dr F. S. Spring, Manchester University. 
+C. Professor A. H. Cook, Cancer Hospital, London. 
+R. Dr K. C. Roberts, Kuala Lumpur, Malay States. 
+A. Dr R. J. Anderson (given to Dr Rosenheim). 
+S. Dr R. Schonheimer, Columbia Medical School, New York City (given to Dr J. Needham). 
+L. Dr C. D. Larsen, School of Medicine and Dentistry, Rochester, New York. 
+(2) Morphology. The crystals are classified first according to habit, e.g. as plates, prisms, needles, 
+laths (platy crystals markedly elongated in one direction), and this description is followed by a zone 
+symbol to show direction of elongation, if any, e.g. [010], and then a form symbol, e.g. {001}, to indicate 
+the dominating face. Any other forms observed are then noted. Very commonly these were only 
+measured as edges bounding the main face and the indexing is then recorded in an incomplete form, 
+e.g. {101}. 
+(3) Optics. The crystals were all biaxial. The sign of the birefringence is first recorded followed by 
+the directions of the principal refractive indices with reference to the crystal axes. In some cases the 
+optic axial angle was measured by immersion in glycerine and this is then recorded as 2 V. 
+(4) Structure type. This column refers to the crystallographic classification of table 5. 
+REFERENCES TO TABLES 1--4 
+(1) Cf. Steinmetz, Ber. dtsch. chem. Ges. 59, 2064 (I926); Steinmetz' c-b above. 
+(2) Cf. A. Pelikan, S.B. Akad. Wiss. Wien, 104, 116, 824; Z. Kristallogr. 29, 303; Pelikan's c = b above. 
+(3) F. M. Jaeger, Z. Kristallogr. 44, 568 (I908); Groth III, 536, axes changed, Jaeger's c =a. Jaeger's 
+(001) = (10). 
+(4) Cf. F. Klotzer, Z. Kristallogr. A, 95, 338 (I936); axes changed. 
+(5) Measurements partly carried out by F. Bell. 
+(6) Cf. J. D. Bernal and D. Crowfoot, Trans. Faraday Soc. 29, 1032 (I933). 
+(7) Cf. Becke and Karny, S.B. Akad. Wiss. Wien, 116, iib, 1019 (I907); Z. Kristallogr. 47, 697 (I910), 
+axes changed, Becke and Karny's c= b above. 
+(8) Cf. A. Pelikan, S.B. Akad. Wiss. Wien, 103, 27 (I894); Z. Kristallogr. 26, 619 (I896). Pelikan's 
+b=c above; also X-ray measurements, G. E. R. Schulze, Z. Phys. Chem. A, 171, 436 (T935). 
+Schulze's b=a, a=c, above. 
+(9) Cf. G. E. R. Schulze, loc. cit., Schulze's a= c above. 
+(10) Cf. Mugge, Z. Untersuch. Nahr.- u. Genussm. 1, 45 (I898). 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+148 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+The position of the molecules in the unit cell given by the Patterson synthesis is 
+closely that deduced from the preliminary data, 'smear' lines and, most important, 
+the optic orientation. y, the greatest refractive index, is along the ridge which indicates 
+A B
+0~~~~~~~~ 
+KI?
+0 carbon *bromileJ at 0 
+Ocarbon molecule 
+6bromiineJ at 2 \ a 
+FIGURE 1. Cholesteryl bromide and chloride. (A) Suggested crystal structure of cholesteryl 
+bromide projected on (010). The z parameter of the two molecules is given by a correlation of 
+the bromine-bromine distance with peak x in the Patterson projection (B). (B) Patterson 
+projection, Pxz, for cholesteryl bromide. (C) Patterson projection, Pxz, for cholesteryl chloride. 
+The contours in these and in figure 8 are plotted at 100 units apart, those in negative areas 
+being dotted. Contours at the origin above 700 are omitted. 
+the direction of the long axis of the molecule, close to c, a approximately at right angles 
+to the plane of the ring system in the b plane, ,l normal to the b plane, evidently nearly 
+in the plane of the ring system. Crudely, the dimensions of the molecules may be 
+given as about 21 A (length), 7-7 A (width) and 4 A (thickness), similar to those 
+originally derived for quite different sterol crystals (Bernal I--3). The principal 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY OF STEROIDS 149 
+remaining inaccuracy in this description is probably due to the indeterminacy of the 
+exact slope of the plane of the ring system to the b plane. But preliminary calculations 
+on intensities suggest this slope to be about 20-25?, which does not greatly affect the 
+rough estimate of molecular size and shape. 
+In any one crystal structure the molecular dimensions deduced from the combined 
+cell dimensions and optic orientation will not necessarily present the rigid picture 
+suggested above owing to the packing of the individual atoms in the actual molecular 
+arrangement adopted. It does seem true, however, that no very grave changes in the 
+molecular configuration as a whole-such as the curling up of the side chain, for 
+example-do occur in the course of crystallization. In all the sterol crystal structures 
+examined so far it has been found possible, using as guide the optic orientation, to fit 
+molecules corresponding in outline with those required by the present chemical 
+formula. And, for the purposes of a discussion of the varieties of crystal structure found, 
+it is a great advantage to picture the sterol molecule as constructed approximately on 
+rectangular. co-ordinates, having a definite length, width and thickness. The variation 
+of crystal structures found can then be expressed by the changing orientation of the 
+molecular axes to the crystal axes and the combination of these orientations within 
+the crystallographic space groups. 
+2. AN ATTEMPT AT A CLASSIFICATION OF STEROL CRYSTAL STRUCTURES 
+To assist in tracing the chemical implications of the different crystal structures 
+actually observed it is essential to bring these into some kind of geometrical classifica- 
+tion. One type may be based on the relation between the crystallographic axes and 
+symmetry and the orientations of the sterol molecules treated simply as lath-shaped 
+objects, groups within the classification being described by a nomenclature indicating 
+directly the relation of the molecular axes, thickness, width and length, to the crystal 
+axes a, b, and c. Such a classification may evidently be extended to lath-shaped 
+molecules in general, though any scheme suggested now cannot avoid being somewhat 
+arbitrary; partly because the relations between the different variables are not exactly 
+known and, in any case, need several dimensions in which to express them, and partly 
+because intermediate structure types may exist which are not shown by our limited 
+experimental evidence. Certain relations between the directions of the crystallo- 
+graphic axes and the probable molecular orientation do, however, seem to be par- 
+ticularly common among the actual structures observed, and these have therefore been 
+chosen as a basis for the crystallographic classification. 
+The most usual type of sterol crystal among all those examined is still that first 
+described by Bernal, which we have come to speak of as the 'normal' type. These 
+crystals are monoclinic plates tending to be elongated along the b axis which is the 
+direction of the /, refractive index, y being inclined at varying angles to the plane of 
+the plate (001). A study of the unit-cell dimensions of this type of crystal shows that 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+150 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+these are roughly multiples of 41 A, the molecular thickness, a sin fi; 7 A, the width b; 
+and 20 A, -the length c. Crystals showing these characteristics can therefore be classified 
+as belonging to a class by themselves, which has as unit-cell dimensions a sin /- n1 
+x thickness, b nw x width, c n1 x length (figure 2). For purposes of classification the 
+orientation of the molecular axes, thickness, width and length (taken in this order) 
+can then be described by the symbols abc (also in order), and these symbols followed 
+by numerals ntnwn1 to represent the multiplicities. For example, the symbol abc 214 
+indicates a crystal structure in which, roughly, a sin /, is a measure of twice the 
+molecular thickness, b of the width, and c of four times the length. For convenience 
+the symbol may be shortened to a 214. It will be realized that the product of the 
+figures gives the number of molecules in the unit cell. 
+Opposed to this, the a class is a much smaller group of monoclinic crystals in 
+which the symmetry axis is more nearly some multiple of 5 A and optically coincides 
+with the direction of the a refractive index. Here the symmetry axis, b, evidently 
+corresponds in direction more nearly with the molecular thickness and this may be 
+considered the distinguishing character of a second type, the 'reversed' or b type for 
+which the molecular dimensions are roughly given by thickness b/n,, width a sin fll/n, 
+and length c/n, (figure 3). The symbol for classification is therefore bac, n n n1 or 
+shortly b, nznwnl. 
+As might be expected there does seem to be a gradual transition between these two 
+groups, and a third small division appears of crystal structures which it is very difficult 
+to classify as either one or the other. These have been separated into a group by them- 
+selves, ab or crossed. The length of the molecules is still along the c direction, but the 
+plane of the ring system is probably nearly at 450 to the a and b axes (figure 4). The 
+group symbol becomes ab. c (n1 x nj) . nj. It is possible for n, x n" to be compounded 
+in different ways, a and b being either roughly equal to one another or one of them 
+some multiple of the other. This can be indicated by splitting the figures within the 
+bracket-e.g. ab(22) 1 and ab(41) 1 are two possible varieties in each of which a x b is 
+equal to 4 x molecular width x thickness. But in the first case a and b are roughly 
+equal, in the second a is four times b. 
+The third variety of crystal structure which is geometrically compatible with 
+monoclinic symmetry is that in which the molecular length is mainly along the b axis. 
+Only one sterol derivative, cholestene, shows this orientation (with the possible very 
+doubtful exception of coprostanol which is omitted from the scheme), but it is known 
+in several compounds of the oestrin series (figure 5). If the nomenclature of the 
+crystal axes is arranged so that the directions of the molecular thickness, width and 
+length are given by the axes c, a, b respectively, the group symbol becomes cab, 
+shortened to c, n n n1 
+Any attempt to include the orthorhombic or triclinic crystal structures in the above 
+classification must to a certain degree be arbitrary, since in the orthorhombic system 
+all three crystallographic axes are symmetry axes, in the triclinic none, and it is a 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY OF STEROIDS 151 
+matter of choice as to which unit-cell dimension is named a, b or c. But the relation 
+of certain orthorhombic and triclinic crystal structures to each of the above groups is 
+very marked, and the attempt has therefore been made to introduce these into the 
+classification following particularly the secondary consideration of crystal habit as a 
+A bt 11.l~~~- /_1 - 
+ft A a sin fi 
+b He - He~~~~~- - B
+ct ~~~~~~~B 
+B
+C~~~~~~~ 
+FIGURE 2 FIGURE 3 FIGURE 4 
+FIGURE 2. The probable arrangement of the molecules in cholesteryl bromide, structure type 
+a 211. (A) Projection normal to [001]. (B) Projection on (010). (C) Projection on (100). 
+-molecule at 0, molecule at I, in this and in figures 3-6 and 9. 
+FIGURE 3. The probable arrangement of the molecules in ergotetraene, structure type b 211. 
+(A) Projection on (001). (B) Projection on (100). (C) Projection on (010). 
+FIGURE 4. The probable arrangement of the molecules in z-4-cholestene-7-ol, structure type 
+ab (21)1. (A) Projection normal to [001]. (B) Projection on (010). (C) Projection on (100). 
+VOL. 239. A. I'9 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+152 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+guide. In the a type structures, the crystals are markedly elongated in the b direction 
+(width, O6), in the b type also b (here the direction of the thickness, a) is the needle 
+axis. Orthorhombic or triclinic crystals showing elongation in the apparent direction 
+of the width are therefore classified as a type, in the direc- 
+tion of the thickness, b type. The optic orientation in these 
+crystals is often anomalous owing to the really consider- 
+able deviation of the molecular axes from the crystal axes. 
+The ab or crossed type is accepted on the near equality of 
+the a and b dimensions. 
+Inside each main division, a, b, ab and c, further sub- 
+division is based first on the varying multiplicities of n and 
+secondly on the space groups shown. Within each space 
+group the structures are arranged approximately in order 
+of increasing molecular slope to the c plane, so that hori- 
+zontal relationships between compounds showing nearly 
+equal angles of slope can easily be traced. Purposely, no 
+formal numbering of the structure types is set out, since the 
+varieties already discovered certainly do not exhaust the 
+crystallographic possibilities. The symbols themselves fall 
+into a reasonable sequence into which new structures can 
+be inserted when found without disturbance of the general 
+order. 
+The result of this classification is table 5. This includes not 
+only the crystal structures listed in tables 1-4 but also for 
+completeness a few whose measurements have been re- 
+corded elsewhere, particularly the compounds studied by 
+Schulze, a group mainly of i-cholesterol derivatives 
+measured by Miss F. Bell, and certain of the sex hor- 
+mones. 
+There are in all 105 different crystal structures listed in 
+table 5 and of these seventy-eight fall into the a group or 
+normal type which is some justification for the adoption 
+of this title. Of the three remaining groups, nine structures 
+are listed under b (reversed), fourteen under ab (crossed), 
+and four under c. Within the b, ab and c series there are 
+almost as many subdivisions as crystal structures named. 
+But these subdivisions are worth stating since each repre- 
+sents a distinct type of structure which can be related to 
+one or other of the subdivisions of the normal series. A
+daaB /e
+FIGURE 5. The probable ar- 
+rangement of the molecules 
+in oestrone 3, structure type 
+c 212. (A) Projection on 
+(010). (B) Projectionnormal 
+to [100]. (C) Projection on 
+(001). *., hydrogen or 
+hydroxyl bond (in this and 
+succeeding figures). 
+Inside the normal series there are two structure types which occur most frequently, 
+a 211 and a 212. a 211 (eighteen compounds) is one of the most homogeneous groups 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+TABLE 5 
+Structure Space Thickness Width Length 
+type group n Compound a sin/, b C 4 a c sin/, Ref.* 
+abc normal: 
+a 111 P1 1 Cholesteryl salicylate (4419) (9.8) 23 7 6765 - H. 
+a 112 P21 2 ,8-Ergostadienetriol 1 5-85 7-16 2 x 16-5 1190 6-74 28-77 II C 
+Ergosterol maleic anhydride 5.54 7-5 2 x 1941 1490 10-75 19 7 II d acetate dibromide H 
+a 211 P 1 2 ,8-Cholestene dibromide 2 x 4 16 7.7 20 4 12710 10-5 16-2 I g 
+P21 2 Cholestane-5-ol-3-6-dione 2 x 4 16 7 7 2041 910 8 32 2041 I d 
+Cholestane-3-6-dione 2 x 3*95 7-62 19-6 930 7-9 19-6 S. 0 
+Lactone from digoxigenin, 2 x 5-2 7-7 11 7 1010 10 6 11i5 G. 0 C23H3602 
+Androsterone 2 x 4-4 7.7 11P95 1110 9-44 11F2 0. 
+Cholesteryl chloride HCl 2 x 4*05 7.57 21-01 1280 10-3 16-6 I g 
+Cholesteryl chloride 2 x 3-95 7.55 21.7 1320 106 16 1 If 
+o-Chlorcholestane 2 x 4*1 7.7 19.9 1280 10-4 15.7 If 
+Cholesteryl bromide 2 x 396 7.55 21 6 1340 11J0 155 If 
+Coprostene 2 x 4-02 7 67 20 1 1330 11 05 14-7 I a 
+i-Cholesteryl methyl ether 2 x 3 80 7*67 22-2 1360 109 15-4 I e 
+'Oxycholestenone dibromide' 2 x 4-52 7-58 19-6 12810 11-54 15-35 S. H 
+Cholesteryl methyl ether 2 x 3*90 7 58 22 2 1380 11 65 14 9 I e 
+Dichlorcholestane (3-6?) 2 x 4-43 7*60 18 75 1280 11 24 14 8 I g 
+,8-Chlorcholestane 2 x 4*1 7 8 20 2 1340 11-4 14 6 If 
+Cholestenone 2 x 3 8 7*86 19 98 1350 10-61 14-1 I b 
+Hexahydrolumisterol acetate I 2 x 4-19 6-81 24-7 1460 15.0 13-8 III a 
+Hexahydrolumisterol acetate II 2 x 3-87 7-58 24-1 1470 14-2 1341 IIIa 
+a 212 P1 4 y-Sitostanol 2H20 2 x 4-94 7-74 2 x 18-7 970 994 37-1 IVa 
+Spinastanol 2H20 2 x 4 96 7.74 2 x 18-75 970 10 00 37-2 IV a H 
+Perhydro-epi-dihydro-pyro- 2x5-7 7-2 2 x 18-8 930 11-4 37-6 IIIb t calciferol 
+x-Spinastenol 2H20? 2 x 5-2 7-35 2 x 18-7 930 10.4 37.4 IVa o 
+Cholestanol 21120 2 x 4 7 7 76 2 x 18 4 1060 9.79 35-42 I c 
+Epicholestanol 2 x 4 90 7*5 2: 16 6 98.50 9 93 32 8 I c 
+* The references in this column are to the entries in tables 1-4 and to work carried out by the following authors: 
+H. S. B. Hendricks, Z. Kristallogr. A, 89, 427 (I934); axes changed; the classification of this compound here is however doubtful. 0 
+S. G. E. R. Schulze, Z. Phys. Chem. A, 171, 436 (I935). 
+0-4 G. J. D. Bernal and D. Crowfoot, Chem. Ind. Rev. 12, 953 (I934). 
+0. J. D. Bernal and D. Crowfoot, Z. Kristallogr. A, 93, 464 (,936). 
+C. J. D. Bernal, Nature, Lond., 129, 277 (I932). 
+B. Miss F. 0. Bell (unpublished). 
+G., K. G. Giacomello and 0. Kratky, Z. Kristallogr. A, 95, 459 (I936). 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+TABLE 5 (continued) 
+Structure Space Thickness Width Length 
+type group n Compound a sinfi b c fi a c sin,8 Ref.* 
+P21 4 /3-Ergostenol? 2 x 5'15 7'35 2 x 19'0 91? 10'3 380 II b Stigmasterol H20 2 x 4'68 7'59 2 x 18-6 1000 9'1 36-64 IV a 
+Brassicasterol - 77 - 9'6 37*0 IV a c_ 
+Ergosterol H20 2 x 4'49 7-57 2 x 19'25 115? 9'92 34-82 II b 
+,3-Sitosterol H20 (from rubber) 2 x 4'33 7-55 2 x 20'6 1220 10-33 35 0 IV a 
+,3-Sitosterol acetate 2 x 4'52 7'63 2 x 21'05 1200 10'43 36-4 IV b 
+Ergosterol acetate - 7'58 - - 10'48 34-8 S. 
+Cerevisterol II 2 x 4'59 745 2 x 19'5 1200 10'6 33-8 IVa 
+a-Cholestanetriol 1 2 x 4'16 7.5 2 x 21*9 1310 11.0 33 0 I d 
+Dihydrocalciferol 2 x 5'12 7'26 2 x 18'2 117? 11'50 32-4 III b > 
+Lumisterol 2 x 4'67 7'25 2 x 19'2 152-O 20(3 17-7 III a 
+C 2 4 a-Spinasterol acetate 2 x 4'71 7-69 2 x 20-1 1190 10-75 35-2 IV b Tetrahydrolumisterol acetate 2 x 4'94 7'58 2 x 18-7 1190 11'30 32-6 III a 
+a-Ergostadienetriol 2 x 5'2 7'35 2 x 17'5 137? 15'4 23*8 II c 
+A2 4 Ergosterol acetate maleic 2 x 4'85 9'5 2 x 16'6 1120 10'5 31*0 IId d anhydride adduct I 0 
+P22121 4 Dibromocholesterol 2 x 5'16 7'52 2 x 16'8 900 10'32 33-5 I g Coprostane 2 x 5'42 7'62 2 x 15'15 900 10'85 30 3 I a 
+P 212l 2l 4 Dibromocholesteryl chloride 2 x 4'03 7'7 2 x 21'4 900 8'07 42*8 I g i-Cholesteryl EtOH 2 x 4'10 7'6 2 x 21'2 900 8-20 42-4 B. H 
+i-Cholesteryl ethyl ether 2 x 4'11 7'58 2 x 21'65 900 8'23 43-3 I e 
+i-Cholesteryl acetate 2 x 4415 7'6 2 x 21-5 900 8'30 43 0 B. 
+Dihydrolumisterol acetate 2 x 4'46 7'51 2 x 20'6 900 8'93 41-2 III a 
+Oestrone 2 2 x 4'95 7.7 2 x 9'1 900 9'90 18-2 0. 
+trans-A-5-6-Cholestene-3-4-diol 2 x 515 7'7 2 x 151 900 10'3 30-2 I d 
+Nor-nor-cholanic acid ethyl 2 x 5'02 7'49 2 x 14'13 900 10'04 28-27 G. and K. 
+ether
+Nor-cholanic acid ethyl ether 2 x S'08 7'23 2 x 14'84 900 10'16 29-69 G. and K. 
+Cholanic acid ethyl ether 2 x 5'39 7'49 2 x 14'53 900 10'78 29-06 G. and K. 
+y-Spinasterol acetate 2 x 6'64 6'95 2 x 155 900 13'28 31-0 IV b 
+x-Ergostene 2 x 5'48 6'44 2 x 17'6 900 10'97 35-2 II a 
+Coprostene dibromide 2 x 58 6'5 2 x 17'75 900 11'6 35.5 I g 
+a 214 A 2 8 Dehydroergosterol? 2 x 4'75 7'5 4 x 18'8 96? 9'5 75*0 II b Spinastanol acetate 2 x 4'79 7'72 4 x 20'06 110? 10'2 753 IVb 
+Ostreasterol 2 x 4-5 7'65 4 x 19'65 117? 10'10 72-0 IV a 0 
+Actiniasterol VI (lugworm 2 x 4'33 7'58 4 x 20'5 121? 10'12 70 3 IV a 
+sterol) 
+P212121 8 3-SpinastenolH20 2x5'15 7'28 4x18'6 900 10'30 743 IVa 
+a 218 A 2 16 Cerevisterol 1 2 x 4'9 7'6 8 x 18'5 930 9'8 148 0 IV a 
+a 314 P21 2121 12 Neoergosterol 3 x 506 7'45 4 x 16'9 900 1520 67 5 II b 
+a 411 P21 4 Pyrocalciferol? 4 x 4'55 7'15 20'5 92? 18'20 204 IIIb Lumisterol acetate 4 x 5'27 7'33 17'44 990 18' 21'40 17-2 III a 
+P212121 4 Oestrone 1 4 x 4'07 7'46 12'15 900 16'28 12 15 0. 
+Cholesterylene 4 x 3-97 7'66 19'25 900 1585 19-25 I a 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+a 412 P21 8 Ergosterol maleic anhydride 4 x 5'8 7-91 2 x 16.1 920 23-2 32-2 S. 
+acetate II (?) 
+Calciferol 4 x 5-02 7-2 2 x 17'8 1020 20-5 34'8 III b 
+C 2 8 Calciferol-pyrocalciferol 4 x 4'97 7'35 2 x 17'7 1000 20'2 34.9 III b 
+Suprasterol I 4 x 4'85 7'5 2 x 17'40 1290 25'0 27-0 IIIc 
+3-Ergostadienetriol II 4 x 5'9 6'3 2 x 18'15 910 23'7 36'3 II c 
+a 414 A 2 16 y-Sitosterol H20 4 x 4'5 7 t3 4 x 20-6 1200 20'44 71'4 IV a 
+P21 21 21 16 a-Cholestanetriol II 4 x 6'51 7.43 4 x 17'75 900 26 05 71'0 I d 
+a 612 C 2 12 Dihydroergosterol MEtOH (?) 6 x 437 7'4 2 x 20'4 12110 30'78 35 1 C. 
+a 812 P21 16 f-Dihydrofucosterol 8x4'8 7-62 2 x 18-0 940 38-5 35.9 IV a 
+a 224 B21? 8 4-Hydroxycholestane 2 x 4-64 2x7'7 4 x 18'5 1020 9.5 72-3 B. 
+bac reversed: 
+b211 P21 2 Ergotetraene 2x4'83 7-66 16-13 970 7.73 16-00 Ia 0 
+Cholesteryl iodide 2 x 5-21 5-66 21-8 1490 11'0 11-3 If 0 
+Cholesteryl ethyl ether 2x4'66 6-07 24-7 1520 12-9 11 5 Je 
+b 221 P21 4 Cholesteryl acetate 2 x 4'7 2 x 8 1 17 6 1030 16 6 17 1 B., S. t Actiniasteryl acetate 2 x 4'78 2 x 7'95 17-8 1060 16-55 17-1 IVb I 
+P212121 4 Bromomethoxy oestrone 2 x 4'5 2 x 6-9 12-8 900 13-8 128 0. 
+Cholestene hydrochloride 2 x 4'45 2x7-3 19'2 900 14-6 19-2 If 
+b222 P1 8 Anhydrous cholesterol 2 x 5-23 2 x 6-2 2 x 18-9 11710 14'0 33-5 Ic 
+P22121 8 Suprasterol II 2 x 5-20 2x6-7 2 x 17-7 900 13-4 35-4 IIIc 
+(ab)c crossed: asinB b c ,3 a csin,3 
+ab (21)1 P2 2 A-4-Cholestene-7-ol 2 x 5-83 6-15 17-75 1231? 13-96 14'80 I C 
+ab (21)2 P1 4 Cholesterol MeOH 2 x 5-1 6-23 2 x 21-15 1240 12-3 34.9 J C 
+P21 4 c-Ergostenol 2 x 6'05 6'1 2 x 17'8 930 12-1 35'6 II b 
+Pregnane 2x5'9 6-29 2x11'3 1000 12-0 22-4 0. 
+Ergosterol peroxide 2 x 5'85 6-15 2 x 18'3 12710 14'8 29-1 IIc 
+A2 4 Dicholesteryl ether 2x5'32 6-23 2x38'15 1100 11-3 71-3 le 
+ab (22)1 P21 4 Cholestane 10-85 11.0 19-8 1040 11-2 19-25 I a Testosterone 12 05 11 08 11.01 1250 14 72 9'05 0. 
+P212121 4 a-Cholestene dibromide 1127 10-6 20-8 900 11-27 20-8 Ig 0 
+Dibromo-cholesteryl bromide 12-0 12-30 18-25 900 12-0 18-25 Ig 
+ab (41)2 C 2 8 cis-zl-5-6-Cholestene-3-4-diol 4 x 6'65 5'85 2 x 15'3 1200 30'8 265 Id d 
+ab (8)2 C2 16 Cholestane-6-ol-EtOH 14'8 19'7 2 x 16'35 1060 15'4 31'4 Ic H 
+ab (8)4 C 1 32 Cholesterol H20 14'6 19.1 4 x 185 11210 15'8 68'4 Ic 
+ab(82)2 C2 32 Anhydrousergosterol 4x12'9 12'56 2x16'4 1010 52'7 32'1 IIb 
+cab: C a b I7 
+c 112 P21 2 Hydroxyketone from cholestanol 6'3 662 2 x 11'05 1090 - - 0. _ 
+(androstane-3-(/3)-ol-17-one) 
+c 212 P21 4 Oestrone 3 2 x 4'61 7-60 2 x 11O05 112 - 0. Oestriol 2 x 4'53 7'50 2 x 11'4 1120 - 0. 
+c221 P21 4 Cholestene 2x5'5 2x6'6 19*45 940 - - Ia 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+156 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+of all listed. Apart from androsterone, the lactone from 
+digoxigenin and cholestane-5-ol-3-6-dione, it includes only 
+compounds such as ethers, esters and halogen and keto de- 
+rivatives, in none of which are there any hydroxyl groups. 
+The length of b is fairly constant at 7 6-7 9 A; the plane of 
+the ring system is approximately in the a plane, a sin /? 
+corresponding to twice the molecular thickness. The slope of 
+the long axes of the molecules to the c plane is generally pro- 
+nounced, varying from about 127 to 1350. (There are devi- 
+ations at either end of the series.) This molecular arrange- 
+ment (figure 2) can be considered as a fundamental from 
+which a great many of the others described here are built up, 
+in fact, all the remaining normal type structures. Its relation 
+to the type of ergotetraene (b 211) (figure 3) in which the a 
+and b axes are interchanged is obvious from the nomenclature. 
+But A-4-cholestene-7-ol, ab (21)1 (figure 4), can also be very 
+closely derived from it by a gradual tilting of the plane of the 
+ring system to the b plane. 
+The structure type a 212 (thirty-six compounds) is essenti- 
+ally the same as a 211 and can be considered to be built up 
+of two units of this placed end to end in the c direction. This 
+can be achieved in two ways to give monoclinic and ortho- 
+rhombic symmetry respectively and the significance of these 
+two divisions is rather different. In the main monoclinic 
+series-seventeen compounds belonging to the space groups 
+P 21, and, for convenience, P 1, the doubling of c doubles the 
+asymmetric unit and suggests that the molecules are united 
+end to end by hydroxyl bonds (figure 6). In the ortho- 
+rhombic group the asymmetric unit is the molecule itself 
+and, while it is possible for association to occur in the space 
+group P22121, this is not so in P212121. Chemically both 
+orthorhombic groups are rather mixed, while the monoclinic 
+section includes almost exclusively compounds with terminal 
+hydroxyl groups. The space groups C 2 and A 2 fall rather 
+into the P 22121 category. 
+The relation between the a 211 structures and that of 
+A-4-cholestene-7-ol, ab (21)1 may be paralleled by one be- 
+tween the a 212 structures and those of, say, oa-ergostenol and 
+ergosterol peroxide, ab (21)2. It is one of the drawbacks of 
+the classification as it stands that the groups a, ab and b 
+necessarily merge into one another-so that it is doubtful, A L J 7 i m 
+A /
+a sin13 
+efXB -
+c f ~~~-> - b 
+FIGURE 6. The probable 
+arrangement of the mole- 
+cules in ergosterol H20, 
+structure type a 212. (A) 
+Projection normal to [001]. 
+(B) Projection on (010). 
+(C) Projection on (100). 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY OF STEROIDS 157 
+for example, whether ox-ergostene and coprostene dibromide should be classified 
+as a 212 or ab (21)2, and /-ergostadienetriol II as a 412 or ab (41)2. Such relations 
+are more easily indicated by a use of the multiplicities alone as the basis of classi- 
+fication. But against this use it is, on the one hand, very convenient for experi- 
+mental purposes to distinguish the main a, b and c groups, and, on the other hand, 
+differences based only on multiplicities are often equally arbitrary in character. 
+y-Sitosterol H20 is, for example, exceedingly similar crystallographically to ergosterol 
+H20-the doubling of a which removes it from the a 21 group is evidently a very 
+minor crystallographic variation shown only by a weak superstructure on the principal 
+X-ray reflexions. The likeness to ergosterol is easily recognized in the tables by reference 
+to the actual values of , and the cell dimensions. There are accordingly three principal 
+directions in which geometrical comparisons may be made between the different 
+crystal structures listed in the table. First, the division into a, b or c groups indicates 
+roughly the orientation of the molecular axes to the crystallographic axes. Secondly, 
+within a single multiplicity group the change from a to ab to b indicates a gradual 
+alteration in the slope of the short axes of the molecules to the a and b axes. Thirdly, 
+the change in fi and c sin /, shows approximately the change in the relative slope of 
+the long axes of the molecules to the c plane. 
+The chief difficulty we have to contend with throughout is that though in the 
+classification we have suggested that the molecules are oriented in certain crystallo- 
+graphic directions-it is actually very seldom if ever that the molecular and crystallo- 
+graphic axes exactly coincide (cf. Hendricks I934). There are only two or three crystal 
+structures of all those examined in which a single X-ray reflexion seems to be of a 
+different order of magnitude from all the others observed. Among these are x-ergo- 
+stadienetriol and ergosterol peroxide and possibly suprasterol I, and here it is probable 
+that the plane of the ring system coincides fairly accurately with the a plane. In all 
+other cases we are dealing with various degrees of approximation to a parallel 
+orientation. 
+3. CHEMICAL IMPLICATIONS OF THE CRYSTALLOGRAPHIC INVESTIGATION 
+(a) Characterization and identification 
+Physical measurements may be employed in the routine examination of an unknown 
+substance, first to characterize it as belonging to some established chemical series, and 
+finally to identify it as a particular compound known through previous examination 
+or synthesis. These uses depend on rather different characteristics of the data concerned, 
+the first on the existence of certain similarities within particular chemical series, the 
+second on detailed differences. 
+The general classification of sterol crystals given in table 5 includes a great variety 
+of types of crystal structure. Some of these are very individual in character, and if 
+found in an unknown compound could not be considered necessarily suggestive of 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+158 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+sterol structure. But there is, in general, considerable similarity which extends between 
+the different sterol series. The lines in the tabulation do not divide the cholesterol, 
+ergosterol and phytosterol groups. In some of the structure types, particularly a 212 
+and to a lesser degree a 211, crystal structures of such similarity are found that it 
+would be difficult not to conclude that the chemical compounds present were in all 
+cases closely related. 
+This general similarity of many sterol crystal structures has had its disadvantages 
+in the past in the difficulty with which compounds can be isolated pure and their 
+chemical individuality established. Crystals belonging to the a 211 and a 212 groups 
+commonly appear as lath-shaped plates bounded only by the edges (100), (110) and 
+(010), and since a and b have almost the same sizes in all these compounds, morpho- 
+logical crystallographic measurements are of little or no assistance in the identification 
+of the substance present. It can be safely stated that the sterol crystals that are easily 
+recognizable by morphological examination are those which do not belong to the 
+crystallographically defined normal type-such as hydrated cholesterol or cholestene 
+hydrochloride. But the X-ray method introduces a very rapid and simple means of 
+identification which can actually be applied most easily in just the group which is 
+most difficult to characterize in other ways. The b axis is an easily recognizable 
+crystallographically unique direction, and X-ray photographs taken over a small 
+oscillation range starting with the X-ray beam parallel to this axis are consequently 
+also unique. These photographs give the (hol) reflexions, both the positions and 
+intensities of which are extremely sensitive to small changes in molecular structure 
+and shifts in orientation. The identity or otherwise of two compounds is most easily 
+recognized by direct comparison of photographs. In default of a set in each of the 
+various laboratories studying sterol mixtures, measurements of the cell sizes and 
+records of the intensities serve the purpose equally well if rather more laboriously. 
+These processes of characterization and identification by the X-ray method may 
+be illustrated by the work on the mixed sterols of rubber recorded in table 4. 
+A crystalline material isolated by Dr K. C. Roberts from rubber and which was 
+considered probably to be a terpene alcohol related to amyrin was submitted to X-ray 
+examination. This showed the presence in the preparation of two compounds, one of 
+which gave X-ray photographs identical with those of stigmasterol. The second and 
+main constituent proved exceedingly similar to ergosterol, and even more so to a 
+constituent measured by accident in one soya-bean mixed sitosterol preparation. 
+The measurements recorded, combined with the form of the X-ray reflections 
+observed, justified its characterisation as a sterol closely related to ergosterol, possibly 
+a- or /I-sitosterol. Since this paper was first written, chemical work in Professor 
+Heilbron's laboratories at Imperial College has shown that two of the constituents 
+of the mixed sterols of rubber are fl-sitosterol and 24 25-dehydrostigmastanol 
+(private communication from Dr K. C. Roberts).* 
+, Added in proof. 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY OF STEROIDS 159 
+Another sterol preparation in which X-ray examination has shown the presence of 
+two crystalline forms is that of cerevisterol-the two varieties are listed as cerevisterol 
+I and II in table 4. But since neither of these is identical with any other sterol so far 
+studied, it is not at this stage possible to say whether the difference between them is 
+only crystallographic or chemical as well-though the latter seems most likely. 
+It is probable that many of the preparations so far examined are not altogether pure, 
+as such great similarity in crystallography frequently results in mixed crystal formation. 
+This is comparatively easy to recognize where the pure compounds have previously 
+been studied, but more difficult where the suspected preparation contains new 
+derivatives. The comparison between y-sitostanol and the preparation of afl-sitostanol, 
+for example (table 4), was undertaken to settle the question of the identity or otherwise 
+of these compounds. The X-ray photographs are exceedingly similar, much more so 
+than photographs so far studied of different individuals, and suggest that the main 
+constituents of the two preparations are identical. But the fact that the two sets of 
+photographs are not exactly the same indicates that there must be one or more different 
+constituents in either or both samples. And one possible constituent is suggested by 
+the fact that spinastanol also gives photographs practically identical with those of the 
+sitostanols in the spacings, though markedly different from them in the intensities of 
+the X-ray reflexions. Other similar examples of mixed crystals appear among the 
+sitosterols themselves. in the soya-bean sitosterol preparation it is common to find 
+some crystals which give X-ray reflexions very similar in position and intensities to 
+y-sitosterol but not showing the superstructure which gives y-sitosterol a doubled 
+a dimension, while others show a much weaker superstructure. Still it is noticeable 
+that such mixed crystal formation seems only to occur when the crystal structures are 
+very much alike not only in type but in the relative slope of the molecules. The same 
+soya-bean sitosterol crystals give in addition weak reflexions of stigmasterol which forms 
+layer growths over, and not included in, the sitosterol complex, owing presumably to 
+the marked difference of slope of the molecules to the c plane in the two structures. 
+It would obviously be valuable in applying the X-ray method for identification 
+purposes in this field to examine first in more detail the crystallographic behaviour 
+of sterol mixtures. Four possible varieties of crystallographic interaction between two 
+compounds have already been observed: 
+(i) The two components separate in two distinct crystals which can be recognized 
+by optical or morphological means, e.g. stigmasterol and f-sitosterol. 
+(ii) The two distinct crystal structures form layer structures recognizable on X-ray 
+photographs, e.g. stigmasterol on the soya-bean sitosterol. 
+(iii) A mixed crystal is formed, e.g. probably ax-, f- and y-sitosterols. Such crystals 
+give rather blurred X-ray reflexions intermediate in character between those of the 
+two components. 
+(iv) A definite crystal compound is formed giving X-ray reflexions different in 
+position and intensities from either component, e.g. calciferol-pyrocalciferol. 
+VOL. 239. A. 2 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+160 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+These four types of behaviour are not sharply distinguished from one another. 
+(i) and (ii) may occur in the same preparation. The difference between (ii) and (iii) 
+may become one only of degree, and between (iii) and (iv) only one of regularity. 
+(b) Molecular weight determination 
+The use of X-ray measurements to determine chemical molecular weights follows 
+from the relation between the crystal density and the volume and mass of the crystal 
+unit cell: 
+nM
+UP V'
+where p is the density, V the volume of the unit cell, n the number of molecules in the 
+unit, and M, the mass of the individual molecule, is equal to the chemical molecular 
+weight multiplied by the mass of an atom of hydrogen. The routine measurement of 
+the molecular weight depends therefore on the precision with which the quantities 
+p, V and n can be determined. Of these n must be an integer and is fixed by the 
+arrangement of the molecules in the unit cell. Where the order of magnitude of the 
+required molecular weight is known, n can easily be assigned by an approximate 
+calculation. The exact numerical accuracy of the measurement depends therefore on 
+the determination of p and V. 
+By the employment of precision X-ray goniometers it is now possible to measure 
+lattice constants with an accuracy of a few parts in 100,000, and these determine the 
+cell volumes. The limiting factor in the accuracy of the molecular weight measurement 
+is therefore probably the density, though Hendricks (1933) has shown that with careful 
+choice of crystals and the use of a laboratory centrifuge to follow their flotation in 
+suitable solutions, it is possible to measure crystal densities with a probable error of 
+not more than 0-0001. No measurements in the sterol series have yet been made to 
+this degree of precision, though it is probable that such measurements would be valuable 
+in the case of, for example, calciferol, where the number of hydrogen atoms has been 
+in doubt. For the first order examination of the sterols, as of most organic compounds, 
+it has been considered sufficient to use methods that will determine the number of 
+carbon atoms in the molecule, and for this purpose an accuracy of + 1-5 %0 is adequate. 
+The standard laboratory X-ray goniometers have therefore been used, and for the 
+density determination the flotation method under centrifugal force, preferably with 
+a dust of small crystals (Bernal and Crowfoot 1934a). The solution generally employed 
+has been sodium chloride in water with a drop or two of sodium taurocholeate solution 
+to assist the wetting of the crystals. Occasionally zinc sulphate solution was used 
+instead. The measurements on a number of different sterols are recorded in table 6. 
+In the study of a series of compounds it is evidently unnecessary to measure exactly 
+the molecular weight of every compound. One set of precision measurements on a 
+suitable compound should suffice to define the series. The choice of such a compound 
+depends first on its occurrence in good crystals and secondly, if an absolute determina- 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+0
+H
+0
+TABLE 6. MOLECULAR WEIGHT DETERMINATIONS IN THE STEROL SERIES 
+No. in No. in Molecular Molecular 
+unit asymm. wt. wt. calcu- 
+Compound a b c sin,8 p cell unit measured lated Formula 
+Cholestenone a' 14-63 + 005 7-86 + 0015 doo01 1026 + 002 1-078 + 0-002 2 1 385+3 384 C27H440 
+Ergotetraene 7.73 + 0.04 9-67 + 0-04 16-00 + 0-05 1-065 + 0.005 2 1 384 + 7 378 C2811420 Z 
+y-Spinasterol acetate 13-28 + 0-02 6.95 + 0-03 31-0 + 0-20 1.064 + 0-004 4 1 460 + 8 456 C3H15202 
+Ergosterol H20 9-92 + 0-04 7.57 + 0 03 34-82 + 0-04 1-055 + 0.003 4 2 18+401 + 7 396 C28H440 H 
+Stigmasterol H20 9-51 + 0 09 7 59 + 0-02 36-64 + 0-06 1 055 + 0-004 4 2 18 + 406 + 7 412 C29H480 
+y-SitosterolH20 20-44 +010 7-58 +0-02 71-40+0-20 1-035+0-002 16 4 18+415+6 414 C29H1500 
+fl-Sitosterol H20 10-33 + 0410 7-55 + 0 01 35-00 + 0-10 1-049 + 0-004 4 2 18 +414 + 7 414 C29H1500 
+fl-Sitosterol acetate 10-43 + 004 7-63 + 002 36-4 + 0.1 1-049 + 0-002 4 2 460+6 456 C29H500 CO- CH3 
+Cholestanol x H20 9 79 + 0 03 7-76 + 0.01 35-42 + 0-06 1-040 + 0-006 4 4 425 + 5 424 C27H48O .2120 
+/?-Ergostadienetriol 6-738 + 0.010 7-762 + 0.004 28-77 + 0-04 1.10 + 0.01 2 1 463+6 466 C28H4603.2H20 H x H20
+zl-4-Cholestene-7-ol 13-96 + 0 04 6-15 + 0-02 14-80 + 0-05 1-051 + 0-003 2 1 405 + 5 404 C27H1460 H2.0 
+x H20 o 
+H/
+0
+0~~~~~~~~~~~~~~~~~~ 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+162 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+tion is desired, on the actual crystal structure adopted. In the sterol series, particularly 
+among hydroxy compounds, the asymmetric unit of the crystal structure is frequently 
+composed of two or more molecules, and the crystallographic maximum molecular 
+weight is this multiple of the chemical minimum value. For an unambiguous measure- 
+ment it is generally possible to find some member of the series in which the space 
+group alone determines n, the number of molecules in the unit cell. This is the case 
+with cholestenone, ergotetraene and y-spinasterol acetate recorded below and with 
+calciferol-pyrocalciferol measured by Bernal (1932), and the measurements on these 
+compounds may be considered to define the cholesterol, ergosterol, spinasterol and 
+calciferol series. Cholestenone in particular forms very good crystals of which morpho- 
+logical measurements were made by Jaeger in 1908. The X-ray results given in table 6 
+are recorded using the axes chosen by Jaeger, though these have been changed in 
+tables 1-5 for the sake of the general classification. The density now measured is 
+slightly but not significantly higher than that found by Jaeger (1 -071). The crystals 
+of ergotetraene used were much less good and had a fibrous appearance. Though 
+fragile, they show no cleavage. The results on y-spinasterol acetate are of particular 
+interest, since they show that the spinasterols, like sitosterol and stigmasterol (below), 
+belong to the C 29 group of plant sterols and not to the C 28, ergosterol, group as 
+previously accepted on chemical grounds (Heyl and Larsen 1934). 
+For most of the measurements of molecular weight in the higher plant sterol series 
+only hydroxy compounds were available. The crystals of these suffer not only from the 
+formal disadvantage that the asymmetric unit contains two or four chemical molecules 
+but also that there is present water of crystallization, the proportion of which should 
+be determined by separate chemical analysis. But the crystal structures of these 
+compounds are extremely similar to that of hydrated ergosterol and it seems con- 
+sequently reliable to place the same interpretation upon them all. The weight of 
+ergosterol itself is crystallographically defined by that of ergotetraene, and there is the 
+further evidence of Tanret's analyses of the water content of ergosterol hydrate crystals 
+(Tanret i889, I908) to demonstrate that the ergosterol molecule has a weight of 
+C28H440, and that two are present each associated with a molecule of water in the 
+crystal asymmetric unit. The crystallographic data on stigmasterol, /B- and y-sitosterol 
+may be interpreted by comparison with this conclusion. The value so deduced for 
+stigmasterol agrees with that found by chemical methods (Sandqvist and Gorton 1930; 
+Windaus, v. Werder and Gschaider I932), though it is a little low, probably owing to 
+the cracked nature of the crystals used. The weight found for y-sitosterol agrees very 
+exactly with that suggested by earlier data on mixed sitosterol preparations, and 
+although it is unlikely that the sample used now is quite pure, it may be taken as 
+evidence of the C 29 formula for this sterol. The value for fl-sitosterol from rubber is 
+supported by the X-ray measurements on the acetate and has been chemically 
+confirmed.* 
+* Private communication from~ Dr K. C. Roberts. 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY OF STEROIDS 163 
+Where the weight of the sterol molecule present is known the X-ray measurement 
+may be applied rather differently, to the exact determination on a small quantity of 
+material of the proportion of solvent of crystallization present. This application is 
+illustrated by the measurements recorded on zI-4-cholestene-7-ol (#-cholesterol), chole- 
+stanol and /I-ergostadienetriol (leaflet form). The X-ray photographs of cholestanol 
+invariably show in addition traces of lines corresponding to a smaller unit cell with 
+a c spacing 34-2 A, probably due to the formation of a lower hydrate. 
+26
+25 27
+21 23 24 
+(18) 22 
+(1 9
+II
+(c) The stereochemistry of the carbon skeleton of the sterols 
+If the carbon skeleton written above (II) is accepted as in outline a correct 
+representation of sterol structure, there are still a number of stereochemical alternatives 
+among which the exact arrangement of the atoms in the individual molecules must 
+be sought. A large proportion of these can be excluded by the crystallographic evidence, 
+particularly on cholesteryl chloride and bromide, which requires the presence in these 
+derivatives of a reasonably flat molecule. And bearing this in mind it is a simplification 
+to consider separately the nature of the junctions between rings A and B, B and C, 
+and C and D and where these differ in the different sterols studied, their relation, if 
+any, to the crystallographic data. The descriptions cis and trans may be applied here 
+as in the cis and trans decalins. 
+There is as yet no X-ray evidence on the nature of the junction between rings C 
+and D, which is usually, on evidence supplied by Wieland and Dane (I933), considered 
+to be trans. The configuration here is almost certainly the same in all the compounds 
+so far examined. But a certain modification in the relative positions of the atoms 
+surrounding this junction is to be expected in compounds having double bonds 
+impinging on it as in the structures proposed for x- and /I-ergostenol III, IV (Achter- 
+mann I934; F. Laucht, I935). These two compounds differ markedly from one another, 
+c-ergostenol crystallizing in the ab (21) group, /I-ergostenol in the normal a 212 group, 
+but it is not possible from the data so far collected to associate their differences with 
+their molecular configuration. The same may be said of /-dihydrofucosterol for which 
+a structure with a double bond in ring D has been suggested (V) (Heilbron et al. 1936), 
+and which crystallizes in a complex variant of the a type structure, so far peculiar to itself. 
+The junction between rings B and C is generally considered to be trans to fit the 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+164 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+general requirements of the X-ray measurements (cf. Ruzicka and Thomann I933). 
+It should be stated that in the sterols themselves this determination has not anything 
+like the certainty of that of the parallel decision in the case of the cis and trans hexa- 
+hydrochrysenes (Bernal I933). In the completely reduced ring system there is much 
+greater freedom of movement and models can be constructed with a cis central junction 
+nearly as flat as those where the junction is trans. But where one ring is aromatic as 
+in oestrone, the more rigid conditions hold, and here it is certain that the central 
+junction must be trans. The relations between the sterol and sex-hormone group justify 
+one in extending this condition to all normal members of the series, especially when it 
+is realized that any change of the configuration of the central junction made without 
+corresponding changes at the junction C to D completely alters the shape of the 
+molecule. The X-ray evidence also applies a restriction on the possibilities of isomerism 
+at C 10, since to keep the molecule flat the substituent hydrogen or methyl at C 10 
+must in the general case be trans to that at C 9. 
+110 HO0 HO 
+III IV V 
+These considerations are particularly relevant to the question of the structures of 
+lumisterol and of pyrocalciferol. Chemical evidence leads to the conclusion that the 
+molecule of lumisterol differs from that of ergosterol only in the stereochemistry of the 
+ring system at C 10 (VI), while in pyrocalciferol the arrangement of the atoms at 
+C 9 is also affected (VII) (Windaus and Dimroth I937; Heilbron, Kennedy, Spring 
+and Swain I938). Both these changes produce considerable alteration in the molecular 
+shape, and it seems significant therefore that neither of these two compounds is 
+crystallographically of a simple type. Lumisterol and its derivatives, the hexahydro- 
+lumisterol acetates, show a marked approximation to pseudo-hexagonal symmetry, 
+and while the simplest interpretation of the structure following from the optics leads 
+to the deduction of relatively flat molecules, it is possible to see in their greatly 
+sloped arrangement an adjustment to some change in molecular configuration. Pyro- 
+calciferol shows certain relations crystallographically to lumisterol. The asymmetric 
+unit is doubled, but there is no apparent double layer formation, and this makes it 
+impossible at this stage to draw further conclusions from the X-ray data on the 
+molecular shape. 
+In the junction between rings A and B the arrangement may be either cis or trans, 
+and the chemical evidence shows it to be trans in the cholestane allo-cholanic acid 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY OF STEROIDS 165 
+series, passing to cis in the coprostane-cholanic acid series. Compounds of both groups 
+have been examined crystallographically, but the differences between them do not at 
+this stage appear to be diagnostic. It is perhaps interesting, however, that coprostene 
+(VIII) and coprostane (IX) are crystallographically closely related-a fact which 
+may have some stereochemical significance. Cholestene (X) and cholestane (XI), on 
+the other hand, both crystallize in rather irregular structures. 
+CH,3 CH, 
+HO no 
+VI VII
+CHS C 
+X XI
+(d) The effect of substituents on the crystallography of the sterols 
+(i) The position of the hydroxyl group. 
+One of the sharpest distinctions in the geometrical classification of sterol crystal 
+structures may be drawn between the single- and double-layer structure types. It has 
+been already suggested (p. 156) that the difference between the two is generally due 
+to association between terminal hydroxyl groups, which in the double-layer structures 
+causes doubling of the crystal asymmetric unit in the direction of the molecular length. 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+166 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+Such behaviour is well known among the fatty acids and long-chain alcohols, and its 
+occurrence in the sterol series receives additional support from the direct relation of 
+the characteristic sterol double-layer crystal structures to the crystal structure of 
+dicholesteryl ether. This compound crystallizes in the space group A 2, and the unit 
+cell which contains four chemical molecules shows very much the same dimensions 
+as those of ostreasterol and actiniasterol for which the space group is also A 2, but the 
+asymmetric unit double the chemical molecule: cf. 
+a b c n 
+Dicholesteryl ether 11P30 6.23 76.3 110? 4 
+Ostreasterol 1010 7.65 78-6 1170 8 
+Actiniasterol 10412 7.58 82.0 121? 8 
+In dicholesteryl ether the doubling of the molecular length is produced by the chemical 
+elimination of water between the hydroxyl groups, and these must evidently be 
+terminally placed in the sterol skeleton to produce the effects observed- the crystal 
+structure of this compound might indeed be quoted as the best single piece of evidence 
+from the crystallographic side for the terminal position of the hydroxyl group of 
+cholesterol. Actually the removal of one hydroxyl group in its formation probably 
+forces the two component cholesterol chains of the ether to lie at a certain angle to 
+one another which may account for some of the deviations of its crystal structure from 
+the strictly normal double-layer types. But the general relation between the doubling 
+of the molecule in dicholesteryl ether and the formation of many of the sterol double- 
+layer structures is plain. And since it was the consideration of these that was first 
+employed to demonstrate from the crystallographic side that the hydroxyl group of 
+ergosterol and cholesterol was terminally placed at position C 3, it is worth considering 
+how far the formation of a crystal double layer among sterols is absolutely specific for 
+the presence of a terminal hydroxyl group. 
+In the general classification (table 5) the single-layer structure types are a 111, 
+a 211, a 411, b 211, b 221, ab (21)1, ab (22)1 and c 221, to which must be added 
+certain groups in which no association is possible between equivalent atoms, a 112; 
+a 212, C2, A2, P212121; ab (21)2, A2; and c 112. All the rest can be classified as 
+double-layer types, and it is very significant that out of the forty-eight compounds in 
+the table belonging to this class thirty-three are known to have a hydroxyl group at 
+the same position as cholesterol, C 3. In the case of seven others, actiniasterol, brassica- 
+sterol, the spinasterols, and the cerevisterols, the position of the hydroxyl group has 
+not yet been chemically proved but is almost certainly again C 3. The remaining eight 
+are intrusions into the group whose nature requires more careful consideration. They 
+include two hydrocarbons, pregnane and coprostane, four acetates, ergosteryl acetate, 
+/?-sitosterol acetate, ergosterol maleic anhydride acetate 2 and spinastanol acetate 
+and the hydroxy derivatives cholestane-4-ol and cholestane-6-ol. Of these pregnane, 
+coprostane and spinastanol acetate all show either orthorhombic or a close approxima- 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY OF STEROIDS 167 
+tion to orthorhombic symmetry, and even the preliminary examination might suggest 
+that the doubling of the asymmetric unit is here rather different from that produced 
+by association of hydroxyl groups and due to some more purely geometrical aspect of 
+molecule packing. The same may be said of the remaining exceptions, but it is plain 
+that it would be practically impossible to distinguish at least between the other 
+acetates and normal double-layer structures on the data so far collected. The remaining 
+two compounds, cholestane-4-ol and 6-ol, raise still further problems. The examination 
+of cholestane-4-ol has not yet been taken as far as space group determination, but it is 
+certain that the structure type is not exactly that shown by any of the derivatives 
+examined with the hydroxyl group at C 3. This seems very reasonable. The hydroxyl 
+group is in a nearly terminal position, and a double layer would be expected, as 
+observed, rather different in character from the normal variety. Cholestane-6-ol EtOH 
+is, on the other hand, exceedingly similar morphologically to cholesterol H20. It is, 
+in fact, the only derivative in the table that might on cursory inspection be mistaken 
+for cholesterol H20. The crystal structure in both cases is of an irregular and com- 
+plicated variety from which it is impossible to expect to draw exact conclusions at this 
+stage. And while a very natural deduction from the direct comparison of the two 
+structures would certainly be that in both the hydroxyl group is at C 3, one fact, the 
+further doubling of the c dimension in cholesterol H20 compared with cholestane-6-ol, 
+is against it. In any case there is evidently a relation of an intimate geometrical 
+character between cholestane-6-ol and cholesterol H20. 
+In the formation of double-layer structures the terminal hydroxyl groups may either 
+interact directly with one another or through water molecules. Examples of both 
+varieties of interaction are well known already in the crystal structures of oxalic acid 
+and oxalic acid dihydrate (Hendricks 1935; Robertson 1936). Among the sterols the 
+first process seems frequently attended by some difficulty, witness the extremely com- 
+plicated structures of anhydrous cholesterol and ergosterol and the great readiness 
+with which crystals, particularly of the latter and many closely related sterols, take 
+up water or alcohol of crystallization. The crystal structures belonging to the simplest 
+type, the normal a 212 structures (figure 6), probably nearly all contain such water, 
+and it seems likely from the structure of cholesterol MeOH that methyl alcohol can 
+play a similar part to water in joining hydroxyl groups. The case of ethyl alcohol, 
+however, is more doubtful. That this is associated with the sterol hydroxyl group in 
+crystallization is demonstrated by the exceedingly close relation between i-cholesterol 
+ethyl ether and i-cholesterol EtOH, which show not only approximate identity of unit- 
+cell dimensions but also of X-ray intensities. Both structures are essentially single-layer 
+structures, and it might be argued that here ethyl alcohol of crystallization has closed 
+the hydroxyl bond chain and so prevented further interaction, a type of behaviour 
+that would be relevant also to the problem of the cholestane-6-ol structure. 
+The single-layer class is characteristically the structure type of hydrocarbons, 
+halogen derivatives, ethers, esters and ketones, in none of which are there specific 
+VOL. 239. A. 21 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+168 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+chemical groups likely to cause association between molecules. But the intrusions of 
+hydroxyl compounds into this division are both common and varied. In table 5 the 
+list includes androsterone, ca- and /-ergostadienetriol, trans-A -5-6-cholestene-3-4-diol, 
+pyrocalciferol, oestrone-1 and androstane-3-(/)-ol-17-one, all of which from chemical 
+evidence have at least one hydroxyl group at C 3, and two compounds in 
+which the hydroxyl group is known to be differently placed, z-4-cholestene-7-ol 
+(#-cholesterol) and cholestane-5-ol-3-6-dione together with i-cholesterol EtOH, in 
+which there is still some doubt about the exact position of the hydroxyl group. In all 
+of these it seems probable that hydroxyl or hydrogen bond formation does occur, 
+though this does not lead to the appearance of a double layer. The classical example 
+is provided by oestrone (figure 5) in which hydrogen bonds can be formed between 
+the terminal hydroxyl and keto groups of neighbouring molecules, and this interaction 
+takes the place of double-layer formation. The process is better illustrated by the 
+crystal structures of androsterone and the isomeric hydroxyketone from cholesterol 
+where the molecule is itself the asymmetric unit rather than by oestrone and oestriol 
+where for other reasons the asymmetric unit is doubled. Among the polyhydroxy 
+compounds, c'- and /?-ergostadienetriol, and trans-Z1-5-6-cholestene-3-4-diol interaction 
+is possible either (or both) between hydroxyl groups within a single molecule or between 
+non-equivalent hydroxyl groups in neighbouring molecules. In cholestane-3-6-dione- 
+5-ol, a hydrogen bond may be formed between the hydroxyl group and a neighbouring 
+keto group within one molecule. And it is likely that the double layer of cis-Z-5-6- 
+cholestene-3-4-diol is not quite of the normal type suggested superficially by its 
+classification, but that here again the hydroxyl bonds, though leading to double-layer 
+formation, are between non-equivalent groups on the two molecules concerned. The 
+remaining two compounds, pyrocalciferol and D-4-cholestene-7-ol, are in a slightly 
+different category, since the essential association may in these cases be between 
+equivalent groups though no double layer is shown. Pyrocalciferol provides the most 
+awkward exception so far encountered-the only compound for which there is chemical 
+evidence that the hydroxyl group is at C 3 and in which there is only the one hydroxyl 
+group and yet no double layer has been formed. The asymmetric unit is actually 
+doubled in another direction, so that it is possible for association between the hydroxyl 
+groups to have occurred in some other way, but the crystal structure certainly calls 
+for further investigation. In D-4-cholestene-7-ol, on the other hand, the crystal structure 
+shows precisely the behaviour that might be expected from a compound having a 
+single hydroxyl group remote from any terminal position. The crystals contain water 
+of crystallization presumably associated with the hydroxyl groups, and this may even 
+be employed to link them together if the molecules are so arranged in the unit cell 
+that the hydroxyl groups are brought not far from 3 05 A away from one another, the 
+closest approach which is crystallographically permissible (figure 4). 
+Taking altogether the evidence now collected on sterol crystal structures, it is clear 
+that this adds considerable weight to the correlation of the double-layer structures 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY OF STEROIDS 169 
+with the presence of terminal hydroxyl groups. But since on the one side there are 
+compounds which show a crystallographic double layer though they contain no 
+terminal hydroxyl group, and on the other, at least one compound, pyrocalciferol, 
+which, although chemical evidence indicates the presence of a terminal hydroxyl 
+group, shows no double layer, it is clear that some caution must be exercised in applying 
+this criterion to place hydroxyl groups on the sterol skeleton. Where there is very great 
+similarity between the crystal structures of the compounds under investigation and 
+a sterol structure of known type it seems safe to apply the argument rigidly. The 
+crystal structures, both in cell dimensions and character of the X-ray intensities, of 
+brassicasterol and the cerevisterols are so like those of ergosterol, ostreasterol and 
+actiniasterol that it is impossible to doubt that the hydroxyl group is in all cases in the 
+same position. But it is much more difficult to place crystallographically the hydroxyl 
+group of i-cholesterol. The chemical evidence on this compound has been somewhat 
+conflicting, but the work of Wallis, Fernholz and Gephart (I937) and Heilbron, 
+Hodges and Spring (1938) strongly favours the formula below (XII) with the hydroxyl 
+group at C 6 and not C 3 as first proposed: 
+OH
+XII
+Crystallographically Miss Bell finds that the acetate, ethyl ether and i-cholesterol 
+EtOH are all very much alike. The only cholesterol derivative, so far examined, which 
+they at all closely resemble is, as table 5 shows, dibromocholesteryl chloride in which 
+there are substituents both at C 3, and at C 5 and C 6. This crystal structure is one in 
+which the molecules have an imbricated arrangement which renders it particularly 
+difficult to place the substituent groups from the preliminary examination. It is also 
+impossible to place the methoxy group of i-cholesterol methyl ether from the data at 
+present collected, owing again to the unspecific character of the structure type, a 211, 
+in which it crystallizes. From the table it appears as closely related to oxycholestenone 
+dibromide and dichlorcholestane, which probably have substituents at C 5 or C 6, as 
+it is to cholesterol methyl ether with the substituent at C 3. But the crystal structure 
+of this methyl ether is sufficiently simple to hope that it may be submitted to an exact 
+analysis, the solution of which would be the more interesting in view of the somewhat 
+paradoxical relations which exist chemically between the i-cholesterol compounds, 
+cholesterol and cholestane 6-ol on the one hand and crystallographically, as mentioned 
+above, between cholesterol and cholestane 6-ol. 
+21I-2
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+170 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+(ii) The stereochemistry of the hydroxyl group at position 3. 
+A priori one might imagine that the crystal structure would be one of the physical 
+properties of a compound most sensitive to a stereochemical change such as that of 
+the hydroxyl group of the sterols between the epi and normal series. Models show 
+that with a trans configuration of the ring system between C 5 and C 10, in one isomer 
+which, following Ruzicka, Furter and Goldberg (1938), we may call cis, the hydroxyl 
+group should project vertically from the ring system, in the other, trans, it should lie 
+almost in the plane of the ring system (figure 7). We might expect that cis isomers 
+would show rather different crystal structures from trans, or at least a definite 
+shortening of the molecular length. 
+"trans', cis" 
+FIGURE 7. The stereochemistry of the sterol hydroxyl group at C 3. 
+As far as the present examination goes there does not appear to be any definite 
+change in crystal structure which one can associate with the change from cis to trans. 
+An examination of molecular lengths of twelve compounds all of which crystallize in 
+the normal type of structure and have only a terminal hydroxyl group does, how- 
+ever, show a certain separation into two groups, the first having apparent lengths 
+37-39 A, the second 34-35 A. (For this comparison the lengths are calculated from 
+the slope of y to the c plane in the crystals.) 
+Cholestanol 2H20 39-5 Epicholestanol 34.5 
+Ergosterol H20 39.4 Lumisterol 34.4 
+y-Sitosterol H20 39-6 Calciferol-pyrocalciferol 34.9 
+y-Sitostanol 37.8 Calciferol 34.8 
+/3-Ergostenol 38-0 Suprasterol I 34.8 
+Stigmasterol H20 37.5 Dihydrocalciferol 36 1-37.6 
+Further, this separation does correspond in scope to the chemical distinction between 
+the normal and epi series and is paralleled among the sex hormones by the relation 
+between androsterone and the hydroxy ketone from cholestanol. But the reliability 
+of the natural deduction that therefore the normal cholesterol-ergosterol series have 
+the trans and the epi series the cis configuration is much open to question. The normal 
+series nearly all crystallize with water of crystallization which might independently 
+cause an increase in length (it also might even be argued to be due to this being a more 
+difficultly crystallizable cis form). And with- the exception of epi-cholestanol itself the 
+entire 'short length' division consists of the photoderivatives of ergosterol about 
+whose structures there is, to say the least, considerable doubt. 
+Another approach to the problem can be made through a more detailed examination 
+of the halogen derivatives of cholesterol. Calculations on the intensities of X-ray 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY OF STEROIDS 171 
+reflexions from cholesteryl chloride and bromide show quite clearly that in these 
+compounds the halogen atoms are not far from the plane of the ring system and so 
+directed as to increase the molecular length. The most natural interpretation is that 
+they have the trans configuration. But here the double bond at C 5: 6 may very easily 
+affect the actual position in space adopted by a group at C 3, and it is stereochemically 
+possible for atoms attached both at the cis and trans positions to lie fairly closely in the 
+plane of the ring system. A better test is the study of the reduced derivatives, a- and 
+6-chlorcholestanes, derived by the action of phosphorus pentachloride on epi- 
+cholestanol and cholestanol respectively. The X-ray analysis has here not been carried 
+so far, but the general crystallography and in particular the intensities of the c plane 
+reflexions leave no doubt that it is the a compound that has the same configuration 
+as cholesteryl chloride. This x compound can also be prepared by the direct reduction 
+of cholesteryl chloride while reduction of cholesterol followed by the action of phos- 
+phorus pentachloride gives cholestanol first and then /J-chlorcholestane. Further 
+correlation of the configuration of cholesteryl chloride and ac-chlorcholestane with 
+epi-cholestanol cannot therefore be carried through at this stage, since Walden 
+inversion must have occurred at least once, if not several times, in the chemical reactions 
+involved. But- the X-ray evidence does show that no such inversion occurs during the 
+hydrogenation of cholesteryl chloride. It would probably be most useful to examine 
+in more detail the crystallographically very similar cholesteryl methyl ether. 
+It is interesting that the general similarity between the epi and normal cholesterol 
+series in relation to the packing together of the molecules in the crystals is paralleled 
+by their behaviour in surface films (Adam, Askew and Danielli 1935). The limiting 
+surface pressure areas show no significant differences between the two series though 
+there does appear to be a change in surface potential. And while this should be 
+valuable to assist in distinguishing an epi from a normal compound it does not provide 
+a clue as to which has which configuration. 
+(iii) The positions qf the double bonds. 
+The two most important types of reaction by which the double bond in cholesterol 
+is characterized are perhaps its behaviour on oxidation and towards halogens. Products 
+of both courses of treatment are recorded in table 5. 
+As the general review of these crystal structures has shown, the introduction of 
+hydroxyl groups has a very marked influence on the kind of molecular arrangement 
+adopted. The five polyhydroxy sterols described, ox-cholestanetriol, x- and fl-ergo- 
+stadienetriol, cis and trans J-5-6-cholestene-3-4-diols show crystal structures classified 
+in seven different divisions of the table-five different space groups including poly- 
+morphic forms. A direct comparison of these structures, either among themselves or 
+with others, from the point of view of establishing intensity relations is therefore rather 
+difficult. But in all there are signs that the structure adopted is largely determined by 
+the tendency to form hydroxyl bonds between the hydroxyl groups and, if this is 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+172 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+accepted, it is possible to put forward plausible suggestions as to their whereabouts. 
+As far as it goes the crystallographic evidence is fairly well in agreement with the 
+chemical as to the position of the hydroxyl groups in these compounds. In the case 
+of oc-ergostadienetriol and ergosterol peroxide it is inclined to favour a C5-6 con- 
+figuration of the oxygen atoms. But the crystal structures of these two compounds are 
+of fairly simple types and might be worth more exact study. 
+The halogen derivatives examined are most promising crystallographically though 
+still inclined to appear a very miscellaneous collection. Eight of them crystallize in 
+the a 211 group and are nearly isomorphous. A direct comparison between two of 
+these, cholesteryl chloride and cholesteryl chloride hydrochloride, has therefore been 
+possible. Chemically cholesteryl chloride hydrochloride differs from cholesteryl 
+chloride by the addition of hydrogen chloride at the double bond. Crystallographically 
+this alteration affects mainly the intensities of the X-ray reflexions, and the change 
+can be followed by forming the Patterson projection, Pxz, from the intensities of the 
+hol planes. Compared with the corresponding projection of cholesteryl chloride 
+(figure 1 C) the resulting diagram (figure 8 A) shows a new series of peaks due both 
+to new chlorine-chlorine interatomic distances and to distances between the additional 
+chlorine atom and the carbon skeleton. Figure 8 B shows a probable arrangement of 
+the molecules which correlates the observed effects. From the chemical point of view 
+the most significant feature of the pattern is the fact that the new peaks lie between 
+the old lines, showing that the additional chlorine atom projects from the main line 
+of the carbon skeleton, and the peak A in particular from its strength can be identified 
+as due to the chlorine-chlorine distance within the molecule. This chlorine-chlorine 
+distance, 4-2 A, accurately fixes the additional chlorine atom of cholesteryl chloride 
+hydrochloride-and therefore one end of the cholesterol double-bond system in the 
+neighbourhood of C 5, which is in agreement with present chemical theory. 
+Unfortunately all the compounds so far examined in which two halogen atoms have 
+been added to the double bond show different types of structure from one another. 
+The orthorhombic forms in which imbrication occurs such as dibromocholesteryl 
+chloride and bromide are most difficult to solve, but coprostene dibromide and dibromo- 
+cholesterol should prove possible. Work has been started on a survey of the intensities 
+of these compounds by G. Knott. 
+One of the most characteristic reactions of the double-bond system of ergosterol is 
+that with maleic anhydride. The two ergosterol acetate maleic anhydride adducts 
+that can be obtained have both been examined by G. E. R. Schulze (1935), and a 
+further study of that melting at 216? (I) has been made by us. This shows, in its crystal 
+structure, some deviations from the normal type, while the second adduct appears, 
+like the dibromide, to show more usual cell dimensions. Schulze gives for II: 
+c-25-3, b 7-91, a= 32-2A, 8-92-10, 
+(our a) (our c) 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY OF STEROIDS 173 
+while for the adduct I the measurements are 
+a = 105, b = 9 5, c= 33.2, A= 111? (table 2). 
+Accepting the chemical interpretation of adduct formation as likely to occur normal 
+to the ring system and hence produce an increase in the thickness of the molecule 
+and seeing that it is b that has increased in size in the adduct I compared with the 
+normal structure, Schulze draws the conclusion that b in the normal type sterol 
+A B
+0~~~
+A
+* carbon inolecule Xchlorinej at 0 
+carbon Imolecure Oachiorine) at 1 
+FIGURE 8. Cholesteryl chloride hydrochloride. (A) Patterson projection, Pxz. (B) Probable 
+arrangement of the molecules, projected on (010). The dotted lines show chlorine to chlorine 
+distances. 
+structures represents molecular thickness and a the width. This is a conclusion that 
+cannot be accepted for sterol crystals in general. It is contrary to the evidence of both 
+the optics and the X-ray intensities, both in this compound and in the normal 
+structures. And since Schulze's paper was written the calculations on cholesteryl 
+bromide show that only an orientation with the thickness mainly in (100) can give 
+the experimentally observed effects. 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+174 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+An alternative explanation might therefore be given that the maleic anhydride 
+adds on to the molecule at the side of the ring system, so that, as observed, the dimension 
+corresponding to the width is increased in the adduct. A possible formulae satisfying 
+this requirement is XIII 
+AcO-
+XIII
+While this is a crystallographically plausible explanation there is another which seems 
+more probable. As discussed above, direct deductions of molecular dimensions from 
+lattice dimensions must not be interpreted too rigidly. In the first place it is probable 
+that the plane of the ring system, if 'mainly' in the a plane, is still at a considerable 
+angle, as much as 300, to it. And further, in the adduct the space group, and con- 
+sequently the relative arrangement of the molecules, has changed compared with the 
+strictly normal type. Since the molecule is here the asymmetric unit, the crystal 
+structure can be fixed with a relative degree of certainty. The orientation with the 
+length of the molecule along c, thickness roughly in the a plane and width in b, is 
+supported both by the optics and by the appearance of 'smear' lines along the layer 
+lines on photographs taken about [001] (figure 9). This arrangement shows that the 
+molecules following each other along the c axis are separated by a distance lb compared 
+with those in, for example, cholesteryl bromide. In such a structure it is possible to 
+insert the extra atoms of the maleic anhydride with adduct formation (as suggested 
+by chemical investigation) at C 5-8 provided that the adduct is given the stereo- 
+chemical form which brings the atoms nearest to the plane of the sterol ring system. 
+These widely varying interpretations that have been put on the crystallographic 
+measurements on ergosterol maleic anhydride adduct acetate are evidence of a weak- 
+ness in the X-ray method of attacking this particular problem by preliminary measure- 
+ment alone. The adducts do, however, appear much more promising subjects for further 
+investigation than might have been expected on general considerations. 
+(e) A comparison of the crystallography of different sterols (monohydroxy compounds) 
+The changes in the structure of the carbon skeleton of the sterols with which we 
+have to deal are chemically of four main types: (1) stereochemical only, e.g. in the 
+disposition of carbon atoms around the ring junctions; (2) alterations in the number 
+or distribution of double bonds; (3) introduction or removal of carbon atoms, e.g. as 
+methyl groups; (4) actual breakdown of the sterol ring system as in the proposed 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY ON STEROIDS 175 
+structure for calciferol. Of these types of change we have 
+already to a certain extent considered (1) in relation to 
+problems of sterol stereochemistry as a whole and (2) in 
+relation to the identification of double bonds through 
+chemical modification. (3) might be treated as an addi- 
+tional case of the effect of substituent groups on sterol 
+crystallography. But actually, in studying new sterol 
+derivatives, we must expect to find modifications of all 
+these kinds occurring at once. It seems useful therefore 
+to review the experimental data from a somewhat different 
+angle in order to discover how far the observed crystallo- 
+graphic character can be associated with the sterol skeleton 
+as such, and from this how far it may be sensitive to 
+changes of each of the above types in turn and particu- 
+larly to those of type (4). The actual similarities and 
+differences that do exist among as wide as possible a 
+group of sterol derivatives must evidently be considered, 
+and for this purpose only compounds with a single 
+hydroxyl group at C 3 have been selected in order to 
+limit as far as possible the deviations in crystallography 
+to those due to changes in the sterol skeleton itself. 
+There are in table 5 twenty-seven sterol derivatives 
+which have according to the available evidence a single 
+hydroxyl group at position 3 and differ from one another 
+either stereochemically or in the structure of the sterol 
+skeleton. Of these it is noticeable that the four completely 
+reduced compounds examined, y-sitostanol, spinastanol, 
+cholestanol, epicholestanol and perhydro epidihydro pyro- 
+calciferol, together with x-spinastenol, all occur in one 
+group with the space grqup P1, class a 212. These crystal 
+structures are, however, not so closely alike among them- 
+selves as are those of a second group which includes all 
+the higher plant and animal sterols examined and which 
+may be referred to as the ergosterol H20 group after the 
+type structure, ergosterol H20. These ten compounds, 
+ergosterol, stigmasterol, fi- and y-sitosterol, brassicasterol, 
+ostreasterol, actiniasterol, fl-dihydrofucosterol, fl-ergo- 
+stenol and also dehydroergosterol, although they fall into 
+a number of different classification groups in table 5, all 
+have crystal structures based on the fundamental a 212 
+type and show similarities in spacings and the general 
+VOL. 239. A. 22 A
+/ \/t
+asin,3
+B |
+FIGURE 9. Suggested crystal 
+structure of ergosterol acetate 
+maleic anhydride adduct I. 
+(A) Projection normal to [001]. 
+(B) Projection on (010). (C) 
+Projection on (100). o, point of 
+attachment of maleic anhy- 
+dride required by present 
+chemical theory. 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+176 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+cholestanol 21H20 
+cholestanol ? H2 0* 
+epicholestanol 
+sitostanol 
+spinastanol 
+ca spinastenol 
+ergosterol 
+ergosterol H120 
+y sitosterol H20 
+/3 sitosterol 1120 
+stigmasterol H20 
+actirtiasterol\ 
+ostreasterol 
+,3 dihydrofucosterol 
+dehydroergosterol 
+cholesterol 
+cholesterol 1120 
+calciferol 
+dihydrocalciferol 
+ca ergostenol 
+neoergosterol 
+13 spinastenol 
+suprasterol I 
+suprasterol 11 
+1 3 5 7 9 11 13 15 17 19 21 
+FIGURE 10. Intensities of the X-ray reflexions from the c planes of sterols with hydroxyl groups 
+at C3.
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY OF STEROIDS 177 
+run of the intensities of reflexions which are of a different order of magnitude from 
+any other likenesses observed. 
+The remaining eleven structures are very miscellaneous both chemically anc 
+crystallographically. While they do include a number in which the sterol skeleton 
+may have radically altered, such as neoergosterol and all the photoderivatives of 
+ergosterol, they also include the crystal structures of cholesterol, anhydrous and 
+hydrated, and that of anhydrous ergosterol which prevents the main distinction from 
+having much significance. Neoergosterol may be mentioned as crystallographically 
+of particular interest. The crystal structure is of a curious and complicated kind, unlike 
+any other, and the X-ray photographs taken about the b axis show marked layer line 
+'smearing', indicating some degree of irregularity in the arrangement of the mole- 
+cules. Some of the other crystal structures are of the same structure type as the 
+ergosterol H20 group, e.g. dihydrocalciferol, others are much more complicated. 
+It is possible, however, to attempt a further comparison of these structures with those 
+of the characteristically normal group by a consideration of the intensities of the 
+X-ray reflections from the c plane. 
+Variations in the intensities of the X-ray reflexions from one crystal structure to 
+another can be analysed as depending on two factors, the variation in the molecular 
+arrangement and in the molecular structure. By considering the c plane intensities 
+only of structures, all of which are of a double-layer type, it may be hoped to exclude, 
+as far as possible in a preliminary survey, variations of the first kind and to obtain 
+records which will be sensitive mainly to differences in molecular structure. Figure 10 
+provides a list of the c plane intensities of all the sterol derivatives of the type now 
+considered which show double-layer structures and for which sufficient data were 
+obtained. The records are arranged to correspond roughly in spacing, i.e. the fourth 
+order in the cholesterol H20 and ostreasterol structures corresponds to the second in 
+ergosterol H20 and is therefore written in column 2. The only compounds which are 
+excluded from the list as not possessing comparable double-layer structures are 
+lumisterol and pyrocalciferol, for both of which there is chemical evidence that stereo- 
+chemical changes of type (1) have occurred (cf. p. 164). 
+The comparison of the c plane intensities illustrates again the very close relation 
+between all the members of the ergosterol H20 group. Through the individual varia- 
+tions the same general curve can be traced and the form of this is illustrated in a rather 
+interesting way by the data on /I-dihydrofucosterol and dehydroergosterol. Both, 
+crystals were very poor and certainly impure, and the result on the X-ray intensities 
+appears as a blurring of individual differences while the general ' sterol' form remains. 
+After these very close similarities other resemblances can be traced, particularly 
+between anhydrous ergosterol and cholesterol and again, with a possibly characteristic 
+difference at the seventh order, between these and the normal hydrated structures. 
+Epicholestanol, on the other hand, shows certain differences perhaps significant which 
+are paralleled, though very approximately, by dihydrocalciferol. The member of the 
+22-2
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+178 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+group which deviates most is o-ergostenol, and the differences here are probably to be 
+associated rather with change in molecular arrangement than directly with molecular 
+structure. It is clear that differences are in general much less significant in comparisons 
+of this kind than are similarities and it is consequently the more important that the 
+calciferol group, particularly calciferol itself, and to a lesser degree the suprasterols, 
+do all show a formal likeness in c plane intensities to the normal sterol group. At the 
+same time their differences in structure type can all be paralleled among normal 
+sterols. 
+From the general grouping it is clear that the crystallographic character is much 
+more sensitive to changes in the structure of the ring system than to changes in the 
+side chain. All the compounds in which radical alteration of the ring system is 
+suspected do belong, if in somewhat different degrees, to the deviating group. But 
+beyond this it is difficult to make any generalization of diagnostic value. 
+(f) The structure of calciferol 
+The structure of calciferol must be closely related to the position of the double-bond 
+system in ergosterol and as far as this goes the crystallographic evidence is not contrary 
+to the chemical evidence. The structure of ,-ergostadienetriol is in good agreement 
+with the presence of one double bond in ergosterol at C 5-6 and that of Z1-4-cholestene- 
+7-ol (#-cholesterol) is some confirmation for a more distant situation of the second 
+double bond. But calciferol itself, according to the chemical evidence accumulated in 
+the last four years, is formed from ergosterol through lumisterol and tachysterol by 
+the rupture of ring B at the tachysterol stage of the transformation (Lettre I934, 
+Muller 1935; Windaus and Thiele 1935; Heilbron, Samant and Spring 1935). In the 
+present accepted structure for calciferol, ring A is therefore joined by a short chain to 
+rings C and D. While this formula is usually written in the configuration XIV, it would 
+seem almost certain physically that such a molecule should assume configuration XV: 
+CH,
+HO~~~~~~~~~~~~H 
+HO 1OH 
+XIV XV 
+Calciferol would in this case be expected to show marked differences in crystal 
+structure from the normal sterol structures whereas actually on its preliminary examina- 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY OF STEROIDS 179 
+tion it was its similarity that appeared most significant (cf. Bernal and Crowfoot 
+'935).
+It is possible now to carry the crystallographic comparison of calciferol and its 
+derivatives with other sterols a stage further from the material discussed in the 
+preceding section. This has made it clear that actually none of the calciferol group 
+do belong to the most characteristically 'steroid' ergosterol H20 group, though 
+amongst themselves they deviate from this in very different degrees. Dihydrocalciferol 
+crystallizes in the normal a 212 structure type and its divergence from the ergosterol 
+group is comparatively minor, a certain shortening of b and lengthening of a sin , 
+which also occurs in calciferol-pyrocalciferol, pyrocalciferol and calciferol itself. 
+Pyrocalciferol is perhaps the most radically different in crystal structure, and this 
+compound is agreed on chemical grounds to have an abnormal sterol skeleton. 
+Calciferol and pyrocalciferol-calciferol are, on the other hand, more closely related 
+to the normal group; the relation of calciferol in particular is shown by the comparison 
+of the c plane intensities with those of the ergosterol H20 group. They show very 
+marked similarities suggesting the presence of closely similar atomic groupings. 
+Further, the crystallographic interpretation of the data on the suprasterols, particularly 
+suprasterol I, is definitely against the presence of a spiro ring system here (IIiller 
+1935), though it cannot exclude other ring systems which would conform to lath shape 
+in type (cf. Rosenheim and King 1935). 
+It is, however, admittedly impossible to exclude the broken-ring formula for calciferol 
+on the present crystallographic data without some information on the behaviour of 
+compounds known to possess such structures. If it is actually possible for a molecular 
+configuration approximating to XIV to be maintained in the crystal there is no reason 
+to consider the crystallographic data conflicting with the chemical. So far the only 
+compound examined crystallographically in which a ring-chain configuration at all 
+comparable exists is cis azobenzene. And here the structure is definitely unstable and 
+the planes of the benzene rings are disposed at a considerable angle to one another 
+(Robertson 1939 b). It may, however, be argued that the aromatic system in cis 
+azobenzene is not sufficiently close to that suggested for calciferol to make the com- 
+parison of much value. But it should be possible to find other analogous compounds, 
+perhaps in other series, to investigate. 
+There is one rather interesting point in connexion with the vitamin-D problem that 
+seems worth mentioning. Crystallographically fi- and y-sitosterols are very much more 
+similar to ergosterol than is stigmasterol. The slope of the molecules to the c plane 
+and the c plane intensities in the three compounds are practically identical. Chemically 
+antirachitic products can be obtained by irradiation of both ergosterol and 7-dehydro- 
+sitosterol, whereas that from stigmasterol is almost if not quite inactive. There seems to 
+be a relation between the two sets of properties of the sitosterols and ergosterol for which 
+the present chemical formulae, which make stigmasterol the most similar to ergosterol, 
+provide no clue. 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+180 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN ON X-RAY 
+CONCLUSION 
+The survey of sterol crystal structures which has been undertaken in this paper has 
+illustrated very plainly the limitations of preliminary crystallographic investigation as 
+a source of chemical information. Even in matters of straight identification there may 
+be difficulties where impure preparations consisting largely of mixed crystals or where 
+polymorphic modifications are concerned. Double-layer structures, though most 
+frequently, are not quite exclusively associated with terminal hydroxyl groups, and 
+deviations in crystal-structure type very often make it impossible to apply simple 
+comparisons of X-ray intensities to fixing the positions of substituent groups. It is 
+still desirable to extend the survey method to a number of problems which have been 
+mentioned in the course of the discussion, for example, the behaviour of sterol mixtures, 
+and also to cover more systematically different sterol types, to include, among others, 
+epi-cholesterol and epi-coprostanol. But it is clear that the solutions of the most 
+important problems of sterol structure must be sought from the crystallographic side 
+by exact X-ray analysis and it is probably in this direction that the general survey 
+should prove most useful. 
+Where, as in the case of the sterols, the molecules, and therefore necessarily the 
+crystal structures, have no centres of symmetry, it is essential to find comparatively 
+simple crystal structures for intensive analysis. And at the same time it is desirable to 
+choose those whose solution will answer the most outstanding questions of chemical 
+structure. Of the structures listed in the tables the halogen and ether derivatives of 
+cholesterol, and particularly ca- and fl-chlorcholestane should be useful both on account 
+of simplicity of crystal structure and for their relation to the fundamental problem of 
+the position and stereochemistry of the hydroxyl group of cholesterol. These have, 
+however, one crystallographic disadvantage. The easiest approach to exact analysis in 
+monoclinic crystals is through an analysis of the hol reflexions since an effective centre 
+of symmetry appears for projections on the b plane at the position of the twofold axis. 
+But for cx- and fl-chlorcholestane this projection should give the less instructive view 
+of the sterol skeleton as a whole, roughly normal to the plane of the ring system. The 
+alternative view over the extended ring system might be obtained from certain of the 
+b or ab type structures. Of these J-4-cholestene-7-ol is probably the most hopeful and 
+its relation to the preparation of 7-dehydrocholesterol and the antirachitic vitamin 
+should make it chemically one of the most valuable. The direct analysis of calciferol 
+itself is too difficult to attempt yet and it would possibly be useful in this connexion 
+to extend the survey to the antirachitic products derived from cholesterol and sitosterol 
+and their derivatives in the hopes of finding more suitable subjects. Of the calciferol 
+derivatives already examined, dihydrocalciferol is the most promising, particularly 
+if its analysis can be combined with that of ergosterol itself. Other compounds that 
+may be mentioned here as both crystallographically and chemically eligible for further 
+study are i-cholesterol mrethyl ether, cx- and /I-ergostadienetriol and ergosterol maleic 
+anhydride adduct I. 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+CRYSTALLOGRAPHY AND THE CHEMISTRY OF STEROIDS 181 
+The work that has already been carried out would have been impossible without 
+the close co-operation of a number- of workers in the field of sterol chemistry. We are 
+particularly indebted both for advice and material to Drs 0. Rosenheim, H. King and 
+R. K. Callow (Hampstead), Professor A. Windaus (Gottingen), Professor A. H. Cook 
+(London) and Professor I. Heilbron and Dr F. S. Spring (Manchester) and also for 
+material to Dr B. H. Blount (Oxford), Dr C. D. Larsen (Rochester, N.Y.), Dr J. 
+Needham (Cambridge), Dr K. C. Roberts (Malay States), Dr R. Schonheimer (New 
+York City). We should also like to acknowledge grants towards apparatus from the 
+Royal Society and from Imperial Chemical Industries, Ltd. 
+Our experiments were begun at the Crystallographic Laboratory, Cambridge 
+and have later been continued at Birkbeck College, London (J.D.B. and I.F.*) and 
+at the Department of Mineralogy and Crystallography, Oxford (D.C.) 
+REFERENCES 
+Achtermann, T. I934 Hoppe-Seyl. Z. 225, 141. 
+Adam, N. K., Askew, F. K. and Danielli, J. F. I935 Biochem. J. 29, 1792. 
+Bernal, J. D. I932 Nature, Lond., 129, 277; Chem. Ind. Rev. 10, 466. 
+- I933 Chem. Ind. Rev. 11, 288. 
+Bernal, J. D. and Crowfoot, D. I933 Trans. Faraday Soc. 29, 1032. 
+-- - I934a Nature, Lond., 134, 809. 
+I934b Chem. Ind. Rev. 12, 953;. 
+I935 Chem. Ind. Rev. 13, p. 699. 
+Coffey, D. H., Heilbron, I. M., Spring, F. S. and Wright, H. R. I935 J. Chem. Soc. 
+p. 1205. 
+Crowfoot, D. I936 X-ray crystallography and the chemistry of the sterols. Thesis for Ph.D. 
+degree, University of Cambridge. 
+Crowfoot, D. and Bernal, J. D. I937 Chem. Weekbl. 34, 2, 1. 
+Dimroth, K. I936 Ber. dtsch. chem. Ges. 69 B, 1123. 
+Heilbron, I. M., Coffey, D. H. and Spring, F. S. I936 J. Chem. Soc. p. 738. 
+Heilbron, I. M., Hodges, J. and Spring, F. S. I938 J. Chem. Soc. p. 759. 
+Heilbron, I. M., Kennedy, T., Spring, F. S. and Swain, G. 1938 J. Chem. Soc. p. 869. 
+Heilbron, I. M., Samant, K. M. and Spring, F. S. 1935 Nature, Lond., 135, 1072. 
+Heilbron, I. M., Spring, F. S. and Stewart, P. A. 1935 J. Chem. Soc. p. 1221. 
+Hendricks, S. B. 1933 J. Opt. Soc. Amer. 23, 299. 
+- 1934 Z. Kristallogr. A, 89, 427. 
+- 1935 Z. Kristallogr. A, 91, 48. 
+Heyl, F. W. and Larsen, D. 1934 J. Amer. Chem. Soc. 56, 942. 
+Laucht, F. 1935 Hoppe-Seyl. Z. 237, 236. 
+Lettre, H. 1934 Annalen. d. Chem., 511, 280. 
+Muller, M. 1935 Hoppe-Seyl. Z. 233, 233. 
+Robertson, J. M. 1936 J. Chem. Soc. p. 1817. 
+- 1937 Reports on Progress in Physics, p. 332. 
+- I939a Nature, Lond., 143, 75. 
+- - 1939b J. Chem. Soc. p. 232. 
+* Now National Research Fellow in Protein Chemistry, Massachusetts Institute of Technology, 
+U.S.A.
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
+182 J. D. BERNAL, D. CROWFOOT AND I. FANKUCHEN 
+Rosenheim, 0. and King, H. 1932 Chem. Ind. Rev. 10, 464; Nature, Lond., 130, 315; Chem. Ind. 
+Rev. 10, 954. 
+- 1935 Chem. Ind. Rev. p. 699. 
+Rosenheim, 0. and Starling, W. W. 1937 J. Chem. Soc. p. 377. 
+Ruzicka, L. and Thomann, G. 1933 Helv. Chim. Acta, 16, 221. 
+Ruzicka, L., Furter, M. and Goldberg, M. W. 1938 Helv. Chim. Acta, 21, 498. 
+Sandqvist, H. and Gorton, J. I93o Ber. dtsch. chem. Ges. 63, 1935. 
+Schulze, G. E. R. 1935 Z. Phys. Chem. A, 171, 436. 
+Tanret C. I889 C.R. Acad. Sci., Paris, 108, 98. 
+- I908 C.R. Acad. Sci., Paris, 147, 75. 
+Wallis, E. S., Fernholz, E. and Gephart, F. T. 1937 J. Amer. Chem. Soc. 59, 137. 
+Wieland, H. 1928 Les Prix Nobel en 1928 (Stockholm). 
+Wieland, H. and Dane, E. 1932 Hoppe-Seyl. Z. 210, 268. 
+- 1933 Hoppe-Seyl. Z. 216, 91. 
+Windaus, A. 1928 Les Prix Nobel en 1928 (Stockholm). 
+Windaus, A. and Dimroth, K. 1937 Ber. dtsch. chem. Ges. 70, 376. 
+Windaus, A. and Thiele, W. 1935 Ann. Phys., Lpz., 521, 160. 
+Windaus, A., v. Werder, F. and Gschaider, B. 1932 Ber. dtsch. chem. Ges. 65, 1006. 
+This content downloaded from 50.99.115.241 on Wed, 19 Feb 2025 21:26:23 UTC 
+All use subject to https://about.jstor.org/terms 
