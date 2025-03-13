@@ -2,7 +2,7 @@
 
 ## Explanation of how the models work 
 
-- The text model, TTS, and lipsyncing are all integrated within a single Colab notebook.
+- The text model, TTS, and lipsyncing are all integrated within a single Colab notebook (llama3_70b).
 - The files used for this integration are stored in drive, which are the following:
 
   1. FAISS index for the RAG Database
