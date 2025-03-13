@@ -12,3 +12,11 @@
  
 <img width="600" alt="Screenshot 2025-03-13 at 12 38 30 PM" src="https://github.com/user-attachments/assets/c2a87fac-8471-49a7-9b3e-764ee54c9968" />
 <img width="600" alt="Screenshot 2025-03-13 at 12 38 51 PM" src="https://github.com/user-attachments/assets/99bfde1a-92a5-4efe-a84a-a40fad393327" />
+
+---
+
+## Some more background 
+- Llama 3-70B accessed with Groq API
+- FAISS accessed by Langchain
+- Edge TTS (placeholder) using Python library
+- Wav2Lip: Used GitHub's open source library
