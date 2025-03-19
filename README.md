@@ -19,4 +19,5 @@
 - Llama 3-70B accessed with Groq API
 - FAISS accessed by Langchain
 - Edge TTS (placeholder) using Python library
-- Wav2Lip: Used GitHub's open source library
+- Wav2Lip: Used GitHub's open source library (PREVIOUSLY USED)
+- Sync API: Used sync's POST and GET requests to create the lip synced video. 
