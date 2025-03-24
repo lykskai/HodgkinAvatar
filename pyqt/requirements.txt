@@ -1,0 +1,13 @@
+langchain
+langchain_community
+faiss-cpu
+sentence-transformers
+openai
+groq
+numpy
+pypdf
+edge-tts
+pyqt6
+pyqtgraph
+pydub
+ffmpeg
