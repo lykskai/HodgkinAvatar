@@ -3,7 +3,7 @@ This file handles the UI logic for the Alchemist chatbot.
 """ 
 import os # used to check if required video file exists; could change to non-local storage
 from nicegui import ui # to create the ui
-
+from LLM import query_rag_system
 class DorothyChatbot:
     """ 
     Sets up the class for our chatbot and its attributes 
@@ -84,11 +84,13 @@ class DorothyChatbot:
         user_input = self.input.value
         
         # Feed the user input to LLM
-        
+        response = query_rag_system(user_input)
+
         # Print response, for now in logs. 
-        
-        # Clear input
+        print(response)     # TODO: do smth, either tts or show in ui
+        # Clear input- TODO: fix this 
         self.input.value = ''
+
         
         # Hide video, show placeholder for audio visualization
         self.video_container.style('display: none;')

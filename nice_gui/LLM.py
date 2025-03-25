@@ -78,4 +78,3 @@ def query_rag_system(query):
     print("Total time: ", time.time() - start_time)
     return response.content.strip()
 
-print(query_rag_system("Hi"))
