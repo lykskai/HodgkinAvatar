@@ -1,3 +1,4 @@
+### DEPRECATED DUE TO HEADLESS ISSUES
 import sys
 from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QTextEdit, QPushButton, QLabel, QSizePolicy
 from PyQt6.QtGui import QFont, QPixmap
@@ -197,6 +198,13 @@ class ChatbotApp(QWidget):
         self.player.play()
         
 if __name__ == "__main__":
+    import os
+    import sys
+
+    # Set off-screen mode for headless environments
+    if "DISPLAY" not in os.environ:
+        os.environ["QT_QPA_PLATFORM"] = "offscreen"
+
     app = QApplication(sys.argv)
     chatbot = ChatbotApp()
     chatbot.show()
