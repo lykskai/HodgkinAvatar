@@ -1,5 +1,23 @@
 # HodgkinAvatar
 
+## How to run the code 
+Within pyqt directory, create virtual environment (did not push to git to avoid unnecessary bloat)
+```
+python3 -m venv venv
+```
+Activate virtual environment 
+```
+source venv/bin/activate   # on mac/linux
+venv\Scripts\activate      # On Windows (PowerShell)
+venv\Scripts\activate.bat  # On Windows (CMD)
+```
+
+Install dependencies!
+```
+pip3 install -r requirements.txt
+```
+
+
 ## Explanation of how the models work 
 
 - The text model, TTS, and lipsyncing are all integrated within a single Colab notebook (llama3_70b).
