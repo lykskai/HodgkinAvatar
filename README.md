@@ -5,6 +5,10 @@ Within pyqt directory, create virtual environment (did not push to git to avoid 
 ```
 python3 -m venv venv
 ```
+or 
+```
+virtualenv -p python venv
+```
 Activate virtual environment 
 ```
 source venv/bin/activate   # on mac/linux
