@@ -31,11 +31,11 @@ class DorothyChatbot:
             --primary-color: #A1DAD7;
             }
             body, .nicegui-app, html { 
-                background-color: --dark-gray !important; 
+                background-color: var(--dark-gray) !important; 
                 color: white;
             }
             .q-page {
-                background-color: --dark-gray !important;
+                background-color: var(--dark-gray) !important;
             }
         </style>
         ''')
@@ -43,10 +43,16 @@ class DorothyChatbot:
         # Video/Avatar Container
         with ui.column().style('width: 100%; display: flex; justify-content: center; align-items: center; padding-top: 50px;'):
             # Video placeholder
-            self.video_container = ui.video('dorothy_idle.mp4').style(
+            self.video_container = ui.video('dorothy_longloop.mp4', 
+                controls=False,  # Hide controls
+                autoplay=True,   # Start automatically
+                muted=True,      # Mute the video
+                loop=True        # Loop the video
+                ).props(
+                'autoplay loop').style(
                 'width: 640px; height: 360px; border-radius: 50px; overflow: hidden;'
             )
-            
+
             # Audio Visualizer (placeholder)
             self.visualizer = ui.markdown('').style('display: none;')
 
@@ -55,7 +61,7 @@ class DorothyChatbot:
                 # Dynamic text input
                 self.input = ui.textarea(placeholder='Type here...').props('autogrow filled').style(
                     'flex-grow: 1; '
-                    'background-color: --light-gray; /* light gray */  ' 
+                    'background-color: var(--light-gray);' 
                     'color: white; '
                     'border-radius: 10px; '  
                     'min-height: 50px; '
@@ -98,8 +104,8 @@ def main():
     Program logic
     """
     # Ensure video file exists
-    if not os.path.exists('dorothy_idle.mp4'):
-        print("Warning: dorothy_idle.mp4 not found. Ensure the video file is in the same directory.")
+    if not os.path.exists('dorothy_longloop.mp4'):
+        print("Warning: dorothy_longloop.mp4 not found. Ensure the video file is in the same directory.")
 
     # Initialize the chatbot
     DorothyChatbot()
@@ -108,5 +114,5 @@ def main():
     ui.run(title='Dorothy Chatbot', dark=True, port=8080)
 
 if __name__ in {"__main__", "__mp_main__"}:  
-    # Run the program 
+    # Run the program
     main()
