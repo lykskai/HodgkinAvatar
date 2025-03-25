@@ -14,6 +14,7 @@ def query_rag_system(query):
     Parameters: query, the user input 
     Returns: the LLM and faiss response
     """
+    print("in query")
     start_time = time.time() 
     # Define the variables
     FAISS_DB_PATH = os.path.abspath("faiss_index") #TODO: test this 

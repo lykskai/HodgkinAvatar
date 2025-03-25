@@ -1,9 +1,8 @@
-"""
-This file handles the UI logic for the Alchemist chatbot.
-""" 
 import os # used to check if required video file exists; could change to non-local storage
 from nicegui import ui # to create the ui
 from LLM import query_rag_system
+import asyncio  # Import asyncio for async processing
+
 class DorothyChatbot:
     """ 
     Sets up the class for our chatbot and its attributes 
@@ -19,10 +18,10 @@ class DorothyChatbot:
         # Set global styles
         ui.colors(primary='#A1DAD7')  # this color is light blue
         
-        # Apply glocal CSS styles: define colors and set background, text colours.
+        # Apply global CSS styles
         ui.add_head_html('''
         <style>
-            /* Define the global colors*/
+            /* Define the global colors */
             :root {
             --light-gray: #2E2E2E;
             --dark-gray: #1E1E1E;
@@ -40,22 +39,25 @@ class DorothyChatbot:
 
         # Logic for handling the video UI: Video Container
         with ui.column().style('width: 100%; display: flex; justify-content: center; align-items: center; padding-top: 50px;'):
-            # Video placeholder
+            # Video placeholder (visible at all times)
             self.video_container = ui.video('dorothy_longloop.mp4', 
-                controls=False,  # Hide controls
-                autoplay=True,   # Start automatically
-                muted=True,      # Mute the video
-                loop=True        # Loop the video
-                ).props(
-                'autoplay loop').style(
-                'width: 640px; height: 360px; border-radius: 50px; overflow: hidden;'
+                controls=False, autoplay=True, muted=True, loop=True
+                ).props('autoplay loop').style(
+                'width: 640px; height: 360px; border-radius: 50px; overflow: hidden; margin-bottom: 20px'
             )
 
             # Logic for audio UI soundwave, placeholder 
             self.visualizer = ui.markdown('').style('display: none;')
 
+            # The spinner and the label (shown during LLM processing)
+            self.spinner = ui.spinner(size='30px', color='primary')
+            self.spinner.set_visibility(False)  # Hidden by default
+
+            self.label = ui.label('Dorothy is thinking of a response!').style('font-family: Helvetica-bold, sans-serif; font-size: 15px') 
+            self.label.set_visibility(False)    # Hidden by default
+
             # Logic for chatting: our button and our input text
-            with ui.row().style('width: 100%; max-width: 640px; background-color: transparent; border-radius: 20px; padding: 10px; margin-top: 20px;'):
+            with ui.row().style('width: 100%; max-width: 640px; background-color: transparent; border-radius: 20px; padding: 10px;'):
                 # Dynamic text input
                 self.input = ui.textarea(placeholder='Type here...').props('autogrow filled').style(
                     'flex-grow: 1; '
@@ -68,7 +70,8 @@ class DorothyChatbot:
                     'overflow: hidden;'
                 )
 
-                # Send button
+                
+                # Send button. When pressed, we process the input.
                 ui.button(icon='send', color='primary', on_click=self.process_input).props('text-color=black').style(
                 'border-radius: 20px; '
                 'width: 50px; '
@@ -76,32 +79,40 @@ class DorothyChatbot:
                 'margin: auto'
                 )
 
-
-    def process_input(self):
+    async def process_input(self):
         """ 
-        Process user input
+        Process user input in sequential steps
         """
         user_input = self.input.value
-        
-        # Feed the user input to LLM
-        response = query_rag_system(user_input)
 
-        # Print response, for now in logs. 
-        print(response)     # TODO: do smth, either tts or show in ui
-        # Clear input- TODO: fix this 
-        self.input.value = ''
+        # Clear input box
+        self.input.set_value('')
 
-        
-        # Hide video, show placeholder for audio visualization
-        self.video_container.style('display: none;')
-        self.visualizer.style('display: block;')
-        
-        # Simulate return to video after processing
-        ui.timer(3, self.restore_video)
+        # Step 1: **Show loading UI elements (spinner & label, but keep video visible)**
+        self.spinner.set_visibility(True)
+        self.label.set_visibility(True)
 
-    def restore_video(self):
-        self.video_container.style('display: block;')
-        self.visualizer.style('display: none;')
+        # **Force UI updates**
+        ui.update(self.spinner)
+        ui.update(self.label)
+
+        # Step 2: **Call LLM in Background**
+        response = await asyncio.to_thread(self.call_rag, user_input)
+
+        # Step 3: **Hide loading UI after response**
+        self.spinner.set_visibility(False)
+        self.label.set_visibility(False)
+
+        # **Force UI updates**
+        ui.update(self.spinner)
+        ui.update(self.label)
+
+        # Print response (or display it in the UI)
+        print(response)
+
+    def call_rag(self, user_input): 
+        """ Calls the LLM model in a separate thread to avoid UI blocking """
+        return query_rag_system(user_input)
 
 def main():
     """ 

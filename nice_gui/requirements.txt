@@ -1,4 +1,4 @@
-nicegui==2.12.0
+nicegui
 pyqtgraph==0.13.7
 docutils
 langchain 
