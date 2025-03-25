@@ -1,10 +1,8 @@
 """
 This file handles the UI logic for the Alchemist chatbot.
 """ 
-import os
-import sys
-from nicegui import ui
-import time
+import os # used to check if required video file exists; could change to non-local storage
+from nicegui import ui # to create the ui
 
 class DorothyChatbot:
     """ 
@@ -21,7 +19,7 @@ class DorothyChatbot:
         # Set global styles
         ui.colors(primary='#A1DAD7')  # this color is light blue
         
-        # Add background color (dark gray), set text color to white
+        # Apply glocal CSS styles: define colors and set background, text colours.
         ui.add_head_html('''
         <style>
             /* Define the global colors*/
@@ -40,7 +38,7 @@ class DorothyChatbot:
         </style>
         ''')
 
-        # Video/Avatar Container
+        # Logic for handling the video UI: Video Container
         with ui.column().style('width: 100%; display: flex; justify-content: center; align-items: center; padding-top: 50px;'):
             # Video placeholder
             self.video_container = ui.video('dorothy_longloop.mp4', 
@@ -53,10 +51,10 @@ class DorothyChatbot:
                 'width: 640px; height: 360px; border-radius: 50px; overflow: hidden;'
             )
 
-            # Audio Visualizer (placeholder)
+            # Logic for audio UI soundwave, placeholder 
             self.visualizer = ui.markdown('').style('display: none;')
 
-            # Input Container- our button and our input text
+            # Logic for chatting: our button and our input text
             with ui.row().style('width: 100%; max-width: 640px; background-color: transparent; border-radius: 20px; padding: 10px; margin-top: 20px;'):
                 # Dynamic text input
                 self.input = ui.textarea(placeholder='Type here...').props('autogrow filled').style(
@@ -84,6 +82,10 @@ class DorothyChatbot:
         Process user input
         """
         user_input = self.input.value
+        
+        # Feed the user input to LLM
+        
+        # Print response, for now in logs. 
         
         # Clear input
         self.input.value = ''
