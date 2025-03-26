@@ -19,30 +19,7 @@ venv\Scripts\activate.bat  # On Windows (CMD)
 ```
 pip3 install -r requirements.txt # you may need only pip not pip3, depending on your software
 ```
-## Pre-requisite 2: FFmpeg. Installation Guide: 
 
-**- macOS/Linux**
-```
-# Install FFmpeg
-# macOS (using Homebrew):
-brew install ffmpeg
-
-# Linux (Debian/Ubuntu):
-sudo apt update && sudo apt install -y ffmpeg
-
-# Verify installation
-ffmpeg -version && ffprobe -version
-```
-
-**- Windows**
-1. Download from ffmpeg.org
-
-2. Extract and add bin folder to PATH
-
-3. Verify in CMD:
-```
-ffmpeg -version && ffprobe -version
-```
 ## Finally, running the code! 
 ```
 python3 dorothy_gui,.py
