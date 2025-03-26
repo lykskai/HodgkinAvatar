@@ -77,5 +77,6 @@ def query_rag_system(query):
     response = groq_llm.invoke(messages)
     
     print("Total time: ", time.time() - start_time)
+    print(response.content.strip())
     return response.content.strip()
 
