@@ -43,6 +43,24 @@ class DorothyChatbot:
                 'width: 640px; height: 360px; border-radius: 50px; overflow: hidden; margin-bottom: 20px'
             )
 
+            # Video emotion-based. Default is longloop.mp4
+            self.video_emotion = ui.video('dorothy_longloop.mp4', 
+            controls=False, autoplay=True, muted=True, loop=True
+            ).props('autoplay loop').style('position: absolute; '  # Absolute positioning inside the container
+                'top: 100px; '  
+                'left: 300px; '  
+                'width: 150px; '  # Ensuring a perfect square
+                'height: 150px; '  
+                'border-radius: 50%; '  # Perfectly circular
+                'overflow: hidden; '
+                'object-fit: cover; '  # Ensures video fills the circular frame
+                'box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); '  # Adds a soft shadow for visibility
+                'z-index: 10; '  # Ensures it appears on top of other elements
+            )
+
+            # Hide emotion video for now 
+            self.video_emotion.set_visibility(False)
+            
             # Response row
             with ui.row().style('width: 640px; height: 360px; border-radius: 50px; overflow: hidden; margin-bottom: 20px; background-color: transparent; border: 3px solid white; display: flex; justify-content: center; align-items: center;') as self.response_row:
                 self.response_label = ui.label('').style(
@@ -108,17 +126,34 @@ class DorothyChatbot:
 
         # Extract response and mood 
         response, mood =extract_response_and_mood(response)
-        print("TEST: response is", response,"mood is: ", mood)
+
+        # Change the mood of video
+        try:
+            if mood is not None: 
+                print("here error")
+
+                self.video_emotion.set_source(f'{mood}.mp4') 
+            else: 
+                print("Else error")
+                self.video_emotion.set_source('dorothy_longloop.mp4') # neutral
+
+        except Exception as e: 
+            print("here2 error")
+
+            print(f"Error: {e}")
+
+        print("TEST: response is", response,"mood is:", mood)
         # Hide loading UI
         self.spinner.set_visibility(False)
         self.label.set_visibility(False)
         ui.update(self.spinner)
         ui.update(self.label)
 
-        # Play TTS & generate captions
+        # Play TTS, emotion video, & generate captions
         self.video_container.set_visibility(False)
         self.response_label.set_text(response)
         self.response_row.set_visibility(True)
+        self.video_emotion.set_visibility(True)
         audio_element = await speak(response)
 
         if audio_element:
@@ -130,9 +165,11 @@ class DorothyChatbot:
             # Wait for the estimated audio duration
             await asyncio.sleep(audio_duration)
 
-        # Show video container after estimated speaking time. Hide caption container.
+        # Show video container after estimated speaking time. Hide caption container and emotion video
         self.video_container.set_visibility(True)
         self.response_row.set_visibility(False)
+        self.video_emotion.set_visibility(False)
+
 
     def call_rag(self, user_input): 
         """Calls the LLM model asynchronously."""
@@ -145,6 +182,7 @@ def main():
     """Initializes the chatbot and runs the NiceGUI app."""
     if not os.path.exists('dorothy_longloop.mp4'):
         print("Warning: dorothy_longloop.mp4 not found.")
+        print("yeah")
 
     DorothyChatbot()
     ui.run(title='Alchemist', dark=True, port=8080)

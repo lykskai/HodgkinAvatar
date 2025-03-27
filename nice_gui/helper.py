@@ -1,38 +1,53 @@
 """ This file contains helper functions"""
 
+import re
+
 def extract_response_and_mood(text):
-        """
-        Extracts the response text and mood from a formatted message.
+    """
+    Extracts the response text and mood from a formatted message.
 
-        Expected format: "Response text. [Mood:X]"
-        - Extracts everything before "[" as the response.
-        - Extracts the value of X from "[Mood:X]" as the mood.
-        
-        Handles edge cases:
-        - If no "[Mood:X]" is found, returns response with mood as None.
-        - If the mood format is incorrect (e.g., missing "Mood:" or "]"), mood is set to None.
-        - Strips extra spaces from both response and mood.
+    Handles multiple edge cases:
+    - No mood marker
+    - Malformed mood marker
+    - Multiple mood markers
+    - Empty input
+    - Non-string input
+    - Mood markers with extra whitespace
+    - Mood markers in different positions
+    - Input containing only a mood marker (e.g., "[Angry]")
 
-        Args:
-            text (str): The input string containing a response and optional mood.
+    Args:
+        text (str): The input string containing a response and optional mood.
 
-        Returns:
-            tuple: (response (str), mood (str or None))
-        """
+    Returns:
+        tuple: (response (str), mood (str or None))
+    """
+    try:
+        # Allowed moods (case-insensitive)
+        VALID_MOODS = {'happy', 'sad', 'angry', 'disgusted'}
 
-        # Check if '[' exists in text
-        if "[" in text:
-            parts = text.split("[", 1)
-            response = parts[0].strip()
+        # Ensure input is a string, otherwise convert it safely
+        if not isinstance(text, str):
+            text = str(text)
 
-            mood = None  # Default in case no mood is found
-            mood_part = parts[1].split("]", 1)[0] if "]" in parts[1] else None  # Extracts 'Mood:X'
+        # Extract mood from `[Mood:X]` or `[X]` format
+        mood = None
+        mood_matches = re.findall(r"\[(?:Mood:)?\s*([\w]+)\s*\]", text, re.IGNORECASE)
 
-            if mood_part and "Mood:" in mood_part:
-                mood = mood_part.split("Mood:", 1)[1].strip()  # Extracts 'X'
-        else:
-            # If no '[', treat entire text as response and mood as None
-            response = text.strip()
-            mood = None
+        for mood_option in mood_matches:
+            if mood_option.lower() in VALID_MOODS:
+                mood = mood_option.lower()
+                break  # Stop at first valid mood
 
-        return response, mood
+        # Remove all bracketed sections (e.g., "[Mood:Happy]", "[Random Text]")
+        text = re.sub(r"\[.*?\]", "", text).strip()
+
+        # Remove the word "response" (case-insensitive)
+        text = re.sub(r"\bresponse\b", "", text, flags=re.IGNORECASE).strip()
+
+        return text, mood
+
+    except Exception as e:
+        print(f"Warning: Error processing mood - {e}")
+        return "", None  # Ensure it never crashes
+
