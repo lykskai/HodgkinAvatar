@@ -35,7 +35,7 @@ class DorothyChatbot:
         # Keep everything CENTERED in the UI
         with ui.column().style('width: 100%; display: flex; justify-content: center; align-items: center; padding-top: 200px;'):
             
-            # Video Container (Visible at all times)
+            # Video Container
             self.video_container = ui.video('dorothy_longloop.mp4', 
                 controls=False, autoplay=True, muted=True, loop=True
             ).props('autoplay loop').style(
