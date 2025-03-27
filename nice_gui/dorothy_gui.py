@@ -2,7 +2,8 @@ import os
 import asyncio
 from nicegui import ui
 from LLM import query_rag_system
-from TTS import speak  # Import the TTS functions
+from TTS import speak
+from helper import extract_response_and_mood
 
 class DorothyChatbot:
     """Sets up the NiceGUI chatbot with TTS and soundwave visualization."""
@@ -33,7 +34,7 @@ class DorothyChatbot:
         ''')
 
         # Keep everything CENTERED in the UI
-        with ui.column().style('width: 100%; display: flex; justify-content: center; align-items: center; padding-top: 200px;'):
+        with ui.column().style('width: 100%; display: flex; justify-content: center; align-items: center; padding-top: 100px;'):
             
             # Video Container
             self.video_container = ui.video('dorothy_longloop.mp4', 
@@ -105,13 +106,16 @@ class DorothyChatbot:
         # Call LLM asynchronously
         response = await asyncio.to_thread(self.call_rag, user_input)
 
+        # Extract response and mood 
+        response, mood =extract_response_and_mood(response)
+        print("TEST: response is", response,"mood is: ", mood)
         # Hide loading UI
         self.spinner.set_visibility(False)
         self.label.set_visibility(False)
         ui.update(self.spinner)
         ui.update(self.label)
 
-        # Play TTS & generate soundwave visualization
+        # Play TTS & generate captions
         self.video_container.set_visibility(False)
         self.response_label.set_text(response)
         self.response_row.set_visibility(True)
@@ -133,6 +137,9 @@ class DorothyChatbot:
     def call_rag(self, user_input): 
         """Calls the LLM model asynchronously."""
         return query_rag_system(user_input)
+    
+    
+
 
 def main():
     """Initializes the chatbot and runs the NiceGUI app."""
