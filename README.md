@@ -1,5 +1,7 @@
 # How to run the code: 
-## Pre-requisite 1: venv 
+## Pre-requisite 1: You need the config.py file. 
+This is not uploaded due to the GroqAPI code. 
+## Pre-requisite 2: venv 
 1) Within nice_gui directory, create virtual environment (did not push to git to avoid unnecessary bloat)
 ```
 python3 -m venv venv
