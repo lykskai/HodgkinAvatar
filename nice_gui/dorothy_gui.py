@@ -33,7 +33,7 @@ class DorothyChatbot:
         ''')
 
         # Keep everything CENTERED in the UI
-        with ui.column().style('width: 100%; display: flex; justify-content: center; align-items: center; padding-top: 50px;'):
+        with ui.column().style('width: 100%; display: flex; justify-content: center; align-items: center; padding-top: 200px;'):
             
             # Video Container (Visible at all times)
             self.video_container = ui.video('dorothy_longloop.mp4', 
@@ -42,8 +42,24 @@ class DorothyChatbot:
                 'width: 640px; height: 360px; border-radius: 50px; overflow: hidden; margin-bottom: 20px'
             )
 
-            # Soundwave Placeholder (Hidden initially)
-            self.visualizer = ui.image().style('display: none;')
+            # Response row
+            with ui.row().style('width: 640px; height: 360px; border-radius: 50px; overflow: hidden; margin-bottom: 20px; background-color: transparent; border: 3px solid white; display: flex; justify-content: center; align-items: center;') as self.response_row:
+                self.response_label = ui.label('').style(
+                    'text-align: center; '
+                    'justify-content: center; '
+                    'align-items: center; '
+                    'font-family: Arial, sans-serif; '
+                    'font-weight: bold;'
+                    'color: white; '
+                    'padding: 20px; '
+                    'line-height: 1.5; '
+                    'font-size: 20px;'
+                    'overflow-y: auto; '  # Handles overflow with scrolling
+                    'max-height: 100%; '  # Ensure it doesn't exceed container height
+                    'width: 100%;'  # Ensure full width within container
+                )
+
+            self.response_row.set_visibility(False)
 
             # The spinner and the label (shown while LLM is processing)
             self.spinner = ui.spinner(size='30px', color='primary')
@@ -96,12 +112,23 @@ class DorothyChatbot:
         ui.update(self.label)
 
         # Play TTS & generate soundwave visualization
+        self.video_container.set_visibility(False)
+        self.response_label.set_text(response)
+        self.response_row.set_visibility(True)
         audio_element = await speak(response)
-        if audio_element:
-            ui.html(audio_element)
 
-        # Show the waveform if available
-   
+        if audio_element:
+            # Estimate audio duration (you might want to make this more precise)
+            audio_duration = len(response.split()) * 0.4  # rough estimate of speaking time
+            
+            ui.html(audio_element)
+            
+            # Wait for the estimated audio duration
+            await asyncio.sleep(audio_duration)
+
+        # Show video container after estimated speaking time. Hide caption container.
+        self.video_container.set_visibility(True)
+        self.response_row.set_visibility(False)
 
     def call_rag(self, user_input): 
         """Calls the LLM model asynchronously."""
@@ -113,7 +140,7 @@ def main():
         print("Warning: dorothy_longloop.mp4 not found.")
 
     DorothyChatbot()
-    ui.run(title='Dorothy Chatbot', dark=True, port=8080)
+    ui.run(title='Alchemist', dark=True, port=8080)
 
 if __name__ in {"__main__", "__mp_main__"}:  
     main()
