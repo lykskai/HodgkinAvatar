@@ -59,13 +59,13 @@ class DorothyChatbot:
                 # Wrapper for emotion video, so we can hide/show it without affecting layout
                 # TODO: Make this more responsive to the UI when we move it around. 
                 with ui.element('div').classes('absolute').style(
-                    'left: -250px; top: 0; width: 300px; height: 300px;'
+                    'left: -300px; top: 0; width: 300px; height: 300px;'
                 ) as self.video_emotion_wrapper:
 
                     self.video_emotion = ui.video('dorothy_longloop.mp4',
                     controls=False, autoplay=True, muted=True, loop=True
                 ).props('autoplay loop').classes('rounded shadow-md').style(
-                    'width: 200px; height: 200px; object-fit: cover; '
+                    'width: 250px; height: 200px; object-fit: cover; '
                     'border-radius: 16px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);'
                 )
 
@@ -87,7 +87,7 @@ class DorothyChatbot:
 
                         self.response_label = ui.label('').classes('fade-in').style(
                             'text-align: center; justify-content: center; align-items: center; '
-                            'font-family: Helvetica, sans-serif; color: white; '
+                            'font-family: Helvetica, sans-serif; font-weight: bold; color: white; '
                             'padding: 20px; line-height: 1.5; font-size: 20px; overflow-y: auto; '
                             'max-height: 100%; width: 100%;'
                         )
