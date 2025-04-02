@@ -87,7 +87,7 @@ class DorothyChatbot:
 
                         self.response_label = ui.label('').classes('fade-in').style(
                             'text-align: center; justify-content: center; align-items: center; '
-                            'font-family: Helvetica, sans-serif; font-weight: bold; color: white; '
+                            'font-family: Helvetica, sans-serif; color: white; '
                             'padding: 20px; line-height: 1.5; font-size: 20px; overflow-y: auto; '
                             'max-height: 100%; width: 100%;'
                         )
