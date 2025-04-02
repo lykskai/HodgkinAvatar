@@ -173,94 +173,93 @@ class DorothyChatbot:
     
 @ui.page('/')
 def main_page():
-    # Smooth scrolling CSS with additional fixes for the navbar issue
+    # Use AOS for animations when scrolling, smooth for pressing the hyperlinks in the navbar
     ui.add_head_html('''
+    <!-- AOS: Animate On Scroll -->
+    <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+    <script>
+        window.addEventListener('load', () => {
+            AOS.init({
+                duration: 800,
+                once: true,
+            });
+        });
+    </script>
     <style>
     html, body {
         margin: 0;
         padding: 0;
         width: 100%;
         overflow-x: hidden;
+        scroll-behavior: smooth;
     }
     *, *::before, *::after {
         box-sizing: border-box;
     }
-    html {
-        scroll-behavior: smooth;
-    }
     </style>
     ''')
 
-    # Fixed NAV BAR - properly structured
+    # NAV BAR
     with ui.header().classes('w-full h-16 bg-black fixed top-0 z-50 shadow'):
         with ui.row().classes('w-full h-full px-8 items-center justify-between'):
-            # Logo on the left
             ui.label('AI/Chemist').classes('text-xl text-white font-bold font-[Helvetica]')
-            
-            # Navigation links in center
             with ui.row().classes('gap-10'):
                 ui.link('Home', '#home').classes('text-xl text-white hover:text-gray-300 font-[Helvetica]')
                 ui.link('About', '#about').classes('text-xl text-white hover:text-gray-300 font-[Helvetica]')
                 ui.link('Demo', '#demo').classes('text-xl text-white hover:text-gray-300 font-[Helvetica]')
-            
-            # Contact button on right
             ui.button('Contact', on_click=lambda: ui.navigate.to('/contact')).classes(
                 'bg-[#A1DAD7] text-white font-bold font-[Helvetica] px-3 py-1 rounded text-sm'
             )
 
-    # Add spacing to account for fixed navbar
-    ui.space().classes('h-16')
+    ui.space().classes('h-16')  # Space for fixed navbar
 
     # HOME SECTION
     with ui.row().classes('w-full h-[66vh] justify-center items-center').props('id=home'):
         with ui.column().classes('items-center'):
-            # HEADING with gradient
-            ui.label('Welcome to Alchemist').classes(
-            'text-[90px] font-bold font-[Helvetica] bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent leading-none text-center'
+            ui.label('Welcome to Alchemist').props('data-aos=fade-down').classes(
+                'text-[90px] font-bold font-[Helvetica] bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent leading-none text-center'
             )
-            # BODY 
             ui.label(
-            "Chat with Dorothy Hodgkin — your AI science companion, inspired by the Nobel Prize-winning chemist who unlocked the structure of life's molecules."
-            ).classes('text-xl text-gray-300 font-[Helvetica] text-center max-w-4xl mt-2')
-            # BUTTON
-            ui.button('Chat with Dorothy', on_click=lambda: ui.navigate.to('/chat')).classes(
-            'bg-[#A1DAD7] text-white font-[Helvetica] px-4 py-2 rounded mt-4 normal-case'
+                "Chat with Dorothy Hodgkin — your AI science companion, inspired by the Nobel Prize-winning chemist who unlocked the structure of life's molecules."
+            ).props('data-aos=fade-up').classes(
+                'text-xl text-gray-300 font-[Helvetica] text-center max-w-4xl mt-2'
+            )
+            ui.button('Chat with Dorothy', on_click=lambda: ui.navigate.to('/chat')).props('data-aos=zoom-in').classes(
+                'bg-[#A1DAD7] text-white font-[Helvetica] px-4 py-2 rounded mt-4 normal-case'
             )
 
-    # Divider
     ui.separator().classes('w-3/4 opacity-30 mx-auto my-8')
 
-   # ABOUT SECTION
+    # ABOUT SECTION
     with ui.row().classes('w-full justify-center py-16').props('id=about'):
         with ui.column().classes('w-3/4 space-y-8'):
-            # Heading
-            ui.label('About Dorothy Hodgkin').classes(
+            ui.label('About Dorothy Hodgkin').props('data-aos=fade-up').classes(
                 'text-[60px] font-bold font-[Helvetica] bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent text-left leading-relaxed pb-2'
             )
-            
-            # Use grid instead of row for more reliable side-by-side layout
             with ui.element('div').classes('w-full grid grid-cols-3 gap-8 mx-auto items-center'):
-                # Image in first column
-                ui.image('static/dorothy.jpg').classes('col-span-1 w-full rounded shadow-lg')
-                
-                # Body text in remaining two columns
+                ui.image('static/dorothy.jpg').props('data-aos=fade-right').classes('col-span-1 w-full rounded shadow-lg')
                 ui.label(
                     "Dorothy Crowfoot Hodgkin was a pioneering chemist who used X-ray crystallography to reveal the "
                     "structures of essential biomolecules. Her groundbreaking discoveries included the molecular structures of penicillin, "
                     "vitamin B12, and insulin — achievements that earned her the Nobel Prize in Chemistry in 1964. Hodgkin's work bridged "
                     "the worlds of biology and chemistry, laying the foundation for modern structural biology."
-                ).classes('col-span-2 text-xl text-gray-300 font-[Helvetica] leading-relaxed')
+                ).props('data-aos=fade-left').classes(
+                    'col-span-2 text-xl text-gray-300 font-[Helvetica] leading-relaxed'
+                )
 
-    # Divider
     ui.separator().classes('w-3/4 opacity-30 mx-auto my-8')
 
     # DEMO SECTION
     with ui.row().classes('w-full justify-center items-center py-20').props('id=demo'):
         with ui.column().classes('w-3/4 space-y-8'):
-            ui.label('Demo').classes(
+            ui.label('Demo').props('data-aos=fade-up').classes(
                 'text-[60px] font-bold font-[Helvetica] bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent text-left leading-relaxed pb-2'
             )
-            ui.label('Demo coming soon...').classes('text-xl text-gray-300 font-[Helvetica] mt-4')
+            ui.label('Demo coming soon...').props('data-aos=fade-up').classes(
+                'text-xl text-gray-300 font-[Helvetica] mt-4'
+            )
+
 
 @ui.page('/chat')
 def chat_page():
