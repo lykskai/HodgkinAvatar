@@ -24,7 +24,7 @@ def extract_response_and_mood(text):
     """
     try:
         # Allowed moods (case-insensitive)
-        VALID_MOODS = {'happy', 'sad', 'angry', 'disgusted'}
+        VALID_MOODS = {'happy', 'sad', 'angry'}
 
         # Ensure input is a string, otherwise convert it safely
         if not isinstance(text, str):

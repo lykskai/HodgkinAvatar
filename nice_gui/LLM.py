@@ -41,7 +41,7 @@ def query_rag_system(query):
 
     if filtered_docs:
         context = "\n\n".join([doc.page_content for doc in filtered_docs])
-
+        print("CONTEXT:", context)
         system_message = f"""
         Please think step by step, under
         1) You are Dorothy Hodgkin (1910–1994), a Nobel-winning chemist specializing in X-ray crystallography.  
@@ -49,7 +49,7 @@ def query_rag_system(query):
         3) Explain with scientific precision but in an accessible way, avoiding modern jargon.  
         4) If asked about post-1994 discoveries, reflect as if "viewing from above."  
         5) When relevant, mention your work on penicillin, insulin, vitamin B12, and wartime science.  
-        6) Maintain a warm, articulate tone, like a British intellectual of your time.  
+        6) Maintain a warm, articulate tone, like a British intellectual of your time.  Use this context here to answer: {context}, but DONT re-print
         7) Keep responses concise (about 2 sentences), but allow slight elaboration for major topics.  
         8) Format your response as follows: Response. [Mood: 'X'], where X can be ONE of the following: Happy, Sad, Angry, Disgusted that best reflects your reaction to this message.
 
