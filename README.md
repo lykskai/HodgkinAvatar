@@ -1,6 +1,7 @@
 # How to run the code: 
 ## Pre-requisite 1: You need the config.py file. 
-This is not uploaded due to the GroqAPI code. 
+This is not uploaded due to the GroqAPI code. For access, please contact Elykah Tejol or provide your own Groq API key under a config.py file. 
+
 ## Pre-requisite 2: venv 
 1) Within nice_gui directory, create virtual environment (did not push to git to avoid unnecessary bloat)
 ```
@@ -28,25 +29,15 @@ python3 dorothy_gui,.py
 # and then open http://localhost:8080/ for the local server.
 ```
 
---- 
-## Explanation of how the models work 
 
-- The text model, TTS, and lipsyncing are all integrated within a single Colab notebook (llama3_70b).
-- The files used for this integration are stored in drive, which are the following:
-
-  1. FAISS index for the RAG Database
-  2. The text to speech output is stored in drive, and pulled from drive in the Colab code
-  3. The video used for lip syncing is stored in drive
-  4. The mp4 output is currently stored in drive as well.
- 
-<img width="600" alt="Screenshot 2025-03-13 at 12 38 30 PM" src="https://github.com/user-attachments/assets/c2a87fac-8471-49a7-9b3e-764ee54c9968" />
-<img width="600" alt="Screenshot 2025-03-13 at 12 38 51 PM" src="https://github.com/user-attachments/assets/99bfde1a-92a5-4efe-a84a-a40fad393327" />
-
----
 
 ## Some more background 
 - Llama 3-70B accessed with Groq API
 - FAISS accessed by Langchain
+- NiceGUI for the website GUI
+
+## Deprecated software, no longer used
+- PyQT, formerly the software GUI 
 - Edge TTS (placeholder) using Python library
-- Wav2Lip: Used GitHub's open source library (PREVIOUSLY USED)
+- Wav2Lip: Used GitHub's open source library 
 - Sync API: Used sync's POST and GET requests to create the lip synced video. 
