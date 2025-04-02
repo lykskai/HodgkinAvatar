@@ -28,85 +28,93 @@ class DorothyChatbot:
             .q-page {
                 background-color: var(--dark-gray) !important;
             }
+
+                         
         </style>
         ''')
+        # Minimalist gray navbar
+        with ui.row().classes('w-full h-16 fixed top-0 left-0 z-50 bg-[#1f1f1f] px-6 items-center justify-start border-b border-gray-700'):
+            ui.button(icon='arrow_back', on_click=lambda: ui.navigate.to('/')).props('flat dense round').classes(
+                'text-white hover:text-gray-300 text-base'
+            )
+            ui.label('AI/Chemist').classes('ml-3 text-white font-[Helvetica] text-lg ')
 
-        # Keep everything CENTERED in the UI
-        with ui.column().style('width: 100%; display: flex; justify-content: center; align-items: center; padding-top: 100px;'):
-            
-            # Video Container
-            self.video_container = ui.video('dorothy_longloop.mp4', 
+
+
+        with ui.column().classes('items-center').style(
+        'width: 100%; display: flex; justify-content: center; align-items: center; padding-top: 100px;'):
+
+            # Video container (centered as normal)
+            self.video_container = ui.video('dorothy_longloop.mp4',
                 controls=False, autoplay=True, muted=True, loop=True
-            ).props('autoplay loop').style(
-                'width: 640px; height: 360px; border-radius: 50px; overflow: hidden; margin-bottom: 20px'
+            ).props('autoplay loop').classes('video-frame-glow').style(
+                'width: 640px; height: 360px; border-radius: 50px; overflow: hidden; margin-bottom: 12px;'
             )
 
-            # Video emotion-based. Default is longloop.mp4
-            self.video_emotion = ui.video('dorothy_longloop.mp4', 
-            controls=False, autoplay=True, muted=True, loop=True
-            ).props('autoplay loop').style('position: absolute; '  # Absolute positioning inside the container
-                'top: 100px; '  
-                'left: 300px; '  
-                'width: 150px; '  # Ensuring a perfect square
-                'height: 150px; '  
-                'border-radius: 50%; '  # Perfectly circular
-                'overflow: hidden; '
-                'object-fit: cover; '  # Ensures video fills the circular frame
-                'box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); '  # Adds a soft shadow for visibility
-                'z-index: 10; '  # Ensures it appears on top of other elements
-            )
+            # Wrapper that holds emotion video and response box, keeps layout stable
+            with ui.element('div').classes('relative').style(
+                'width: 640px; margin-bottom: 12px;'
+            ):
 
-            # Hide emotion video for now 
-            self.video_emotion.set_visibility(False)
-            
-            # Response row
-            with ui.row().style('width: 640px; height: 360px; border-radius: 50px; overflow: hidden; margin-bottom: 20px; background-color: transparent; border: 3px solid white; display: flex; justify-content: center; align-items: center;') as self.response_row:
-                self.response_label = ui.label('').style(
-                    'text-align: center; '
-                    'justify-content: center; '
-                    'align-items: center; '
-                    'font-family: Helvetica, sans-serif; '
-                    'font-weight: bold;'
-                    'color: white; '
-                    'padding: 20px; '
-                    'line-height: 1.5; '
-                    'font-size: 20px;'
-                    'overflow-y: auto; '  # Handles overflow with scrolling
-                    'max-height: 100%; '  # Ensure it doesn't exceed container height
-                    'width: 100%;'  # Ensure full width within container
+                # Wrapper for emotion video, so we can hide/show it without affecting layout
+                # TODO: Make this more responsive to the UI when we move it around. 
+                with ui.element('div').classes('absolute').style(
+                    'left: -250px; top: 0; width: 300px; height: 300px;'
+                ) as self.video_emotion_wrapper:
+
+                    self.video_emotion = ui.video('dorothy_longloop.mp4',
+                    controls=False, autoplay=True, muted=True, loop=True
+                ).props('autoplay loop').classes('rounded shadow-md').style(
+                    'width: 200px; height: 200px; object-fit: cover; '
+                    'border-radius: 16px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);'
                 )
 
-            self.response_row.set_visibility(False)
 
-            # The spinner and the label (shown while LLM is processing)
-            self.spinner = ui.spinner(size='30px', color='primary')
-            self.spinner.set_visibility(False)
+                self.video_emotion_wrapper.style('display: none;')  # Start hidden
 
-            self.label = ui.label('Dorothy is thinking of a response!').style('font-size: 15px')
-            self.label.set_visibility(False)
+                # Wrapper for response bubble, lets us fully hide it from layout
+                with ui.element('div').classes('w-full flex justify-center').style(
+                    'margin-bottom: 12px;'
+                ) as self.response_wrapper:
 
-            # Chat input and button (Centered)
-            with ui.row().style('width: 100%; max-width: 640px; background-color: transparent; border-radius: 20px; padding: 10px;'):
-                
+                    with ui.row().style(
+                        'width: 640px; height: 360px; border-radius: 20px; overflow: hidden; '
+                        'background-color: #1f1f1f; '  # flatter background
+                        'border: 1px solid #3a3a3a; '  # subtle border
+                        'display: flex; justify-content: center; align-items: center;'
+                    ) as self.response_row:
+
+
+                        self.response_label = ui.label('').classes('fade-in').style(
+                            'text-align: center; justify-content: center; align-items: center; '
+                            'font-family: Helvetica, sans-serif; color: white; '
+                            'padding: 20px; line-height: 1.5; font-size: 20px; overflow-y: auto; '
+                            'max-height: 100%; width: 100%;'
+                        )
+
+                self.response_wrapper.style('display: none;')  # Start hidden
+
+            # Chat input row
+            with ui.row().classes('items-center gap-4').style(
+                'width: 100%; max-width: 640px; padding: 10px;'):
+
+                # Spinner (shown only when thinking)
+                self.spinner = ui.spinner(size='20px', color='primary')
+                self.spinner.set_visibility(False)
+
                 # Input field
                 self.input = ui.textarea(placeholder='Type here...').props('autogrow filled').style(
-                    'flex-grow: 1; '
-                    'background-color: var(--light-gray);' 
-                    'color: white; '
-                    'border-radius: 10px; '  
-                    'min-height: 50px; '
-                    'max-height: 150px; '
-                    'font-family: Helvetica, sans-serif; '
-                    'overflow: hidden;'
+                    'flex-grow: 1; background-color: var(--light-gray); color: white; border-radius: 10px; '
+                    'min-height: 50px; max-height: 150px; font-family: Helvetica, sans-serif; overflow: hidden;'
                 )
 
                 # Send button
                 ui.button(icon='send', color='primary', on_click=self.process_input).style(
-                    'border-radius: 20px; '
-                    'width: 50px; '
-                    'height: 50px; '
-                    'margin: auto'
+                    'border-radius: 20px; width: 50px; height: 50px;'
                 )
+
+
+
 
     async def process_input(self):
         """Handles user input, calls LLM, plays TTS, and updates UI."""
@@ -114,10 +122,7 @@ class DorothyChatbot:
         self.input.set_value('')
 
         # Show loading UI
-        self.spinner.set_visibility(True)
-        self.label.set_visibility(True)
-        ui.update(self.spinner)
-        ui.update(self.label)
+        self.spinner.set_visibility(True)   
 
         # Call LLM asynchronously
         response = await asyncio.to_thread(self.call_rag, user_input)
@@ -139,16 +144,13 @@ class DorothyChatbot:
 
         print("[DEBUG] Response is", response,"Mood is:", mood)
         # Hide loading UI
-        self.spinner.set_visibility(False)
-        self.label.set_visibility(False)
-        ui.update(self.spinner)
-        ui.update(self.label)
+        self.spinner.set_visibility(False)  
 
         # Play TTS, emotion video, & generate captions
         self.video_container.set_visibility(False)
         self.response_label.set_text(response)
-        self.response_row.set_visibility(True)
-        self.video_emotion.set_visibility(True)
+        self.response_wrapper.style('display: flex;')
+        self.video_emotion_wrapper.style('display: block;')
         audio_element = await speak(response)
 
         if audio_element:
@@ -162,8 +164,8 @@ class DorothyChatbot:
 
         # Show video container after estimated speaking time. Hide caption container and emotion video
         self.video_container.set_visibility(True)
-        self.response_row.set_visibility(False)
-        self.video_emotion.set_visibility(False)
+        self.response_wrapper.style('display: none;')
+        self.video_emotion_wrapper.style('display: none;')
 
 
     def call_rag(self, user_input): 
