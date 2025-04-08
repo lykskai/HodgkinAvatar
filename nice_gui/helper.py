@@ -1,6 +1,10 @@
 """ This file contains helper functions"""
 
 import re
+from typing import List
+import random
+
+
 
 def extract_response_and_mood(text):
     """
@@ -51,3 +55,178 @@ def extract_response_and_mood(text):
         print(f"Warning: Error processing mood - {e}")
         return "", None  # Ensure it never crashes
 
+
+
+def select_images_for_input(user_input: str, image_files: List[str]) -> List[str]:
+    """
+    Selects exactly 3 image filenames based on user input.
+    This function uses get_matching_images() and get_categories_from_input()
+
+    Priority:
+    1. Keyword-based image match (from filename content)
+       - If 3+ images match, return 3 randomly.
+       - If <3, top up with category-based matches.
+    2. Category-based match (using get_categories_from_input)
+       - If category match, pull 3 from those categories randomly.
+       - If no keyword match, pull 3 from general categories.
+
+    Args:
+        user_input (str): The text input from the user.
+        image_files (List[str]): A list of available image filenames (e.g., from static/).
+
+    Returns:
+        List[str]: A list of 3 image filenames to display, based on keyword or category matches.
+    """
+
+    matched_images = get_matching_images(user_input, image_files)
+
+    if matched_images:
+        if len(matched_images) >= 3:
+            return random.sample(matched_images, 3)
+
+        # Fewer than 3 keyword matches → top up with category matches
+        categories = get_categories_from_input(user_input)
+        category_filtered = [
+            f for f in image_files
+            if any(cat.lower() in f.lower() for cat in categories)
+            and f not in matched_images  # avoid duplicates
+        ]
+
+        needed = 3 - len(matched_images)
+        top_ups = random.sample(category_filtered, min(needed, len(category_filtered)))
+        return matched_images + top_ups
+
+    # No keyword matches at all → use general category
+    categories = get_categories_from_input(user_input)
+    category_filtered = [
+        f for f in image_files
+        if any(cat.lower() in f.lower() for cat in categories)
+    ]
+
+    return random.sample(category_filtered, min(3, len(category_filtered)))
+
+import re
+
+def get_categories_from_input(user_input: str) -> list[str]:
+    """
+    Maps user input to one or more general image categories based on keyword matching.
+
+    Categories include: CASUAL, FAMILY, LAB, PERSONAL, SCIENCE.
+    Each category has a list of associated keywords.
+    Some categories (e.g., PERSONAL) include keywords from other categories (e.g., FAMILY).
+
+    Args:
+        user_input (str): Raw user input string to analyze.
+
+    Returns:
+        list[str]: A list of 2 or more matched categories (always includes at least 'CASUAL').
+    """
+
+    text = user_input.lower()  # Normalize input for case-insensitive matching
+
+    # --- Category-specific keyword sets ---
+
+    # Casual: greetings and friendly phrases
+    casual_keywords = [
+        'hi', 'hello', 'hey', 'how are you', 'how’s it going', 'greetings',
+        'what’s up', 'whats up', 'sup', 'yo', 'good morning', 'good evening',
+        'howdy', 'nice to meet you', 'doing well', 'hope you’re okay', 'how are things'
+    ]
+
+    # Family-related terms (used by FAMILY and also included in PERSONAL)
+    family_keywords = [
+        'mother', 'mom', 'mum', 'father', 'dad', 'parent', 'parents',
+        'sister', 'brother', 'siblings', 'cousin', 'aunt', 'uncle', 'grandmother',
+        'grandfather', 'family', 'relatives', 'niece', 'nephew', 'kin', 'household'
+    ]
+
+    # Lab/technical environment terms
+    lab_keywords = [
+        'lab', 'notebook', 'experiment', 'experiments', 'microscope', 'research',
+        'scientist', 'researcher', 'x-ray', 'xray', 'crystallography', 'titration',
+        'chemistry', 'physics', 'nobel', 'award', 'study', 'analyze', 'pipette'
+    ]
+
+    # Personal/biographical/academic terms (includes FAMILY terms)
+    personal_keywords = [
+        'school', 'education', 'university', 'college', 'study', 'learning',
+        'student', 'mentor', 'teacher', 'classroom', 'volunteer', 'life',
+        'experience', 'inspiration', 'background', 'childhood', 'career', 'oxford'
+    ] + family_keywords  # Add family-related keywords to PERSONAL category
+
+    # Science-specific terms (molecular, biological, etc. Includes LAB terms too)
+    science_keywords = [
+        'insulin', 'penicillin', 'vitamin', 'molecule', 'molecules', 'protein',
+        'structure', 'structural', 'electron', 'density', 'scientific', 'chemistry',
+        'biology', 'bio', 'genetics', 'atoms', 'crystals', 'bonds', 'reaction',
+        'pathway', 'enzyme', 'diffraction'
+    ] + lab_keywords  # Add lab terms to SCIENCE category
+
+    matched_categories = set()  # Use a set to avoid duplicates
+
+    # Helper function to check if any keyword is in the user input
+    def has_keywords(keywords):
+        return any(re.search(rf'\b{kw}\b', text) for kw in keywords)
+
+    # Check each category independently
+    if has_keywords(casual_keywords):
+        matched_categories.add('CASUAL')
+
+    if has_keywords(family_keywords):
+        matched_categories.add('FAMILY')
+
+    if has_keywords(lab_keywords):
+        matched_categories.add('LAB')
+
+    if has_keywords(personal_keywords):
+        matched_categories.add('PERSONAL')
+
+    if has_keywords(science_keywords):
+        matched_categories.add('SCIENCE')
+
+    # Ensure at least one fallback category if no matches found
+    if len(matched_categories) < 2:
+        matched_categories.add('CASUAL')  # Always return at least CASUAL
+
+    return list(matched_categories)
+
+
+def get_matching_images(user_input: str, image_files: List[str]) -> List[str] | None:
+    """
+    Matches user input to relevant image filenames based on keyword overlap.
+
+    Args:
+        user_input (str): The user's input/question.
+        image_files (List[str]): List of image filenames to search from.
+
+    Returns:
+        List[str] | None: A list of filenames where the input matched keywords from the filename,
+                          or None if no match was found.
+    """
+
+    # Convert user input to lowercase and extract individual words
+    text = user_input.lower()
+    input_words = set(re.findall(r'\b\w+\b', text))  # set of all words in the input
+
+    # Keyword set manually curated from all image filenames
+    keywords = {
+        'dorothy', 'happy', 'nobel', 'lab', 'molecules', 'mother', 'sister',
+        'notebook', 'work', 'personal', 'chemist', 'collaborate', 'linuspauling',
+        'classroom', 'school', 'achievement', 'peace', 'volunteer', 'write',
+        'read', 'book', 'university', 'college', 'oxford', 'electron', 'density',
+        'molecular', 'protein', 'penicillin', 'crystallography', 'xray'
+    }
+
+    matched_images = []
+
+    # Loop through all available images
+    for filename in image_files:
+        # Extract words from filename (excluding extension)
+        name_keywords = set(re.findall(r'\b\w+\b', filename.lower()))
+
+        # Check for intersection between user input, image name, and known keywords
+        if input_words & name_keywords & keywords:
+            matched_images.append(filename)
+
+    # Return matched list if found, otherwise return None
+    return matched_images if matched_images else None
