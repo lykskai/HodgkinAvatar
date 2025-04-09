@@ -25,19 +25,21 @@ pip3 install -r requirements.txt # you may need only pip not pip3, depending on 
 
 ## Finally, running the code! 
 ```
-python3 dorothy_gui,.py
+python3 dorothy_gui.py
 # and then open http://localhost:8080/ for the local server.
 ```
 
+---
+## Background 
+This project was created for BIOIN 401 at the University of Alberta (Winter 2025 term). 
 
-
-## Some more background 
+## Softwares used 
 - Llama 3-70B accessed with Groq API
-- FAISS accessed by Langchain
+- FAISS accessed by Langchain for the vector database
 - NiceGUI for the website GUI
+- Edge TTS for the voice using Python library
 
 ## Deprecated software, no longer used
 - PyQT, formerly the software GUI 
-- Edge TTS (placeholder) using Python library
-- Wav2Lip: Used GitHub's open source library 
+- Wav2Lip: Used GitHub's open source library for lip syncing. 
 - Sync API: Used sync's POST and GET requests to create the lip synced video. 
