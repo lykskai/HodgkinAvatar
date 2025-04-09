@@ -14,7 +14,7 @@ def query_rag_system(query):
     Parameters: query, the user input 
     Returns: the LLM and faiss response
     """
-    print("in query")
+    print("[DEBUG, LLM]: In Query")
     start_time = time.time() 
     # Define the variables
     FAISS_DB_PATH = os.path.abspath("faiss_index") #TODO: test this 
@@ -41,7 +41,7 @@ def query_rag_system(query):
 
     if filtered_docs:
         context = "\n\n".join([doc.page_content for doc in filtered_docs])
-        print("CONTEXT:", context)
+        print("[DEBUG, LLM,CONTEXT]:", context)
         system_message = f"""
         Please think step by step, under
         1) You are Dorothy Hodgkin (1910–1994), a Nobel-winning chemist specializing in X-ray crystallography.  
@@ -78,7 +78,6 @@ def query_rag_system(query):
     # Get the response from the model
     response = groq_llm.invoke(messages)
     
-    print("Total time: ", time.time() - start_time)
-    print(response.content.strip())
+    print("[DEBUG, LLM]: Total time: ", time.time() - start_time)
     return response.content.strip()
 
