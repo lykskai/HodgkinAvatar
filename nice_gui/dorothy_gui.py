@@ -6,6 +6,8 @@ from TTS import speak
 from helper import extract_response_and_mood
 import time 
 import random
+from helper import select_images_for_input 
+
 
 class DorothyChatbot:
     """Sets up the NiceGUI chatbot with TTS and soundwave visualization."""
@@ -47,19 +49,19 @@ class DorothyChatbot:
             ui.label('AI/Chemist').classes('ml-3 text-white font-[Helvetica] text-lg ')
 
         # Main container to center everything on the page
-        with ui.column().classes('w-full h-screen items-center justify-center').style(
-                'width: 100%; height: 100vh; display: flex;'):  # 100vh makes it full screen height
-                
+        with ui.column().classes('w-full items-center justify-center').style('min-height: 100vh; padding-top: 40px; padding-bottom: 40px;'):
+                            
             with ui.row().classes('w-full justify-center gap-12').style('height: 100%; align-items: center;'):
 
-                # === LEFT: VIDEO COLUMN ===
+                # === LEFT: VIDEO COLUMN [IDLE AND RESPONSE STAGE] ===
                 with ui.column().classes('items-center justify-center').style('''
                     flex: 1 1 300px;
                     min-width: 300px;
                     max-width: 640px;
                 '''):
 
-                    self.video_container = ui.video('static/dorothy_longloop.mp4',
+                    # IDLE VIDEO (Shown in idle stage)
+                    self.idle_video_container = ui.video('static/dorothy_longloop.mp4',
                         controls=False, autoplay=True, muted=True, loop=True
                     ).props('autoplay loop').classes('video-frame-glow').style('''
                         width: 100%;
@@ -68,11 +70,38 @@ class DorothyChatbot:
                         overflow: hidden;
                     ''')
 
-                    self.carousel_wrapper = ui.column().classes('items-center')
-                    self.carousel_wrapper.set_visibility(False)
+                    # IDLE CAROUSEL 
+                    self.idle_carousel_wrapper = ui.column().classes('items-center')
+                    self.idle_carousel_wrapper.set_visibility(False)
 
 
-                    # === RIGHT: CHAT COLUMN ===
+                    with ui.column().classes('items-center').style('width: 100%;') as self.response_visual_container:
+
+                        self.emotion_video = ui.video('static/dorothy_longloop.mp4',
+                            controls=False, autoplay=True, muted=True, loop=True
+                        ).props('autoplay loop').classes('video-frame-glow').style('''
+                            width: 80%;
+                            height: 60%;
+                            border-radius: 50px;
+                            overflow: hidden;
+                            margin-bottom: 12px;
+                        ''')
+
+                        self.emotion_carousel_wrapper = ui.column().classes('items-center').style('''
+                                height: 50%;
+                                width: 80%;
+                                border-radius: 30px;
+                                overflow: hidden;
+                                margin-top: 5px;
+                            ''')
+                        self.emotion_carousel_wrapper.set_visibility(False)
+
+                    # hide whole thing by default
+                    self.response_visual_container.set_visibility(False)
+
+
+
+                # === RIGHT: CHAT COLUMN ===
                 with ui.column().classes('justify-start').style('''
                     flex: 1 1 300px;
                     min-width: 300px;
@@ -92,7 +121,48 @@ class DorothyChatbot:
                         gap: 12px;
                     ''')
 
+                    # Add label when its empty
+                    with self.chat_history:
+                        self.chat_placeholder = ui.label('Chat with Dorothy! :)').classes(
+                            'font-bold font-[Helvetica]'
+                        ).style('''
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            height: 100%;
+                            width: 100%;
+                            text-align: center;
+                            font-size: 32px;
+                            background: linear-gradient(to right, #A1DAD7, #ffffff);
+                            -webkit-background-clip: text;
+                            -webkit-text-fill-color: transparent;
+                            animation: fadeZoomIn 1.5s ease-out;
+                        ''')
+
+                        # Add zoom in animatiom to label 
+                        ui.add_head_html('''
+                        <style>
+                            @keyframes fadeZoomIn {
+                                0% {
+                                    opacity: 0;
+                                    transform: scale(0.95);
+                                }
+                                100% {
+                                    opacity: 1;
+                                    transform: scale(1);
+                                }
+                            }
+                        </style>
+                        ''')
+
+
+
+
+
                     with ui.row().classes('items-center gap-4').style('width: 100%; padding: 10px;'):
+                        self.spinner = ui.spinner(size='30px', color='primary')
+                        self.spinner.set_visibility(False)
+                        
                         self.input = ui.textarea(placeholder='Type your message...').props('autogrow filled').style('''
                             flex-grow: 1;
                             background-color: var(--light-gray);
@@ -107,10 +177,23 @@ class DorothyChatbot:
                             'border-radius: 20px; width: 50px; height: 50px;'
                         )
 
+                
 
+                # Below is a handler for user movement (clicking) to stop idle state! Add it only when idle! 
+                with ui.element('div').classes('absolute top-0 left-0 w-full h-full z-50').style('cursor: pointer;') as self.touch_overlay:
+                    self.touch_overlay.on('click', self.user_interacted)
+                    self.touch_overlay.on('touchstart', self.user_interacted)
+
+                
+                self.touch_overlay.set_visibility(False)        # hidden
+
+                # get all the image files; used later
+                self.image_files = [
+                    f for f in os.listdir('static') 
+                    if f.endswith('.jpg') or f.endswith('.png')
+                ]
         
 
-        
         
 
     def user_interacted(self, _=None):
@@ -118,14 +201,35 @@ class DorothyChatbot:
         print("[DEBUG] User touched screen — exiting idle mode early.")
         self.last_processed_time = time.time()
         self.is_idle = False
-        self.carousel_wrapper.set_visibility(False)
-        self.video_container.set_visibility(True)
+        self.idle_carousel_wrapper.set_visibility(False)
+        self.idle_video_container.set_visibility(True)
+
+    def show_response_carousel(self, user_input: str):
+        """Displays a carousel of images relevant to the user input during response stage."""
+        selected_images = select_images_for_input(user_input, self.image_files)
+
+        for image in selected_images: 
+            print(f"[DEBUG- CAROUSEL]: {image}")
+        self.emotion_carousel_wrapper.clear()
+        self.emotion_carousel_wrapper.set_visibility(True)
+
+        with self.emotion_carousel_wrapper:
+            with ui.carousel(animated=True, arrows=True, navigation=True).props(
+                'cycle autoplay interval=7000 height=360px'
+            ).style(
+                'width: 640px; border-radius: 50px; overflow: hidden; margin-bottom: 12px;'
+            ):
+                for image in selected_images:
+                    with ui.carousel_slide().classes('p-0'):
+                        ui.image(f'static/{image}').classes('w-full h-full object-cover')
+
+
 
     def show_carousel(self):
             """Rebuilds the carousel dynamically with new images and shows it."""
-            self.carousel_wrapper.clear()
-            self.carousel_wrapper.set_visibility(True)
-            self.video_container.set_visibility(False)
+            self.idle_carousel_wrapper.clear()
+            self.idle_carousel_wrapper.set_visibility(True)
+            self.idle_video_container.set_visibility(False)
 
             image_files = [
                 f for f in os.listdir('static')
@@ -133,7 +237,7 @@ class DorothyChatbot:
             ]
             random_images = random.sample(image_files, 3)
 
-            with self.carousel_wrapper:
+            with self.idle_carousel_wrapper:
                 with ui.carousel(animated=True, arrows=True, navigation=True).props('cycle autoplay interval=7000 height=360px').style(
                     'width: 640px; border-radius: 50px; overflow: hidden; margin-bottom: 12px;'
                 ):
@@ -141,24 +245,32 @@ class DorothyChatbot:
                         with ui.carousel_slide().classes('p-0'):
                             ui.image(f'static/{image}').classes('w-full h-full object-cover')
 
-            #self.touch_overlay.set_visibility(True)                     # Turn on event handler
+            self.touch_overlay.set_visibility(True)                     # Turn on event handler
 
             
 
 
     async def process_input(self):
         """Handles user input, calls LLM, plays TTS, and updates UI."""
-        
-
+    
         start_time = time.time() 
         print(f"[DEBUG]: Just received user input. Time: {start_time}")
+
+        # --- Response stage, processing --- 
 
         # 1) Extract user input!
         user_input = self.input.value   
         self.input.set_value('')                    # clears self.input for ui 
 
+        # -- Delete label within chat history since not empty anymore
+        # Remove placeholder if it's still there
+        if self.chat_placeholder is not None:
+            self.chat_placeholder.delete()
+            self.chat_placeholder = None
 
-        # Display user's message in the chat history
+
+
+        # 2) Display user's message in the chat history
         with self.chat_history:
             with ui.row().classes('justify-end w-full'):
                 ui.label(user_input).style('''
@@ -171,18 +283,25 @@ class DorothyChatbot:
                 ''')
 
 
-        # Show loading UI
+        # 3) Show loading UI
+
+        # i) Set flags
         self.is_processing = True                   # flag to communicate with the timer for carousel
-        self.spinner.set_visibility(True)           # show spinner! 
-        self.carousel_wrapper.set_visibility(False) # hide carousel 
-        self.video_container.set_visibility(True)   # show video, for now
-        # Call LLM asynchronously
+
+        # ii) Set spinner
+        self.spinner.set_visibility(True)          
+
+        # iii) Hide idle carousel - extra step to ensure it will not show!
+        self.idle_carousel_wrapper.set_visibility(False) # hide carousel 
+        self.idle_video_container.set_visibility(True)   # show video, for now
+
+        # --- CALL LLM ----
         response = await asyncio.to_thread(self.call_rag, user_input)
 
         # Extract response and mood 
         response, mood =extract_response_and_mood(response)
 
-        # Add response to chatbot! 
+        # UI UPDATE: Add response to chatbot! 
         with self.chat_history:
             with ui.row().classes('justify-start w-full'):
                 ui.label(response).style('''
@@ -194,33 +313,35 @@ class DorothyChatbot:
                     font-family: Helvetica, sans-serif;
                 ''')
 
-
-
-        # Change the mood of video
+        # UI UPDATE: Emotion of the video! 
         try:
             if mood is not None: 
 
-                self.video_emotion.set_source(f'{mood}.mp4') 
+                self.emotion_video.set_source(f'{mood}.mp4') 
             else: 
-                self.video_emotion.set_source('static/dorothy_longloop.mp4') # neutral
+                self.emotion_video.set_source('static/dorothy_longloop.mp4') # neutral
 
         except Exception as e: 
 
             print(f"Error: {e}")
 
         print("[DEBUG] Response is", response,"Mood is:", mood)
+
         # Hide loading UI
         self.spinner.set_visibility(False)  
 
+        # --- RESPONSE STAGE UI CHANGE! ---
         # Play TTS, emotion video, & generate captions
-        self.video_container.set_visibility(False)
-        self.response_label.set_text(response)
-        self.response_wrapper.style('display: flex;')
-        self.video_emotion_wrapper.style('display: block;')
+        self.idle_video_container.set_visibility(False)             # hide idle video 
+        self.response_visual_container.set_visibility(True)            # show wrapper
+        self.show_response_carousel(user_input)                     # show response carousel
+        self.emotion_video.set_visibility(True)                     # show emotion video
         print(f"[DEBUG]: Just showed user output. Total time:{time.time() - start_time}")
 
+        # Play audio! 
         audio_element = await speak(response)
 
+        # Don't do anything until audio is finished playing. 
         if audio_element:
             # Estimate audio duration
             audio_duration = len(response.split()) * 0.41  # 2.4 words/second
@@ -230,12 +351,17 @@ class DorothyChatbot:
             # Wait for the estimated audio duration
             await asyncio.sleep(audio_duration)
 
-        # Show video container after estimated speaking time. Hide caption container and emotion video
-        self.video_container.set_visibility(True)
-        self.response_wrapper.style('display: none;')
-        self.video_emotion_wrapper.style('display: none;')
+        # --- TRANSITION: Response stage -> idle stage --- # 
 
-        # Reset processing flags - this allows us to set carousel! 
+        # i ) Hide all the response stage elements
+        self.response_visual_container.set_visibility(False)
+
+
+        # ii) Show idle video. Another function handles the showing of idle carousel 
+        self.idle_video_container.set_visibility(True)
+               
+
+        # iii) Reset processing flags - this allows us to set carousel! 
         self.is_processing = False
         self.last_processed_time = time.time()  
 
@@ -257,19 +383,20 @@ class DorothyChatbot:
                 idle_duration = time.time() - self.last_processed_time
                 print(f"[DEBUG] Idle time: {idle_duration:.1f}s")
 
-                if idle_duration >= 5:     # if we have been idle for more than 5 seconds
+                if idle_duration >= 10:     # if we have been idle for more than 10 seconds
                     if not self.is_idle:   
                         # Only rebuild and show the carousel once when entering idle state
                         self.show_carousel()                        # show the photo
 
                     self.is_idle = True
 
-                    self.video_container.set_visibility(False)      # hide the video
+                    self.idle_video_container.set_visibility(False)      # hide the video
                 else:
                     # When user presses the screen, we go back to video!
+                    self.touch_overlay.set_visibility(False)               # hidden; can access input
                     self.is_idle = False
-                    self.carousel_wrapper.set_visibility(False)
-                    self.video_container.set_visibility(True)
+                    self.idle_carousel_wrapper.set_visibility(False)
+                    self.idle_video_container.set_visibility(True)
 
         def start_async_task():
             asyncio.create_task(check_idle())
