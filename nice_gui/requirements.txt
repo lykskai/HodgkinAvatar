@@ -1,4 +1,3 @@
-# System dependency: FFmpeg must be installed separately.
 # See project README for installation instructions.
 nicegui
 pyqtgraph==0.13.7
