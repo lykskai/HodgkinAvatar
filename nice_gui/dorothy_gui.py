@@ -387,8 +387,6 @@ class DorothyChatbot:
                     continue
 
                 idle_duration = time.time() - self.last_processed_time
-                print(f"[DEBUG] Idle time: {idle_duration:.1f}s")
-
                 if idle_duration >= 10:     # if we have been idle for more than 10 seconds
                     if not self.is_idle:   
                         # Only rebuild and show the carousel once when entering idle state
