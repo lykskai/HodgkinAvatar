@@ -1,14 +1,14 @@
 import os
 import asyncio
 from nicegui import ui
-from LLM import query_rag_system
-from TTS import speak
-from helper import extract_response_and_mood
+from LLM import query_rag_system                # Communicate to LLM
+from TTS import speak                           # Get the audio file
+from helper import extract_response_and_mood    # Get response and mood from LLM
 import time 
 import random
-from helper import select_images_for_input 
+from helper import select_images_for_input      # Get the images based on keyword match
 
-
+# --------------- Chat Page UI ---------------
 class DorothyChatbot:
     """Sets up the NiceGUI chatbot with TTS and soundwave visualization."""
     
@@ -123,7 +123,7 @@ class DorothyChatbot:
 
                     # Add label when its empty
                     with self.chat_history:
-                        self.chat_placeholder = ui.label('Chat with Dorothy! :)').classes(
+                        self.chat_placeholder = ui.label('Chat with Dorothy!').classes(
                             'font-bold font-[Helvetica]'
                         ).style('''
                             display: flex;
@@ -139,7 +139,7 @@ class DorothyChatbot:
                             animation: fadeZoomIn 1.5s ease-out;
                         ''')
 
-                        # Add zoom in animatiom to label 
+                        # Add zoom in animation to label 
                         ui.add_head_html('''
                         <style>
                             @keyframes fadeZoomIn {
@@ -155,14 +155,13 @@ class DorothyChatbot:
                         </style>
                         ''')
 
-
-
-
+                    # Below is the code for user input box, send button, and the spinner
 
                     with ui.row().classes('items-center gap-4').style('width: 100%; padding: 10px;'):
+                        # i) Spinner - hidden as default
                         self.spinner = ui.spinner(size='30px', color='primary')
                         self.spinner.set_visibility(False)
-                        
+                        # ii) Input text box
                         self.input = ui.textarea(placeholder='Type your message...').props('autogrow filled').style('''
                             flex-grow: 1;
                             background-color: var(--light-gray);
@@ -173,29 +172,30 @@ class DorothyChatbot:
                             font-family: Helvetica, sans-serif;
                             overflow: hidden;
                         ''')
+                        # iii) Send button
                         ui.button(icon='send', color='primary', on_click=self.process_input).style(
                             'border-radius: 20px; width: 50px; height: 50px;'
                         )
 
                 
-
                 # Below is a handler for user movement (clicking) to stop idle state! Add it only when idle! 
                 with ui.element('div').classes('absolute top-0 left-0 w-full h-full z-50').style('cursor: pointer;') as self.touch_overlay:
                     self.touch_overlay.on('click', self.user_interacted)
                     self.touch_overlay.on('touchstart', self.user_interacted)
 
                 
-                self.touch_overlay.set_visibility(False)        # hidden
+                self.touch_overlay.set_visibility(False)        # hidden as default
 
-                # get all the image files; used later
+                # Get all the image files; used later
                 self.image_files = [
                     f for f in os.listdir('static') 
                     if f.endswith('.jpg') or f.endswith('.png')
                 ]
-        
 
         
+# HELPER FUNCTIONS for chat page UI
 
+    # 1) Case: Exit idle state of carousel playing
     def user_interacted(self, _=None):
         """Handles any user tap/click to exit idle mode early."""
         print("[DEBUG] User touched screen — exiting idle mode early.")
@@ -204,6 +204,7 @@ class DorothyChatbot:
         self.idle_carousel_wrapper.set_visibility(False)
         self.idle_video_container.set_visibility(True)
 
+    #2) Case: In response state; carousel is playing
     def show_response_carousel(self, user_input: str):
         """Displays a carousel of images relevant to the user input during response stage."""
         selected_images = select_images_for_input(user_input, self.image_files)
@@ -223,10 +224,9 @@ class DorothyChatbot:
                     with ui.carousel_slide().classes('p-0'):
                         ui.image(f'static/{image}').classes('w-full h-full object-cover')
 
-
-
+    #3) Case: In idle state; idle carousel is playing
     def show_carousel(self):
-            """Rebuilds the carousel dynamically with new images and shows it."""
+            """Rebuilds the carousel dynamically with new random images and shows it."""
             self.idle_carousel_wrapper.clear()
             self.idle_carousel_wrapper.set_visibility(True)
             self.idle_video_container.set_visibility(False)
@@ -247,13 +247,19 @@ class DorothyChatbot:
 
             self.touch_overlay.set_visibility(True)                     # Turn on event handler
 
-            
-
-
+    # 4) Case: We are processing user input. 
     async def process_input(self):
         """Handles user input, calls LLM, plays TTS, and updates UI."""
-    
-        start_time = time.time() 
+        if  self.is_processing: 
+            # We are still processing a previous request. Leave and let user know.
+            ui.notify(
+                    "A previous request is still being processed. Please wait a moment before trying again.",
+                    position="bottom-left")
+
+            # Leave
+            return
+        
+        start_time = time.time()                    # For debug
         print(f"[DEBUG]: Just received user input. Time: {start_time}")
 
         # --- Response stage, processing --- 
@@ -267,8 +273,6 @@ class DorothyChatbot:
         if self.chat_placeholder is not None:
             self.chat_placeholder.delete()
             self.chat_placeholder = None
-
-
 
         # 2) Display user's message in the chat history
         with self.chat_history:
@@ -286,7 +290,7 @@ class DorothyChatbot:
         # 3) Show loading UI
 
         # i) Set flags
-        self.is_processing = True                   # flag to communicate with the timer for carousel
+        self.is_processing = True                   # flag to communicate with the timer for carousel - also stops overlap in input
 
         # ii) Set spinner
         self.spinner.set_visibility(True)          
@@ -317,7 +321,7 @@ class DorothyChatbot:
         try:
             if mood is not None: 
 
-                self.emotion_video.set_source(f'{mood}.mp4') 
+                self.emotion_video.set_source(f'static/{mood}.mp4') 
             else: 
                 self.emotion_video.set_source('static/dorothy_longloop.mp4') # neutral
 
@@ -364,11 +368,13 @@ class DorothyChatbot:
         # iii) Reset processing flags - this allows us to set carousel! 
         self.is_processing = False
         self.last_processed_time = time.time()  
-
+    
+    # 5) Case: reset the timer when exiting idle state.
     def reset_idle_timer(self):
-        """Call this whenever the user interacts with the input box."""
+        """Call this whenever the user interacts."""
         self.last_input_time = time.time()
     
+    # 6) Case: start the timer and show idle carousel. Entering idle state.
     def start_idle_timer(self):
         """Launches a repeating timer to check if chatbot has been idle."""
         async def check_idle():
@@ -398,23 +404,19 @@ class DorothyChatbot:
                     self.idle_carousel_wrapper.set_visibility(False)
                     self.idle_video_container.set_visibility(True)
 
+        # Nested function to queue up second countdown since idle.
         def start_async_task():
             asyncio.create_task(check_idle())
 
         # Use ui.timer to launch the async check safely once
         ui.timer(0.1, start_async_task, once=True)
-        
-        
 
-
-
-
-
+    # 7) Calls query_rag_system. Mainly made for name
     def call_rag(self, user_input): 
         """Calls the LLM model asynchronously."""
         return query_rag_system(user_input)
     
-    
+# --------------- MAIN Page UI ---------------
 @ui.page('/')
 def main_page():
     # Use AOS for animations when scrolling, smooth for pressing the hyperlinks in the navbar
@@ -482,7 +484,11 @@ def main_page():
                 'text-[60px] font-bold font-[Helvetica] bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent text-left leading-relaxed pb-2'
             )
             with ui.element('div').classes('w-full grid grid-cols-3 gap-8 mx-auto items-center'):
-                ui.image('static/CASUAL_LAB_Dorothy.jpg').props('data-aos=fade-right').classes('col-span-1 w-full rounded shadow-lg')
+                # Image
+                ui.image('static/CASUAL_LAB_Dorothy.jpg') \
+                    .props('data-aos=fade-right') \
+                    .classes('col-span-1 w-full rounded-lg shadow-lg')
+                # Text
                 ui.label(
                     "Dorothy Crowfoot Hodgkin was a pioneering chemist who used X-ray crystallography to reveal the "
                     "structures of essential biomolecules. Her groundbreaking discoveries included the molecular structures of penicillin, "
@@ -504,10 +510,13 @@ def main_page():
                 'text-xl text-gray-300 font-[Helvetica] mt-4'
             )
 
-
+# --------------- Chat Page  ---------------
 @ui.page('/chat')
 def chat_page():
+    "Creates the instance of a DorothyChatbot object when we are at chat page."
     chatbot = DorothyChatbot()
+
+# --------------- Main   ---------------
 
 def main():
     """Initializes the chatbot and runs the NiceGUI app."""
