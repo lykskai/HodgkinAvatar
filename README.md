@@ -45,9 +45,16 @@ This project was created for BIOIN 401 at the University of Alberta (Winter 2025
 - Sync API: Used sync's POST and GET requests to create the lip synced video. 
 
 ## Information about the files in GitHub
+_Current directory_
+- nice_gui: Used to deploy a locally hosted website of our program.
+1) faiss_index: has the vector database used for the RAG system
+2) static: all files used for the code (mp4 and jpg) since locally hosting for now.
+   
+_Data directory_
 - articles: Folder of all the articles used for the faiss database
-- nice_gui: **Currently used directory**, to deploy a locally hosted website of our program
+  
+_Deprecated Directories_
 - pyqt: Folder of past implementation of the program within pyQT
-- llama.ipynb: colab notebook of previous implementations of the LLM
-- llama3_70b: colab notebook of previous implementation of the LLM. This notebook is the one the nice_gui code is based on.
-- new_alchemist.ipynb: colab notebook of previous implementations of the LLM
+- llama.ipynb: Colab notebook of previous implementations of the LLM
+- llama3_70b: Colab notebook of previous implementation of the LLM. This notebook is the one the nice_gui code is based on.
+- new_alchemist.ipynb: Colab notebook of previous implementations of the LLM
