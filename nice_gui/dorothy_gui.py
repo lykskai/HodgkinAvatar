@@ -129,27 +129,31 @@ class DorothyChatbot:
                     self.idle_carousel_wrapper = ui.column().classes('items-center')
                     self.show_carousel()
 
+                    # RESPONSE CONTAINER
 
-                    with ui.column().classes('items-center').style('width: 100%;') as self.response_visual_container:
+                    with ui.column().classes('items-center justify-center').style('width: 100%; gap: 16px; padding-top: 20px') as self.response_visual_container:
 
+                        # Video (top)
                         self.emotion_video = ui.video('static/dorothy_longloop.mp4',
                             controls=False, autoplay=True, muted=True, loop=True
                         ).props('autoplay loop').classes('video-frame-glow').style('''
                             width: 80%;
-                            height: 60%;
-                            border-radius: 50px;
+                            max-width: 640px;
+                            aspect-ratio: 16 / 9;
+                            border-radius: 24px;
                             overflow: hidden;
-                            margin-bottom: 12px;
                         ''')
 
+                        # Carousel (bottom)
                         self.emotion_carousel_wrapper = ui.column().classes('items-center').style('''
-                                height: 50%;
-                                width: 80%;
-                                border-radius: 30px;
-                                overflow: hidden;
-                                margin-top: 5px;
-                            ''')
+                            width: 80%;
+                            max-width: 640px;
+                            aspect-ratio: 16 / 9;
+                            border-radius: 24px;
+                            overflow: hidden;
+                        ''')
                         self.emotion_carousel_wrapper.set_visibility(False)
+
 
                     # hide whole thing by default
                     self.response_visual_container.set_visibility(False)
