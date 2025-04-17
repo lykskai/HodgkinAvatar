@@ -8,6 +8,35 @@ import time
 import random
 from helper import select_images_for_input      # Get the images based on keyword match
 
+# A list of random deadtime buffer statements!
+BUFFER = [
+    "Let me think on that.",
+    "Hmm... one moment.",
+    "Just a tick.",
+    "Considering carefully.",
+    "I’ll get right on it.",
+    "Thinking it through.",
+    "One moment, if you please.",
+    "Give me a second to reflect.",
+    "Let me gather my thoughts.",
+    "Processing that now."
+]
+
+# First access is the slowest... 
+FIRST_ACCESS_BUFFER = [
+    "Ah, the circuits are still warming — much like a diffraction tube. Give me a moment.",
+    "Just setting the stage for clear thinking. One moment, if you please.",
+    "Finishing my tea and preparing the molecules — nearly ready.",
+    "Clarity takes time — even penicillin didn’t crystallise instantly. Just a moment.",
+    "Still aligning my thoughts... they’re behaving like stubborn molecules. Give me a second.",
+    "The X-rays are humming — let me steady the pattern. One tick.",
+    "Collecting my bearings — the mind needs a warmup, like any fine instrument.",
+    "I’m just refining the structure — nearly resolved. Give me a moment.",
+    "Insulin took years to map — this will only take a moment.",
+    "Initializing thought — patience, as always, is part of good science."
+]
+
+
 # --------------- Chat Page UI ---------------
 class DorothyChatbot:
     """Sets up the NiceGUI chatbot with TTS and soundwave visualization."""
@@ -15,32 +44,68 @@ class DorothyChatbot:
     def __init__(self):
         self.setup_ui()
         self.is_processing = False              # flag to set if we are in processing input or not 
-        self.is_idle = False                    # flag to set if user is idle- handles video to photo slide transition
-        self.last_processed_time = time.time()
-        self.start_idle_timer()
-
+        self.is_first_access = True             # flag to deal with issues with really long wait time when first access. 
 
     def setup_ui(self):
         # Global styles
         ui.colors(primary='#A1DAD7')
         ui.add_head_html('''
         <style>
-            :root {
+        :root {
             --light-gray: #2E2E2E;
             --dark-gray: #1E1E1E;
             --primary-color: #A1DAD7;
-            }
-            body, .nicegui-app, html { 
-                background-color: var(--dark-gray) !important; 
-                color: white;
-            }
-            .q-page {
-                background-color: var(--dark-gray) !important;
-            }
+        }
+        body, .nicegui-app, html {
+            background-color: var(--dark-gray) !important;
+            color: white;
+        }
+        .q-page {
+            background-color: var(--dark-gray) !important;
+        }
 
-                         
+        /* Bubble fade-in animation */
+        @keyframes fadeZoomIn {
+            0% {
+                opacity: 0;
+                transform: scale(0.95);
+            }
+            100% {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        /* Animated typing dots */
+        .dot-loader {
+            display: flex;
+            gap: 6px;
+            padding: 10px 14px;
+            background-color: #A1DAD7;
+            border-radius: 16px;
+            max-width: fit-content;
+            animation: fadeZoomIn 0.6s ease-out;
+        }
+        .dot-loader span {
+            width: 8px;
+            height: 8px;
+            background-color: black;
+            border-radius: 50%;
+            animation: dotFlashing 1s infinite linear alternate;
+        }
+        .dot-loader span:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+        .dot-loader span:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+        @keyframes dotFlashing {
+            0% { opacity: 0.2; }
+            50%, 100% { opacity: 1; }
+        }
         </style>
         ''')
+
         # Minimalist gray navbar
         with ui.row().classes('w-full h-16 fixed top-0 left-0 z-50 bg-[#1f1f1f] px-6 items-center justify-start border-b border-gray-700'):
             ui.button(icon='arrow_back', on_click=lambda: ui.navigate.to('/')).props('flat dense round').classes(
@@ -60,19 +125,9 @@ class DorothyChatbot:
                     max-width: 640px;
                 '''):
 
-                    # IDLE VIDEO (Shown in idle stage)
-                    self.idle_video_container = ui.video('static/dorothy_longloop.mp4',
-                        controls=False, autoplay=True, muted=True, loop=True
-                    ).props('autoplay loop').classes('video-frame-glow').style('''
-                        width: 100%;
-                        height: 360px;
-                        border-radius: 50px;
-                        overflow: hidden;
-                    ''')
-
                     # IDLE CAROUSEL 
                     self.idle_carousel_wrapper = ui.column().classes('items-center')
-                    self.idle_carousel_wrapper.set_visibility(False)
+                    self.show_carousel()
 
 
                     with ui.column().classes('items-center').style('width: 100%;') as self.response_visual_container:
@@ -155,37 +210,40 @@ class DorothyChatbot:
                         </style>
                         ''')
 
-                    # Below is the code for user input box, send button, and the spinner
+                    # Below is the code for user input box and send button
 
                     with ui.row().classes('items-center gap-4').style('width: 100%; padding: 10px;'):
-                        # i) Spinner - hidden as default
-                        self.spinner = ui.spinner(size='30px', color='primary')
-                        self.spinner.set_visibility(False)
-                        # ii) Input text box
-                        self.input = ui.textarea(placeholder='Type your message...').props('autogrow filled').style('''
-                            flex-grow: 1;
-                            background-color: var(--light-gray);
-                            color: white;
-                            border-radius: 10px;
-                            min-height: 50px;
-                            max-height: 100px;
-                            font-family: Helvetica, sans-serif;
-                            overflow: hidden;
-                        ''')
-                        # iii) Send button
+
+                        # Container that takes 85% of the space
+                        with ui.element('div').style('flex: 1 1 85%;'):
+                            self.input = ui.textarea(placeholder='Type your message...') \
+                                .props('autogrow filled') \
+                                .style('''
+                                    width: 100%;
+                                    min-height: 60px;
+                                    max-height: 180px;
+                                    background-color: var(--light-gray);
+                                    color: white;
+                                    border-radius: 10px;
+                                    font-family: Helvetica, sans-serif;
+                                    resize: none;
+                                    overflow-y: auto;
+                                ''')
+
+                        # Send button: fixed size, doesn’t shrink
                         ui.button(icon='send', color='primary', on_click=self.process_input).style(
-                            'border-radius: 20px; width: 50px; height: 50px;'
+                            '''
+                            flex: 0 0 50px;
+                            width: 50px;
+                            height: 50px;
+                            border-radius: 20px;
+                            '''
                         )
 
-                
-                # Below is a handler for user movement (clicking) to stop idle state! Add it only when idle! 
-                with ui.element('div').classes('absolute top-0 left-0 w-full h-full z-50').style('cursor: pointer;') as self.touch_overlay:
-                    self.touch_overlay.on('click', self.user_interacted)
-                    self.touch_overlay.on('touchstart', self.user_interacted)
+
+
 
                 
-                self.touch_overlay.set_visibility(False)        # hidden as default
-
                 # Get all the image files; used later
                 self.image_files = [
                     f for f in os.listdir('static') 
@@ -195,16 +253,7 @@ class DorothyChatbot:
         
 # HELPER FUNCTIONS for chat page UI
 
-    # 1) Case: Exit idle state of carousel playing
-    def user_interacted(self, _=None):
-        """Handles any user tap/click to exit idle mode early."""
-        print("[DEBUG] User touched screen — exiting idle mode early.")
-        self.last_processed_time = time.time()
-        self.is_idle = False
-        self.idle_carousel_wrapper.set_visibility(False)
-        self.idle_video_container.set_visibility(True)
-
-    #2) Case: In response state; carousel is playing
+    # 1) Case: In response state; carousel is playing
     def show_response_carousel(self, user_input: str):
         """Displays a carousel of images relevant to the user input during response stage."""
         selected_images = select_images_for_input(user_input, self.image_files)
@@ -224,12 +273,11 @@ class DorothyChatbot:
                     with ui.carousel_slide().classes('p-0'):
                         ui.image(f'static/{image}').classes('w-full h-full object-cover')
 
-    #3) Case: In idle state; idle carousel is playing
+    #2) Case: In idle state; idle carousel is playing
     def show_carousel(self):
             """Rebuilds the carousel dynamically with new random images and shows it."""
             self.idle_carousel_wrapper.clear()
             self.idle_carousel_wrapper.set_visibility(True)
-            self.idle_video_container.set_visibility(False)
 
             image_files = [
                 f for f in os.listdir('static')
@@ -245,9 +293,7 @@ class DorothyChatbot:
                         with ui.carousel_slide().classes('p-0'):
                             ui.image(f'static/{image}').classes('w-full h-full object-cover')
 
-            self.touch_overlay.set_visibility(True)                     # Turn on event handler
-
-    # 4) Case: We are processing user input. 
+    # 3) Case: We are processing user input. 
     async def process_input(self):
         """Handles user input, calls LLM, plays TTS, and updates UI."""
         if  self.is_processing: 
@@ -290,20 +336,65 @@ class DorothyChatbot:
         # 3) Show loading UI
 
         # i) Set flags
-        self.is_processing = True                   # flag to communicate with the timer for carousel - also stops overlap in input
+        self.is_processing = True                   # stops overlap in input   
 
-        # ii) Set spinner
-        self.spinner.set_visibility(True)          
 
-        # iii) Hide idle carousel - extra step to ensure it will not show!
-        self.idle_carousel_wrapper.set_visibility(False) # hide carousel 
-        self.idle_video_container.set_visibility(True)   # show video, for now
+        # ii) Let Dorothy add to the chatbot a deadtime buffer. 
+
+        # - Get the response, randomized.
+        if self.is_first_access: # first time accessing - much slower than later responses.
+            buffer_response = random.choice(FIRST_ACCESS_BUFFER)
+        else: # already accessed
+            buffer_response = random.choice(BUFFER)   # random buffer_response 
+
+        # - Show her buffer response in chat history
+        with self.chat_history:
+            with ui.row().classes('justify-start w-full'):
+                ui.label(buffer_response).style('''
+                    background-color: #A1DAD7;
+                    color: black;
+                    padding: 10px 14px;
+                    border-radius: 16px;
+                    max-width: 70%;
+                    font-family: Helvetica, sans-serif;
+                ''')
+
+        # - Play audio! 
+        audio_element = await speak(buffer_response)
+
+        # - Don't do anything until audio is finished playing - except for loading the bubbles for UI loading! 
+        if audio_element:
+            # Estimate audio duration
+            audio_duration = len(buffer_response.split()) * 0.41  # 2.4 words/second
+            
+            ui.html(audio_element)
+            
+            # Wait for the estimated audio duration
+            await asyncio.sleep(audio_duration)
+
+            # After buffer_response is shown and audio is playing...
+            with self.chat_history:
+                with ui.row().classes('justify-start w-full') as self.loading_bubble:
+                    ui.html('''
+                    <div class="dot-loader">
+                        <span></span><span></span><span></span>
+                    </div>
+                    ''')
+
+                    
+        
 
         # --- CALL LLM ----
         response = await asyncio.to_thread(self.call_rag, user_input)
 
         # Extract response and mood 
         response, mood =extract_response_and_mood(response)
+
+        # Remove bubble just before showing LLM response
+        if self.loading_bubble:
+            self.loading_bubble.delete()
+            self.loading_bubble = None
+
 
         # UI UPDATE: Add response to chatbot! 
         with self.chat_history:
@@ -316,6 +407,9 @@ class DorothyChatbot:
                     max-width: 70%;
                     font-family: Helvetica, sans-serif;
                 ''')
+
+         # iv) Hide idle carousel 
+        self.idle_carousel_wrapper.set_visibility(False) # hide carousel 
 
         # UI UPDATE: Emotion of the video! 
         try:
@@ -330,13 +424,8 @@ class DorothyChatbot:
             print(f"Error: {e}")
 
         print("[DEBUG] Response is", response,"Mood is:", mood)
-
-        # Hide loading UI
-        self.spinner.set_visibility(False)  
-
         # --- RESPONSE STAGE UI CHANGE! ---
         # Play TTS, emotion video, & generate captions
-        self.idle_video_container.set_visibility(False)             # hide idle video 
         self.response_visual_container.set_visibility(True)            # show wrapper
         self.show_response_carousel(user_input)                     # show response carousel
         self.emotion_video.set_visibility(True)                     # show emotion video
@@ -360,56 +449,19 @@ class DorothyChatbot:
         # i ) Hide all the response stage elements
         self.response_visual_container.set_visibility(False)
 
-
-        # ii) Show idle video. Another function handles the showing of idle carousel 
-        self.idle_video_container.set_visibility(True)
-               
-
-        # iii) Reset processing flags - this allows us to set carousel! 
+        # ii) Reset processing flags - this allows us to set carousel! 
         self.is_processing = False
         self.last_processed_time = time.time()  
+
+        # iii) Show the idle carousel again
+        self.idle_carousel_wrapper.set_visibility(True)
+        self.show_carousel()
+
+        # iv) Update flag - has accessed for one time now! 
+        self.is_first_access = False
+
     
-    # 5) Case: reset the timer when exiting idle state.
-    def reset_idle_timer(self):
-        """Call this whenever the user interacts."""
-        self.last_input_time = time.time()
-    
-    # 6) Case: start the timer and show idle carousel. Entering idle state.
-    def start_idle_timer(self):
-        """Launches a repeating timer to check if chatbot has been idle."""
-        async def check_idle():
-            while True:
-                await asyncio.sleep(1)
-
-                if self.is_processing:
-                    # Are we processing? then reset loop until we aren't processing anymore
-                    self.last_processed_time = time.time()
-                    continue
-
-                idle_duration = time.time() - self.last_processed_time
-                if idle_duration >= 10:     # if we have been idle for more than 10 seconds
-                    if not self.is_idle:   
-                        # Only rebuild and show the carousel once when entering idle state
-                        self.show_carousel()                        # show the photo
-
-                    self.is_idle = True
-
-                    self.idle_video_container.set_visibility(False)      # hide the video
-                else:
-                    # When user presses the screen, we go back to video!
-                    self.touch_overlay.set_visibility(False)               # hidden; can access input
-                    self.is_idle = False
-                    self.idle_carousel_wrapper.set_visibility(False)
-                    self.idle_video_container.set_visibility(True)
-
-        # Nested function to queue up second countdown since idle.
-        def start_async_task():
-            asyncio.create_task(check_idle())
-
-        # Use ui.timer to launch the async check safely once
-        ui.timer(0.1, start_async_task, once=True)
-
-    # 7) Calls query_rag_system. Mainly made for name
+    # 4) Calls query_rag_system. Mainly made for name
     def call_rag(self, user_input): 
         """Calls the LLM model asynchronously."""
         return query_rag_system(user_input)
@@ -419,6 +471,36 @@ class DorothyChatbot:
 def main_page():
     # Use AOS for animations when scrolling, smooth for pressing the hyperlinks in the navbar
     ui.add_head_html('''
+                     
+        <style>
+    .dot-loader {
+        display: flex;
+        gap: 6px;
+        padding: 10px 14px;
+        background-color: #A1DAD7;
+        border-radius: 16px;
+        max-width: fit-content;
+        animation: fadeZoomIn 0.6s ease-out;
+    }
+    .dot-loader span {
+        width: 8px;
+        height: 8px;
+        background-color: black;
+        border-radius: 50%;
+        animation: dotFlashing 1s infinite linear alternate;
+    }
+    .dot-loader span:nth-child(2) {
+        animation-delay: 0.2s;
+    }
+    .dot-loader span:nth-child(3) {
+        animation-delay: 0.4s;
+    }
+    @keyframes dotFlashing {
+        0% { opacity: 0.2; }
+        50%, 100% { opacity: 1; }
+    }
+    </style>
+
     <!-- AOS: Animate On Scroll -->
     <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
     <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
