@@ -3,7 +3,7 @@
 import re
 from typing import List
 import random
-
+from rapidfuzz import fuzz # for fuzzy matching
 
 def extract_response_and_mood(text):
     """
@@ -56,7 +56,7 @@ def extract_response_and_mood(text):
 
 
 
-def select_images_for_input(user_input: str, image_files: List[str]) -> List[str]:
+def select_images_for_input(user_input: str, image_files: List[str], filename_keywords: dict[str, set[str]]) -> List[str]:
     """
     Selects exactly 3 image filenames based on user input.
     This function uses get_matching_images() and get_categories_from_input()
@@ -72,12 +72,14 @@ def select_images_for_input(user_input: str, image_files: List[str]) -> List[str
     Args:
         user_input (str): The text input from the user.
         image_files (List[str]): A list of available image filenames (e.g., from static/).
+        filename_keywords (dict[str, set[str]]): Dictionary mapping each filename to the set of keywords in its name.
 
     Returns:
         List[str]: A list of 3 image filenames to display, based on keyword or category matches.
     """
 
-    matched_images = get_matching_images(user_input, image_files)
+    # Get matching images!
+    matched_images = get_matching_images(user_input, filename_keywords)
 
     if matched_images:
         if len(matched_images) >= 3:
@@ -104,7 +106,6 @@ def select_images_for_input(user_input: str, image_files: List[str]) -> List[str
 
     return random.sample(category_filtered, min(3, len(category_filtered)))
 
-import re
 
 def get_categories_from_input(user_input: str) -> list[str]:
     """
@@ -190,42 +191,55 @@ def get_categories_from_input(user_input: str) -> list[str]:
     return list(matched_categories)
 
 
-def get_matching_images(user_input: str, image_files: List[str]) -> List[str] | None:
+def get_matching_images(user_input: str, filename_keywords: dict[str, set[str]]) -> list[str] | None:
     """
-    Matches user input to relevant image filenames based on keyword overlap.
+    Matches user input to relevant image filenames using exact or fuzzy keyword overlap.
 
     Args:
-        user_input (str): The user's input/question.
-        image_files (List[str]): List of image filenames to search from.
+        user_input (str): The user's input text.
+        filename_keywords (dict[str, set[str]]): A mapping of image filenames to sets of keywords
+                                                 extracted from their names (preprocessed once).
 
     Returns:
-        List[str] | None: A list of filenames where the input matched keywords from the filename,
-                          or None if no match was found.
+        list[str] | None: A list of filenames with matching or closely matching keywords,
+                          or None if no matches are found.
     """
-
-    # Convert user input to lowercase and extract individual words
     text = user_input.lower()
-    input_words = set(re.findall(r'\b\w+\b', text))  # set of all words in the input
-
-    # Keyword set manually curated from all image filenames
-    keywords = {
-        'dorothy', 'happy', 'nobel', 'lab', 'molecules', 'mother', 'sister',
-        'notebook', 'work', 'personal', 'chemist', 'collaborate', 'linuspauling',
-        'classroom', 'school', 'achievement', 'peace', 'volunteer', 'write',
-        'read', 'book', 'university', 'college', 'oxford', 'electron', 'density',
-        'molecular', 'protein', 'penicillin', 'crystallography', 'xray'
-    }
+    input_words = set(re.findall(r'\b\w+\b', text))
 
     matched_images = []
 
-    # Loop through all available images
-    for filename in image_files:
-        # Extract words from filename (excluding extension)
-        name_keywords = set(re.findall(r'\b\w+\b', filename.lower()))
+    for fname, keywords in filename_keywords.items():
+        # Exact match
+        if input_words & keywords:
+            matched_images.append(fname)
+            continue
 
-        # Check for intersection between user input, image name, and known keywords
-        if input_words & name_keywords & keywords:
-            matched_images.append(filename)
+        # Fuzzy match (e.g. 'cobalmine' ≈ 'cobalamin')
+        for word in input_words:
+            for keyword in keywords:
+                if fuzz.ratio(word, keyword) > 85:  # tune threshold as needed
+                    matched_images.append(fname)
+                    break
+            else:
+                continue
+            break
 
-    # Return matched list if found, otherwise return None
+    if matched_images:
+        print("[DEBUG]: Fuzzy match found", matched_images)
+
     return matched_images if matched_images else None
+
+
+def build_filename_keyword_index(image_files: list[str]) -> dict[str, set[str]]:
+    """
+    Builds a dictionary mapping each image filename to a set of keywords
+    extracted from the filename (underscored).
+
+    Returns:
+        dict: {filename: set(keywords)}
+    """
+    return {
+        fname: set(fname.lower().rsplit('.', 1)[0].split('_'))
+        for fname in image_files
+    }
