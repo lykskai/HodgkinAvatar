@@ -40,9 +40,9 @@ FIRST_ACCESS_BUFFER = [
 IMAGE_CAPTIONS = {
     "SCIENCE_xray_crystallography.jpg": "Modern X-ray crystallography equipment—the technique central to Hodgkin’s groundbreaking discoveries.",
     "SCIENCE_penicillin.jpg": "Molecular structure of penicillin.",
-    "SCIENCE_molecules_molecular_protein.jpg": "Visualizing molecular proteins.",
-    "SCIENCE_electron_density.jpg": "Penicillin molecular model constructed by Hodgkin, aligned with the surrounding electron density contour maps used in her analysis.",
-    "SCIENCE_Vitamin_B12_Cobalamin.jpg": "Molecular Structure of Vitamin B12 or cobalamin, as determined by Dorothy Hodgkin.",
+    "SCIENCE_molecules_molecular_protein_penicillin.jpg":  "Penicillin molecular model constructed by Hodgkin, aligned with the surrounding electron density contour maps used in her analysis.",
+    "SCIENCE_electron_density.jpg":"A 3D electron density map of penicillin from X-ray diffraction, used by Dorothy Hodgkin to identify atomic positions and determine its structure.",
+    "SCIENCE_Vitamin_B12_Cobalamin_Molecular.jpg": "Molecular Structure of Vitamin B12 or cobalamin, as determined by Dorothy Hodgkin.",
 
     "PERSONAL_Letter_Linus_Pauling_Lenin_Peace_Prize.jpg": "Linus Pauling’s 1983 letter nominating Dorothy Hodgkin for the International Lenin Peace Prize, recognizing her advocacy for peace and nuclear disarmament.",
     "PERSONAL_university_college_oxford_school.jpg": "University College, Oxford — one of the oldest constituent colleges, where Dorothy Hodgkin pursued her early studies in chemistry.",
@@ -293,10 +293,6 @@ class DorothyChatbot:
                         )
 
 
-
-
-                
-                
         
 # HELPER FUNCTIONS for chat page UI
 
