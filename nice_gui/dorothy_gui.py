@@ -36,6 +36,35 @@ FIRST_ACCESS_BUFFER = [
     "Initializing thought — patience, as always, is part of good science."
 ]
 
+# Image captions! 
+IMAGE_CAPTIONS = {
+    "SCIENCE_xray_crystallography.jpg": "Dorothy's work on X-ray crystallography.",
+    "SCIENCE_penicillin.jpg": "Molecular structure of penicillin.",
+    "SCIENCE_molecules_molecular_protein.jpg": "Visualizing molecular proteins.",
+    "SCIENCE_electron_density.jpg": "Electron density map used in structural biology.",
+
+    "PERSONAL_university_college_oxford_school.jpg": "University College, Oxford — one of the oldest constituent colleges, where Dorothy Hodgkin pursued her early studies in chemistry..",
+    "PERSONAL_LAB_dorothy_write_read_book.jpg": "Dorothy reading and writing in the lab.",
+    "PERSONAL_Dorothy_oxford.jpg": "Dorothy and colleagues at Oxford University.",
+    "PERSONAL_Dorothy_Happy_Achievement_nobel_prize.jpg": "Dorothy celebrating her Nobel Prize achievement.",
+    "PERSONAL_Dorothy_classroom_school.jpg": "Dorothy in a classroom setting (at the back).",
+    "PERSONAL_Chemist_Dorothy_Work_Collaborate_Linus_Pauling": "Dorothy with Linus Pauling, fellow Nobel Laureate.",
+    "PEOPLE_PERSONAL_Dorothy_happy.jpg": "Dorothy smiling in a candid moment.",
+
+    "LAB_notebook.jpg": "Dorothy’s experimental lab notebook.",
+    "LAB_dorothy.jpg": "Dorothy working in her laboratory.",
+    "LAB_dorothy_work.jpg": "Dorothy engaged in lab work.",
+
+    "FAMILY_dorothy.jpg": "Dorothy with family.",
+    "FAMILY_Dorothy_Mother_Sister.jpg": "Dorothy with her mother and sister.",
+
+    "CASUAL_Molecules_dorothy.jpg": "Dorothy Hodgkin in her lab, in her 50s or early 60s, during a period of intense scientific discovery.",
+    "CASUAL_LAB_Dorothy.jpg": "Dorothy Hodgkin in her lab, likely in her 40s or 50s, during a period of intense scientific discovery.",
+    "CASUAL_Dorothy_Nobel.jpg": "Dorothy Hodgkin in her 70s, holding X-ray crystallography plates—surrounded by molecular models central to her groundbreaking work.",
+    "CASUAL_Dorothy_Happy.jpg": "Dorothy in her later years, smiling during a candid moment.",
+    "CASUAL_Dorothy_Happy_2.jpg": "Dorothy in a lighthearted, happy moment, in her later years."
+}
+
 
 # --------------- Chat Page UI ---------------
 class DorothyChatbot:
@@ -127,10 +156,12 @@ class DorothyChatbot:
 
                     # IDLE CAROUSEL 
                     self.idle_carousel_wrapper = ui.column().classes('items-center justify-center').style('''
-                        width: 100%;
+                        width: 120%;
                         aspect-ratio: 16 / 9;
-                        border-radius: 25px;
-                        overflow: hidden;
+                        border-radius: 10px;
+                        overflow: hidden;                                                                                 
+                        height: 100%;
+                                                                                                          
                     ''')
                     self.show_carousel()
 
@@ -142,19 +173,19 @@ class DorothyChatbot:
                         self.emotion_video = ui.video('static/dorothy_longloop.mp4',
                             controls=False, autoplay=True, muted=True, loop=True
                         ).props('autoplay loop').classes('video-frame-glow').style('''
-                            width: 80%;
+                            width: 70%;
                             max-width: 640px;
                             aspect-ratio: 16 / 9;
-                            border-radius: 25px;
+                            border-radius: 5px;
                             overflow: hidden;
                         ''')
 
                         # Carousel (bottom)
                         self.emotion_carousel_wrapper = ui.column().classes('items-center').style('''
-                            width: 80%;
+                            width: 70%;
                             max-width: 640px;
-                            aspect-ratio: 16 / 9;
-                            border-radius: 25px;
+                            aspect-ratio: 12 / 9;
+                            border-radius: 5px;
                             overflow: hidden;
                         ''')
                         self.emotion_carousel_wrapper.set_visibility(False)
@@ -273,15 +304,16 @@ class DorothyChatbot:
         self.emotion_carousel_wrapper.set_visibility(True)
 
         with self.emotion_carousel_wrapper:
-            with ui.carousel(animated=True, arrows=True, navigation=True).props(
-                'cycle autoplay interval=7000 height=360px'
-            ).style(
-                'width: 640px; border-radius: 50px; overflow: hidden; margin-bottom: 12px;'
-            ):
+            with ui.carousel(animated=True, arrows=True).props(
+                'cycle autoplay interval=9000 height=100%'
+            ).style('width: 100%; max-width: 600px; border-radius: 10px; overflow: hidden;'):
                 for image in selected_images:
                     with ui.carousel_slide().classes('p-0'):
-                        ui.image(f'static/{image}').classes('w-full h-full object-cover')
-
+                        with ui.column().classes('w-full h-full items-center'):
+                            ui.image(f'static/{image}').classes('w-full h-full object-cover')
+                            ui.label(IMAGE_CAPTIONS.get(image, "Untitled Image")).classes(
+                                'text-white text-sm mt-2 text-center font-[Helvetica]' )
+                            
     #2) Case: In idle state; idle carousel is playing
     def show_carousel(self):
             """Rebuilds the carousel dynamically with new random images and shows it."""
@@ -294,13 +326,25 @@ class DorothyChatbot:
             ]
             random_images = random.sample(image_files, 3)
 
+            # Carousel
             with self.idle_carousel_wrapper:
-                with ui.carousel(animated=True, arrows=True, navigation=True).props('cycle autoplay interval=7000 height=360px').style(
-                    'width: 640px; border-radius: 50px; overflow: hidden; margin-bottom: 12px;'
-                ):
+                with ui.carousel(animated=True, arrows=True).props(
+                    'cycle autoplay interval=9000 height=100%'
+                ).style('width: 100%; max-width: 600px; border-radius: 10px; overflow: hidden;'):
                     for image in random_images:
                         with ui.carousel_slide().classes('p-0'):
-                            ui.image(f'static/{image}').classes('w-full h-full object-cover')
+                            with ui.column().classes('w-full h-full items-center'):
+                                ui.image(f'static/{image}').classes('w-full h-full object-cover')
+                                ui.label(IMAGE_CAPTIONS.get(image, "Untitled Image")).classes(
+                                    'text-white text-sm mt-2 text-center font-[Helvetica]'
+                                )
+
+
+
+
+
+
+
 
     # 3) Case: We are processing user input. 
     async def process_input(self):

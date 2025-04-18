@@ -5,7 +5,6 @@ from typing import List
 import random
 
 
-
 def extract_response_and_mood(text):
     """
     Extracts the response text and mood from a formatted message.
