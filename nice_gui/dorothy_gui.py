@@ -6,13 +6,13 @@ from TTS import speak                           # Get the audio file
 from helper import extract_response_and_mood    # Get response and mood from LLM
 import time 
 import random
-from helper import select_images_for_input      # Get the images based on keyword match
+from helper import select_images_for_input, build_filename_keyword_index      # Get the images based on keyword match
 
 # A list of random deadtime buffer statements!
 BUFFER = [
     "Let me think on that.",
     "Hmm... one moment.",
-    "Just a tick.",
+    "Just a moment.",
     "Considering carefully.",
     "I’ll get right on it.",
     "Thinking it through.",
@@ -29,7 +29,7 @@ FIRST_ACCESS_BUFFER = [
     "Finishing my tea and preparing the molecules — nearly ready.",
     "Clarity takes time — even penicillin didn’t crystallise instantly. Just a moment.",
     "Still aligning my thoughts... they’re behaving like stubborn molecules. Give me a second.",
-    "The X-rays are humming — let me steady the pattern. One tick.",
+    "The X-rays are humming — let me steady the pattern. One moment.",
     "Collecting my bearings — the mind needs a warmup, like any fine instrument.",
     "I’m just refining the structure — nearly resolved. Give me a moment.",
     "Insulin took years to map — this will only take a moment.",
@@ -38,31 +38,34 @@ FIRST_ACCESS_BUFFER = [
 
 # Image captions! 
 IMAGE_CAPTIONS = {
-    "SCIENCE_xray_crystallography.jpg": "Dorothy's work on X-ray crystallography.",
+    "SCIENCE_xray_crystallography.jpg": "Modern X-ray crystallography equipment—the technique central to Hodgkin’s groundbreaking discoveries.",
     "SCIENCE_penicillin.jpg": "Molecular structure of penicillin.",
     "SCIENCE_molecules_molecular_protein.jpg": "Visualizing molecular proteins.",
-    "SCIENCE_electron_density.jpg": "Electron density map used in structural biology.",
+    "SCIENCE_electron_density.jpg": "Penicillin molecular model constructed by Hodgkin, aligned with the surrounding electron density contour maps used in her analysis.",
+    "SCIENCE_Vitamin_B12_Cobalamin.jpg": "Molecular Structure of Vitamin B12 or cobalamin, as determined by Dorothy Hodgkin.",
 
-    "PERSONAL_university_college_oxford_school.jpg": "University College, Oxford — one of the oldest constituent colleges, where Dorothy Hodgkin pursued her early studies in chemistry..",
-    "PERSONAL_LAB_dorothy_write_read_book.jpg": "Dorothy reading and writing in the lab.",
-    "PERSONAL_Dorothy_oxford.jpg": "Dorothy and colleagues at Oxford University.",
-    "PERSONAL_Dorothy_Happy_Achievement_nobel_prize.jpg": "Dorothy celebrating her Nobel Prize achievement.",
-    "PERSONAL_Dorothy_classroom_school.jpg": "Dorothy in a classroom setting (at the back).",
-    "PERSONAL_Chemist_Dorothy_Work_Collaborate_Linus_Pauling": "Dorothy with Linus Pauling, fellow Nobel Laureate.",
-    "PEOPLE_PERSONAL_Dorothy_happy.jpg": "Dorothy smiling in a candid moment.",
+    "PERSONAL_Letter_Linus_Pauling_Lenin_Peace_Prize.jpg": "Linus Pauling’s 1983 letter nominating Dorothy Hodgkin for the International Lenin Peace Prize, recognizing her advocacy for peace and nuclear disarmament.",
+    "PERSONAL_university_college_oxford_school.jpg": "University College, Oxford — one of the oldest constituent colleges, where Dorothy Hodgkin pursued her early studies in chemistry.",
+    "PERSONAL_LAB_dorothy_write_read_book.jpg": "Dorothy Hodgkin at work in her lab, surrounded by papers and molecular sketches.",
+    "PERSONAL_Dorothy_oxford.jpg": "Dorothy Hodgkin (right) with the chemist A. F. Wells (center) and Dina Fankuchen (left), at Oxford University, 1938.",
+    "PERSONAL_Dorothy_Happy_Achievement_nobel_prize.jpg": "Dorothy Hodgkin celebrating her Nobel Prize achievement.",
+    "PERSONAL_Dorothy_classroom_school.jpg": "At Sir John Leman School in Beccles, Dorothy Hodgkin and Norah Pusey—back row—were the only girls in their chemistry class, having petitioned to take it over 'domestic science'.",
+    "PERSONAL_Chemist_Dorothy_Work_Collaborate_Linus_Pauling.jpg": "Dorothy Hodgkin with chemist and peace activist Linus Pauling, 1957.",
+    "PERSONAL_Dorothy_Stephen_hawking.jpg": "Dorothy Hodgkin with Stephen Hawking at the National Portrait Gallery in London, 17 July 1985.",
+    "PEOPLE_PERSONAL_Dorothy_happy.jpg": "Dorothy Hodgkin with fellow scientists observing a molecular model, during a pivotal period in structural biology",
 
-    "LAB_notebook.jpg": "Dorothy’s experimental lab notebook.",
-    "LAB_dorothy.jpg": "Dorothy working in her laboratory.",
-    "LAB_dorothy_work.jpg": "Dorothy engaged in lab work.",
+    "LAB_notebook.jpg": "Dorothy Hodgkin's experimental lab notebook.",
+    "LAB_dorothy.jpg": "Dorothy Hodgkin working in her laboratory.",
+    "LAB_dorothy_work.jpg": "Dorothy Hodgkin engaged in lab work.",
 
-    "FAMILY_dorothy.jpg": "Dorothy with family.",
-    "FAMILY_Dorothy_Mother_Sister.jpg": "Dorothy with her mother and sister.",
+    "FAMILY_dorothy.jpg": "Dorothy Hodgkin and family.",
+    "FAMILY_Dorothy_Mother_Sister.jpg": "Dorothy Hodgkin and family.",
 
-    "CASUAL_Molecules_dorothy.jpg": "Dorothy Hodgkin in her lab, in her 50s or early 60s, during a period of intense scientific discovery.",
-    "CASUAL_LAB_Dorothy.jpg": "Dorothy Hodgkin in her lab, likely in her 40s or 50s, during a period of intense scientific discovery.",
+    "CASUAL_Molecules_dorothy.jpg": "Dorothy Hodgkin examining a molecular model, in her later years.",
+    "CASUAL_LAB_Dorothy.jpg": "Dorothy Hodgkin in her lab, likely in her 40s or 50s.",
     "CASUAL_Dorothy_Nobel.jpg": "Dorothy Hodgkin in her 70s, holding X-ray crystallography plates—surrounded by molecular models central to her groundbreaking work.",
-    "CASUAL_Dorothy_Happy.jpg": "Dorothy in her later years, smiling during a candid moment.",
-    "CASUAL_Dorothy_Happy_2.jpg": "Dorothy in a lighthearted, happy moment, in her later years."
+    "CASUAL_Dorothy_Happy.jpg": "Dorothy Hodgkin in her later years, smiling.",
+    "CASUAL_Dorothy_Happy_2.jpg": "Dorothy Hodgkin in a lighthearted, happy moment, in her later years."
 }
 
 
@@ -134,6 +137,15 @@ class DorothyChatbot:
         }
         </style>
         ''')
+
+        # Get all the image files; used later
+        self.image_files = [
+            f for f in os.listdir('static') 
+            if f.endswith('.jpg') or f.endswith('.png')
+        ]
+
+        # Get all the image keywords; used later
+        self.filename_keywords = build_filename_keyword_index(self.image_files)
 
         # Minimalist gray navbar
         with ui.row().classes('w-full h-16 fixed top-0 left-0 z-50 bg-[#1f1f1f] px-6 items-center justify-start border-b border-gray-700'):
@@ -284,19 +296,14 @@ class DorothyChatbot:
 
 
                 
-                # Get all the image files; used later
-                self.image_files = [
-                    f for f in os.listdir('static') 
-                    if f.endswith('.jpg') or f.endswith('.png')
-                ]
-
+                
         
 # HELPER FUNCTIONS for chat page UI
 
     # 1) Case: In response state; carousel is playing
     def show_response_carousel(self, user_input: str):
         """Displays a carousel of images relevant to the user input during response stage."""
-        selected_images = select_images_for_input(user_input, self.image_files)
+        selected_images = select_images_for_input(user_input, self.image_files, self.filename_keywords)
 
         for image in selected_images: 
             print(f"[DEBUG- CAROUSEL]: {image}")
@@ -311,6 +318,7 @@ class DorothyChatbot:
                     with ui.carousel_slide().classes('p-0'):
                         with ui.column().classes('w-full h-full items-center'):
                             ui.image(f'static/{image}').classes('w-full h-full object-cover')
+                            print(f"[DEBUG] image is {image}")
                             ui.label(IMAGE_CAPTIONS.get(image, "Untitled Image")).classes(
                                 'text-white text-sm mt-2 text-center font-[Helvetica]' )
                             
@@ -320,11 +328,7 @@ class DorothyChatbot:
             self.idle_carousel_wrapper.clear()
             self.idle_carousel_wrapper.set_visibility(True)
 
-            image_files = [
-                f for f in os.listdir('static')
-                if f.endswith('.jpg') and ('PERSONAL' in f or 'CASUAL' in f)
-            ]
-            random_images = random.sample(image_files, 3)
+            random_images = random.sample(self.image_files, 5)   # Get 5 images
 
             # Carousel
             with self.idle_carousel_wrapper:
@@ -334,6 +338,7 @@ class DorothyChatbot:
                     for image in random_images:
                         with ui.carousel_slide().classes('p-0'):
                             with ui.column().classes('w-full h-full items-center'):
+                                print(f"[DEBUG] image is {image}")
                                 ui.image(f'static/{image}').classes('w-full h-full object-cover')
                                 ui.label(IMAGE_CAPTIONS.get(image, "Untitled Image")).classes(
                                     'text-white text-sm mt-2 text-center font-[Helvetica]'
