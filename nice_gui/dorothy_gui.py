@@ -167,14 +167,14 @@ class DorothyChatbot:
                 '''):
 
                     # IDLE CAROUSEL 
-                    self.idle_carousel_wrapper = ui.column().classes('items-center justify-center').style('''
-                        width: 120%;
-                        aspect-ratio: 16 / 9;
-                        border-radius: 10px;
-                        overflow: hidden;                                                                                 
-                        height: 100%;
-                                                                                                          
+                    self.idle_carousel_wrapper = ui.column().classes('items-center').style('''
+                        width: 90%;
+                        max-width: 640px;
+                        aspect-ratio: 12 / 9;
+                        border-radius: 5px;
+                        overflow: hidden;
                     ''')
+
                     self.show_carousel()
 
                     # RESPONSE CONTAINER
