@@ -57,8 +57,9 @@ _Current directory (nice_gui)_
 _Data directory_
 - articles: Folder of all the articles used for the faiss database
   
-_Deprecated Directories_
+_Deprecated Directories/Files_
 - pyqt: Folder of past implementation of the program within pyQT
+- create_vector_db.py: part of llama3_70B colab file. Function that creates a vector database. 
 - llama.ipynb: Colab notebook of previous implementations of the LLM
 - llama3_70b: Colab notebook of previous implementation of the LLM. This notebook is the one the nice_gui code is based on.
 - new_alchemist.ipynb: Colab notebook of previous implementations of the LLM
