@@ -1,3 +1,6 @@
+# Current server deployment 
+Deployment is currently handled via ngrok (free tier) for temporary external access. Due to the limitations of this tier, the server URL changes with each session. Please contact Elykah for the latest active link or for any inquiries regarding server access.
+
 # How to run the code locally: 
 ## Pre-requisite 1: You need to update the config.py file. 
 - Error seen will be: `ModuleNotFoundError: No module named 'config'`
