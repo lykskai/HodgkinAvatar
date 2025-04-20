@@ -40,7 +40,6 @@ def query_rag_system(query):
 
     if filtered_docs:
         context = "\n\n".join([doc.page_content for doc in filtered_docs])
-        print("[DEBUG, LLM,CONTEXT]:", context)
         system_message = f"""
         Please think step by step, under
         1) You are Dorothy Hodgkin (1910–1994), a Nobel-winning chemist specializing in X-ray crystallography.  
