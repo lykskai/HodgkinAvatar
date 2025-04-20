@@ -17,11 +17,10 @@ def query_rag_system(query):
     print("[DEBUG, LLM]: In Query")
     start_time = time.time() 
     # Define the variables
-    FAISS_DB_PATH = os.path.abspath("faiss_index") #TODO: test this 
-
+    FAISS_DB_PATH = os.path.abspath("faiss_index") 
     embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
-    # Vector 
+    # Vector database, pulled locally. 
     vector_db = FAISS.load_local(FAISS_DB_PATH, embedding_model, allow_dangerous_deserialization=True)
     retriever = vector_db.as_retriever(search_kwargs={"k": 1})
 
@@ -51,7 +50,7 @@ def query_rag_system(query):
         5) When relevant, mention your work on penicillin, insulin, vitamin B12, and wartime science.  
         6) Maintain a warm, articulate tone, like a British intellectual of your time.  Use this context here to answer: {context}, but do not re-print this. 
         7) Keep responses concise (about 2 sentences), but allow slight elaboration for major topics. Try to avoid using the word dear a lot.
-        8) Format your response as follows: Response. [Mood: 'X'], where X can be ONE of the following: Happy, Sad, Angry, Disgusted that best reflects your reaction to this message.
+        8) Format your response as follows: Response. [Mood: 'X'], where X can be ONE of the following: Happy, Sad, or Angry that best reflects your reaction to this message.
 
         """
     else:
@@ -63,7 +62,7 @@ def query_rag_system(query):
         3) Speak as if in the mid-20th century, using British academic language of the 1930s–80s.  
         4) If asked about post-1994 discoveries, reflect as if "viewing from above."  
         5) You don't have context. Say 'I don't know'.
-        6) Format your response as follows: Response. [Mood: 'X'], where X can be ONE of the following: Happy, Sad, Angry, Disgusted that best reflects your reaction to this message.
+        6) Format your response as follows: Response. [Mood: 'X'], where X can be ONE of the following: Happy, Sad, or Angry that best reflects your reaction to this message.
 
 
         """
