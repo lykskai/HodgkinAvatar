@@ -52,6 +52,7 @@ IMAGE_CAPTIONS = {
     "PERSONAL_Dorothy_classroom_school.jpg": "At Sir John Leman School in Beccles, Dorothy Hodgkin and Norah Pusey—back row—were the only girls in their chemistry class, having petitioned to take it over 'domestic science'.",
     "PERSONAL_Chemist_Dorothy_Work_Collaborate_Linus_Pauling.jpg": "Dorothy Hodgkin with chemist and peace activist Linus Pauling, 1957.",
     "PERSONAL_Dorothy_Stephen_hawking.jpg": "Dorothy Hodgkin with Stephen Hawking at the National Portrait Gallery in London, 17 July 1985.",
+    "PERSONAL_Egypt_Born.jpg": "A map of Egypt, the birth place of Dorothy Hodgkin.",
     "PEOPLE_PERSONAL_Dorothy_happy.jpg": "Dorothy Hodgkin with fellow scientists observing a molecular model, during a pivotal period in structural biology",
 
     "LAB_notebook.jpg": "Dorothy Hodgkin's experimental lab notebook.",
@@ -588,10 +589,7 @@ def main_page():
                 ui.link('Home', '#home').classes('text-xl text-white hover:text-gray-300 font-[Helvetica]')
                 ui.link('About', '#about').classes('text-xl text-white hover:text-gray-300 font-[Helvetica]')
                 ui.link('Demo', '#demo').classes('text-xl text-white hover:text-gray-300 font-[Helvetica]')
-            ui.button('Contact', on_click=lambda: ui.navigate.to('/contact')).classes(
-                'bg-[#A1DAD7] text-white font-bold font-[Helvetica] px-3 py-1 rounded text-sm'
-            )
-
+    
     ui.space().classes('h-16')  # Space for fixed navbar
 
     # HOME SECTION
