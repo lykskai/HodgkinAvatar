@@ -43,7 +43,8 @@ IMAGE_CAPTIONS = {
     "SCIENCE_molecules_molecular_protein_penicillin.jpg":  "Penicillin molecular model constructed by Hodgkin, aligned with the surrounding electron density contour maps used in her analysis.",
     "SCIENCE_electron_density.jpg":"A 3D electron density map of penicillin from X-ray diffraction, used by Dorothy Hodgkin to identify atomic positions and determine its structure.",
     "SCIENCE_Vitamin_B12_Cobalamin_Molecular.jpg": "Molecular Structure of Vitamin B12 or cobalamin, as determined by Dorothy Hodgkin.",
-
+    "SCIENCE_DNA.jpg": "DNA double helix structure, showing the strands that carry genetic information.",
+    "SCIENCE_Protein_Structure_Primary_Secondary_Tertiary_Quaternary.jpg": "The four levels of protein structure: (a) primary—amino acid sequence, (b) secondary—α-helix with hydrogen bonds, (c) tertiary—3D folding of a single polypeptide, and (d) quaternary—assembly of multiple polypeptide subunits.",
     "PERSONAL_Letter_Linus_Pauling_Lenin_Peace_Prize.jpg": "Linus Pauling’s 1983 letter nominating Dorothy Hodgkin for the International Lenin Peace Prize, recognizing her advocacy for peace and nuclear disarmament.",
     "PERSONAL_university_college_oxford_school.jpg": "University College, Oxford — one of the oldest constituent colleges, where Dorothy Hodgkin pursued her early studies in chemistry.",
     "PERSONAL_LAB_dorothy_write_read_book.jpg": "Dorothy Hodgkin at work in her lab, surrounded by papers and molecular sketches.",
@@ -54,10 +55,14 @@ IMAGE_CAPTIONS = {
     "PERSONAL_Dorothy_Stephen_hawking.jpg": "Dorothy Hodgkin with Stephen Hawking at the National Portrait Gallery in London, 17 July 1985.",
     "PERSONAL_Egypt_Born.jpg": "A map of Egypt, the birth place of Dorothy Hodgkin.",
     "PEOPLE_PERSONAL_Dorothy_happy.jpg": "Dorothy Hodgkin with fellow scientists observing a molecular model, during a pivotal period in structural biology",
+    "PERSONAL_Peace_Advocate.jpg": "A picture with a dove, a symbol of peace. Dorothy Hodgkin was a lifelong advocate for world peace, motivated by family loss.",
+    "PERSONAL_University_Cambridge_PHD.jpg": "A snowy winter science at University of Cambridge, where Dorothy Hodgkin began her PhD research.",
+    "PERSONAL_Advisor_John_Desmond_Bernal.jpg": "Dorothy Hodgkin’s PhD advisor, John Desmond Bernal",
 
     "LAB_notebook.jpg": "Dorothy Hodgkin's experimental lab notebook.",
     "LAB_dorothy.jpg": "Dorothy Hodgkin working in her laboratory.",
     "LAB_dorothy_work.jpg": "Dorothy Hodgkin engaged in lab work.",
+    
 
     "FAMILY_dorothy.jpg": "Dorothy Hodgkin and family.",
     "FAMILY_Dorothy_Mother_Sister.jpg": "Dorothy Hodgkin and family.",
