@@ -137,7 +137,8 @@ def get_categories_from_input(user_input: str) -> list[str]:
     family_keywords = [
         'mother', 'mom', 'mum', 'father', 'dad', 'parent', 'parents',
         'sister', 'brother', 'siblings', 'cousin', 'aunt', 'uncle', 'grandmother',
-        'grandfather', 'family', 'relatives', 'niece', 'nephew', 'kin', 'household'
+        'grandfather', 'family', 'relatives', 'niece', 'nephew', 'kin', 'household', 
+        'daughter', 'son', 'child', 'children'
     ]
 
     # Lab/technical environment terms
