@@ -45,6 +45,16 @@ IMAGE_CAPTIONS = {
     "SCIENCE_Vitamin_B12_Cobalamin_Molecular.jpg": "Molecular Structure of Vitamin B12 or cobalamin, as determined by Dorothy Hodgkin.",
     "SCIENCE_DNA.jpg": "DNA double helix structure, showing the strands that carry genetic information.",
     "SCIENCE_Protein_Structure_Primary_Secondary_Tertiary_Quaternary.jpg": "The four levels of protein structure: (a) primary—amino acid sequence, (b) secondary—α-helix with hydrogen bonds, (c) tertiary—3D folding of a single polypeptide, and (d) quaternary—assembly of multiple polypeptide subunits.",
+    "SCIENCE_mice_rat_benzpyrene_organism.jpg": "Mice (left) and rat (right). These organisms were involved in Hodgkin's work with benzpyrene.",
+    "SCIENCE_diffraction_molecules_crystallography.jpg": "X-ray diffraction captured on cylindrical film — a method used to determine molecular structures, central to Hodgkin’s work.",
+    "SCIENCE_electron_density_map_crystallography.jpg": "Electron density maps showing atomic contours of biomolecules — a core output of X-ray crystallography used to determine precise molecular structures.",
+    "SCIENCE_titration_lab_work_scientist_chemistry_chemist.jpg": "A titration setup in a chemistry lab — a foundational technique in experimental science.",
+
+    "PERSONAL_Dorothy_Thomas_Hodgkin_husband_sweden.jpg": "Dorothy and husband, Thomas Hodgkin at the Nobel Prize celebration in Stockholm, Sweden, 1964.",
+    "PERSONAL_Ilmington_Warwickshire_home_pass_england.jpg": "Ilmington, Warwickshire — where Hodgkin spent her final years and passed away.",
+    "PERSONAL_Prime_Minister_Margaret_Thatcher_Tutor_Nobel.jpg": "Prime Minister Margaret Thatcher greets her former tutor, Professor Dorothy Hodgkin, 14 April 1989",
+    "PERSONAL_people_dorothy_ivan_zupec_linus_ava_helen_pauling.jpg": "Dorothy Hodgkin (second from left) with Ivan Zupec, Linus Pauling, and Ava Helen Pauling, 1977.",
+    "PERSONAL_Dorothy_Letter_Linus_Write_Pauling.jpg": "Letter from Dorothy Hodgkin to Linus Pauling, dated 22 November 1955.",
     "PERSONAL_Letter_Linus_Pauling_Lenin_Peace_Prize.jpg": "Linus Pauling’s 1983 letter nominating Dorothy Hodgkin for the International Lenin Peace Prize, recognizing her advocacy for peace and nuclear disarmament.",
     "PERSONAL_university_college_oxford_school.jpg": "University College, Oxford — one of the oldest constituent colleges, where Dorothy Hodgkin pursued her early studies in chemistry.",
     "PERSONAL_LAB_dorothy_write_read_book.jpg": "Dorothy Hodgkin at work in her lab, surrounded by papers and molecular sketches.",
@@ -66,6 +76,8 @@ IMAGE_CAPTIONS = {
 
     "FAMILY_dorothy.jpg": "Dorothy Hodgkin and family.",
     "FAMILY_Dorothy_Mother_Sister.jpg": "Dorothy Hodgkin and family.",
+    "FAMILY_Dorothy_Smile_Happy_husband_thomas_daughter_elizabeth.jpg": "Dorothy Crowfoot Hodgkin (left) with her husband Thomas (middle) and daughter Elizabeth (right) at Arlanda.",
+
 
     "CASUAL_Molecules_dorothy.jpg": "Dorothy Hodgkin examining a molecular model, in her later years.",
     "CASUAL_LAB_Dorothy.jpg": "Dorothy Hodgkin in her lab, likely in her 40s or 50s.",
