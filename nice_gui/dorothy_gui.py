@@ -307,8 +307,7 @@ class DorothyChatbot:
         """Displays a carousel of images relevant to the user input during response stage."""
         selected_images = select_images_for_input(user_input, self.image_files, self.filename_keywords)
 
-        for image in selected_images: 
-            print(f"[DEBUG- CAROUSEL]: {image}")
+        
         self.emotion_carousel_wrapper.clear()
         self.emotion_carousel_wrapper.set_visibility(True)
 
@@ -320,7 +319,6 @@ class DorothyChatbot:
                     with ui.carousel_slide().classes('p-0'):
                         with ui.column().classes('w-full h-full items-center'):
                             ui.image(f'static/{image}').classes('w-full h-full object-cover')
-                            print(f"[DEBUG] image is {image}")
                             ui.label(IMAGE_CAPTIONS.get(image, "Untitled Image")).classes(
                                 'text-white text-sm mt-2 text-center font-[Helvetica]' )
                             
@@ -340,7 +338,6 @@ class DorothyChatbot:
                     for image in random_images:
                         with ui.carousel_slide().classes('p-0'):
                             with ui.column().classes('w-full h-full items-center'):
-                                print(f"[DEBUG] image is {image}")
                                 ui.image(f'static/{image}').classes('w-full h-full object-cover')
                                 ui.label(IMAGE_CAPTIONS.get(image, "Untitled Image")).classes(
                                     'text-white text-sm mt-2 text-center font-[Helvetica]'
@@ -483,7 +480,6 @@ class DorothyChatbot:
 
             print(f"Error: {e}")
 
-        print("[DEBUG] Response is", response,"Mood is:", mood)
         # --- RESPONSE STAGE UI CHANGE! ---
         # Play TTS, emotion video, & generate captions
         self.response_visual_container.set_visibility(True)            # show wrapper
