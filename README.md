@@ -22,7 +22,7 @@ Deployment is currently handled via ngrok (free tier) for temporary external acc
 - API key is not uploaded for privacy reasons. For access, please contact Elykah Tejol or provide your own Groq API key under the skeleton config.py file as follows:
      1. `"GROQ_API_KEY = "YOUR_API_CODE_HERE"` and replace the YOUR_API_CODE_HERE with your Groq API key. 
 
-## Pre-requisite 2: venv 
+## Pre-requisite 2: Setup a virtual environment 
 1) Within the **nice_gui directory**, create a virtual environment to download the dependencies.
 ```
 # MUST BE UNDER THE nice_gui DIRECTORY
