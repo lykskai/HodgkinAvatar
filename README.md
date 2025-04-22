@@ -3,7 +3,7 @@ Deployment is currently handled via ngrok (free tier) for temporary external acc
 
 # How to run the code locally: 
 ## Pre-requisite 1: You need to update the config.py file. 
-- Error seen will be: `ModuleNotFoundError: No module named 'config'`
+- Error seen will be: `ModuleNotFoundError: No module named 'config'` or something similar. 
 - API key is not uploaded for privacy reasons. For access, please contact Elykah Tejol or provide your own Groq API key under the skeleton config.py file as follows:
      1. `"GROQ_API_KEY = "YOUR_API_CODE_HERE"` and replace the YOUR_API_CODE_HERE with your Groq API key. 
 
