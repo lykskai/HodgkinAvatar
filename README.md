@@ -1,3 +1,18 @@
+
+# Overview 
+Alchemist is a multimodal chatbot designed to simulate the presence of Nobel Prize-winning chemist Dorothy Crowfoot Hodgkin. The system integrates a large language model with context retrieval, speech synthesis, and image/video response to create an interactive experience. It explores the application of AI in digital resurrection for educational and cultural contexts.
+
+# Features
+1. **Conversational Interface:** Chat with a digital version of Dorothy Crowfoot Hodgkin through a web-based interface.
+
+2. **Context-Aware Responses:** Receive accurate replies grounded in her published works and biography.
+
+3. **Voice Output:** Responses are delivered through synthesized speech modeled after Hodgkin.
+
+4. **Visual Feedback:** Relevant images or videos are displayed based on conversation content and tone.
+
+5. **Natural Interaction Flow:** Includes brief buffer phrases to simulate realistic conversational pacing.
+
 # Current server deployment 
 Deployment is currently handled via ngrok (free tier) for temporary external access. Due to the limitations of this tier, the server URL changes with each session. Please contact Elykah for the latest active link or for any inquiries regarding server access.
 
@@ -25,12 +40,12 @@ venv\Scripts\activate      # On Windows (PowerShell)
 venv\Scripts\activate.bat  # On Windows (CMD)
 ```
 
-3) Install dependencies!
+3) Install dependencies
 ```
 pip3 install -r requirements.txt # You may need only pip not pip3, depending on your software.
 ```
 
-## Finally, running the code! This will be under the nice_gui directory
+## Finally, running the code. This will be under the nice_gui directory.
 ```
 python3 dorothy_gui.py
 # and then open http://localhost:8080/ for the local server.
