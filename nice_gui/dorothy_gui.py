@@ -7,6 +7,7 @@ from helper import extract_response_and_mood    # Get response and mood from LLM
 import time 
 import random
 from helper import select_images_for_input, build_filename_keyword_index      # Get the images based on keyword match
+from nicegui.events import KeyEventArguments    # Keyboard listener
 
 # A list of random deadtime buffer statements!
 BUFFER = [
@@ -89,72 +90,83 @@ IMAGE_CAPTIONS = {
 
 # --------------- Chat Page UI ---------------
 class DorothyChatbot:
-    """Sets up the NiceGUI chatbot with TTS and soundwave visualization."""
+    """
+    Sets up the NiceGUI chatbot with TTS, image and video retrieval.
+
+    """
     
     def __init__(self):
+        """ 
+        Initializes the chatbot UI and the flags needed for logic
+        """
         self.setup_ui()
         self.is_processing = False              # flag to set if we are in processing input or not 
         self.is_first_access = True             # flag to deal with issues with really long wait time when first access. 
 
     def setup_ui(self):
+        """Sets up the UI for the chat page"""
+
+        # Hidden button for keyboard listening 
+        self.hidden_button = ui.button('', on_click=lambda: asyncio.create_task(self.process_input())).style('display: none')
+
         # Global styles
         ui.colors(primary='#A1DAD7')
         ui.add_head_html('''
-        <style>
-        :root {
-            --light-gray: #2E2E2E;
-            --dark-gray: #1E1E1E;
-            --primary-color: #A1DAD7;
-        }
-        body, .nicegui-app, html {
-            background-color: var(--dark-gray) !important;
-            color: white;
-        }
-        .q-page {
-            background-color: var(--dark-gray) !important;
-        }
-
-        /* Bubble fade-in animation */
-        @keyframes fadeZoomIn {
-            0% {
-                opacity: 0;
-                transform: scale(0.95);
+            <style>
+            :root {
+                --light-gray: #2E2E2E;
+                --dark-gray: #1E1E1E;
+                --primary-color: #A1DAD7;
             }
-            100% {
-                opacity: 1;
-                transform: scale(1);
+            body, .nicegui-app, html {
+                background-color: var(--dark-gray) !important;
+                color: white;
             }
-        }
+            .q-page {
+                background-color: var(--dark-gray) !important;
+            }
 
-        /* Animated typing dots */
-        .dot-loader {
-            display: flex;
-            gap: 6px;
-            padding: 10px 14px;
-            background-color: #A1DAD7;
-            border-radius: 16px;
-            max-width: fit-content;
-            animation: fadeZoomIn 0.6s ease-out;
-        }
-        .dot-loader span {
-            width: 8px;
-            height: 8px;
-            background-color: black;
-            border-radius: 50%;
-            animation: dotFlashing 1s infinite linear alternate;
-        }
-        .dot-loader span:nth-child(2) {
-            animation-delay: 0.2s;
-        }
-        .dot-loader span:nth-child(3) {
-            animation-delay: 0.4s;
-        }
-        @keyframes dotFlashing {
-            0% { opacity: 0.2; }
-            50%, 100% { opacity: 1; }
-        }
-        </style>
-        ''')
+            /* Bubble fade-in animation */
+            @keyframes fadeZoomIn {
+                0% {
+                    opacity: 0;
+                    transform: scale(0.95);
+                }
+                100% {
+                    opacity: 1;
+                    transform: scale(1);
+                }
+            }
+
+            /* Animated typing dots */
+            .dot-loader {
+                display: flex;
+                gap: 6px;
+                padding: 10px 14px;
+                background-color: #A1DAD7;
+                border-radius: 16px;
+                max-width: fit-content;
+                animation: fadeZoomIn 0.6s ease-out;
+            }
+            .dot-loader span {
+                width: 8px;
+                height: 8px;
+                background-color: black;
+                border-radius: 50%;
+                animation: dotFlashing 1s infinite linear alternate;
+            }
+            .dot-loader span:nth-child(2) {
+                animation-delay: 0.2s;
+            }
+            .dot-loader span:nth-child(3) {
+                animation-delay: 0.4s;
+            }
+            @keyframes dotFlashing {
+                0% { opacity: 0.2; }
+                50%, 100% { opacity: 1; }
+            }
+            </style>
+            ''')
 
         # Get all the image files; used later
         self.image_files = [
@@ -172,7 +184,7 @@ class DorothyChatbot:
             )
             ui.label('AI/Chemist').classes('ml-3 text-white font-[Helvetica] text-lg ')
 
-        # Main container to center everything on the page
+        # Main container to center everything on the page: has everything except for the navbar!
         with ui.column().classes('w-full items-center justify-center').style('min-height: 100vh; padding-top: 40px; padding-bottom: 40px;'):
                             
             with ui.row().classes('w-full justify-center gap-12').style('height: 100%; align-items: center;'):
@@ -266,22 +278,21 @@ class DorothyChatbot:
 
                         # Add zoom in animation to label 
                         ui.add_head_html('''
-                        <style>
-                            @keyframes fadeZoomIn {
-                                0% {
-                                    opacity: 0;
-                                    transform: scale(0.95);
+                            <style>
+                                @keyframes fadeZoomIn {
+                                    0% {
+                                        opacity: 0;
+                                        transform: scale(0.95);
+                                    }
+                                    100% {
+                                        opacity: 1;
+                                        transform: scale(1);
+                                    }
                                 }
-                                100% {
-                                    opacity: 1;
-                                    transform: scale(1);
-                                }
-                            }
-                        </style>
-                        ''')
+                            </style>
+                            ''')
 
                     # Below is the code for user input box and send button
-
                     with ui.row().classes('items-center gap-4').style('width: 100%; padding: 10px;'):
 
                         # Container that takes 85% of the space
@@ -299,6 +310,24 @@ class DorothyChatbot:
                                     resize: none;
                                     overflow-y: auto;
                                 ''')
+                            
+                            # Keyboard listener
+                            ui.add_body_html('''
+                            <script>
+                            document.addEventListener('DOMContentLoaded', () => {
+                                const textarea = document.querySelector('textarea');
+                                if (textarea) {
+                                    textarea.addEventListener('keydown', function(e) {
+                                        if (e.key === 'Enter' && !e.shiftKey) {
+                                            e.preventDefault();
+                                            document.querySelector('button[style*="display: none"]').click();
+                                        }
+                                    });
+                                }
+                            });
+                            </script>
+                            ''')
+
 
                         # Send button: fixed size, doesn’t shrink
                         ui.button(icon='send', color='primary', on_click=self.process_input).style(
@@ -310,9 +339,9 @@ class DorothyChatbot:
                             '''
                         )
 
-
         
-# HELPER FUNCTIONS for chat page UI
+        
+    # ========== HELPER FUNCTIONS FOR CHAT PAGE UI ==========
 
     # 1) Case: In response state; carousel is playing
     def show_response_carousel(self, user_input: str):
@@ -355,13 +384,6 @@ class DorothyChatbot:
                                     'text-white text-sm mt-2 text-center font-[Helvetica]'
                                 )
 
-
-
-
-
-
-
-
     # 3) Case: We are processing user input. 
     async def process_input(self):
         """Handles user input, calls LLM, plays TTS, and updates UI."""
@@ -383,10 +405,9 @@ class DorothyChatbot:
         user_input = self.input.value   
         self.input.set_value('')                    # clears self.input for ui 
 
-        # -- Delete label within chat history since not empty anymore
-        # Remove placeholder if it's still there
+        # -- Delete label within chat history since not empty anymore -- 
         if self.chat_placeholder is not None:
-            self.chat_placeholder.delete()
+            self.chat_placeholder.delete()          # remove placeholder if it's still there
             self.chat_placeholder = None
 
         # 2) Display user's message in the chat history
@@ -407,11 +428,10 @@ class DorothyChatbot:
         # i) Set flags
         self.is_processing = True                   # stops overlap in input   
 
-
         # ii) Let Dorothy add to the chatbot a deadtime buffer. 
 
         # - Get the response, randomized.
-        if self.is_first_access: # first time accessing - much slower than later responses.
+        if self.is_first_access:                    # first time accessing - much slower than later responses.
             buffer_response = random.choice(FIRST_ACCESS_BUFFER)
         else: # already accessed
             buffer_response = random.choice(BUFFER)   # random buffer_response 
@@ -436,8 +456,9 @@ class DorothyChatbot:
             # Estimate audio duration
             audio_duration = len(buffer_response.split()) * 0.41  # 2.4 words/second
             
-            ui.html(audio_element)
-            
+            with self.chat_history:
+                ui.html(audio_element)
+
             # Wait for the estimated audio duration
             await asyncio.sleep(audio_duration)
 
@@ -449,9 +470,6 @@ class DorothyChatbot:
                         <span></span><span></span><span></span>
                     </div>
                     ''')
-
-                    
-        
 
         # --- CALL LLM ----
         response = await asyncio.to_thread(self.call_rag, user_input)
@@ -507,7 +525,8 @@ class DorothyChatbot:
             # Estimate audio duration
             audio_duration = len(response.split()) * 0.41  # 2.4 words/second
             
-            ui.html(audio_element)
+            with self.chat_history:
+                ui.html(audio_element)
             
             # Wait for the estimated audio duration
             await asyncio.sleep(audio_duration)
@@ -661,10 +680,19 @@ def chat_page():
     "Creates the instance of a DorothyChatbot object when we are at chat page."
     chatbot = DorothyChatbot()
 
+    # Keyboard listening 
+    def handle_key(event: KeyEventArguments):
+        if event.key == 'Enter' and event.action.keydown:
+            asyncio.create_task(chatbot.process_input())
+
+    # Bind the keyboard listener inside the UI context
+    ui.keyboard(on_key=handle_key)
+
 # --------------- Main   ---------------
 
 def main():
     """Initializes the chatbot and runs the NiceGUI app."""
+        
     if not os.path.exists('static/dorothy_longloop.mp4'):
         print("Warning: dorothy_longloop.mp4 not found!")
 
