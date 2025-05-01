@@ -601,7 +601,7 @@ def main_page():
             with ui.row().classes('gap-10'):
                 ui.link('Home', '#home').classes('text-xl text-white hover:text-gray-300 font-[Helvetica]')
                 ui.link('About', '#about').classes('text-xl text-white hover:text-gray-300 font-[Helvetica]')
-                ui.link('Demo', '#demo').classes('text-xl text-white hover:text-gray-300 font-[Helvetica]')
+                ui.link('Purpose', '#Purpose').classes('text-xl text-white hover:text-gray-300 font-[Helvetica]')
     
     ui.space().classes('h-16')  # Space for fixed navbar
 
@@ -645,13 +645,13 @@ def main_page():
 
     ui.separator().classes('w-3/4 opacity-30 mx-auto my-8')
 
-    # DEMO SECTION
-    with ui.row().classes('w-full justify-center items-center py-20').props('id=demo'):
+    # Purpose SECTION
+    with ui.row().classes('w-full justify-center items-center py-20').props('id=Purpose'):
         with ui.column().classes('w-3/4 space-y-8'):
-            ui.label('Demo').props('data-aos=fade-up').classes(
+            ui.label('Purpose').props('data-aos=fade-up').classes(
                 'text-[60px] font-bold font-[Helvetica] bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent text-left leading-relaxed pb-2'
             )
-            ui.label('Demo coming soon...').props('data-aos=fade-up').classes(
+            ui.label('Alchemist was created for BIOIN 401: Bioinformatics at the University of Alberta, Winter 2025 semester.').props('data-aos=fade-up').classes(
                 'text-xl text-gray-300 font-[Helvetica] mt-4'
             )
 
