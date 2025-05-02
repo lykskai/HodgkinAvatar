@@ -338,9 +338,8 @@ class DorothyChatbot:
         """
         if  self.is_processing: 
             # We are still processing a previous request. Leave and let user know.
-            ui.notify(
-                    "A previous request is still being processed. Please wait a moment before trying again.",
-                    position="bottom-left")
+            ui.notify("A previous request is still being processed. Please wait a moment before trying again.",
+                        position="bottom-left")
 
             # Leave
             return
@@ -639,24 +638,6 @@ def chat_page():
         - None 
     """
     chatbot = DorothyChatbot()
-
-    # Keyboard listening 
-    def handle_key(event: KeyEventArguments):
-        """
-        Nested function    
-
-        Parameters: 
-            - event (KeyEventArguments): the keyboard events we are listening for. 
-        
-        Returns: 
-            - None 
-        """
-        if event.key == 'Enter' and event.action.keydown:
-            asyncio.create_task(chatbot.process_input())
-
-    # Bind the keyboard listener inside the UI context
-    ui.keyboard(on_key=handle_key)
-
 # ---------------   Main   ---------------
 
 def main():
