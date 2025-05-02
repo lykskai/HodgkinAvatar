@@ -275,7 +275,7 @@ class DorothyChatbot:
         Response stage is when we are processing user input. 
 
         Parameters: 
-            - User input (string): used for keyword matching with the images for the carousel. 
+            - user input (string): used for keyword matching with the images for the carousel. 
 
         Returns: 
             - None 

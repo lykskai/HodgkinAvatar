@@ -6,7 +6,7 @@ async def speak(text: str, voice: str = "en-GB-SoniaNeural") -> None:
     """
     Generate an HTML5 audio element for text-to-speech in web browser
     
-    Args:
+    Parameters:
         text (str): Text to be spoken
         voice (str, optional): Voice to use. Defaults to British English female voice.
     
