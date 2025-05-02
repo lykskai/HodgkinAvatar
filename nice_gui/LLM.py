@@ -11,11 +11,15 @@ def query_rag_system(query):
     """
     Retrieves relevant knowledge and ensures Dorothy Hodgkin always responds as herself.
     
-    Parameters: query, the user input 
-    Returns: the LLM and faiss response
+    Parameters: 
+        - query (string): the user input 
+    Returns: 
+        - the LLM and faiss response (string)
     """
+    # Debug statement
     print("[DEBUG, LLM]: In Query")
     start_time = time.time() 
+
     # Define the variables
     FAISS_DB_PATH = os.path.abspath("faiss_index") 
     embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
@@ -23,7 +27,6 @@ def query_rag_system(query):
     # Vector database, pulled locally. 
     vector_db = FAISS.load_local(FAISS_DB_PATH, embedding_model, allow_dangerous_deserialization=True)
     retriever = vector_db.as_retriever(search_kwargs={"k": 1})
-
     groq_api_key = GROQ_API_KEY
 
     groq_llm = ChatOpenAI(
@@ -38,6 +41,7 @@ def query_rag_system(query):
     # Filter out short and citation-heavy results at retrieval time
     filtered_docs = [doc for doc in retrieved_docs if len(doc.page_content) > 100 and not doc.page_content.strip().isdigit()]
 
+    # Case 1: We have context. 
     if filtered_docs:
         context = "\n\n".join([doc.page_content for doc in filtered_docs])
         system_message = f"""
@@ -52,6 +56,8 @@ def query_rag_system(query):
         8) Format your response as follows: Response. [Mood: 'X'], where X can be ONE of the following: Happy, Sad, or Angry that best reflects your reaction to this message.
 
         """
+
+    # Case 2: No context
     else:
 
         system_message = f"""
@@ -76,6 +82,9 @@ def query_rag_system(query):
     # Get the response from the model
     response = groq_llm.invoke(messages)
     
+    # Debug statement
     print("[DEBUG, LLM]: Total time: ", time.time() - start_time)
+
+    # Return the response
     return response.content.strip()
 
