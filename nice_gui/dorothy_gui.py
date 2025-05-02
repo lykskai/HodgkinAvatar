@@ -1,11 +1,11 @@
 import os
 import asyncio
+import time 
+import random
 from nicegui import ui
 from LLM import query_rag_system                                                # Communicate to LLM
 from TTS import speak                                                           # Get the audio file
 from helper import extract_response_and_mood                                    # Get response and mood from LLM
-import time 
-import random
 from helper import select_images_for_input, build_filename_keyword_index        # Get the images based on keyword match
 from nicegui.events import KeyEventArguments                                    # Keyboard listener
 from static import IMAGE_CAPTIONS, FIRST_ACCESS_BUFFER, BUFFER                  # Static lists for captions and buffer statements
@@ -21,18 +21,20 @@ class DorothyChatbot:
         """ 
         Initializes the chatbot UI and the flags needed for logic
         """
-        self.setup_ui()
+        self.setup_ui()                         # calls the ui setup method 
         self.is_processing = False              # flag to set if we are in processing input or not 
         self.is_first_access = True             # flag to deal with issues with really long wait time when first access. 
 
     def setup_ui(self):
-        """Sets up the UI for the chat page"""
+        """
+        Sets up the UI for the chat page. 
+        """
 
         # Hidden button for keyboard listening 
         self.hidden_button = ui.button('', on_click=lambda: asyncio.create_task(self.process_input())).style('display: none')
 
         # Global styles
-        ui.colors(primary='#A1DAD7')
+        ui.colors(primary='#A1DAD7')            # blue colour 
         ui.add_head_html('''
             <style>
             :root {
@@ -106,9 +108,8 @@ class DorothyChatbot:
             )
             ui.label('AI/Chemist').classes('ml-3 text-white font-[Helvetica] text-lg ')
 
-        # Main container to center everything on the page: has everything except for the navbar!
+        # Main container to center everything on the page: has everything except for the navbar.
         with ui.column().classes('w-full items-center justify-center').style('min-height: 100vh; padding-top: 40px; padding-bottom: 40px;'):
-                            
             with ui.row().classes('w-full justify-center gap-12').style('height: 100%; align-items: center;'):
 
                 # === LEFT: VIDEO COLUMN [IDLE AND RESPONSE STAGE] ===
@@ -155,10 +156,8 @@ class DorothyChatbot:
                         self.emotion_carousel_wrapper.set_visibility(False)
 
 
-                    # hide whole thing by default
+                    # Hide whole thing by default
                     self.response_visual_container.set_visibility(False)
-
-
 
                 # === RIGHT: CHAT COLUMN ===
                 with ui.column().classes('justify-start').style('''
@@ -167,6 +166,7 @@ class DorothyChatbot:
                     max-width: 640px;
                 '''):
 
+                    # Chat history box 
                     self.chat_history = ui.column().style('''
                         height: 70vh;
                         width: 100%;
@@ -180,7 +180,7 @@ class DorothyChatbot:
                         gap: 12px;
                     ''')
 
-                    # Add label when its empty
+                    # Add label when its empty: "Chat with Dorothy"
                     with self.chat_history:
                         self.chat_placeholder = ui.label('Chat with Dorothy!').classes(
                             'font-bold font-[Helvetica]'
@@ -198,7 +198,7 @@ class DorothyChatbot:
                             animation: fadeZoomIn 1.5s ease-out;
                         ''')
 
-                        # Add zoom in animation to label 
+                        # Add zoom in animation to label above
                         ui.add_head_html('''
                             <style>
                                 @keyframes fadeZoomIn {
@@ -214,9 +214,8 @@ class DorothyChatbot:
                             </style>
                             ''')
 
-                    # Below is the code for user input box and send button
+                    # User input box and send button code
                     with ui.row().classes('items-center gap-4').style('width: 100%; padding: 10px;'):
-
                         # Container that takes 85% of the space
                         with ui.element('div').style('flex: 1 1 85%;'):
                             self.input = ui.textarea(placeholder='Type your message...') \
@@ -250,7 +249,6 @@ class DorothyChatbot:
                             </script>
                             ''')
 
-
                         # Send button: fixed size, doesn’t shrink
                         ui.button(icon='send', color='primary', on_click=self.process_input).style(
                             '''
@@ -262,18 +260,28 @@ class DorothyChatbot:
                         )
 
         
-        
-    # ========== HELPER FUNCTIONS FOR CHAT PAGE UI ==========
+    # ========== HELPER METHODS FOR CHAT PAGE UI ==========
 
     # 1) Case: In response state; carousel is playing
     def show_response_carousel(self, user_input: str):
-        """Displays a carousel of images relevant to the user input during response stage."""
+        """
+        Displays a carousel of images relevant to the user input during response stage.
+        Response stage is when we are processing user input. 
+
+        Parameters: 
+            - User input (string)
+
+        Returns: 
+            - None 
+        """
+        # Get the images using a helper function 
         selected_images = select_images_for_input(user_input, self.image_files, self.filename_keywords)
 
-        
+        # Show the response carousel! 
         self.emotion_carousel_wrapper.clear()
         self.emotion_carousel_wrapper.set_visibility(True)
 
+        # Update the carousel components 
         with self.emotion_carousel_wrapper:
             with ui.carousel(animated=True, arrows=True).props(
                 'cycle autoplay interval=9000 height=100%'
@@ -287,13 +295,24 @@ class DorothyChatbot:
                             
     #2) Case: In idle state; idle carousel is playing
     def show_carousel(self):
-            """Rebuilds the carousel dynamically with new random images and shows it."""
+            """
+            Rebuilds the carousel dynamically with new random images and shows to user. 
+
+            Parameters: 
+                - None
+            
+            Returns: 
+                - None 
+            """
+
+            # Show the idle carousel wrapper 
             self.idle_carousel_wrapper.clear()
             self.idle_carousel_wrapper.set_visibility(True)
 
+            # Get the random images 
             random_images = random.sample(self.image_files, 5)   # Get 5 images
 
-            # Carousel
+            # Show the carousel with the adjustments and style 
             with self.idle_carousel_wrapper:
                 with ui.carousel(animated=True, arrows=True).props(
                     'cycle autoplay interval=9000 height=100%'
@@ -308,7 +327,9 @@ class DorothyChatbot:
 
     # 3) Case: We are processing user input. 
     async def process_input(self):
-        """Handles user input, calls LLM, plays TTS, and updates UI."""
+        """
+        Handles user input, calls LLM, plays TTS, and updates UI.
+        """
         if  self.is_processing: 
             # We are still processing a previous request. Leave and let user know.
             ui.notify(
@@ -327,7 +348,7 @@ class DorothyChatbot:
         user_input = self.input.value   
         self.input.set_value('')                    # clears self.input for ui 
 
-        # -- Delete label within chat history since not empty anymore -- 
+        # Delete label within chat history since not empty anymore 
         if self.chat_placeholder is not None:
             self.chat_placeholder.delete()          # remove placeholder if it's still there
             self.chat_placeholder = None
@@ -348,15 +369,15 @@ class DorothyChatbot:
         # 3) Show loading UI
 
         # i) Set flags
-        self.is_processing = True                   # stops overlap in input   
+        self.is_processing = True                       # stops overlap in input   
 
         # ii) Let Dorothy add to the chatbot a deadtime buffer. 
 
         # - Get the response, randomized.
-        if self.is_first_access:                    # first time accessing - much slower than later responses.
+        if self.is_first_access:                        # first time accessing - much slower than later responses.
             buffer_response = random.choice(FIRST_ACCESS_BUFFER)
         else: # already accessed
-            buffer_response = random.choice(BUFFER)   # random buffer_response 
+            buffer_response = random.choice(BUFFER)     # random buffer_response 
 
         # - Show her buffer response in chat history
         with self.chat_history:
@@ -610,7 +631,7 @@ def chat_page():
     # Bind the keyboard listener inside the UI context
     ui.keyboard(on_key=handle_key)
 
-# --------------- Main   ---------------
+# ---------------   Main   ---------------
 
 def main():
     """Initializes the chatbot and runs the NiceGUI app."""
