@@ -275,7 +275,7 @@ class DorothyChatbot:
         Response stage is when we are processing user input. 
 
         Parameters: 
-            - User input (string)
+            - User input (string): used for keyword matching with the images for the carousel. 
 
         Returns: 
             - None 
@@ -304,10 +304,7 @@ class DorothyChatbot:
             """
             Rebuilds the carousel dynamically with new random images and shows to user. 
 
-            Parameters: 
-                - None
-            
-            Returns: 
+            Parameters/Returns: 
                 - None 
             """
 
@@ -336,10 +333,7 @@ class DorothyChatbot:
         """
         Handles user input, calls LLM, plays TTS, and updates UI.
 
-        Parameters: 
-            - None 
-        
-        Returns: 
+        Parameters/Returns: 
             - None 
         """
         if  self.is_processing: 
@@ -641,7 +635,7 @@ def chat_page():
     """
     Creates the instance of a DorothyChatbot object when we are at chat page.
     
-    Parameters/Return: 
+    Parameters/Returns: 
         - None 
     """
     chatbot = DorothyChatbot()
@@ -652,7 +646,7 @@ def chat_page():
         Nested function    
 
         Parameters: 
-            - event (KeyEventArguments)
+            - event (KeyEventArguments): the keyboard events we are listening for. 
         
         Returns: 
             - None 
@@ -668,7 +662,7 @@ def chat_page():
 def main():
     """
     Initializes the chatbot and runs the NiceGUI app.
-    
+
     """
         
     if not os.path.exists('static/dorothy_longloop.mp4'):
