@@ -37,7 +37,7 @@ class DorothyChatbot:
         """
 
         # Hidden button for keyboard listening 
-        self.hidden_button = ui.button('', on_click=lambda: asyncio.create_task(self.process_input())).style('display: none')
+        self.hidden_button = ui.button('', on_click=self.process_input).style('display: none')
 
         # Global styles
         ui.colors(primary='#A1DAD7')            # blue colour 
