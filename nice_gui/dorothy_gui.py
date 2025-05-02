@@ -20,6 +20,9 @@ class DorothyChatbot:
     def __init__(self):
         """ 
         Initializes the chatbot UI and the flags needed for logic
+
+        Parameters/Returns: 
+            - None 
         """
         self.setup_ui()                         # calls the ui setup method 
         self.is_processing = False              # flag to set if we are in processing input or not 
@@ -28,6 +31,9 @@ class DorothyChatbot:
     def setup_ui(self):
         """
         Sets up the UI for the chat page. 
+
+        Parameters/Returns: 
+            - None 
         """
 
         # Hidden button for keyboard listening 
@@ -329,6 +335,12 @@ class DorothyChatbot:
     async def process_input(self):
         """
         Handles user input, calls LLM, plays TTS, and updates UI.
+
+        Parameters: 
+            - None 
+        
+        Returns: 
+            - None 
         """
         if  self.is_processing: 
             # We are still processing a previous request. Leave and let user know.
@@ -499,6 +511,12 @@ class DorothyChatbot:
 # --------------- MAIN Page UI ---------------
 @ui.page('/')
 def main_page():
+    """ 
+    Logic for the main page UI 
+
+    Parameters/Returns: 
+        - None
+    """
     # Use AOS for animations when scrolling, smooth for pressing the hyperlinks in the navbar
     ui.add_head_html('''
                      
@@ -620,11 +638,25 @@ def main_page():
 # --------------- Chat Page  ---------------
 @ui.page('/chat')
 def chat_page():
-    "Creates the instance of a DorothyChatbot object when we are at chat page."
+    """
+    Creates the instance of a DorothyChatbot object when we are at chat page.
+    
+    Parameters/Return: 
+        - None 
+    """
     chatbot = DorothyChatbot()
 
     # Keyboard listening 
     def handle_key(event: KeyEventArguments):
+        """
+        Nested function    
+
+        Parameters: 
+            - event (KeyEventArguments)
+        
+        Returns: 
+            - None 
+        """
         if event.key == 'Enter' and event.action.keydown:
             asyncio.create_task(chatbot.process_input())
 
@@ -634,7 +666,10 @@ def chat_page():
 # ---------------   Main   ---------------
 
 def main():
-    """Initializes the chatbot and runs the NiceGUI app."""
+    """
+    Initializes the chatbot and runs the NiceGUI app.
+    
+    """
         
     if not os.path.exists('static/dorothy_longloop.mp4'):
         print("Warning: dorothy_longloop.mp4 not found!")
