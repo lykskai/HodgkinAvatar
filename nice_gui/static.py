@@ -43,7 +43,6 @@ IMAGE_CAPTIONS = {
     "SCIENCE_electron_density_map_crystallography.jpg": "Electron density maps showing atomic contours of biomolecules — a core output of X-ray crystallography used to determine precise molecular structures.",
     "SCIENCE_titration_lab_work_scientist_chemistry_chemist.jpg": "A titration setup in a chemistry lab — a foundational technique in experimental science.",
 
-    "PERSONAL_Dorothy_Thomas_Hodgkin_husband_sweden.jpg": "Dorothy and husband, Thomas Hodgkin at the Nobel Prize celebration in Stockholm, Sweden, 1964.",
     "PERSONAL_Ilmington_Warwickshire_home_pass_england.jpg": "Ilmington, Warwickshire — where Hodgkin spent her final years and passed away.",
     "PERSONAL_Prime_Minister_Margaret_Thatcher_Tutor_Nobel.jpg": "Prime Minister Margaret Thatcher greets her former tutor, Professor Dorothy Hodgkin, 14 April 1989",
     "PERSONAL_people_dorothy_ivan_zupec_linus_ava_helen_pauling.jpg": "Dorothy Hodgkin (second from left) with Ivan Zupec, Linus Pauling, and Ava Helen Pauling, 1977.",
@@ -68,7 +67,7 @@ IMAGE_CAPTIONS = {
     "LAB_dorothy.jpg": "Dorothy Hodgkin working in her laboratory.",
     "LAB_dorothy_work.jpg": "Dorothy Hodgkin engaged in lab work.",
     
-
+    "FAMILY_Dorothy_Thomas_Hodgkin_husband_sweden.jpg": "Dorothy and husband, Thomas Hodgkin at the Nobel Prize celebration in Stockholm, Sweden, 1964.",
     "FAMILY_son_sons_children_elizabeth_toby_luke_child_dorothy.jpg": "Dorothy Hodgkin and her three children, Toby (left), Elizabeth (Center), and Luke (Right).",
     "FAMILY_Dorothy_Mother_Sister.jpg": "Dorothy Hodgkin and family.",
     "FAMILY_Dorothy_Smile_Happy_husband_thomas_daughter_elizabeth.jpg": "Dorothy Crowfoot Hodgkin (left) with her husband Thomas (middle) and daughter Elizabeth (right) at Arlanda.",
