@@ -61,13 +61,15 @@ IMAGE_CAPTIONS = {
     "PERSONAL_Peace_Advocate.jpg": "A picture with a dove, a symbol of peace. Dorothy Hodgkin was a lifelong advocate for world peace, motivated by family loss.",
     "PERSONAL_University_Cambridge_PHD.jpg": "A snowy winter science at University of Cambridge, where Dorothy Hodgkin began her PhD research.",
     "PERSONAL_Advisor_John_Desmond_Bernal.jpg": "Dorothy Hodgkin’s PhD advisor, John Desmond Bernal",
+    "PERSONAL_Dorothy_Death_Pass.jpg" : "Obituary for Dorothy Hodgkin (1910–1994), Nobel Prize-winning chemist, highlighting her groundbreaking work in X-ray crystallography and her legacy in scientific and public life.",
+    "PERSONAL_1957_1968_House_Lease_94_Woodstock_Road_Sister_Joan_Payne_Home": "From 1957 to 1968, Dorothy Hodgkin lived at 94 Woodstock Road (above), sharing the home with her sister Joan Payne and her children while continuing her scientific work and travels.",
 
     "LAB_notebook.jpg": "Dorothy Hodgkin's experimental lab notebook.",
     "LAB_dorothy.jpg": "Dorothy Hodgkin working in her laboratory.",
     "LAB_dorothy_work.jpg": "Dorothy Hodgkin engaged in lab work.",
     
 
-    "FAMILY_dorothy.jpg": "Dorothy Hodgkin and family.",
+    "FAMILY_son_sons_children_elizabeth_toby_luke_child_dorothy.jpg": "Dorothy Hodgkin and her three children, Toby (left), Elizabeth (Center), and Luke (Right).",
     "FAMILY_Dorothy_Mother_Sister.jpg": "Dorothy Hodgkin and family.",
     "FAMILY_Dorothy_Smile_Happy_husband_thomas_daughter_elizabeth.jpg": "Dorothy Crowfoot Hodgkin (left) with her husband Thomas (middle) and daughter Elizabeth (right) at Arlanda.",
 
