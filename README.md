@@ -1,3 +1,6 @@
+# Information 
+
+This project has now continued under the supervision of the WishartLab, all future pushes will be in BitBucket rather than this GitHub, starting May 1st 2025. 
 
 # Overview 
 Alchemist is a multimodal chatbot designed to simulate the presence of Nobel Prize-winning chemist Dorothy Crowfoot Hodgkin. The system integrates a large language model with context retrieval, speech synthesis, and image/video response to create an interactive experience. It explores the application of AI in digital resurrection for educational and cultural contexts.
